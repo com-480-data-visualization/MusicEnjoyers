@@ -1,0 +1,1201 @@
+track_id,artists,album_name,track_name,duration_ms,explicit
+2016-01-001,Adele,25,Hello,295000,false
+2016-01-002,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-01-003,Drake,Views,Hotline Bling,267000,false
+2016-01-004,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-01-005,Justin Bieber,Purpose (Deluxe),What Do You Mean?,205000,false
+2016-01-006,Selena Gomez,Revival (Deluxe),Same Old Love,228000,false
+2016-01-007,The Weeknd,Beauty Behind The Madness,The Hills,242000,true
+2016-01-008,Alessia Cara,Know-It-All (Deluxe),Here,200000,false
+2016-01-009,Shawn Mendes,Handwritten (Revisited),Stitches,207000,false
+2016-01-010,Meghan Trainor Featuring John Legend,Title (Expanded Edition),Like I'm Gonna Lose You,225000,false
+2016-01-011,Fetty Wap Featuring Remy Boyz,Fetty Wap,679,187000,true
+2016-01-012,The Weeknd,Beauty Behind The Madness,In The Night,236000,true
+2016-01-013,Drake & Future,What A Time To Be Alive,Jumpman,205000,true
+2016-01-014,Ellie Goulding,Delirium (Deluxe),On My Mind,215000,false
+2016-01-015,The Weeknd,Beauty Behind The Madness,Can't Feel My Face,215000,false
+2016-01-016,Travis Scott,Rodeo,Antidote,262000,true
+2016-01-017,Elle King,Ex's & Oh's,Ex's & Oh's,124000,false
+2016-01-018,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2016-01-019,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-01-020,Bryson Tiller,T R A P S O U L,Don't,200000,true
+2016-01-021,Thomas Rhett,Tangled Up (Deluxe),Die A Happy Man,228000,false
+2016-01-022,Post Malone,Stoney (Deluxe),White Iverson,254000,true
+2016-01-023,Taylor Swift,1989 (Deluxe),Wildest Dreams,220000,false
+2016-01-024,Jordan Smith,The Birth Of A King: Live In Concert,Mary Did You Know,260000,false
+2016-01-025,Major Lazer & DJ Snake Featuring MO,Peace Is The Mission : Extended,Lean On,177000,false
+2016-01-026,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
+2016-01-027,Silento,Watch Me (Whip / Nae Nae),Watch Me,185000,false
+2016-01-028,Tory Lanez,I Told You,Say It,239000,true
+2016-01-029,Cam,Untamed,Burning House,232000,false
+2016-01-030,Demi Lovato,Confident (Deluxe Edition),Confident,205000,true
+2016-01-031,Fetty Wap,Fetty Wap,Trap Queen,222000,true
+2016-01-032,One Direction,Made In The A.M. (Deluxe Edition),Perfect,230000,false
+2016-01-033,Ariana Grande,Focus,Focus,211000,false
+2016-01-034,Sam Hunt,Montevallo,Break Up In A Small Town,231000,false
+2016-01-035,Future Featuring Drake,DS2 (Deluxe),Where Ya At,207000,true
+2016-01-036,J. Cole,2014 Forest Hills Drive,No Role Modelz,292000,true
+2016-01-037,R. City Featuring Adam Levine,Locked Away (feat. Adam Levine),Locked Away,227000,false
+2016-01-038,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
+2016-01-039,Skrillex & Diplo With Justin Bieber,Skrillex and Diplo present Jack Ü,Where Are U Now,250000,false
+2016-01-040,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-01-041,Daya,Hide Away,Hide Away,191000,false
+2016-01-042,Wiz Khalifa Featuring Charlie Puth,See You Again (feat. Charlie Puth),See You Again,229000,false
+2016-01-043,Selena Gomez Featuring A$AP Rocky,Revival (Deluxe),Good For You,221000,false
+2016-01-044,Coldplay,Adventure of a Lifetime,Adventure Of A Lifetime,263000,false
+2016-01-045,Fetty Wap,Fetty Wap,Again,312000,true
+2016-01-046,Shawn Mendes & Camila Cabello,Handwritten (Revisited),I Know What You Did Last Summer,223000,false
+2016-01-047,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-01-048,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-01-049,OMI,Cheerleader (Felix Jaehn Remix) (Radio Edit),Cheerleader,180000,false
+2016-01-050,One Direction,Made In The A.M. (Deluxe Edition),Drag Me Down,192000,false
+2016-01-051,Flo Rida,My House,My House,192000,false
+2016-01-052,iLoveMemphis,Hit the Quan,Hit The Quan,181000,false
+2016-01-053,DeJ Loaf Featuring Big Sean,Back Up (feat. Big Sean),Back Up,240000,true
+2016-01-054,Missy Elliott Featuring Pharrell Williams,WTF (Where They From) [feat. Pharrell Williams],WTF (Where They From),192000,true
+2016-01-055,Adele,25,When We Were Young,290000,false
+2016-01-056,Emily Ann Roberts,The Complete Season 9 Collection (The Voice Performance),Burning House,1000,false
+2016-01-057,Yo Gotti Featuring Nicki Minaj,The Art of Hustle (Deluxe),Down In The DM,182000,true
+2016-01-058,Brothers Osborne,Pawn Shop,Stay A Little Longer,335000,false
+2016-01-059,Justin Bieber,Purpose (Deluxe),I'll Show You,200000,false
+2016-01-060,Charlie Puth,Nine Track Mind,One Call Away,194000,false
+2016-01-061,Luke Bryan Featuring Karen Fairchild,Kill The Lights,Home Alone Tonight,190000,false
+2016-01-062,Selena Gomez,Revival (Deluxe),Hands To Myself,202000,false
+2016-01-063,Blake Shelton,Reloaded: 20 #1 Hits,Gonna,182000,false
+2016-01-064,Chris Brown,Royalty (Deluxe Version),Back To Sleep,201000,true
+2016-01-065,Nelly Featuring Jeremih,The Fix (feat. Jeremih),The Fix,173000,true
+2016-01-066,Jason Aldean,"Old Boots, New Dirt",Gonna Know We Were Here,224000,false
+2016-01-067,Gwen Stefani,This Is What The Truth Feels Like,Used To Love You,227000,false
+2016-01-068,DLOW,I Am DLOW,Do It Like Me,146000,false
+2016-01-069,Cole Swindell,You Should Be Here,You Should Be Here,190000,false
+2016-01-070,Drake & Future,What A Time To Be Alive,Big Rings,217000,true
+2016-01-071,Jana Kramer,I Got the Boy,I Got The Boy,201000,false
+2016-01-072,Jordan Smith,The Complete Season 9 Collection (The Voice Performance),Climb Every Mountain,1000,false
+2016-01-073,LOCASH,I Love This Life,I Love This Life,208000,false
+2016-01-074,Drake,Back To Back,Back To Back,170000,true
+2016-01-075,Rudimental Featuring Ed Sheeran,Lay It All on Me (feat. Ed Sheeran),Lay It All On Me,242000,false
+2016-01-076,Tim McGraw,McGraw Machine Hits: 2013-2019,Top Of The World,235000,false
+2016-01-077,Rachel Platten,Stand By You,Stand By You,219000,false
+2016-01-078,Young Thug,Best Friend,Best Friend,213000,true
+2016-01-079,Fall Out Boy,American Beauty/American Psycho,Irresistible,206000,false
+2016-01-080,Halsey,BADLANDS (Deluxe),New Americana,183000,false
+2016-01-081,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,Professional Rapper,$ave Dat Money,290000,true
+2016-01-082,Justin Bieber Featuring Halsey,Purpose,The Feeling,245000,false
+2016-01-083,Ty Dolla $ign Featuring Future & Rae Sremmurd,Blasé (feat. Future & Rae Sremmurd),Blase,286000,true
+2016-01-084,Rae Sremmurd,SremmLife,Come Get Her,212000,true
+2016-01-085,Dan + Shay,Where It All Began,Nothin' Like You,186000,false
+2016-01-086,Andy Grammer,Magazines Or Novels (Deluxe Edition),Good To Be Alive (Hallelujah),189000,false
+2016-01-087,Kelsea Ballerini,The First Time,Dibs,183000,false
+2016-01-088,Luke Bryan,Kill The Lights (Deluxe),Strip It Down,242000,false
+2016-01-089,"Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz",This Unruly Mess I've Made,Downtown,292000,true
+2016-01-090,Jordan Smith & Adam Levine,The Complete Season 9 Collection (The Voice Performance),God Only Knows,1000,false
+2016-01-091,Granger Smith,Remington,Backroad Song,236000,false
+2016-01-092,Dawin,Dessert,Dessert,212000,false
+2016-01-093,Big Sean Featuring Chris Brown & Ty Dolla $ign,Dark Sky Paradise (Deluxe),Play No Games,216000,true
+2016-01-094,Drake,Right Hand,Right Hand,190000,true
+2016-01-095,Bryson Tiller,T R A P S O U L,Sorry Not Sorry,201000,true
+2016-01-096,Zac Brown Band,JEKYLL + HYDE,Beautiful Drug,191000,false
+2016-01-097,Carrie Underwood,Storyteller,Smoke Break,198000,false
+2016-01-098,Tori Kelly,Hollow,Hollow,210000,false
+2016-01-099,Jordan Smith,The Complete Season 9 Collection (The Voice Performance),Somebody To Love,1000,false
+2016-01-100,Justin Bieber,Purpose,Purpose,210000,false
+2016-02-001,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-02-002,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-02-003,Adele,25,Hello,295000,false
+2016-02-004,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-02-005,Alessia Cara,Know-It-All (Deluxe),Here,200000,false
+2016-02-006,Shawn Mendes,Handwritten (Revisited),Stitches,207000,false
+2016-02-007,Selena Gomez,Revival (Deluxe),Same Old Love,228000,false
+2016-02-008,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
+2016-02-009,Drake,Views,Hotline Bling,267000,false
+2016-02-010,Justin Bieber,Purpose (Deluxe),What Do You Mean?,205000,false
+2016-02-011,Meghan Trainor Featuring John Legend,Title (Expanded Edition),Like I'm Gonna Lose You,225000,false
+2016-02-012,Flo Rida,My House,My House,192000,false
+2016-02-013,The Weeknd,Beauty Behind The Madness,In The Night,236000,true
+2016-02-014,Drake & Future,What A Time To Be Alive,Jumpman,205000,true
+2016-02-015,Bryson Tiller,T R A P S O U L,Don't,200000,true
+2016-02-016,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-02-017,Post Malone,Stoney (Deluxe),White Iverson,254000,true
+2016-02-018,The Weeknd,Beauty Behind The Madness,The Hills,242000,true
+2016-02-019,Travis Scott,Rodeo,Antidote,262000,true
+2016-02-020,Fetty Wap Featuring Remy Boyz,Fetty Wap,679,187000,true
+2016-02-021,Selena Gomez,Revival (Deluxe),Hands To Myself,202000,false
+2016-02-022,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-02-023,Tory Lanez,I Told You,Say It,239000,true
+2016-02-024,Shawn Mendes & Camila Cabello,Handwritten (Revisited),I Know What You Did Last Summer,223000,false
+2016-02-025,Thomas Rhett,Tangled Up (Deluxe),Die A Happy Man,228000,false
+2016-02-026,Charlie Puth,Nine Track Mind,One Call Away,194000,false
+2016-02-027,Ellie Goulding,Delirium (Deluxe),On My Mind,215000,false
+2016-02-028,Silento,Watch Me (Whip / Nae Nae),Watch Me,185000,false
+2016-02-029,Elle King,Ex's & Oh's,Ex's & Oh's,124000,false
+2016-02-030,Daya,Hide Away,Hide Away,191000,false
+2016-02-031,Yo Gotti Featuring Nicki Minaj,The Art of Hustle (Deluxe),Down In The DM,182000,true
+2016-02-032,The Weeknd,Beauty Behind The Madness,Can't Feel My Face,215000,false
+2016-02-033,Sam Hunt,Montevallo,Break Up In A Small Town,231000,false
+2016-02-034,Taylor Swift,1989 (Deluxe),Wildest Dreams,220000,false
+2016-02-035,Adele,25,When We Were Young,290000,false
+2016-02-036,Major Lazer & DJ Snake Featuring MO,Peace Is The Mission : Extended,Lean On,177000,false
+2016-02-037,Wiz Khalifa Featuring Charlie Puth,See You Again (feat. Charlie Puth),See You Again,229000,false
+2016-02-038,One Direction,Made In The A.M. (Deluxe Edition),Perfect,230000,false
+2016-02-039,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-02-040,Demi Lovato,Confident (Deluxe Edition),Confident,205000,true
+2016-02-041,J. Cole,2014 Forest Hills Drive,No Role Modelz,292000,true
+2016-02-042,Rachel Platten,Stand By You,Stand By You,219000,false
+2016-02-043,Fetty Wap,Fetty Wap,Again,312000,true
+2016-02-044,Luke Bryan Featuring Karen Fairchild,Kill The Lights,Home Alone Tonight,190000,false
+2016-02-045,Young Thug,Best Friend,Best Friend,213000,true
+2016-02-046,Brothers Osborne,Pawn Shop,Stay A Little Longer,335000,false
+2016-02-047,Coldplay,Adventure of a Lifetime,Adventure Of A Lifetime,263000,false
+2016-02-048,R. City Featuring Adam Levine,Locked Away (feat. Adam Levine),Locked Away,227000,false
+2016-02-049,Chris Brown,Royalty (Deluxe Version),Back To Sleep,201000,true
+2016-02-050,Taylor Swift,1989 (Taylor's Version),Out Of The Woods,235000,false
+2016-02-051,Ariana Grande,Focus,Focus,211000,false
+2016-02-052,Fall Out Boy,American Beauty/American Psycho,Irresistible,206000,false
+2016-02-053,DLOW,I Am DLOW,Do It Like Me,146000,false
+2016-02-054,Jason Derulo,Everything Is 4,Get Ugly,200000,true
+2016-02-055,Jeremih,Late Nights: The Album,Oui,238000,false
+2016-02-056,LOCASH,I Love This Life,I Love This Life,208000,false
+2016-02-057,Granger Smith,Remington,Backroad Song,236000,false
+2016-02-058,Robin Schulz Featuring Francesco Yates,Sugar,Sugar,219000,false
+2016-02-059,Jana Kramer,I Got the Boy,I Got The Boy,201000,false
+2016-02-060,Carrie Underwood,Storyteller,Heartbeat,210000,false
+2016-02-061,DeJ Loaf Featuring Big Sean,Back Up (feat. Big Sean),Back Up,240000,true
+2016-02-062,Kevin Gates,2 Phones,2 Phones,240000,true
+2016-02-063,Drake & Future,What A Time To Be Alive,Big Rings,217000,true
+2016-02-064,Zac Brown Band,JEKYLL + HYDE,Beautiful Drug,191000,false
+2016-02-065,Keith Urban,Ripcord,Break On Me.,208000,false
+2016-02-066,Nelly Featuring Jeremih,The Fix (feat. Jeremih),The Fix,173000,true
+2016-02-067,Bryson Tiller,T R A P S O U L,Sorry Not Sorry,201000,true
+2016-02-068,Dawin,Dessert,Dessert,212000,false
+2016-02-069,Brett Eldredge,Easy-Going Country,Drunk On Your Love,173000,false
+2016-02-070,Cole Swindell,You Should Be Here,You Should Be Here,190000,false
+2016-02-071,Kelsea Ballerini,The First Time,Dibs,183000,false
+2016-02-072,Panic! At The Disco,Death of a Bachelor,Emperor's New Clothes,158000,false
+2016-02-073,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,Professional Rapper,$ave Dat Money,290000,true
+2016-02-074,Jason Aldean,"Old Boots, New Dirt",Gonna Know We Were Here,224000,false
+2016-02-075,Justin Bieber,Purpose (Deluxe),I'll Show You,200000,false
+2016-02-076,Kevin Gates,Really Really,Really Really,232000,true
+2016-02-077,Missy Elliott Featuring Pharrell Williams,WTF (Where They From) [feat. Pharrell Williams],WTF (Where They From),192000,true
+2016-02-078,Florida Georgia Line,Anything Goes,Confession,190000,false
+2016-02-079,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-02-080,Chris Stapleton,Traveller,Nobody To Blame,244000,false
+2016-02-081,Tori Kelly,Hollow,Hollow,210000,false
+2016-02-082,Empire Of The Sun,Walking On A Dream (Special Edition),Walking On A Dream,195000,false
+2016-02-083,Andy Grammer,Magazines Or Novels (Deluxe Edition),Good To Be Alive (Hallelujah),189000,false
+2016-02-084,David Guetta Featuring Sia & Fetty Wap,Bang My Head (feat. Sia & Fetty Wap),Bang My Head,193000,false
+2016-02-085,Eric Church,Mr. Misunderstood,Mr. Misunderstood,319000,false
+2016-02-086,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-02-087,Halsey,BADLANDS (Deluxe),New Americana,183000,false
+2016-02-088,2 Chainz,GOATED: 2 Chainz,Watch Out,206000,true
+2016-02-089,Panic! At The Disco,Death of a Bachelor,Victorious,178000,false
+2016-02-090,Randy Houser,Fired Up,We Went,179000,false
+2016-02-091,Big Sean Featuring Chris Brown & Ty Dolla $ign,Dark Sky Paradise (Deluxe),Play No Games,216000,true
+2016-02-092,Panic! At The Disco,Death of a Bachelor,Death Of A Bachelor,203000,false
+2016-02-093,Rudimental Featuring Ed Sheeran,Lay It All on Me (feat. Ed Sheeran),Lay It All On Me,242000,false
+2016-02-094,Drake,Right Hand,Right Hand,190000,true
+2016-02-095,DJ Snake Featuring Bipolar Sunshine,Encore,Middle,220000,false
+2016-02-096,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-02-097,Rae Sremmurd,SremmLife,Come Get Her,212000,true
+2016-02-098,iLoveMemphis,Lean and Dabb,Lean & Dabb,237000,false
+2016-02-099,J Balvin,Energía,Ginza,170000,false
+2016-02-100,The Weeknd,Beauty Behind The Madness,Acquainted,348000,true
+2016-03-001,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-03-002,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-03-003,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-03-004,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-03-005,Flo Rida,My House,My House,192000,false
+2016-03-006,Zayn,PILLOWTALK,Pillowtalk,203000,true
+2016-03-007,Adele,25,Hello,295000,false
+2016-03-008,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-03-009,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
+2016-03-010,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-03-011,Selena Gomez,Revival (Deluxe),Hands To Myself,202000,false
+2016-03-012,Charlie Puth,Nine Track Mind,One Call Away,194000,false
+2016-03-013,Shawn Mendes,Handwritten (Revisited),Stitches,207000,false
+2016-03-014,Adele,25,When We Were Young,290000,false
+2016-03-015,The Weeknd,Beauty Behind The Madness,In The Night,236000,true
+2016-03-016,Bryson Tiller,T R A P S O U L,Don't,200000,true
+2016-03-017,Selena Gomez,Revival (Deluxe),Same Old Love,228000,false
+2016-03-018,Yo Gotti Featuring Nicki Minaj,The Art of Hustle (Deluxe),Down In The DM,182000,true
+2016-03-019,Drake,Views,Hotline Bling,267000,false
+2016-03-020,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-03-021,Alessia Cara,Know-It-All (Deluxe),Here,200000,false
+2016-03-022,Mark Ronson Featuring Bruno Mars,Uptown Special,Uptown Funk!,270000,false
+2016-03-023,Drake & Future,What A Time To Be Alive,Jumpman,205000,true
+2016-03-024,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-03-025,Justin Bieber,Purpose (Deluxe),What Do You Mean?,205000,false
+2016-03-026,Daya,Hide Away,Hide Away,191000,false
+2016-03-027,The Weeknd,Beauty Behind The Madness,The Hills,242000,true
+2016-03-028,Coldplay,Adventure of a Lifetime,Adventure Of A Lifetime,263000,false
+2016-03-029,Meghan Trainor Featuring John Legend,Title (Expanded Edition),Like I'm Gonna Lose You,225000,false
+2016-03-030,Tory Lanez,I Told You,Say It,239000,true
+2016-03-031,Drake,Summer Sixteen,Summer Sixteen,203000,true
+2016-03-032,The Weeknd,Beauty Behind The Madness,Can't Feel My Face,215000,false
+2016-03-033,Elle King,Ex's & Oh's,Ex's & Oh's,124000,false
+2016-03-034,Fetty Wap Featuring Remy Boyz,Fetty Wap,679,187000,true
+2016-03-035,Thomas Rhett,Tangled Up (Deluxe),Die A Happy Man,228000,false
+2016-03-036,Travis Scott,Rodeo,Antidote,262000,true
+2016-03-037,Shawn Mendes & Camila Cabello,Handwritten (Revisited),I Know What You Did Last Summer,223000,false
+2016-03-038,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-03-039,Post Malone,Stoney (Deluxe),White Iverson,254000,true
+2016-03-040,Kevin Gates,2 Phones,2 Phones,240000,true
+2016-03-041,Rachel Platten,Stand By You,Stand By You,219000,false
+2016-03-042,Carrie Underwood,Storyteller,Heartbeat,210000,false
+2016-03-043,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-03-044,Wiz Khalifa Featuring Charlie Puth,See You Again (feat. Charlie Puth),See You Again,229000,false
+2016-03-045,Jeremih,Late Nights: The Album,Oui,238000,false
+2016-03-046,Taylor Swift,1989 (Deluxe),Wildest Dreams,220000,false
+2016-03-047,Sam Hunt,Montevallo,Break Up In A Small Town,231000,false
+2016-03-048,Ellie Goulding,Delirium (Deluxe),On My Mind,215000,false
+2016-03-049,Major Lazer & DJ Snake Featuring MO,Peace Is The Mission : Extended,Lean On,177000,false
+2016-03-050,Chris Brown,Royalty (Deluxe Version),Back To Sleep,201000,true
+2016-03-051,Young Thug,Best Friend,Best Friend,213000,true
+2016-03-052,Luke Bryan Featuring Karen Fairchild,Kill The Lights,Home Alone Tonight,190000,false
+2016-03-053,Taylor Swift,1989 (Taylor's Version),Out Of The Woods,235000,false
+2016-03-054,Gwen Stefani,This Is What The Truth Feels Like,Make Me Like You,216000,false
+2016-03-055,Cole Swindell,You Should Be Here,You Should Be Here,190000,false
+2016-03-056,Robin Schulz Featuring Francesco Yates,Sugar,Sugar,219000,false
+2016-03-057,Granger Smith,Remington,Backroad Song,236000,false
+2016-03-058,Jason Derulo,Everything Is 4,Get Ugly,200000,true
+2016-03-059,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-03-060,Kelsea Ballerini,The First Time,Dibs,183000,false
+2016-03-061,Brett Eldredge,Easy-Going Country,Drunk On Your Love,173000,false
+2016-03-062,Ellie Goulding,Delirium (Deluxe),Something In The Way You Move,227000,false
+2016-03-063,Maren Morris,HERO,My Church,197000,false
+2016-03-064,Zac Brown Band,JEKYLL + HYDE,Beautiful Drug,191000,false
+2016-03-065,Fetty Wap,Jimmy Choo,Jimmy Choo,176000,true
+2016-03-066,Keith Urban,Ripcord,Break On Me.,208000,false
+2016-03-067,Kevin Gates,Really Really,Really Really,232000,true
+2016-03-068,Tori Kelly,Hollow,Hollow,210000,false
+2016-03-069,Florida Georgia Line,Anything Goes,Confession,190000,false
+2016-03-070,DJ Snake Featuring Bipolar Sunshine,Encore,Middle,220000,false
+2016-03-071,Randy Houser,Fired Up,We Went,179000,false
+2016-03-072,One Direction,Made In The A.M. (Deluxe Edition),Perfect,230000,false
+2016-03-073,Chris Stapleton,Traveller,Nobody To Blame,244000,false
+2016-03-074,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-03-075,Demi Lovato,Confident (Deluxe Edition),Confident,205000,true
+2016-03-076,Brothers Osborne,Pawn Shop,Stay A Little Longer,335000,false
+2016-03-077,Adele,25,All I Ask,271000,false
+2016-03-078,Rascal Flatts,Twenty Years Of Rascal Flatts - The Greatest Hits,I Like The Sound Of That,210000,false
+2016-03-079,Old Dominion,Meat and Candy,Snapback,206000,false
+2016-03-080,Troye Sivan,Blue Neighbourhood (Deluxe),Youth,188000,false
+2016-03-081,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-03-082,The Weeknd,Beauty Behind The Madness,Acquainted,348000,true
+2016-03-083,Zara Larsson & MNEK,So Good,Never Forget You,213000,false
+2016-03-084,Bryson Tiller,T R A P S O U L,Sorry Not Sorry,201000,true
+2016-03-085,DJ Luke Nasty,Might Be - Single,Might Be,210000,true
+2016-03-086,Chris Young Duet With Cassadee Pope,Party Tyme Karaoke - Country Party Pack 6 (Vocal Versions),Think Of You,215000,false
+2016-03-087,Dierks Bentley,Black,Somewhere On A Beach,199000,false
+2016-03-088,Tim McGraw,McGraw Machine Hits: 2013-2019,Humble And Kind,260000,false
+2016-03-089,Chase Bryant,Chase Bryant,Little Bit Of You,186000,false
+2016-03-090,Andy Grammer,Magazines Or Novels (Deluxe Edition),Good To Be Alive (Hallelujah),189000,false
+2016-03-091,2 Chainz,GOATED: 2 Chainz,Watch Out,206000,true
+2016-03-092,Kid Ink Featuring Fetty Wap,Summer In The Winter,Promise,225000,true
+2016-03-093,David Guetta Featuring Sia & Fetty Wap,Bang My Head (feat. Sia & Fetty Wap),Bang My Head,193000,false
+2016-03-094,Fall Out Boy,American Beauty/American Psycho,Irresistible,206000,false
+2016-03-095,Lil Dicky Featuring Fetty Wap & Rich Homie Quan,Professional Rapper,$ave Dat Money,290000,true
+2016-03-096,One Direction,Made In The A.M. (Deluxe Edition),History,186000,false
+2016-03-097,DLOW,I Am DLOW,Do It Like Me,146000,false
+2016-03-098,Lee Brice,I Don't Dance (Deluxe Edition),That Don't Sound Like You,210000,false
+2016-03-099,LOCASH,I Love This Life,I Love This Life,208000,false
+2016-03-100,Dawin,Dessert,Dessert,212000,false
+2016-04-001,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-04-002,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-04-003,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-04-004,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-04-005,Flo Rida,My House,My House,192000,false
+2016-04-006,Zayn,PILLOWTALK,Pillowtalk,203000,true
+2016-04-007,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-04-008,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-04-009,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-04-010,Ariana Grande,Dangerous Woman,Dangerous Woman,235000,false
+2016-04-011,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-04-012,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
+2016-04-013,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-04-014,Charlie Puth,Nine Track Mind,One Call Away,194000,false
+2016-04-015,Selena Gomez,Revival (Deluxe),Hands To Myself,202000,false
+2016-04-016,Adele,25,Hello,295000,false
+2016-04-017,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
+2016-04-018,Kevin Gates,2 Phones,2 Phones,240000,true
+2016-04-019,Zara Larsson & MNEK,So Good,Never Forget You,213000,false
+2016-04-020,Shawn Mendes,Handwritten (Revisited),Stitches,207000,false
+2016-04-021,Bryson Tiller,T R A P S O U L,Don't,200000,true
+2016-04-022,Yo Gotti Featuring Nicki Minaj,The Art of Hustle (Deluxe),Down In The DM,182000,true
+2016-04-023,Troye Sivan,Blue Neighbourhood (Deluxe),Youth,188000,false
+2016-04-024,Drake & Future,What A Time To Be Alive,Jumpman,205000,true
+2016-04-025,The Weeknd,Beauty Behind The Madness,The Hills,242000,true
+2016-04-026,DJ Snake Featuring Bipolar Sunshine,Encore,Middle,220000,false
+2016-04-027,Jeremih,Late Nights: The Album,Oui,238000,false
+2016-04-028,Drake,Views,Hotline Bling,267000,false
+2016-04-029,Chris Brown,Royalty (Deluxe Version),Back To Sleep,201000,true
+2016-04-030,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-04-031,Drake,Summer Sixteen,Summer Sixteen,203000,true
+2016-04-032,Cole Swindell,You Should Be Here,You Should Be Here,190000,false
+2016-04-033,Desiigner,Panda,Panda,247000,true
+2016-04-034,Adele,25,When We Were Young,290000,false
+2016-04-035,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-04-036,Justin Bieber,Purpose (Deluxe),What Do You Mean?,205000,false
+2016-04-037,Tory Lanez,I Told You,Say It,239000,true
+2016-04-038,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-04-039,Alessia Cara,Know-It-All (Deluxe),Here,200000,false
+2016-04-040,Fetty Wap Featuring Remy Boyz,Fetty Wap,679,187000,true
+2016-04-041,Daya,Hide Away,Hide Away,191000,false
+2016-04-042,Blake Shelton,If I'm Honest,Came Here To Forget,220000,false
+2016-04-043,Thomas Rhett,Tangled Up (Deluxe),Die A Happy Man,228000,false
+2016-04-044,Brett Eldredge,Easy-Going Country,Drunk On Your Love,173000,false
+2016-04-045,Selena Gomez,Revival (Deluxe),Same Old Love,228000,false
+2016-04-046,Meghan Trainor Featuring John Legend,Title (Expanded Edition),Like I'm Gonna Lose You,225000,false
+2016-04-047,The Weeknd,Beauty Behind The Madness,In The Night,236000,true
+2016-04-048,Elle King,Ex's & Oh's,Ex's & Oh's,124000,false
+2016-04-049,Post Malone,Stoney (Deluxe),White Iverson,254000,true
+2016-04-050,The Weeknd,Beauty Behind The Madness,Can't Feel My Face,215000,false
+2016-04-051,Robin Schulz Featuring Francesco Yates,Sugar,Sugar,219000,false
+2016-04-052,Zac Brown Band,JEKYLL + HYDE,Beautiful Drug,191000,false
+2016-04-053,Maren Morris,HERO,My Church,197000,false
+2016-04-054,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-04-055,Zayn,LIKE I WOULD,Like I Would,192000,false
+2016-04-056,Carrie Underwood,Storyteller,Heartbeat,210000,false
+2016-04-057,Young Thug,Best Friend,Best Friend,213000,true
+2016-04-058,Tim McGraw,McGraw Machine Hits: 2013-2019,Humble And Kind,260000,false
+2016-04-059,Dierks Bentley,Black,Somewhere On A Beach,199000,false
+2016-04-060,Florida Georgia Line,Anything Goes,Confession,190000,false
+2016-04-061,Rachel Platten,Stand By You,Stand By You,219000,false
+2016-04-062,Kevin Gates,Really Really,Really Really,232000,true
+2016-04-063,Shakira,Zootopia (Original Motion Picture Soundtrack / Japanese version),Try Everything,196000,false
+2016-04-064,Old Dominion,Meat and Candy,Snapback,206000,false
+2016-04-065,Coldplay,Adventure of a Lifetime,Adventure Of A Lifetime,263000,false
+2016-04-066,Alessia Cara,Know-It-All (Deluxe),Wild Things,188000,false
+2016-04-067,Rascal Flatts,Twenty Years Of Rascal Flatts - The Greatest Hits,I Like The Sound Of That,210000,false
+2016-04-068,Chris Young Duet With Cassadee Pope,Party Tyme Karaoke - Country Party Pack 6 (Vocal Versions),Think Of You,215000,false
+2016-04-069,Taylor Swift,1989 (Deluxe),New Romantics,230000,false
+2016-04-070,Kelly Clarkson,Piece by Piece (Idol Version),Piece By Piece,211000,false
+2016-04-071,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-04-072,Ellie Goulding,Delirium (Deluxe),Something In The Way You Move,227000,false
+2016-04-073,Disturbed,The Sound of Silence (CYRIL Remix),The Sound Of Silence,185000,false
+2016-04-074,O.T. Genasis Featuring Young Dolph,Cut It (feat. Young Dolph),Cut It,222000,true
+2016-04-075,Kid Ink Featuring Fetty Wap,Summer In The Winter,Promise,225000,true
+2016-04-076,The Weeknd,Beauty Behind The Madness,Acquainted,348000,true
+2016-04-077,Justin Bieber,Purpose (Deluxe),Company,208000,false
+2016-04-078,Fetty Wap,Jimmy Choo,Jimmy Choo,176000,true
+2016-04-079,Ruth B,Lost Boy,Lost Boy,275000,false
+2016-04-080,Thomas Rhett,Tangled Up (Deluxe),T-Shirt,228000,false
+2016-04-081,Chris Stapleton,Traveller,Nobody To Blame,244000,false
+2016-04-082,Shawn Mendes & Camila Cabello,Handwritten (Revisited),I Know What You Did Last Summer,223000,false
+2016-04-083,Belly Featuring The Weeknd,Up For Days,Might Not,224000,true
+2016-04-084,DJ Luke Nasty,Might Be - Single,Might Be,210000,true
+2016-04-085,Luke Bryan Featuring Karen Fairchild,Kill The Lights,Home Alone Tonight,190000,false
+2016-04-086,Dustin Lynch,Where It's At,Mind Reader,185000,false
+2016-04-087,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-04-088,Chase Bryant,Chase Bryant,Little Bit Of You,186000,false
+2016-04-089,Granger Smith,Remington,Backroad Song,236000,false
+2016-04-090,Ty Dolla $ign Featuring E-40,Saved (feat. E-40),Saved,178000,true
+2016-04-091,Randy Houser,Fired Up,We Went,179000,false
+2016-04-092,Lee Brice,I Don't Dance (Deluxe Edition),That Don't Sound Like You,210000,false
+2016-04-093,Zendaya Featuring Chris Brown,Something New,Something New,212000,false
+2016-04-094,Jon Pardi,California Sunrise,Head Over Boots,205000,false
+2016-04-095,Bryson Tiller,T R A P S O U L,Sorry Not Sorry,201000,true
+2016-04-096,twenty one pilots,Blurryface,Ride,214000,false
+2016-04-097,Gwen Stefani,This Is What The Truth Feels Like,Make Me Like You,216000,false
+2016-04-098,Major Lazer Featuring Nyla & Fuse ODG,Major Lazer Essentials,Light It Up,166000,false
+2016-04-099,Keith Urban,Ripcord,Break On Me.,208000,false
+2016-04-100,Jonas Blue Featuring Dakota,Fast Car,Fast Car,214000,false
+2016-05-001,Desiigner,Panda,Panda,247000,true
+2016-05-002,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-05-003,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-05-004,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-05-005,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-05-006,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-05-007,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
+2016-05-008,Zayn,PILLOWTALK,Pillowtalk,203000,true
+2016-05-009,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-05-010,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-05-011,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-05-012,Flo Rida,My House,My House,192000,false
+2016-05-013,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-05-014,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-05-015,Ariana Grande,Dangerous Woman,Dangerous Woman,235000,false
+2016-05-016,Zara Larsson & MNEK,So Good,Never Forget You,213000,false
+2016-05-017,Prince And The Revolution,Prince and The Revolution: Live (2022 Remaster),Purple Rain,1134000,false
+2016-05-018,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-05-019,Kevin Gates,2 Phones,2 Phones,240000,true
+2016-05-020,Prince,Purple Rain,When Doves Cry,354000,false
+2016-05-021,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-05-022,Jeremih,Late Nights: The Album,Oui,238000,false
+2016-05-023,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-05-024,DJ Snake Featuring Bipolar Sunshine,Encore,Middle,220000,false
+2016-05-025,Drake Featuring The Throne,Views,Pop Style,213000,true
+2016-05-026,Nick Jonas Featuring Tove Lo,Last Year Was Complicated,Close,234000,false
+2016-05-027,Charlie Puth,Nine Track Mind,One Call Away,194000,false
+2016-05-028,Prince And The Revolution,Parade - Music from the Motion Picture Under the Cherry Moon,Kiss,226000,false
+2016-05-029,Prince,1999,Little Red Corvette,303000,true
+2016-05-030,Shawn Mendes,Handwritten (Revisited),Stitches,207000,false
+2016-05-031,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-05-032,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-05-033,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
+2016-05-034,Drake & Future,What A Time To Be Alive,Jumpman,205000,true
+2016-05-035,Selena Gomez,Revival (Deluxe),Hands To Myself,202000,false
+2016-05-036,Adele,25,Hello,295000,false
+2016-05-037,Bryson Tiller,T R A P S O U L,Don't,200000,true
+2016-05-038,Dierks Bentley,Black,Somewhere On A Beach,199000,false
+2016-05-039,Prince And The Revolution,Prince and The Revolution: Live (2022 Remaster),Let's Go Crazy,351000,false
+2016-05-040,Yo Gotti Featuring Nicki Minaj,The Art of Hustle (Deluxe),Down In The DM,182000,true
+2016-05-041,Prince,1999,1999,379000,false
+2016-05-042,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",Just Like Fire,215000,false
+2016-05-043,O.T. Genasis Featuring Young Dolph,Cut It (feat. Young Dolph),Cut It,222000,true
+2016-05-044,Tim McGraw,McGraw Machine Hits: 2013-2019,Humble And Kind,260000,false
+2016-05-045,Chris Young Duet With Cassadee Pope,Party Tyme Karaoke - Country Party Pack 6 (Vocal Versions),Think Of You,215000,false
+2016-05-046,Disturbed,The Sound of Silence (CYRIL Remix),The Sound Of Silence,185000,false
+2016-05-047,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-05-048,The Weeknd,Beauty Behind The Madness,The Hills,242000,true
+2016-05-049,Troye Sivan,Blue Neighbourhood (Deluxe),Youth,188000,false
+2016-05-050,Ruth B,Lost Boy,Lost Boy,275000,false
+2016-05-051,Old Dominion,Meat and Candy,Snapback,206000,false
+2016-05-052,Alessia Cara,Know-It-All (Deluxe),Wild Things,188000,false
+2016-05-053,Blake Shelton,If I'm Honest,Came Here To Forget,220000,false
+2016-05-054,Florida Georgia Line,Anything Goes,Confession,190000,false
+2016-05-055,Cole Swindell,You Should Be Here,You Should Be Here,190000,false
+2016-05-056,Thomas Rhett,Tangled Up (Deluxe),T-Shirt,228000,false
+2016-05-057,Chris Brown,Royalty (Deluxe Version),Back To Sleep,201000,true
+2016-05-058,Justin Bieber,Purpose (Deluxe),Company,208000,false
+2016-05-059,Rascal Flatts,Twenty Years Of Rascal Flatts - The Greatest Hits,I Like The Sound Of That,210000,false
+2016-05-060,Luke Bryan,Kill The Lights (Deluxe),"Huntin', Fishin' And Lovin' Every Day",277000,false
+2016-05-061,Maren Morris,HERO,My Church,197000,false
+2016-05-062,Kanye West,The Life Of Pablo,Famous,192000,true
+2016-05-063,Kid Ink Featuring Fetty Wap,Summer In The Winter,Promise,225000,true
+2016-05-064,Kanye West,The Life Of Pablo,"Father Stretch My Hands, Pt. 1",135000,true
+2016-05-065,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",All The Way Up (feat. Infared) - Single,All The Way Up,191000,true
+2016-05-066,Drake,Summer Sixteen,Summer Sixteen,203000,true
+2016-05-067,Iggy Azalea,Team,Team,209000,true
+2016-05-068,Kevin Gates,Really Really,Really Really,232000,true
+2016-05-069,Dustin Lynch,Where It's At,Mind Reader,185000,false
+2016-05-070,Rihanna,ANTI (Deluxe),Kiss It Better,253000,true
+2016-05-071,Belly Featuring The Weeknd,Up For Days,Might Not,224000,true
+2016-05-072,Flume Featuring Kai,Never Be Like You,Never Be Like You,234000,true
+2016-05-073,Future,EVOL,Wicked,173000,true
+2016-05-074,twenty one pilots,Blurryface,Ride,214000,false
+2016-05-075,The Weeknd,Beauty Behind The Madness,Acquainted,348000,true
+2016-05-076,Major Lazer Featuring Nyla & Fuse ODG,Major Lazer Essentials,Light It Up,166000,false
+2016-05-077,Dreezy Featuring Jeremih,No Hard Feelings,Body,232000,true
+2016-05-078,Taylor Swift,1989 (Deluxe),New Romantics,230000,false
+2016-05-079,Jon Pardi,California Sunrise,Head Over Boots,205000,false
+2016-05-080,MadeinTYO,You Are Forgiven (Deluxe Edition),Uber Everywhere,153000,true
+2016-05-081,Lee Brice,I Don't Dance (Deluxe Edition),That Don't Sound Like You,210000,false
+2016-05-082,Kelly Clarkson,Piece by Piece (Idol Version),Piece By Piece,211000,false
+2016-05-083,Brett Eldredge,Easy-Going Country,Drunk On Your Love,173000,false
+2016-05-084,Jason Derulo,If It Ain't Love,If It Ain't Love,203000,false
+2016-05-085,Young Greatness,I Tried To Tell Em 2,Moolah,204000,true
+2016-05-086,Yo Gotti Featuring E-40,The Art of Hustle (Deluxe),Law,258000,true
+2016-05-087,Ty Dolla $ign Featuring E-40,Saved (feat. E-40),Saved,178000,true
+2016-05-088,Chase Bryant,Chase Bryant,Little Bit Of You,186000,false
+2016-05-089,The Lumineers,Cleopatra (Deluxe),Ophelia,160000,false
+2016-05-090,Jason Aldean,30 Number One Hits,Lights Come On,194000,false
+2016-05-091,Keith Urban,Ripcord,Wasted Time,233000,false
+2016-05-092,DJ Luke Nasty,Might Be - Single,Might Be,210000,true
+2016-05-093,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-05-094,Alan Walker,Faded,Faded,212000,false
+2016-05-095,Grace Featuring G-Eazy,Hip-Hop Hits Overload,You Don't Own Me,200000,false
+2016-05-096,Kenny Chesney,Cosmic Hallelujah,Noise,204000,false
+2016-05-097,Kanye West,The Life Of Pablo,Pt. 2,130000,true
+2016-05-098,Fetty Wap,Jimmy Choo,Jimmy Choo,176000,true
+2016-05-099,Ariana Grande Featuring Lil Wayne,Dangerous Woman,Let Me Love You,223000,false
+2016-05-100,Jonas Blue Featuring Dakota,Fast Car,Fast Car,214000,false
+2016-06-001,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-06-002,Desiigner,Panda,Panda,247000,true
+2016-06-003,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-06-004,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-06-005,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-06-006,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-06-007,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-06-008,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-06-009,Zayn,PILLOWTALK,Pillowtalk,203000,true
+2016-06-010,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-06-011,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-06-012,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-06-013,Zara Larsson & MNEK,So Good,Never Forget You,213000,false
+2016-06-014,Ariana Grande,Dangerous Woman,Dangerous Woman,235000,false
+2016-06-015,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-06-016,Flo Rida,My House,My House,192000,false
+2016-06-017,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-06-018,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-06-019,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
+2016-06-020,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-06-021,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,194000,false
+2016-06-022,Drake,Views,Controlla,245000,true
+2016-06-023,Drake Featuring The Throne,Views,Pop Style,213000,true
+2016-06-024,Nick Jonas Featuring Tove Lo,Last Year Was Complicated,Close,234000,false
+2016-06-025,Jeremih,Late Nights: The Album,Oui,238000,false
+2016-06-026,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",Just Like Fire,215000,false
+2016-06-027,Kevin Gates,2 Phones,2 Phones,240000,true
+2016-06-028,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-06-029,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-06-030,Ruth B,Lost Boy,Lost Boy,275000,false
+2016-06-031,Kent Jones,Don't Mind,Don't Mind,198000,true
+2016-06-032,Ghost Town DJ's,"Just RnB, Vol. 2",My Boo,346000,false
+2016-06-033,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-06-034,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-06-035,Drake,Views,Hype,209000,true
+2016-06-036,twenty one pilots,Blurryface,Ride,214000,false
+2016-06-037,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-06-038,DJ Snake Featuring Bipolar Sunshine,Encore,Middle,220000,false
+2016-06-039,Meghan Trainor,Thank You (Deluxe Version),Me Too,181000,false
+2016-06-040,Beyonce,Lemonade,Sorry,232000,true
+2016-06-041,Shawn Mendes,Handwritten (Revisited),Stitches,207000,false
+2016-06-042,Charlie Puth,Nine Track Mind,One Call Away,194000,false
+2016-06-043,O.T. Genasis Featuring Young Dolph,Cut It (feat. Young Dolph),Cut It,222000,true
+2016-06-044,Blake Shelton,If I'm Honest,Came Here To Forget,220000,false
+2016-06-045,Dierks Bentley,Black,Somewhere On A Beach,199000,false
+2016-06-046,Tim McGraw,McGraw Machine Hits: 2013-2019,Humble And Kind,260000,false
+2016-06-047,Drake,Views,Still Here,190000,true
+2016-06-048,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
+2016-06-049,Bryson Tiller,T R A P S O U L,Don't,200000,true
+2016-06-050,Drake Featuring Future,Views,Grammys,220000,true
+2016-06-051,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",All The Way Up (feat. Infared) - Single,All The Way Up,191000,true
+2016-06-052,Thomas Rhett,Tangled Up (Deluxe),T-Shirt,228000,false
+2016-06-053,Alessia Cara,Know-It-All (Deluxe),Wild Things,188000,false
+2016-06-054,Old Dominion,Meat and Candy,Snapback,206000,false
+2016-06-055,Drake,Views,Childs Play,241000,true
+2016-06-056,Luke Bryan,Kill The Lights (Deluxe),"Huntin', Fishin' And Lovin' Every Day",277000,false
+2016-06-057,Dustin Lynch,Where It's At,Mind Reader,185000,false
+2016-06-058,Flume Featuring Kai,Never Be Like You,Never Be Like You,234000,true
+2016-06-059,Drake Featuring PARTYNEXTDOOR,Views,With You,195000,true
+2016-06-060,Drake,Views,9,256000,true
+2016-06-061,Drake,Views,Feel No Ways,241000,true
+2016-06-062,Future,EVOL,Wicked,173000,true
+2016-06-063,Beyonce,Lemonade,Formation,206000,true
+2016-06-064,Maren Morris,HERO,My Church,197000,false
+2016-06-065,Chris Young Duet With Cassadee Pope,Party Tyme Karaoke - Country Party Pack 6 (Vocal Versions),Think Of You,215000,false
+2016-06-066,Disturbed,The Sound of Silence (CYRIL Remix),The Sound Of Silence,185000,false
+2016-06-067,OneRepublic,Oh My My (Deluxe),Wherever I Go,170000,false
+2016-06-068,Drake,Views,U With Me?,297000,true
+2016-06-069,Keith Urban Featuring Carrie Underwood,Ripcord,The Fighter,184000,false
+2016-06-070,Dreezy Featuring Jeremih,No Hard Feelings,Body,232000,true
+2016-06-071,MadeinTYO,You Are Forgiven (Deluxe Edition),Uber Everywhere,153000,true
+2016-06-072,Jason Derulo,If It Ain't Love,If It Ain't Love,203000,false
+2016-06-073,Keith Urban,Ripcord,Wasted Time,233000,false
+2016-06-074,Beyonce,Lemonade,Hold Up,221000,true
+2016-06-075,Drake,Views,Fire & Desire,238000,true
+2016-06-076,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-06-077,Grace Featuring G-Eazy,Hip-Hop Hits Overload,You Don't Own Me,200000,false
+2016-06-078,Rihanna,ANTI (Deluxe),Kiss It Better,253000,true
+2016-06-079,Carrie Underwood,Storyteller,Church Bells,193000,false
+2016-06-080,Belly Featuring The Weeknd,Up For Days,Might Not,224000,true
+2016-06-081,Jon Pardi,California Sunrise,Head Over Boots,205000,false
+2016-06-082,Eric Church,Mr. Misunderstood,Record Year,179000,false
+2016-06-083,Drake,Views,Redemption,334000,true
+2016-06-084,Drake,Views,Weston Road Flows,253000,true
+2016-06-085,Drake,Views,Keep The Family Close,331000,true
+2016-06-086,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-06-087,Major Lazer Featuring Nyla & Fuse ODG,Major Lazer Essentials,Light It Up,166000,false
+2016-06-088,Yo Gotti Featuring E-40,The Art of Hustle (Deluxe),Law,258000,true
+2016-06-089,Kelly Clarkson,Piece by Piece (Idol Version),Piece By Piece,211000,false
+2016-06-090,Drake Featuring Pimp C & dvsn,Views,Faithful,290000,true
+2016-06-091,Jason Aldean,30 Number One Hits,Lights Come On,194000,false
+2016-06-092,ScHoolboy Q Featuring Kanye West,Blank Face LP,THat Part,316000,true
+2016-06-093,Chance The Rapper Featuring Ty Dolla $ign,Coloring Book,Blessings,221000,false
+2016-06-094,Adam Wakefield,,I'm Sorry,209000,flase
+2016-06-095,Pitbull Featuring Enrique Iglesias,Messin' Around (with Enrique Iglesias),Messin' Around,223000,true
+2016-06-096,Young Greatness,I Tried To Tell Em 2,Moolah,204000,true
+2016-06-097,Alan Walker,Faded,Faded,212000,false
+2016-06-098,Kenny Chesney,Cosmic Hallelujah,Noise,204000,false
+2016-06-099,X Ambassadors,VHS,Unsteady,192000,false
+2016-06-100,Kid Ink Featuring Fetty Wap,Summer In The Winter,Promise,225000,true
+2016-07-001,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-07-002,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-07-003,Desiigner,Panda,Panda,247000,true
+2016-07-004,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-07-005,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-07-006,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-07-007,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-07-008,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-07-009,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-07-010,Kent Jones,Don't Mind,Don't Mind,198000,true
+2016-07-011,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-07-012,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",Just Like Fire,215000,false
+2016-07-013,twenty one pilots,Blurryface,Ride,214000,false
+2016-07-014,Nick Jonas Featuring Tove Lo,Last Year Was Complicated,Close,234000,false
+2016-07-015,Ariana Grande,Dangerous Woman,Dangerous Woman,235000,false
+2016-07-016,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-07-017,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,194000,false
+2016-07-018,Meghan Trainor,Thank You (Deluxe Version),Me Too,181000,false
+2016-07-019,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-07-020,Adele,25,Send My Love (To Your New Lover),223000,false
+2016-07-021,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-07-022,Zara Larsson & MNEK,So Good,Never Forget You,213000,false
+2016-07-023,Drake,Views,Controlla,245000,true
+2016-07-024,Ruth B,Lost Boy,Lost Boy,275000,false
+2016-07-025,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-07-026,Zayn,PILLOWTALK,Pillowtalk,203000,true
+2016-07-027,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-07-028,Flo Rida,My House,My House,192000,false
+2016-07-029,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-07-030,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-07-031,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",All The Way Up (feat. Infared) - Single,All The Way Up,191000,true
+2016-07-032,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-07-033,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-07-034,Jeremih,Late Nights: The Album,Oui,238000,false
+2016-07-035,O.T. Genasis Featuring Young Dolph,Cut It (feat. Young Dolph),Cut It,222000,true
+2016-07-036,Flume Featuring Kai,Never Be Like You,Never Be Like You,234000,true
+2016-07-037,Luke Bryan,Kill The Lights (Deluxe),"Huntin', Fishin' And Lovin' Every Day",277000,false
+2016-07-038,Beyonce,Lemonade,Sorry,232000,true
+2016-07-039,X Ambassadors,VHS,Unsteady,192000,false
+2016-07-040,DJ Khaled Featuring Drake,For Free,For Free,183000,true
+2016-07-041,Tim McGraw,McGraw Machine Hits: 2013-2019,Humble And Kind,260000,false
+2016-07-042,Kevin Gates,2 Phones,2 Phones,240000,true
+2016-07-043,Future,EVOL,Wicked,173000,true
+2016-07-044,Selena Gomez,Revival (Deluxe),Kill Em With Kindness,218000,false
+2016-07-045,Drake Featuring The Throne,Views,Pop Style,213000,true
+2016-07-046,Bryson Tiller,T R A P S O U L,Exchange,194000,true
+2016-07-047,Thomas Rhett,Tangled Up (Deluxe),T-Shirt,228000,false
+2016-07-048,Carrie Underwood,Storyteller,Church Bells,193000,false
+2016-07-049,Kevin Gates,Really Really,Really Really,232000,true
+2016-07-050,Ariana Grande,Dangerous Woman,Into You,244000,false
+2016-07-051,MadeinTYO,You Are Forgiven (Deluxe Edition),Uber Everywhere,153000,true
+2016-07-052,Alessia Cara,Know-It-All (Deluxe),Wild Things,188000,false
+2016-07-053,Jason Aldean,30 Number One Hits,Lights Come On,194000,false
+2016-07-054,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
+2016-07-055,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-07-056,Fetty Wap,Wake Up,Wake Up,224000,true
+2016-07-057,Keith Urban,Ripcord,Wasted Time,233000,false
+2016-07-058,Dierks Bentley,Black,Somewhere On A Beach,199000,false
+2016-07-059,Jon Pardi,California Sunrise,Head Over Boots,205000,false
+2016-07-060,Dan + Shay,From the Ground Up (Single Version),From The Ground Up,254000,false
+2016-07-061,Eric Church,Mr. Misunderstood,Record Year,179000,false
+2016-07-062,Blake Shelton,If I'm Honest,Came Here To Forget,220000,false
+2016-07-063,Shawn Mendes,Illuminate,Treat You Better,189000,false
+2016-07-064,OneRepublic,Oh My My (Deluxe),Wherever I Go,170000,false
+2016-07-065,Dreezy Featuring Jeremih,No Hard Feelings,Body,232000,true
+2016-07-066,Disturbed,The Sound of Silence (CYRIL Remix),The Sound Of Silence,185000,false
+2016-07-067,Kiiara,Gold,Gold,225000,false
+2016-07-068,Grace Featuring G-Eazy,Hip-Hop Hits Overload,You Don't Own Me,200000,false
+2016-07-069,Drake,Views,Hype,209000,true
+2016-07-070,Shakira,Zootopia (Original Motion Picture Soundtrack / Japanese version),Try Everything,196000,false
+2016-07-071,"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner",Champions,Champions,334000,true
+2016-07-072,Kelsea Ballerini,The First Time,Peter Pan,200000,false
+2016-07-073,Drake,Views,Childs Play,241000,true
+2016-07-074,Jake Owen,American Love,American Country Love Song,199000,false
+2016-07-075,Sam Hunt,Montevallo,Make You Miss Me,227000,false
+2016-07-076,ScHoolboy Q Featuring Kanye West,Blank Face LP,THat Part,316000,true
+2016-07-077,Pitbull Featuring Enrique Iglesias,Messin' Around (with Enrique Iglesias),Messin' Around,223000,true
+2016-07-078,Major Lazer Featuring Nyla & Fuse ODG,Major Lazer Essentials,Light It Up,166000,false
+2016-07-079,Drake,Views,Still Here,190000,true
+2016-07-080,Kenny Chesney,Cosmic Hallelujah,Noise,204000,false
+2016-07-081,Chris Young Duet With Cassadee Pope,Party Tyme Karaoke - Country Party Pack 6 (Vocal Versions),Think Of You,215000,false
+2016-07-082,Drake Featuring Future,Views,Grammys,220000,true
+2016-07-083,Daya,Daya,"Sit Still, Look Pretty",207000,false
+2016-07-084,Chris Lane,Girl Problems,Fix,190000,false
+2016-07-085,Nicky Jam,Fénix,With You Tonight / Hasta El Amanecer,210000,false
+2016-07-086,Charlie Puth Featuring Selena Gomez,Nine Track Mind,We Don't Talk Anymore,217000,false
+2016-07-087,D.R.A.M. Featuring Lil Yachty,Broccoli (feat. Lil Yachty),Broccoli,225000,true
+2016-07-088,Coldplay,A Head Full of Dreams,Hymn For The Weekend,258000,false
+2016-07-089,Rihanna,ANTI (Deluxe),Kiss It Better,253000,true
+2016-07-090,Jacob Sartorius,Sweatshirt,Sweatshirt,172000,false
+2016-07-091,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-07-092,Lil Uzi Vert,Lil Uzi Vert vs. The World,Money Longer,198000,true
+2016-07-093,Drake Featuring PARTYNEXTDOOR,Views,With You,195000,true
+2016-07-094,Wale,MY PYT,My PYT,235000,true
+2016-07-095,The Lumineers,Cleopatra (Deluxe),Ophelia,160000,false
+2016-07-096,Belly Featuring The Weeknd,Up For Days,Might Not,224000,true
+2016-07-097,Kanye West,The Life Of Pablo,"Father Stretch My Hands, Pt. 1",135000,true
+2016-07-098,DNCE,DNCE,Toothbrush,231000,false
+2016-07-099,Dierks Bentley Featuring Elle King,Black,Different For Girls,181000,false
+2016-07-100,Alan Walker,Faded,Faded,212000,false
+2016-08-001,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-08-002,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-08-003,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-08-004,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-08-005,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-08-006,twenty one pilots,Blurryface,Ride,214000,false
+2016-08-007,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-08-008,Kent Jones,Don't Mind,Don't Mind,198000,true
+2016-08-009,Desiigner,Panda,Panda,247000,true
+2016-08-010,Adele,25,Send My Love (To Your New Lover),223000,false
+2016-08-011,Katy Perry,Rise,Rise,203000,false
+2016-08-012,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",Just Like Fire,215000,false
+2016-08-013,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-08-014,Meghan Trainor,Thank You (Deluxe Version),Me Too,181000,false
+2016-08-015,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,194000,false
+2016-08-016,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-08-017,Britney Spears Featuring G-Eazy,Glory (Deluxe),Make Me...,231000,false
+2016-08-018,Drake,Views,Controlla,245000,true
+2016-08-019,DJ Khaled Featuring Drake,For Free,For Free,183000,true
+2016-08-020,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-08-021,Shawn Mendes,Illuminate,Treat You Better,189000,false
+2016-08-022,twenty one pilots,Heathens,Heathens,195000,false
+2016-08-023,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-08-024,Ariana Grande,Dangerous Woman,Into You,244000,false
+2016-08-025,Flume Featuring Kai,Never Be Like You,Never Be Like You,234000,true
+2016-08-026,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-08-027,Charlie Puth Featuring Selena Gomez,Nine Track Mind,We Don't Talk Anymore,217000,false
+2016-08-028,Fifth Harmony Featuring Fetty Wap,7/27 (Deluxe),All In My Head (Flex),210000,false
+2016-08-029,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-08-030,DJ Khaled Featuring Jay Z & Future,I Got the Keys (feat. JAY-Z & Future),I Got The Keys,219000,true
+2016-08-031,Beyonce,Lemonade,Sorry,232000,true
+2016-08-032,James Bay,Chaos And The Calm,Let It Go,259000,false
+2016-08-033,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-08-034,D.R.A.M. Featuring Lil Yachty,Broccoli (feat. Lil Yachty),Broccoli,225000,true
+2016-08-035,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-08-036,Ariana Grande,Dangerous Woman,Dangerous Woman,235000,false
+2016-08-037,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-08-038,Flo Rida,My House,My House,192000,false
+2016-08-039,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-08-040,Kiiara,Gold,Gold,225000,false
+2016-08-041,Nick Jonas Featuring Tove Lo,Last Year Was Complicated,Close,234000,false
+2016-08-042,ScHoolboy Q Featuring Kanye West,Blank Face LP,THat Part,316000,true
+2016-08-043,Ruth B,Lost Boy,Lost Boy,275000,false
+2016-08-044,Future,EVOL,Wicked,173000,true
+2016-08-045,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
+2016-08-046,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",All The Way Up (feat. Infared) - Single,All The Way Up,191000,true
+2016-08-047,Miranda Lambert,The Weight of These Wings,Vice,239000,false
+2016-08-048,Dan + Shay,From the Ground Up (Single Version),From The Ground Up,254000,false
+2016-08-049,Zara Larsson & MNEK,So Good,Never Forget You,213000,false
+2016-08-050,Selena Gomez,Revival (Deluxe),Kill Em With Kindness,218000,false
+2016-08-051,Coldplay,A Head Full of Dreams,Hymn For The Weekend,258000,false
+2016-08-052,Carrie Underwood,Storyteller,Church Bells,193000,false
+2016-08-053,Eric Church,Mr. Misunderstood,Record Year,179000,false
+2016-08-054,DNCE,DNCE,Toothbrush,231000,false
+2016-08-055,Jon Pardi,California Sunrise,Head Over Boots,205000,false
+2016-08-056,OneRepublic,Oh My My (Deluxe),Wherever I Go,170000,false
+2016-08-057,Wale,MY PYT,My PYT,235000,true
+2016-08-058,Jason Aldean,30 Number One Hits,Lights Come On,194000,false
+2016-08-059,Kelsea Ballerini,The First Time,Peter Pan,200000,false
+2016-08-060,Sam Hunt,Montevallo,Make You Miss Me,227000,false
+2016-08-061,X Ambassadors,VHS,Unsteady,192000,false
+2016-08-062,Tory Lanez,I Told You,Luv,228000,true
+2016-08-063,Usher Featuring Young Thug,Hard II Love,No Limit,228000,true
+2016-08-064,Daya,Daya,"Sit Still, Look Pretty",207000,false
+2016-08-065,Chris Lane,Girl Problems,Fix,190000,false
+2016-08-066,Dierks Bentley Featuring Elle King,Black,Different For Girls,181000,false
+2016-08-067,Jake Owen,American Love,American Country Love Song,199000,false
+2016-08-068,5 Seconds Of Summer,"Girls Talk Boys (From ""Ghostbusters"" Original Motion Picture Soundtrack)",Girls Talk Boys,216000,false
+2016-08-069,MadeinTYO,You Are Forgiven (Deluxe Edition),Uber Everywhere,153000,true
+2016-08-070,Fetty Wap,Wake Up,Wake Up,224000,true
+2016-08-071,Kanye West,The Life Of Pablo,Famous,192000,true
+2016-08-072,Drake Featuring The Throne,Views,Pop Style,213000,true
+2016-08-073,French Montana Featuring Kodak Black,Lockjaw (feat. Kodak Black),Lockjaw,223000,true
+2016-08-074,Lil Uzi Vert,Lil Uzi Vert vs. The World,Money Longer,198000,true
+2016-08-075,Blake Shelton,If I'm Honest,She's Got A Way With Words,190000,false
+2016-08-076,Keith Urban,Ripcord,Wasted Time,233000,false
+2016-08-077,Nicky Jam,Fénix,With You Tonight / Hasta El Amanecer,210000,false
+2016-08-078,Luke Bryan,Kill The Lights (Deluxe),"Huntin', Fishin' And Lovin' Every Day",277000,false
+2016-08-079,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors","Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",Sucker For Pain,243000,true
+2016-08-080,Marc E. Bassy Featuring G-Eazy,Groovy People,You & Me,218000,true
+2016-08-081,Lukas Graham,Lukas Graham (Blue Album),Mama Said,207000,false
+2016-08-082,Ben Rector,Brand New,Brand New,243000,false
+2016-08-083,Enrique Iglesias Feat. Wisin or Tinashe & Javada,,Duele El Corazon,200000,false
+2016-08-084,Demi Lovato,Body Say,Body Say,193000,false
+2016-08-085,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
+2016-08-086,Fergie,Double Dutchess,M.I.L.F. $,162000,true
+2016-08-087,YG Featuring Drake & Kamaiyah,Still Brazy (Deluxe),Why You Always Hatin?,198000,true
+2016-08-088,David Nail,Country Rock Hits,Night's On Fire,189000,false
+2016-08-089,French Montana Featuring Drake,No Shopping,No Shopping,227000,true
+2016-08-090,Jason Aldean,30 Number One Hits,A Little More Summertime,219000,false
+2016-08-091,Lil Uzi Vert,Lil Uzi Vert vs. The World,You Was Right,163000,true
+2016-08-092,Major Lazer Featuring Nyla & Fuse ODG,Major Lazer Essentials,Light It Up,166000,false
+2016-08-093,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-08-094,The Lumineers,Cleopatra (Deluxe),Ophelia,160000,false
+2016-08-095,Drake,Views,Childs Play,241000,true
+2016-08-096,Dae Dae,"Wat U Mean (Aye, Aye, Aye)","Wat U Mean (Aye, Aye, Aye)",181000,true
+2016-08-097,Rihanna,ANTI (Deluxe),Sex With Me,206000,true
+2016-08-098,PARTYNEXTDOOR Featuring Drake,Come and See Me (feat. Drake),Come And See Me,235000,true
+2016-08-099,Dreezy Featuring Jeremih,No Hard Feelings,Body,232000,true
+2016-08-100,Zara Larsson,So Good,Lush Life,201000,false
+2016-09-001,The Chainsmokers Featuring Halsey,Closer,Closer,249000,false
+2016-09-002,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-09-003,Major Lazer Featuring Justin Bieber & MO,Major Lazer Essentials,Cold Water,185000,false
+2016-09-004,twenty one pilots,Heathens,Heathens,195000,false
+2016-09-005,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-09-006,twenty one pilots,Blurryface,Ride,214000,false
+2016-09-007,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-09-008,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-09-009,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-09-010,Adele,25,Send My Love (To Your New Lover),223000,false
+2016-09-011,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-09-012,Shawn Mendes,Illuminate,Treat You Better,189000,false
+2016-09-013,Ariana Grande,Dangerous Woman,Into You,244000,false
+2016-09-014,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-09-015,DJ Khaled Featuring Drake,For Free,For Free,183000,true
+2016-09-016,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors","Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",Sucker For Pain,243000,true
+2016-09-017,Desiigner,Panda,Panda,247000,true
+2016-09-018,Charlie Puth Featuring Selena Gomez,Nine Track Mind,We Don't Talk Anymore,217000,false
+2016-09-019,DJ Snake Featuring Justin Bieber,Encore,Let Me Love You,205000,false
+2016-09-020,Flume Featuring Kai,Never Be Like You,Never Be Like You,234000,true
+2016-09-021,D.R.A.M. Featuring Lil Yachty,Broccoli (feat. Lil Yachty),Broccoli,225000,true
+2016-09-022,Drake,Views,Controlla,245000,true
+2016-09-023,Kiiara,Gold,Gold,225000,false
+2016-09-024,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",Just Like Fire,215000,false
+2016-09-025,Meghan Trainor,Thank You (Deluxe Version),Me Too,181000,false
+2016-09-026,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-09-027,Fifth Harmony Featuring Fetty Wap,7/27 (Deluxe),All In My Head (Flex),210000,false
+2016-09-028,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-09-029,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,194000,false
+2016-09-030,Tory Lanez,I Told You,Luv,228000,true
+2016-09-031,Kent Jones,Don't Mind,Don't Mind,198000,true
+2016-09-032,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-09-033,Usher Featuring Young Thug,Hard II Love,No Limit,228000,true
+2016-09-034,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-09-035,Coldplay,A Head Full of Dreams,Hymn For The Weekend,258000,false
+2016-09-036,Daya,Daya,"Sit Still, Look Pretty",207000,false
+2016-09-037,Desiigner,Tiimmy Turner,Tiimmy Turner,239000,true
+2016-09-038,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-09-039,Katy Perry,Rise,Rise,203000,false
+2016-09-040,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-09-041,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-09-042,Kungs vs Cookin' On 3 Burners,Layers,This Girl,196000,false
+2016-09-043,Kehlani,Suicide Squad: The Album,Gangsta,177000,true
+2016-09-044,DJ Khaled Featuring Jay Z & Future,I Got the Keys (feat. JAY-Z & Future),I Got The Keys,219000,true
+2016-09-045,X Ambassadors,VHS,Unsteady,192000,false
+2016-09-046,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
+2016-09-047,DNCE,DNCE,Cake By The Ocean,218000,true
+2016-09-048,Kelsea Ballerini,The First Time,Peter Pan,200000,false
+2016-09-049,Dan + Shay,From the Ground Up (Single Version),From The Ground Up,254000,false
+2016-09-050,Sam Hunt,Montevallo,Make You Miss Me,227000,false
+2016-09-051,Britney Spears Featuring G-Eazy,Glory (Deluxe),Make Me...,231000,false
+2016-09-052,Skrillex & Rick Ross,Purple Lamborghini,Purple Lamborghini,215000,true
+2016-09-053,Dierks Bentley Featuring Elle King,Black,Different For Girls,181000,false
+2016-09-054,ScHoolboy Q Featuring Kanye West,Blank Face LP,THat Part,316000,true
+2016-09-055,Lukas Graham,Lukas Graham (Blue Album),Mama Said,207000,false
+2016-09-056,Wale,MY PYT,My PYT,235000,true
+2016-09-057,Grace Featuring G-Eazy,Hip-Hop Hits Overload,You Don't Own Me,200000,false
+2016-09-058,Kenny Chesney Featuring P!nk,Cosmic Hallelujah,Setting The World On Fire,217000,false
+2016-09-059,Future,EVOL,Wicked,173000,true
+2016-09-060,Beyonce,Lemonade,Sorry,232000,true
+2016-09-061,Jake Owen,American Love,American Country Love Song,199000,false
+2016-09-062,Hailee Steinfeld & Grey Featuring Zedd,Starving,Starving,181000,false
+2016-09-063,Lil Uzi Vert,Lil Uzi Vert vs. The World,Money Longer,198000,true
+2016-09-064,Eric Church,Mr. Misunderstood,Record Year,179000,false
+2016-09-065,PARTYNEXTDOOR Featuring Drake,Come and See Me (feat. Drake),Come And See Me,235000,true
+2016-09-066,Dae Dae,"Wat U Mean (Aye, Aye, Aye)","Wat U Mean (Aye, Aye, Aye)",181000,true
+2016-09-067,French Montana Featuring Drake,No Shopping,No Shopping,227000,true
+2016-09-068,Selena Gomez,Revival (Deluxe),Kill Em With Kindness,218000,false
+2016-09-069,Miranda Lambert,The Weight of These Wings,Vice,239000,false
+2016-09-070,Blake Shelton,If I'm Honest,She's Got A Way With Words,190000,false
+2016-09-071,YG Featuring Drake & Kamaiyah,Still Brazy (Deluxe),Why You Always Hatin?,198000,true
+2016-09-072,Marc E. Bassy Featuring G-Eazy,Groovy People,You & Me,218000,true
+2016-09-073,Nicky Jam,Fénix,With You Tonight / Hasta El Amanecer,210000,false
+2016-09-074,Kanye West,The Life Of Pablo,"Father Stretch My Hands, Pt. 1",135000,true
+2016-09-075,Billy Currington,Summer Forever,It Don't Hurt Like It Used To,184000,false
+2016-09-076,Rae Sremmurd,SremmLife 2 (Deluxe),Look Alive,228000,true
+2016-09-077,MadeinTYO,You Are Forgiven (Deluxe Edition),Uber Everywhere,153000,true
+2016-09-078,Carrie Underwood,Storyteller,Church Bells,193000,false
+2016-09-079,Justin Moore,Tailgate Anthems,You Look Like I Need A Drink,189000,false
+2016-09-080,Rob $tone Featuring J. Davi$ & Spooks,Chill Bill (feat. J. Davi$ & Spooks),Chill Bill,177000,true
+2016-09-081,Jacob Sartorius,Hit or Miss,Hit Or Miss,238000,false
+2016-09-082,Chris Lane,Girl Problems,Fix,190000,false
+2016-09-083,French Montana Featuring Kodak Black,Lockjaw (feat. Kodak Black),Lockjaw,223000,true
+2016-09-084,Cole Swindell,You Should Be Here,Middle Of A Memory,226000,false
+2016-09-085,DNCE,DNCE,Toothbrush,231000,false
+2016-09-086,Drake Featuring The Throne,Views,Pop Style,213000,true
+2016-09-087,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-09-088,Enrique Iglesias Feat. Wisin or Tinashe & Javada,,Duele El Corazon,200000,false
+2016-09-089,Jason Aldean,30 Number One Hits,Lights Come On,194000,false
+2016-09-090,Young Thug And Travis Scott Featuring Quavo,Birds In The Trap Sing McKnight,Pick Up The Phone,252000,false
+2016-09-091,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",Major Key,Do You Mind,325000,true
+2016-09-092,Lil Uzi Vert,Lil Uzi Vert vs. The World,You Was Right,163000,true
+2016-09-093,Martin Garrix & Bebe Rexha,In the Name of Love,In The Name Of Love,195000,false
+2016-09-094,Lil Yachty,Lil Boat,1 Night,243000,true
+2016-09-095,"DJ Drama Featuring Chris Brown, Skeme & Lyquin",Wishing,Wishing,252000,true
+2016-09-096,Zac Brown Band,JEKYLL + HYDE,Castaway,188000,false
+2016-09-097,Galantis,No Money,No Money,189000,false
+2016-09-098,Tucker Beathard,The Greatest Country Hits of the Month January.2017,Rock On,215000,false
+2016-09-099,Keith Urban,Ripcord,Wasted Time,233000,false
+2016-09-100,Rihanna,ANTI (Deluxe),Sex With Me,206000,true
+2016-10-001,The Chainsmokers Featuring Halsey,Closer,Closer,249000,false
+2016-10-002,twenty one pilots,Heathens,Heathens,195000,false
+2016-10-003,Major Lazer Featuring Justin Bieber & MO,Major Lazer Essentials,Cold Water,185000,false
+2016-10-004,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-10-005,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-10-006,DJ Snake Featuring Justin Bieber,Encore,Let Me Love You,205000,false
+2016-10-007,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-10-008,Shawn Mendes,Illuminate,Treat You Better,189000,false
+2016-10-009,twenty one pilots,Blurryface,Ride,214000,false
+2016-10-010,Adele,25,Send My Love (To Your New Lover),223000,false
+2016-10-011,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-10-012,D.R.A.M. Featuring Lil Yachty,Broccoli (feat. Lil Yachty),Broccoli,225000,true
+2016-10-013,Charlie Puth Featuring Selena Gomez,Nine Track Mind,We Don't Talk Anymore,217000,false
+2016-10-014,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-10-015,Lady Gaga,Joanne (Deluxe),Perfect Illusion,182000,false
+2016-10-016,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-10-017,Ariana Grande,Dangerous Woman,Into You,244000,false
+2016-10-018,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-10-019,Ariana Grande Featuring Nicki Minaj,Dangerous Woman,Side To Side,226000,true
+2016-10-020,Kiiara,Gold,Gold,225000,false
+2016-10-021,Tory Lanez,I Told You,Luv,228000,true
+2016-10-022,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors","Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",Sucker For Pain,243000,true
+2016-10-023,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-10-024,Sia Featuring Kendrick Lamar,This Is Acting (Deluxe Version),The Greatest,210000,false
+2016-10-025,Desiigner,Panda,Panda,247000,true
+2016-10-026,Coldplay,A Head Full of Dreams,Hymn For The Weekend,258000,false
+2016-10-027,DJ Khaled Featuring Drake,For Free,For Free,183000,true
+2016-10-028,Flume Featuring Kai,Never Be Like You,Never Be Like You,234000,true
+2016-10-029,X Ambassadors,VHS,Unsteady,192000,false
+2016-10-030,Drake,Views,Controlla,245000,true
+2016-10-031,Kungs vs Cookin' On 3 Burners,Layers,This Girl,196000,false
+2016-10-032,Daya,Daya,"Sit Still, Look Pretty",207000,false
+2016-10-033,Hailee Steinfeld & Grey Featuring Zedd,Starving,Starving,181000,false
+2016-10-034,Desiigner,Tiimmy Turner,Tiimmy Turner,239000,true
+2016-10-035,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-10-036,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",Just Like Fire,215000,false
+2016-10-037,Usher Featuring Young Thug,Hard II Love,No Limit,228000,true
+2016-10-038,twenty one pilots,Blurryface,Stressed Out,202000,false
+2016-10-039,Kelsea Ballerini,The First Time,Peter Pan,200000,false
+2016-10-040,Kenny Chesney Featuring P!nk,Cosmic Hallelujah,Setting The World On Fire,217000,false
+2016-10-041,Rihanna Featuring Drake,ANTI (Deluxe),Work,219000,true
+2016-10-042,Dierks Bentley Featuring Elle King,Black,Different For Girls,181000,false
+2016-10-043,Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza,198000,true
+2016-10-044,Future Featuring The Weeknd,EVOL,Low Life,315000,true
+2016-10-045,Lukas Graham,Lukas Graham (Blue Album),7 Years,237000,false
+2016-10-046,Lukas Graham,Lukas Graham (Blue Album),Mama Said,207000,false
+2016-10-047,Kanye West,The Life Of Pablo,Fade,193000,true
+2016-10-048,Young Thug And Travis Scott Featuring Quavo,Birds In The Trap Sing McKnight,Pick Up The Phone,252000,false
+2016-10-049,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,194000,false
+2016-10-050,Rob $tone Featuring J. Davi$ & Spooks,Chill Bill (feat. J. Davi$ & Spooks),Chill Bill,177000,true
+2016-10-051,Martin Garrix & Bebe Rexha,In the Name of Love,In The Name Of Love,195000,false
+2016-10-052,Fifth Harmony Featuring Fetty Wap,7/27 (Deluxe),All In My Head (Flex),210000,false
+2016-10-053,Meghan Trainor,Thank You (Deluxe Version),Me Too,181000,false
+2016-10-054,Lil Uzi Vert,Lil Uzi Vert vs. The World,Money Longer,198000,true
+2016-10-055,Billy Currington,Summer Forever,It Don't Hurt Like It Used To,184000,false
+2016-10-056,Kanye West,The Life Of Pablo,"Father Stretch My Hands, Pt. 1",135000,true
+2016-10-057,Sam Hunt,Montevallo,Make You Miss Me,227000,false
+2016-10-058,Kent Jones,Don't Mind,Don't Mind,198000,true
+2016-10-059,DJ Khaled Featuring Jay Z & Future,I Got the Keys (feat. JAY-Z & Future),I Got The Keys,219000,true
+2016-10-060,Miranda Lambert,The Weight of These Wings,Vice,239000,false
+2016-10-061,Marc E. Bassy Featuring G-Eazy,Groovy People,You & Me,218000,true
+2016-10-062,Alessia Cara,Know-It-All (Deluxe),Scars To Your Beautiful,230000,false
+2016-10-063,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-10-064,Cole Swindell,You Should Be Here,Middle Of A Memory,226000,false
+2016-10-065,Tucker Beathard,The Greatest Country Hits of the Month January.2017,Rock On,215000,false
+2016-10-066,ScHoolboy Q Featuring Kanye West,Blank Face LP,THat Part,316000,true
+2016-10-067,Young M.A,OOOUUU,OOOUUU,234000,true
+2016-10-068,Dae Dae,"Wat U Mean (Aye, Aye, Aye)","Wat U Mean (Aye, Aye, Aye)",181000,true
+2016-10-069,Jason Aldean,30 Number One Hits,A Little More Summertime,219000,false
+2016-10-070,Amine,Caroline,Caroline,209000,true
+2016-10-071,William Michael Morgan,My Favorite 10s Country,I Met A Girl,201000,false
+2016-10-072,Katy Perry,Rise,Rise,203000,false
+2016-10-073,Keith Urban,Ripcord,Blue Ain't Your Color,230000,false
+2016-10-074,Kehlani,Suicide Squad: The Album,Gangsta,177000,true
+2016-10-075,Post Malone Featuring Justin Bieber,Stoney (Deluxe),Deja Vu,235000,true
+2016-10-076,Britney Spears Featuring G-Eazy,Glory (Deluxe),Make Me...,231000,false
+2016-10-077,YG Featuring Drake & Kamaiyah,Still Brazy (Deluxe),Why You Always Hatin?,198000,true
+2016-10-078,Skrillex & Rick Ross,Purple Lamborghini,Purple Lamborghini,215000,true
+2016-10-079,Blake Shelton,If I'm Honest,She's Got A Way With Words,190000,false
+2016-10-080,Luke Bryan,Kill The Lights (Deluxe),Move,226000,false
+2016-10-081,DJ ESCO Featuring Future & Lil Uzi Vert,Too Much Sauce (feat. Future & Lil Uzi Vert),Too Much Sauce,223000,true
+2016-10-082,PARTYNEXTDOOR Featuring Drake,Come and See Me (feat. Drake),Come And See Me,235000,true
+2016-10-083,Lil Yachty,Lil Boat,1 Night,243000,true
+2016-10-084,Wale,MY PYT,My PYT,235000,true
+2016-10-085,LOCASH,The Fighters,I Know Somebody,197000,false
+2016-10-086,Florida Georgia Line Featuring Tim McGraw,Dig Your Roots,May We All,227000,false
+2016-10-087,Drake,Views,Childs Play,241000,true
+2016-10-088,Beyonce,Lemonade,Hold Up,221000,true
+2016-10-089,Brett Young,Brett Young,Sleep Without You,185000,false
+2016-10-090,Jake Owen,American Love,American Country Love Song,199000,false
+2016-10-091,Justin Moore,Tailgate Anthems,You Look Like I Need A Drink,189000,false
+2016-10-092,Nicky Jam,Fénix,With You Tonight / Hasta El Amanecer,210000,false
+2016-10-093,"DJ Drama Featuring Chris Brown, Skeme & Lyquin",Wishing,Wishing,252000,true
+2016-10-094,Chris Brown,Heartbreak On A Full Moon Deluxe Edition: Cuffing Season - 12 Days Of Christmas,Grass Ain't Greener,201000,true
+2016-10-095,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",Major Key,Do You Mind,325000,true
+2016-10-096,Rae Sremmurd Featuring Gucci Mane,SremmLife 2 (Deluxe),Black Beatles,292000,true
+2016-10-097,French Montana Featuring Drake,No Shopping,No Shopping,227000,true
+2016-10-098,21 Savage & Metro Boomin Featuring Future,Savage Mode,X,258000,true
+2016-10-099,Lil Uzi Vert,Lil Uzi Vert vs. The World,You Was Right,163000,true
+2016-10-100,Grace Featuring G-Eazy,Hip-Hop Hits Overload,You Don't Own Me,200000,false
+2016-11-001,The Chainsmokers Featuring Halsey,Closer,Closer,249000,false
+2016-11-002,The Weeknd Featuring Daft Punk,Starboy,Starboy,230000,true
+2016-11-003,twenty one pilots,Heathens,Heathens,195000,false
+2016-11-004,DJ Snake Featuring Justin Bieber,Encore,Let Me Love You,205000,false
+2016-11-005,D.R.A.M. Featuring Lil Yachty,Broccoli (feat. Lil Yachty),Broccoli,225000,true
+2016-11-006,Bruno Mars,24K Magic,24K Magic,225000,false
+2016-11-007,Major Lazer Featuring Justin Bieber & MO,Major Lazer Essentials,Cold Water,185000,false
+2016-11-008,Ariana Grande Featuring Nicki Minaj,Dangerous Woman,Side To Side,226000,true
+2016-11-009,Maroon 5 Featuring Kendrick Lamar,Red Pill Blues (Deluxe),Don't Wanna Know,214000,false
+2016-11-010,Shawn Mendes,Illuminate,Treat You Better,189000,false
+2016-11-011,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-11-012,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-11-013,Zay Hilfigerrr & Zayion McCall,Juju on That Beat (TZ Anthem),Juju On That Beat (TZ Anthem),144000,false
+2016-11-014,Kiiara,Gold,Gold,225000,false
+2016-11-015,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-11-016,twenty one pilots,Blurryface,Ride,214000,false
+2016-11-017,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-11-018,Hailee Steinfeld & Grey Featuring Zedd,Starving,Starving,181000,false
+2016-11-019,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-11-020,Tory Lanez,I Told You,Luv,228000,true
+2016-11-021,Young M.A,OOOUUU,OOOUUU,234000,true
+2016-11-022,Rae Sremmurd Featuring Gucci Mane,SremmLife 2 (Deluxe),Black Beatles,292000,true
+2016-11-023,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-11-024,Adele,25,Send My Love (To Your New Lover),223000,false
+2016-11-025,Sia Featuring Kendrick Lamar,This Is Acting (Deluxe Version),The Greatest,210000,false
+2016-11-026,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-11-027,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors","Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",Sucker For Pain,243000,true
+2016-11-028,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-11-029,Charlie Puth Featuring Selena Gomez,Nine Track Mind,We Don't Talk Anymore,217000,false
+2016-11-030,X Ambassadors,VHS,Unsteady,192000,false
+2016-11-031,Coldplay,A Head Full of Dreams,Hymn For The Weekend,258000,false
+2016-11-032,Amine,Caroline,Caroline,209000,true
+2016-11-033,Daya,Daya,"Sit Still, Look Pretty",207000,false
+2016-11-034,Desiigner,Tiimmy Turner,Tiimmy Turner,239000,true
+2016-11-035,Calvin Harris,My Way,My Way,219000,false
+2016-11-036,Alessia Cara,Know-It-All (Deluxe),Scars To Your Beautiful,230000,false
+2016-11-037,Kenny Chesney Featuring P!nk,Cosmic Hallelujah,Setting The World On Fire,217000,false
+2016-11-038,Desiigner,Panda,Panda,247000,true
+2016-11-039,Rob $tone Featuring J. Davi$ & Spooks,Chill Bill (feat. J. Davi$ & Spooks),Chill Bill,177000,true
+2016-11-040,Keith Urban,Ripcord,Blue Ain't Your Color,230000,false
+2016-11-041,Ariana Grande,Dangerous Woman,Into You,244000,false
+2016-11-042,Martin Garrix & Bebe Rexha,In the Name of Love,In The Name Of Love,195000,false
+2016-11-043,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-11-044,The Chainsmokers Featuring Phoebe Ryan,All We Know (feat. Phoebe Ryan),All We Know,196000,false
+2016-11-045,Drake,Views,Controlla,245000,true
+2016-11-046,Cole Swindell,You Should Be Here,Middle Of A Memory,226000,false
+2016-11-047,DJ Khaled Featuring Drake,For Free,For Free,183000,true
+2016-11-048,Usher Featuring Young Thug,Hard II Love,No Limit,228000,true
+2016-11-049,Fifth Harmony Featuring Ty Dolla $ign,7/27 (Deluxe),Work From Home,217000,false
+2016-11-050,Florida Georgia Line Featuring Tim McGraw,Dig Your Roots,May We All,227000,false
+2016-11-051,Young Thug And Travis Scott Featuring Quavo,Birds In The Trap Sing McKnight,Pick Up The Phone,252000,false
+2016-11-052,Lil Yachty,Lil Boat,1 Night,243000,true
+2016-11-053,Luke Bryan,Kill The Lights (Deluxe),Move,226000,false
+2016-11-054,21 Savage & Metro Boomin Featuring Future,Savage Mode,X,258000,true
+2016-11-055,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",Major Key,Do You Mind,325000,true
+2016-11-056,LOCASH,The Fighters,I Know Somebody,197000,false
+2016-11-057,Jason Aldean,30 Number One Hits,A Little More Summertime,219000,false
+2016-11-058,Lil Uzi Vert,Lil Uzi Vert vs. The World,Money Longer,198000,true
+2016-11-059,Jon Bellion,All Time Low,All Time Low,217000,true
+2016-11-060,PARTYNEXTDOOR Featuring Drake,Come and See Me (feat. Drake),Come And See Me,235000,true
+2016-11-061,Brett Young,Brett Young,Sleep Without You,185000,false
+2016-11-062,Billy Currington,Summer Forever,It Don't Hurt Like It Used To,184000,false
+2016-11-063,DJ ESCO Featuring Future & Lil Uzi Vert,Too Much Sauce (feat. Future & Lil Uzi Vert),Too Much Sauce,223000,true
+2016-11-064,Kanye West,The Life Of Pablo,Fade,193000,true
+2016-11-065,Niall Horan,This Town,This Town,233000,false
+2016-11-066,Miranda Lambert,The Weight of These Wings,Vice,239000,false
+2016-11-067,Fitz And The Tantrums,HandClap,HandClap,193000,false
+2016-11-068,The Weeknd,Starboy,False Alarm,220000,false
+2016-11-069,Old Dominion,Meat and Candy,Song For Another Time,191000,false
+2016-11-070,YFN Lucci Featuring Migos & Trouble,Key to the Streets (feat. Migos & Trouble) - Single,Key To The Streets,281000,true
+2016-11-071,Lil Uzi Vert,Lil Uzi Vert vs. The World,You Was Right,163000,true
+2016-11-072,Dua Lipa,Dua Lipa (Deluxe),Blow Your Mind (Mwah),178000,true
+2016-11-073,Carrie Underwood,Storyteller,Dirty Laundry,204000,false
+2016-11-074,Andy Grammer,Save A Spot In The Back For Me (Stripped),Fresh Eyes,206000,false
+2016-11-075,Kungs vs Cookin' On 3 Burners,Layers,This Girl,196000,false
+2016-11-076,Brett Eldredge,Illinois,Wanna Be That Song,236000,false
+2016-11-077,"DJ Drama Featuring Chris Brown, Skeme & Lyquin",Wishing,Wishing,252000,true
+2016-11-078,Frenship & Emily Warren,Capsize,Capsize,237000,false
+2016-11-079,The Game Featuring Jeremih,All Eyez,All Eyez,215000,true
+2016-11-080,Machine Gun Kelly x Camila Cabello,Acoustic & Guitar Session Vol.7 Covers,Bad Things,243000,false
+2016-11-081,Dae Dae,"Wat U Mean (Aye, Aye, Aye)","Wat U Mean (Aye, Aye, Aye)",181000,true
+2016-11-082,Beyonce,Lemonade,Hold Up,221000,true
+2016-11-083,Dierks Bentley Featuring Elle King,Black,Different For Girls,181000,false
+2016-11-084,Shawn Mendes,Illuminate,Mercy,208000,false
+2016-11-085,Zara Larsson,So Good,Ain't My Fault,220000,false
+2016-11-086,ScHoolboy Q Featuring Kanye West,Blank Face LP,THat Part,316000,true
+2016-11-087,Kehlani,SweetSexySavage (Deluxe),CRZY,191000,true
+2016-11-088,YG Featuring Drake & Kamaiyah,Still Brazy (Deluxe),Why You Always Hatin?,198000,true
+2016-11-089,Fifth Harmony Featuring Fetty Wap,7/27 (Deluxe),All In My Head (Flex),210000,false
+2016-11-090,Kehlani,Suicide Squad: The Album,Gangsta,177000,true
+2016-11-091,Tucker Beathard,The Greatest Country Hits of the Month January.2017,Rock On,215000,false
+2016-11-092,Marc E. Bassy Featuring G-Eazy,Groovy People,You & Me,218000,true
+2016-11-093,Marshmello,Alone,Alone,273000,false
+2016-11-094,William Michael Morgan,My Favorite 10s Country,I Met A Girl,201000,false
+2016-11-095,Maren Morris,HERO (Deluxe Edition),80s Mercedes,211000,false
+2016-11-096,DJ Khaled Featuring Jay Z & Future,I Got the Keys (feat. JAY-Z & Future),I Got The Keys,219000,true
+2016-11-097,French Montana Featuring Kodak Black,Lockjaw (feat. Kodak Black),Lockjaw,223000,true
+2016-11-098,A Boogie Wit da Hoodie,My Shit,My Sh*t,128000,true
+2016-11-099,Tim McGraw,McGraw Machine Hits: 2013-2019,How I'll Always Be,213000,false
+2016-11-100,Travis Scott,Water (Remix),Goosebumps,200000,false
+2016-12-001,Rae Sremmurd Featuring Gucci Mane,SremmLife 2 (Deluxe),Black Beatles,292000,true
+2016-12-002,The Chainsmokers Featuring Halsey,Closer,Closer,249000,false
+2016-12-003,The Weeknd Featuring Daft Punk,Starboy,Starboy,230000,true
+2016-12-004,Ariana Grande Featuring Nicki Minaj,Dangerous Woman,Side To Side,226000,true
+2016-12-005,twenty one pilots,Heathens,Heathens,195000,false
+2016-12-006,Bruno Mars,24K Magic,24K Magic,225000,false
+2016-12-007,DJ Snake Featuring Justin Bieber,Encore,Let Me Love You,205000,false
+2016-12-008,Zay Hilfigerrr & Zayion McCall,Juju on That Beat (TZ Anthem),Juju On That Beat (TZ Anthem),144000,false
+2016-12-009,D.R.A.M. Featuring Lil Yachty,Broccoli (feat. Lil Yachty),Broccoli,225000,true
+2016-12-010,Maroon 5 Featuring Kendrick Lamar,Red Pill Blues (Deluxe),Don't Wanna Know,214000,false
+2016-12-011,gnash Featuring Olivia O'Brien,us,I Hate U I Love U,251000,true
+2016-12-012,Amine,Caroline,Caroline,209000,true
+2016-12-013,Major Lazer Featuring Justin Bieber & MO,Major Lazer Essentials,Cold Water,185000,false
+2016-12-014,Drake,More Life,Fake Love,211000,true
+2016-12-015,Hailee Steinfeld & Grey Featuring Zedd,Starving,Starving,181000,false
+2016-12-016,Shawn Mendes,Illuminate,Treat You Better,189000,false
+2016-12-017,Alessia Cara,Know-It-All (Deluxe),Scars To Your Beautiful,230000,false
+2016-12-018,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Can't Stop The Feeling!,236000,false
+2016-12-019,Sia Featuring Sean Paul,Cheap Thrills (feat. Sean Paul),Cheap Thrills,224000,false
+2016-12-020,Sia Featuring Kendrick Lamar,This Is Acting (Deluxe Version),The Greatest,210000,false
+2016-12-021,X Ambassadors,VHS,Unsteady,192000,false
+2016-12-022,Young M.A,OOOUUU,OOOUUU,234000,true
+2016-12-023,The Chainsmokers Featuring Daya,Don't Let Me Down,Don't Let Me Down,208000,false
+2016-12-024,Keith Urban,Ripcord,Blue Ain't Your Color,230000,false
+2016-12-025,Calvin Harris Featuring Rihanna,This Is What You Came For,This Is What You Came For,222000,false
+2016-12-026,Martin Garrix & Bebe Rexha,In the Name of Love,In The Name Of Love,195000,false
+2016-12-027,Kiiara,Gold,Gold,225000,false
+2016-12-028,twenty one pilots,Blurryface,Ride,214000,false
+2016-12-029,Rob $tone Featuring J. Davi$ & Spooks,Chill Bill (feat. J. Davi$ & Spooks),Chill Bill,177000,true
+2016-12-030,Florida Georgia Line Featuring Tim McGraw,Dig Your Roots,May We All,227000,false
+2016-12-031,Future Featuring Drake,Used to This (feat. Drake),Used To This,180000,true
+2016-12-032,Rihanna,ANTI (Deluxe),Needed Me,191000,true
+2016-12-033,Drake Featuring WizKid & Kyla,Views,One Dance,174000,false
+2016-12-034,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",Major Key,Do You Mind,325000,true
+2016-12-035,Jon Bellion,All Time Low,All Time Low,217000,true
+2016-12-036,21 Savage & Metro Boomin Featuring Future,Savage Mode,X,258000,true
+2016-12-037,"Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors","Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",Sucker For Pain,243000,true
+2016-12-038,Desiigner,Tiimmy Turner,Tiimmy Turner,239000,true
+2016-12-039,Adele,25,Send My Love (To Your New Lover),223000,false
+2016-12-040,Tory Lanez,I Told You,Luv,228000,true
+2016-12-041,John Legend,Love Me Now,Love Me Now,210000,false
+2016-12-042,Desiigner,Panda,Panda,247000,true
+2016-12-043,Chance The Rapper Featuring Lil Wayne & 2 Chainz,Coloring Book,No Problem,304000,true
+2016-12-044,Drake Featuring 21 Savage,Sneakin’,Sneakin',251000,true
+2016-12-045,Young Thug And Travis Scott Featuring Quavo,Birds In The Trap Sing McKnight,Pick Up The Phone,252000,false
+2016-12-046,Machine Gun Kelly x Camila Cabello,Acoustic & Guitar Session Vol.7 Covers,Bad Things,243000,false
+2016-12-047,Shawn Mendes,Illuminate,Mercy,208000,false
+2016-12-048,Drake Featuring Rihanna,Views,Too Good,263000,true
+2016-12-049,Charlie Puth Featuring Selena Gomez,Nine Track Mind,We Don't Talk Anymore,217000,false
+2016-12-050,Rihanna,ANTI (Deluxe),Love On The Brain,224000,true
+2016-12-051,Brett Young,Brett Young,Sleep Without You,185000,false
+2016-12-052,Cole Swindell,You Should Be Here,Middle Of A Memory,226000,false
+2016-12-053,Lil Yachty,Lil Boat,1 Night,243000,true
+2016-12-054,Jason Aldean,30 Number One Hits,A Little More Summertime,219000,false
+2016-12-055,PARTYNEXTDOOR Featuring Drake,Come and See Me (feat. Drake),Come And See Me,235000,true
+2016-12-056,Pentatonix,Hallelujah,Hallelujah,268000,false
+2016-12-057,Lil Uzi Vert,Lil Uzi Vert vs. The World,You Was Right,163000,true
+2016-12-058,Kenny Chesney Featuring P!nk,Cosmic Hallelujah,Setting The World On Fire,217000,false
+2016-12-059,Leonard Cohen,The Essential Leonard Cohen,Hallelujah,279000,false
+2016-12-060,Big Sean,I Decided.,Bounce Back,222000,true
+2016-12-061,Niall Horan,This Town,This Town,233000,false
+2016-12-062,Old Dominion,Meat and Candy,Song For Another Time,191000,false
+2016-12-063,DJ ESCO Featuring Future & Lil Uzi Vert,Too Much Sauce (feat. Future & Lil Uzi Vert),Too Much Sauce,223000,true
+2016-12-064,Brett Eldredge,Illinois,Wanna Be That Song,236000,false
+2016-12-065,21 Savage & Metro Boomin,Savage Mode,No Heart,235000,true
+2016-12-066,Kanye West,The Life Of Pablo,Fade,193000,true
+2016-12-067,Andy Grammer,Save A Spot In The Back For Me (Stripped),Fresh Eyes,206000,false
+2016-12-068,The Chainsmokers Featuring Phoebe Ryan,All We Know (feat. Phoebe Ryan),All We Know,196000,false
+2016-12-069,Childish Gambino,"""Awaken, My Love!""",Me And Your Mama,379000,true
+2016-12-070,Little Big Town,The Breaker,Better Man,261000,false
+2016-12-071,Carrie Underwood,Storyteller,Dirty Laundry,204000,false
+2016-12-072,Rae Sremmurd,SremmLife 2 (Deluxe),Look Alive,228000,true
+2016-12-073,Luke Bryan,Kill The Lights (Deluxe),Move,226000,false
+2016-12-074,Calvin Harris,My Way,My Way,219000,false
+2016-12-075,James Arthur,Say You Won't Let Go,Say You Won't Let Go,211000,false
+2016-12-076,Migos Featuring Lil Uzi Vert,Culture,Bad And Boujee,343000,true
+2016-12-077,A Tribe Called Quest,We got it from Here... Thank You 4 Your service,We The People....,172000,true
+2016-12-078,Fitz And The Tantrums,HandClap,HandClap,193000,false
+2016-12-079,Zara Larsson,So Good,Ain't My Fault,220000,false
+2016-12-080,Frenship & Emily Warren,Capsize,Capsize,237000,false
+2016-12-081,YFN Lucci Featuring Migos & Trouble,Key to the Streets (feat. Migos & Trouble) - Single,Key To The Streets,281000,true
+2016-12-082,Thomas Rhett,Tangled Up (Deluxe),Star Of The Show,180000,false
+2016-12-083,Russ,What They Want,What They Want,165000,true
+2016-12-084,Miranda Lambert,The Weight of These Wings,Vice,239000,false
+2016-12-085,Meek Mill Featuring Tory Lanez,DC4,Litty,280000,true
+2016-12-086,The Chainsmokers Featuring XYLO,Collage EP,Setting Fires,250000,false
+2016-12-087,PnB Rock,Selfish,Selfish,245000,true
+2016-12-088,Tim McGraw,McGraw Machine Hits: 2013-2019,How I'll Always Be,213000,false
+2016-12-089,A Boogie Wit da Hoodie,My Shit,My Sh*t,128000,true
+2016-12-090,Maren Morris,HERO (Deluxe Edition),80s Mercedes,211000,false
+2016-12-091,Billy Currington,Summer Forever,It Don't Hurt Like It Used To,184000,false
+2016-12-092,Rihanna,ANTI (Deluxe),Sex With Me,206000,true
+2016-12-093,PIKOTARO,PPAP (Pen Pineapple Apple Pen) (Long Version),PPAP (Pen-Pineapple-Apple-Pen),124000,false
+2016-12-094,Adele,25,Water Under The Bridge,240000,false
+2016-12-095,Little Mix,Glory Days (Expanded Edition),Shout Out To My Ex,243000,false
+2016-12-096,Pitbull Featuring Flo Rida & LunchMoney Lewis,Greenlight (feat. Flo Rida & LunchMoney Lewis),Greenlight,244000,false
+2016-12-097,Blake Shelton,If I'm Honest,A Guy With A Girl,189000,false
+2016-12-098,"DJ Drama Featuring Chris Brown, Skeme & Lyquin",Wishing,Wishing,252000,true
+2016-12-099,Starley,One of One,Call On Me,222000,false
+2016-12-100,Travis Scott,Water (Remix),Goosebumps,200000,false

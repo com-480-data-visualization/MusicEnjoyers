@@ -1,0 +1,1201 @@
+track_id,artists,album_name,track_name,duration_ms,explicit
+2020-01-001,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2020-01-002,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
+2020-01-003,Bobby Helms,Jingle Bells,Jingle Bell Rock,130000,false
+2020-01-004,Burl Ives,Have A Holly Jolly Christmas,A Holly Jolly Christmas,128000,false
+2020-01-005,Post Malone,Circles,Circles,215000,false
+2020-01-006,Arizona Zervas,ROXANNE,Roxanne,163000,true
+2020-01-007,Andy Williams,The Andy Williams Christmas Album,It's The Most Wonderful Time Of The Year,151000,false
+2020-01-008,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2020-01-009,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-01-010,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2020-01-011,Wham!,LAST CHRISTMAS,Last Christmas,264000,false
+2020-01-012,Jose Feliciano,Feliz Navidad,Feliz Navidad,182000,false
+2020-01-013,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-01-014,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2020-01-015,Dean Martin,Let It Snow,"Let It Snow, Let It Snow, Let It Snow",116000,false
+2020-01-016,Nat King Cole,The Christmas Song,The Christmas Song (Merry Christmas To You),190000,false
+2020-01-017,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2020-01-018,Selena Gomez,Rare,Lose You To Love Me,206000,false
+2020-01-019,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2020-01-020,DaBaby,KIRK,BOP,161000,true
+2020-01-021,The Ronettes,A Christmas Gift For You From Phil Spector,Sleigh Ride,181000,false
+2020-01-022,Gene Autry,Rudolph The Red Nosed Reindeer And Other Christmas Classics,Rudolph The Red-Nosed Reindeer,187000,false
+2020-01-023,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2020-01-024,Andy Williams,Christmas Album,Happy Holiday / The Holiday Season,156000,false
+2020-01-025,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2020-01-026,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2020-01-027,Juice WRLD & YoungBoy Never Broke Again,Bandit,Bandit,189000,false
+2020-01-028,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,Greatest Christmas Songs,It's Beginning To Look A Lot Like Christmas,155000,false
+2020-01-029,Darlene Love,A Christmas Gift For You From Phil Spector,Christmas (Baby Please Come Home),166000,false
+2020-01-030,Lil Nas X,7,Panini,114000,false
+2020-01-031,Kelly Clarkson,Wrapped In Red,Underneath The Tree,229000,false
+2020-01-032,Gene Autry,The Essential Gene Autry,Here Comes Santa Claus (Right Down Santa Claus Lane),150000,false
+2020-01-033,Young Thug Featuring Gunna,Hot (Remix) [feat. Gunna and Travis Scott],Hot,279000,true
+2020-01-034,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2020-01-035,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2020-01-036,Chuck Berry,Rock 'N' Roll Rarities,Run Rudolph Run,162000,false
+2020-01-037,Perry Como With Mitchell Ayers And His Orchestra,A Perry Como Christmas,(There's No Place Like) Home For The Holidays (1959),178000,false
+2020-01-038,Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,175000,true
+2020-01-039,The Weeknd,After Hours,Heartless,200000,true
+2020-01-040,Elvis Presley,Blue Christmas,Blue Christmas,128000,false
+2020-01-041,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-01-042,Bing Crosby,The Polar Express (Original Motion Picture Soundtrack),White Christmas,184000,false
+2020-01-043,Frank Sinatra,Christmas,Jingle Bells,117000,false
+2020-01-044,Jonas Brothers,Like It's Christmas,Like It's Christmas,201000,false
+2020-01-045,Dean Martin,A Winter Romance,Baby It's Cold Outside,140000,false
+2020-01-046,SHAED,Trampoline,Trampoline,184000,false
+2020-01-047,Lil Baby,Woah,Woah,183000,true
+2020-01-048,Lil Uzi Vert,Futsal Shuffle 2020,Futsal Shuffle 2020,198000,true
+2020-01-049,Thurl Ravenscroft,How The Grinch Stole Christmas,"You're A Mean One, Mr. Grinch",176000,false
+2020-01-050,Lil Tecca,Ransom,Ran$om,131000,true
+2020-01-051,Trevor Daniel,Nicotine,Falling,159000,false
+2020-01-052,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-01-053,Harry Styles,Fine Line,Adore You,207000,false
+2020-01-054,Old Dominion,Old Dominion,One Man Band,186000,false
+2020-01-055,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-01-056,YNW Melly & Juice WRLD,Melly vs. Melvin,Suicidal,223000,true
+2020-01-057,Taylor Swift,Lover,Lover,221000,false
+2020-01-058,Wale Featuring Jeremih,On Chill (feat. Jeremih),On Chill,214000,true
+2020-01-059,Luke Combs,What You See Is What You Get,Even Though I'm Leaving,225000,false
+2020-01-060,Don Toliver,No Idea,No Idea,154000,false
+2020-01-061,Halsey,Manic,Graveyard,181000,false
+2020-01-062,Camila Cabello Featuring DaBaby,Romance,My Oh My,170000,false
+2020-01-063,Doja Cat & Tyga,Amala (Deluxe Version),Juicy,198000,true
+2020-01-064,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-01-065,Summer Walker,Over It,Playing Games,143000,true
+2020-01-066,Chris Brown Featuring Gunna,Indigo,Heat,232000,true
+2020-01-067,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into The Unknown,194000,false
+2020-01-068,DaBaby,KIRK,VIBEZ,145000,true
+2020-01-069,John Legend,A Legendary Christmas,Happy Xmas (War Is Over),212000,false
+2020-01-070,Rod Wave,Heart On Ice,Heart On Ice,159000,true
+2020-01-071,Lady Antebellum,Ocean,What If I Never Get Over You,206000,false
+2020-01-072,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-01-073,Dustin Lynch,Tullahoma,Ridin' Roads,205000,false
+2020-01-074,NLE Choppa,Camelot,Camelot,148000,true
+2020-01-075,Jon Pardi,Heartache Medication,Heartache Medication,209000,false
+2020-01-076,Roddy Ricch & Gunna,Please Excuse Me for Being Antisocial,Start Wit Me,158000,true
+2020-01-077,Post Malone Featuring Ozzy Osbourne & Travis Scott,Hollywood's Bleeding,Take What You Want,231000,false
+2020-01-078,"Layton Greene, Lil Baby, City Girls & PnB Rock",Quality Control: Control The Streets Volume 2,Leave Em Alone,172000,true
+2020-01-079,Ellie Goulding & Juice WRLD,Hate Me,Hate Me,186000,false
+2020-01-080,Sam Hunt,Kinfolks,Kinfolks,181000,false
+2020-01-081,Juice WRLD,Let Me Know (I Wonder Why Freestyle),Let Me Know (I Wonder Why Freestyle),215000,true
+2020-01-082,Thomas Rhett,Center Point Road,Remember You Young,180000,false
+2020-01-083,Trippie Redd Featuring DaBaby,A Love Letter To You 4 (5 Year Anniversary),Death,172000,true
+2020-01-084,YNW Melly & 9lokknine,223's (feat. 9lokknine),223's,176000,true
+2020-01-085,H.E.R. Featuring YG,Slide,Slide,238000,true
+2020-01-086,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),RITMO (Bad Boys For Life),222000,true
+2020-01-087,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-01-088,Kane Brown,Experiment Extended,Homesick,205000,false
+2020-01-089,Joji,BALLADS 1,Slow Dancing In The Dark,209000,true
+2020-01-090,DaniLeigh Featuring Chris Brown,Easy (Remix),Easy,190000,false
+2020-01-091,Bad Bunny,Vete,Vete,192000,true
+2020-01-092,DaBaby Featuring Offset,Baby On Baby,Baby Sitter,157000,true
+2020-01-093,Niall Horan,Nice To Meet Ya,Nice To Meet Ya,159000,false
+2020-01-094,Ant Saunders,Yellow Hearts,Yellow Hearts,223000,false
+2020-01-095,Roddy Ricch Featuring A Boogie Wit da Hoodie,Please Excuse Me for Being Antisocial,Tip Toe,185000,true
+2020-01-096,Doja Cat,Amala (Deluxe Version),Candy,190000,true
+2020-01-097,Russ & BIA,SHAKE THE SNOW GLOBE,BEST ON EARTH,160000,true
+2020-01-098,Karol G & Nicki Minaj,Tusa,Tusa,200000,true
+2020-01-099,Post Malone Featuring DaBaby,Hollywood's Bleeding,Enemies,196000,false
+2020-01-100,Ed Sheeran Featuring Camila Cabello & Cardi B,No.6 Collaborations Project,South Of The Border,204000,false
+2020-02-001,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-02-002,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-02-003,Eminem Featuring Juice WRLD,Music To Be Murdered By,Godzilla,211000,true
+2020-02-004,Post Malone,Circles,Circles,215000,false
+2020-02-005,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-02-006,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2020-02-007,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2020-02-008,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2020-02-009,Arizona Zervas,ROXANNE,Roxanne,163000,true
+2020-02-010,Selena Gomez,Rare,Lose You To Love Me,206000,false
+2020-02-011,Justin Bieber,Yummy,Yummy,208000,false
+2020-02-012,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2020-02-013,DaBaby,KIRK,BOP,161000,true
+2020-02-014,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2020-02-015,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-02-016,Jonas Brothers,What A Man Gotta Do,What A Man Gotta Do,180000,false
+2020-02-017,Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,175000,true
+2020-02-018,Mac Miller,Good News,Good News,342000,false
+2020-02-019,The Weeknd,After Hours,Heartless,200000,true
+2020-02-020,Roddy Ricch Featuring Mustard,Please Excuse Me for Being Antisocial,High Fashion,220000,true
+2020-02-021,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-02-022,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-02-023,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-02-024,SHAED,Trampoline,Trampoline,184000,false
+2020-02-025,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2020-02-026,Halsey,Manic,You Should Be Sad,205000,true
+2020-02-027,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-02-028,Eminem,Music To Be Murdered By,Darkness,337000,true
+2020-02-029,Lil Baby,Woah,Woah,183000,true
+2020-02-030,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2020-02-031,Eminem Featuring Ed Sheeran,Music To Be Murdered By,Those Kinda Nights,178000,true
+2020-02-032,Harry Styles,Fine Line,Adore You,207000,false
+2020-02-033,Lil Baby,Sum 2 Prove,Sum 2 Prove,206000,true
+2020-02-034,YNW Melly & Juice WRLD,Melly vs. Melvin,Suicidal,223000,true
+2020-02-035,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2020-02-036,Eminem Featuring Young M.A,Music To Be Murdered By,Unaccommodating,216000,true
+2020-02-037,Trevor Daniel,Nicotine,Falling,159000,false
+2020-02-038,Mac Miller,Circles,Blue World,209000,true
+2020-02-039,Lil Nas X,7,Panini,114000,false
+2020-02-040,Camila Cabello Featuring DaBaby,Romance,My Oh My,170000,false
+2020-02-041,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2020-02-042,Young Thug Featuring Gunna,Hot (Remix) [feat. Gunna and Travis Scott],Hot,279000,true
+2020-02-043,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2020-02-044,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2020-02-045,Luke Combs,What You See Is What You Get,Even Though I'm Leaving,225000,false
+2020-02-046,Old Dominion,Old Dominion,One Man Band,186000,false
+2020-02-047,Juice WRLD & YoungBoy Never Broke Again,Bandit,Bandit,189000,false
+2020-02-048,Mac Miller,Circles,Circles,170000,false
+2020-02-049,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2020-02-050,Doja Cat & Tyga,Amala (Deluxe Version),Juicy,198000,true
+2020-02-051,Jon Pardi,Heartache Medication,Heartache Medication,209000,false
+2020-02-052,"Eminem Featuring Royce da 5'9"" & White Gold",Music To Be Murdered By,You Gon' Learn,234000,true
+2020-02-053,Sam Hunt,Kinfolks,Kinfolks,181000,false
+2020-02-054,Halsey,Manic,Graveyard,181000,false
+2020-02-055,Karol G & Nicki Minaj,Tusa,Tusa,200000,true
+2020-02-056,Ed Sheeran Featuring Camila Cabello & Cardi B,No.6 Collaborations Project,South Of The Border,204000,false
+2020-02-057,BTS,MAP OF THE SOUL : 7,Black Swan,198000,false
+2020-02-058,Jhene Aiko,P*$$Y Fairy (OTW),P*$$y Fairy (OTW),181000,true
+2020-02-059,Lil Uzi Vert,Futsal Shuffle 2020,Futsal Shuffle 2020,198000,true
+2020-02-060,Dustin Lynch,Tullahoma,Ridin' Roads,205000,false
+2020-02-061,Eminem Featuring Skylar Grey,Music To Be Murdered By,Leaving Heaven,266000,true
+2020-02-062,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),RITMO (Bad Boys For Life),222000,true
+2020-02-063,Mac Miller,Circles,Complicated,232000,false
+2020-02-064,Mac Miller,Circles,Hand Me Downs,298000,false
+2020-02-065,DaBaby Featuring Lil Baby & Moneybagg Yo,KIRK,TOES,136000,true
+2020-02-066,Kane Brown,Experiment Extended,Homesick,205000,false
+2020-02-067,Eminem,Music To Be Murdered By,Premonition (Intro),174000,true
+2020-02-068,Mac Miller,Circles,I Can See,220000,false
+2020-02-069,DaBaby,KIRK,VIBEZ,145000,true
+2020-02-070,H.E.R. Featuring YG,Slide,Slide,238000,true
+2020-02-071,Eminem,Music To Be Murdered By,In Too Deep,194000,true
+2020-02-072,Rod Wave,Heart On Ice,Heart On Ice,159000,true
+2020-02-073,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-02-074,Roddy Ricch & Gunna,Please Excuse Me for Being Antisocial,Start Wit Me,158000,true
+2020-02-075,Mac Miller,Circles,Woods,286000,false
+2020-02-076,Blake Shelton Duet With Gwen Stefani,Fully Loaded: God's Country,Nobody But You,194000,false
+2020-02-077,Don Toliver,No Idea,No Idea,154000,false
+2020-02-078,BrockHampton,GINGER,SUGAR,204000,true
+2020-02-079,Russ & BIA,SHAKE THE SNOW GLOBE,BEST ON EARTH,160000,true
+2020-02-080,Mac Miller,Circles,Everybody,256000,false
+2020-02-081,Selena Gomez,Rare,Rare,220000,false
+2020-02-082,MoneyBagg Yo Featuring Lil Baby,Time Served,U Played,165000,true
+2020-02-083,Eminem,Music To Be Murdered By,Marsh,200000,true
+2020-02-084,Eminem Featuring Don Toliver,Music To Be Murdered By,No Regrets,201000,true
+2020-02-085,JACKBOYS Featuring Young Thug,JACKBOYS,Out West,157000,true
+2020-02-086,Ingrid Andress,Lady Like,More Hearts Than Mine,214000,false
+2020-02-087,Riley Green,Different 'Round Here,I Wish Grandpas Never Died,248000,false
+2020-02-088,Jimmie Allen,Make Me Want To,Make Me Want To,172000,false
+2020-02-089,Eminem Featuring Anderson .Paak,Music To Be Murdered By,Lock It Up,170000,true
+2020-02-090,Luke Bryan,What She Wants Tonight,What She Wants Tonight,186000,false
+2020-02-091,Mac Miller,Circles,Surf,330000,false
+2020-02-092,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-02-093,Eminem,Music To Be Murdered By,Stepdad,213000,true
+2020-02-094,Post Malone Featuring Ozzy Osbourne & Travis Scott,Hollywood's Bleeding,Take What You Want,231000,false
+2020-02-095,Jason Aldean,We Back,We Back,197000,false
+2020-02-096,Kelsea Ballerini,homecoming queen?,homecoming queen?,167000,false
+2020-02-097,Carly Pearce & Lee Brice,I Hope You’re Happy Now (Live),I Hope You're Happy Now,198000,false
+2020-02-098,YoungBoy Never Broke Again,AI YoungBoy 2,Make No Sense,148000,true
+2020-02-099,DaniLeigh Featuring Chris Brown,Easy (Remix),Easy,190000,false
+2020-02-100,Mac Miller,Circles,That's On Me,217000,false
+2020-03-001,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-03-002,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-03-003,Post Malone,Circles,Circles,215000,false
+2020-03-004,BTS,MAP OF THE SOUL : 7,ON,246000,false
+2020-03-005,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-03-006,Arizona Zervas,ROXANNE,Roxanne,163000,true
+2020-03-007,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2020-03-008,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-03-009,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-03-010,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2020-03-011,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-03-012,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-03-013,The Weeknd,After Hours,Heartless,200000,true
+2020-03-014,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-03-015,Harry Styles,Fine Line,Adore You,207000,false
+2020-03-016,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2020-03-017,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2020-03-018,DaBaby,KIRK,BOP,161000,true
+2020-03-019,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-03-020,The Weeknd,After Hours,After Hours,362000,false
+2020-03-021,Selena Gomez,Rare,Lose You To Love Me,206000,false
+2020-03-022,Camila Cabello Featuring DaBaby,Romance,My Oh My,170000,false
+2020-03-023,Justin Bieber,Yummy,Yummy,208000,false
+2020-03-024,Lil Baby,Woah,Woah,183000,true
+2020-03-025,Roddy Ricch Featuring Mustard,Please Excuse Me for Being Antisocial,High Fashion,220000,true
+2020-03-026,Halsey,Manic,You Should Be Sad,205000,true
+2020-03-027,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2020-03-028,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Lil Top,185000,true
+2020-03-029,Trevor Daniel,Nicotine,Falling,159000,false
+2020-03-030,Pop Smoke,Meet The Woo,Dior,216000,false
+2020-03-031,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2020-03-032,Jonas Brothers,What A Man Gotta Do,What A Man Gotta Do,180000,false
+2020-03-033,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-03-034,Sam Hunt,Kinfolks,Kinfolks,181000,false
+2020-03-035,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2020-03-036,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2020-03-037,Eminem Featuring Juice WRLD,Music To Be Murdered By,Godzilla,211000,true
+2020-03-038,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),RITMO (Bad Boys For Life),222000,true
+2020-03-039,Kane Brown,Experiment Extended,Homesick,205000,false
+2020-03-040,Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,175000,true
+2020-03-041,SHAED,Trampoline,Trampoline,184000,false
+2020-03-042,Old Dominion,Old Dominion,One Man Band,186000,false
+2020-03-043,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2020-03-044,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2020-03-045,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-03-046,Lil Baby,Sum 2 Prove,Sum 2 Prove,206000,true
+2020-03-047,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Red Eye,156000,true
+2020-03-048,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2020-03-049,Jimmie Allen,Make Me Want To,Make Me Want To,172000,false
+2020-03-050,"A Boogie Wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track",Artist 2.0,Numbers,188000,true
+2020-03-051,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-03-052,H.E.R. Featuring YG,Slide,Slide,238000,true
+2020-03-053,Karol G & Nicki Minaj,Tusa,Tusa,200000,true
+2020-03-054,Billie Eilish,No Time To Die,No Time To Die,242000,false
+2020-03-055,Doja Cat & Tyga,Amala (Deluxe Version),Juicy,198000,true
+2020-03-056,Russ & BIA,SHAKE THE SNOW GLOBE,BEST ON EARTH,160000,true
+2020-03-057,Rod Wave,Heart On Ice,Heart On Ice,159000,true
+2020-03-058,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Fine By Time,175000,true
+2020-03-059,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Bad Bad,138000,true
+2020-03-060,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Knocked Off,127000,true
+2020-03-061,Sam Smith,To Die For,To Die For,196000,false
+2020-03-062,Jason Aldean,We Back,We Back,197000,false
+2020-03-063,Polo G Featuring NLE Choppa & Stunna 4 Vegas,Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),Go Stupid,165000,true
+2020-03-064,Luke Bryan,What She Wants Tonight,What She Wants Tonight,186000,false
+2020-03-065,Blake Shelton Duet With Gwen Stefani,Fully Loaded: God's Country,Nobody But You,194000,false
+2020-03-066,YNW Melly & Juice WRLD,Melly vs. Melvin,Suicidal,223000,true
+2020-03-067,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-03-068,Riley Green,Different 'Round Here,I Wish Grandpas Never Died,248000,false
+2020-03-069,JACKBOYS Featuring Young Thug,JACKBOYS,Out West,157000,true
+2020-03-070,Ingrid Andress,Lady Like,More Hearts Than Mine,214000,false
+2020-03-071,Ashe Featuring Niall Horan,sped up + reverb songs vol. 1 - sped up tik tok hits | tik tok sped up remixes | sped up pop covers and tik tok remixes,Moral Of The Story,181000,false
+2020-03-072,Jake Owen,Greetings From...Jake,Homemade,192000,false
+2020-03-073,Jordan Davis,Home State,Slow Dance In A Parking Lot,194000,false
+2020-03-074,Justin Bieber Featuring Post Malone & Clever,Changes,Forever,220000,false
+2020-03-075,Carly Pearce & Lee Brice,I Hope You’re Happy Now (Live),I Hope You're Happy Now,198000,false
+2020-03-076,Khalid x Disclosure,,Know Your Worth,181000,false
+2020-03-077,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-03-078,Garth Brooks & Blake Shelton,Fun,Dive Bar,156000,false
+2020-03-079,YoungBoy Never Broke Again,AI YoungBoy 2,Make No Sense,148000,true
+2020-03-080,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",RIP Lil Phat,146000,true
+2020-03-081,Brett Young,Ticket To L.A.,Catch,196000,false
+2020-03-082,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-03-083,DaBaby Featuring Lil Baby & Moneybagg Yo,KIRK,TOES,136000,true
+2020-03-084,BTS,MAP OF THE SOUL : 7,My Time,234000,false
+2020-03-085,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Long RD,175000,true
+2020-03-086,Ed Sheeran Featuring Camila Cabello & Cardi B,No.6 Collaborations Project,South Of The Border,204000,false
+2020-03-087,BTS,Proof,Filter,180000,false
+2020-03-088,Jhene Aiko,P*$$Y Fairy (OTW),P*$$y Fairy (OTW),181000,true
+2020-03-089,YoungBoy Never Broke Again,"Still Flexin, Still Steppin",Bat Man,178000,true
+2020-03-090,Kelsea Ballerini,homecoming queen?,homecoming queen?,167000,false
+2020-03-091,Diplo Presents Thomas Wesley Featuring Morgan Wallen,Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant,Heartless,169000,true
+2020-03-092,Taylor Swift,Lover,The Man,190000,false
+2020-03-093,Pop Smoke Featuring Quavo,Meet The Woo 2,Shake The Room,165000,true
+2020-03-094,Selena Gomez,Rare,Rare,220000,false
+2020-03-095,Summer Walker & Usher,Over It,Come Thru,181000,true
+2020-03-096,Dustin Lynch,Tullahoma,Ridin' Roads,205000,false
+2020-03-097,A Boogie Wit da Hoodie,Artist 2.0,Me And My Guitar,161000,true
+2020-03-098,Selena Gomez,Feel Me,Feel Me,226000,false
+2020-03-099,Bad Bunny,Vete,Vete,192000,true
+2020-03-100,BrockHampton,GINGER,SUGAR,204000,true
+2020-04-001,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-04-002,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-04-003,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-04-004,The Weeknd,After Hours,Heartless,200000,true
+2020-04-005,Post Malone,Circles,Circles,215000,false
+2020-04-006,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-04-007,Harry Styles,Fine Line,Adore You,207000,false
+2020-04-008,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-04-009,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-04-010,Arizona Zervas,ROXANNE,Roxanne,163000,true
+2020-04-011,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2020-04-012,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-04-013,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-04-014,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-04-015,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2020-04-016,The Weeknd,After Hours,In Your Eyes,237000,false
+2020-04-017,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-04-018,Camila Cabello Featuring DaBaby,Romance,My Oh My,170000,false
+2020-04-019,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2020-04-020,Megan Thee Stallion,Suga,Savage,155000,true
+2020-04-021,The Weeknd,After Hours,Alone Again,252000,true
+2020-04-022,The Weeknd,After Hours,After Hours,362000,false
+2020-04-023,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2020-04-024,The Weeknd,After Hours,Scared To Live,191000,false
+2020-04-025,The Weeknd,After Hours,Hardest To Love,211000,true
+2020-04-026,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),RITMO (Bad Boys For Life),222000,true
+2020-04-027,Lady Gaga,Chromatica,Stupid Love,193000,false
+2020-04-028,The Weeknd,After Hours,Too Late,239000,true
+2020-04-029,Trevor Daniel,Nicotine,Falling,159000,false
+2020-04-030,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-04-031,DaBaby,KIRK,BOP,161000,true
+2020-04-032,The Weeknd,After Hours,Snowchild,247000,true
+2020-04-033,Halsey,Manic,You Should Be Sad,205000,true
+2020-04-034,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2020-04-035,YNW Melly & Juice WRLD,Melly vs. Melvin,Suicidal,223000,true
+2020-04-036,Roddy Ricch Featuring Mustard,Please Excuse Me for Being Antisocial,High Fashion,220000,true
+2020-04-037,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-04-038,Eminem Featuring Juice WRLD,Music To Be Murdered By,Godzilla,211000,true
+2020-04-039,The Weeknd,After Hours,Escape From LA,355000,true
+2020-04-040,Kane Brown,Experiment Extended,Homesick,205000,false
+2020-04-041,The Weeknd & Ariana Grande,After Hours,Save Your Tears,215000,false
+2020-04-042,Lil Baby,Woah,Woah,183000,true
+2020-04-043,Rod Wave,Heart On Ice,Heart On Ice,159000,true
+2020-04-044,Blake Shelton Duet With Gwen Stefani,Fully Loaded: God's Country,Nobody But You,194000,false
+2020-04-045,The Weeknd,After Hours,Faith,283000,true
+2020-04-046,Luke Bryan,What She Wants Tonight,What She Wants Tonight,186000,false
+2020-04-047,Selena Gomez,Rare,Lose You To Love Me,206000,false
+2020-04-048,Demi Lovato,I Love Me,I Love Me,205000,true
+2020-04-049,Jordan Davis,Home State,Slow Dance In A Parking Lot,194000,false
+2020-04-050,Jake Owen,Greetings From...Jake,Homemade,192000,false
+2020-04-051,H.E.R. Featuring YG,Slide,Slide,238000,true
+2020-04-052,Russ & BIA,SHAKE THE SNOW GLOBE,BEST ON EARTH,160000,true
+2020-04-053,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-04-054,Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Myron,224000,true
+2020-04-055,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-04-056,Ingrid Andress,Lady Like,More Hearts Than Mine,214000,false
+2020-04-057,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-04-058,Pop Smoke,Meet The Woo,Dior,216000,false
+2020-04-059,Powfu Featuring beabadoobee,death bed (coffee for your head),Death Bed,173000,false
+2020-04-060,Lil Baby,Sum 2 Prove,Sum 2 Prove,206000,true
+2020-04-061,Brett Young,Ticket To L.A.,Catch,196000,false
+2020-04-062,Surfaces,Where the Light Is,Sunday Best,158000,false
+2020-04-063,Luke Combs Featuring Eric Church,What You See Is What You Get,Does To Me,223000,false
+2020-04-064,Carly Pearce & Lee Brice,I Hope You’re Happy Now (Live),I Hope You're Happy Now,198000,false
+2020-04-065,Kelsea Ballerini,homecoming queen?,homecoming queen?,167000,false
+2020-04-066,Karol G & Nicki Minaj,Tusa,Tusa,200000,true
+2020-04-067,Jhene Aiko,P*$$Y Fairy (OTW),P*$$y Fairy (OTW),181000,true
+2020-04-068,Thomas Rhett Featuring Jon Pardi,Center Point Road,Beer Can't Fix,210000,false
+2020-04-069,The Weeknd,After Hours,Repeat After Me (Interlude),195000,true
+2020-04-070,Lil Uzi Vert,Eternal Atake,P2,234000,true
+2020-04-071,BENEE Featuring Gus Dapperton,STELLA & STEVE,Supalonely,223000,true
+2020-04-072,Jonas Brothers,What A Man Gotta Do,What A Man Gotta Do,180000,false
+2020-04-073,Lil Uzi Vert,That Way,That Way,212000,true
+2020-04-074,Lil Uzi Vert,Eternal Atake,Baby Pluto,210000,true
+2020-04-075,"Lil Yachty, Drake & DaBaby",Oprah's Bank Account,Oprah's Bank Account,207000,true
+2020-04-076,Jhene Aiko Featuring H.E.R.,Chilombo,B.S.,212000,true
+2020-04-077,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-04-078,JACKBOYS Featuring Young Thug,JACKBOYS,Out West,157000,true
+2020-04-079,SZA X Justin Timberlake,The Other Side (from Trolls World Tour),The Other Side,188000,false
+2020-04-080,The Weeknd,After Hours,Until I Bleed Out,190000,true
+2020-04-081,Megan Thee Stallion,B.I.T.C.H.,B.I.T.C.H.,183000,true
+2020-04-082,Khalid x Disclosure,,Know Your Worth,181000,false
+2020-04-083,Justin Bieber,Yummy,Yummy,208000,false
+2020-04-084,Sam Smith,To Die For,To Die For,196000,false
+2020-04-085,Lil Baby & 42 Dugg,My Turn,Grace,203000,true
+2020-04-086,Lil Uzi Vert Featuring Chief Keef,Eternal Atake (Deluxe) - LUV vs. The World 2,Bean (Kobe),238000,true
+2020-04-087,Lil Uzi Vert,Eternal Atake,Lo Mein,195000,true
+2020-04-088,Summer Walker & Usher,Over It,Come Thru,181000,true
+2020-04-089,Lil Baby,My Turn (Deluxe),Emotionally Scarred,198000,true
+2020-04-090,Diplo Presents Thomas Wesley Featuring Morgan Wallen,Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant,Heartless,169000,true
+2020-04-091,Lil Baby & Gunna,My Turn,Heatin Up,177000,true
+2020-04-092,Bad Bunny,YHLQMDLG,Si Veo A Tu Mama,170000,false
+2020-04-093,Lil Uzi Vert & 21 Savage,Eternal Atake (Deluxe) - LUV vs. The World 2,Yessirskiii,219000,true
+2020-04-094,NLE Choppa Featuring Roddy Ricch,Walk Em Down (feat. Roddy Ricch),Walk Em Down,173000,true
+2020-04-095,Kelsea Ballerini x Halsey,kelsea,The Other Girl,201000,false
+2020-04-096,YoungBoy Never Broke Again,AI YoungBoy 2,Make No Sense,148000,true
+2020-04-097,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into The Unknown,194000,false
+2020-04-098,Polo G Featuring NLE Choppa & Stunna 4 Vegas,Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),Go Stupid,165000,true
+2020-04-099,Bad Bunny,Vete,Vete,192000,true
+2020-04-100,Bad Bunny,YHLQMDLG,La Dificil,163000,true
+2020-05-001,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-05-002,Drake,Toosie Slide,Toosie Slide,247000,true
+2020-05-003,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-05-004,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-05-005,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-05-006,Post Malone,Circles,Circles,215000,false
+2020-05-007,Harry Styles,Fine Line,Adore You,207000,false
+2020-05-008,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-05-009,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-05-010,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-05-011,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-05-012,Camila Cabello Featuring DaBaby,Romance,My Oh My,170000,false
+2020-05-013,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-05-014,Megan Thee Stallion,Suga,Savage,155000,true
+2020-05-015,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2020-05-016,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-05-017,DaBaby Featuring YoungBoy Never Broke Again,BLAME IT ON BABY,Jump,212000,true
+2020-05-018,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-05-019,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-05-020,Blake Shelton Duet With Gwen Stefani,Fully Loaded: God's Country,Nobody But You,194000,false
+2020-05-021,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-05-022,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-05-023,Trevor Daniel,Nicotine,Falling,159000,false
+2020-05-024,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-05-025,Roddy Ricch Featuring Mustard,Please Excuse Me for Being Antisocial,High Fashion,220000,true
+2020-05-026,Arizona Zervas,ROXANNE,Roxanne,163000,true
+2020-05-027,Powfu Featuring beabadoobee,death bed (coffee for your head),Death Bed,173000,false
+2020-05-028,The Weeknd,After Hours,Heartless,200000,true
+2020-05-029,Rod Wave,Heart On Ice,Heart On Ice,159000,true
+2020-05-030,Ingrid Andress,Lady Like,More Hearts Than Mine,214000,false
+2020-05-031,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2020-05-032,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2020-05-033,DaBaby,BLAME IT ON BABY,Find My Way,139000,true
+2020-05-034,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),RITMO (Bad Boys For Life),222000,true
+2020-05-035,Playboi Carti,@ MEH,@ MEH,166000,true
+2020-05-036,Sam Smith & Demi Lovato,I'm Ready,I'm Ready,201000,false
+2020-05-037,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-05-038,Surfaces,Where the Light Is,Sunday Best,158000,false
+2020-05-039,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-05-040,Luke Combs Featuring Eric Church,What You See Is What You Get,Does To Me,223000,false
+2020-05-041,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2020-05-042,Demi Lovato,I Love Me,I Love Me,205000,true
+2020-05-043,DaBaby,KIRK,BOP,161000,true
+2020-05-044,DaBaby Featuring Quavo,BLAME IT ON BABY,PICK UP,119000,false
+2020-05-045,twenty one pilots,Level of Concern,Level Of Concern,220000,false
+2020-05-046,Lady Gaga,Chromatica,Stupid Love,193000,false
+2020-05-047,Carly Pearce & Lee Brice,I Hope You’re Happy Now (Live),I Hope You're Happy Now,198000,false
+2020-05-048,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2020-05-049,Sam Hunt,Hard To Forget,Hard To Forget,204000,false
+2020-05-050,DaBaby Featuring Ashanti & Megan Thee Stallion,BLAME IT ON BABY,NASTY,215000,true
+2020-05-051,Thomas Rhett Featuring Jon Pardi,Center Point Road,Beer Can't Fix,210000,false
+2020-05-052,Brett Young,Ticket To L.A.,Catch,196000,false
+2020-05-053,DaBaby Featuring Future & jetsonmade,BLAME IT ON BABY,LIGHTSKIN SH*T,111000,false
+2020-05-054,Pop Smoke,Meet The Woo,Dior,216000,false
+2020-05-055,The Weeknd,After Hours,In Your Eyes,237000,false
+2020-05-056,Travis Denning,After A Few,After A Few,213000,false
+2020-05-057,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-05-058,H.E.R. Featuring YG,Slide,Slide,238000,true
+2020-05-059,BENEE Featuring Gus Dapperton,STELLA & STEVE,Supalonely,223000,true
+2020-05-060,Lil Baby,Sum 2 Prove,Sum 2 Prove,206000,true
+2020-05-061,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-05-062,Russ & BIA,SHAKE THE SNOW GLOBE,BEST ON EARTH,160000,true
+2020-05-063,DaBaby,BLAME IT ON BABY,CAN'T STOP,168000,true
+2020-05-064,DaBaby,BLAME IT ON BABY,BLAME IT ON BABY,125000,false
+2020-05-065,NLE Choppa Featuring Roddy Ricch,Walk Em Down (feat. Roddy Ricch),Walk Em Down,173000,true
+2020-05-066,Eminem Featuring Juice WRLD,Music To Be Murdered By,Godzilla,211000,true
+2020-05-067,Diplo Presents Thomas Wesley Featuring Morgan Wallen,Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant,Heartless,169000,true
+2020-05-068,Bad Bunny,YHLQMDLG,Yo Perreo Sola,172000,true
+2020-05-069,DaBaby,BLAME IT ON BABY,SAD SHIT,217000,false
+2020-05-070,Karol G & Nicki Minaj,Tusa,Tusa,200000,true
+2020-05-071,DaBaby Featuring A Boogie Wit da Hoodie & London On Da Track,BLAME IT ON BABY,DROP,150000,false
+2020-05-072,JACKBOYS Featuring Young Thug,JACKBOYS,Out West,157000,true
+2020-05-073,Jordan Davis,Home State,Slow Dance In A Parking Lot,194000,false
+2020-05-074,DaBaby,BLAME IT ON BABY,TALK ABOUT IT,159000,false
+2020-05-075,PARTYNEXTDOOR & Rihanna,PARTYMOBILE,Believe It,183000,false
+2020-05-076,Jhene Aiko,P*$$Y Fairy (OTW),P*$$y Fairy (OTW),181000,true
+2020-05-077,JP Saxe Featuring Julia Michaels,If the World Was Ending (feat. Julia Michaels),If The World Was Ending,208000,false
+2020-05-078,"NAV, Gunna & Travis Scott",Turks,Turks,161000,true
+2020-05-079,Summer Walker & Usher,Over It,Come Thru,181000,true
+2020-05-080,Halsey,Manic,You Should Be Sad,205000,true
+2020-05-081,Jake Owen,Greetings From...Jake,Homemade,192000,false
+2020-05-082,Miranda Lambert,Wildcard,Bluebird,209000,false
+2020-05-083,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",Be A Light,Be A Light,174000,false
+2020-05-084,Lil Baby,My Turn (Deluxe),Emotionally Scarred,198000,true
+2020-05-085,DaBaby,BLAME IT ON BABY,CHAMPION,133000,false
+2020-05-086,Kelly Clarkson,I Dare You (Multi-Language Duets),I Dare You,216000,false
+2020-05-087,Kenny Chesney,Here And Now,Here And Now,171000,false
+2020-05-088,Lil Uzi Vert,Eternal Atake (Deluxe) - LUV vs. The World 2,Myron,224000,true
+2020-05-089,Scotty McCreery,Seasons Change,In Between,221000,false
+2020-05-090,Tory Lanez,The New Toronto 3,Broke In A Minute,131000,true
+2020-05-091,Lil Uzi Vert,That Way,That Way,212000,true
+2020-05-092,Don Toliver,Heaven Or Hell,After Party,167000,true
+2020-05-093,Noah Cyrus & Leon Bridges,THE END OF EVERYTHING,July,156000,false
+2020-05-094,Maddie & Tae,The Way It Feels,Die From A Broken Heart,188000,false
+2020-05-095,Regard,Ride It,Ride It.,157000,false
+2020-05-096,Megan Thee Stallion,Suga,Captain Hook,176000,true
+2020-05-097,Keith Urban,THE SPEED OF NOW Part 1,God Whispered Your Name,232000,false
+2020-05-098,"G Herbo Featuring Chance The Rapper, Juice WRLD & Lil Uzi Vert",PTSD,PTSD,232000,false
+2020-05-099,"Bad Bunny, Jowell & Randy & Nengo Flow",YHLQMDLG,Safaera,295000,true
+2020-05-100,Rod Wave,Pray 4 Love,Girl Of My Dreams,159000,true
+2020-06-001,Lady Gaga & Ariana Grande,Chromatica,Rain On Me,182000,false
+2020-06-002,Megan Thee Stallion,Suga,Savage,155000,true
+2020-06-003,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-06-004,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-06-005,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-06-006,Drake,Toosie Slide,Toosie Slide,247000,true
+2020-06-007,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-06-008,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-06-009,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-06-010,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-06-011,Post Malone,Circles,Circles,215000,false
+2020-06-012,Harry Styles,Fine Line,Adore You,207000,false
+2020-06-013,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-06-014,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-06-015,Ariana Grande & Justin Bieber,Stuck with U,Stuck With U,228000,false
+2020-06-016,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-06-017,"THE SCOTTS, Travis Scott & Kid Cudi",THE SCOTTS,The Scotts,165000,true
+2020-06-018,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-06-019,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-06-020,Luke Combs Featuring Eric Church,What You See Is What You Get,Does To Me,223000,false
+2020-06-021,Trevor Daniel,Nicotine,Falling,159000,false
+2020-06-022,6ix9ine,GOOBA,Gooba,132000,true
+2020-06-023,Roddy Ricch Featuring Mustard,Please Excuse Me for Being Antisocial,High Fashion,220000,true
+2020-06-024,Surfaces,Where the Light Is,Sunday Best,158000,false
+2020-06-025,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-06-026,Powfu Featuring beabadoobee,death bed (coffee for your head),Death Bed,173000,false
+2020-06-027,StaySolidRocky,Party Girl,Party Girl,147000,true
+2020-06-028,Blake Shelton Duet With Gwen Stefani,Fully Loaded: God's Country,Nobody But You,194000,false
+2020-06-029,Carly Pearce & Lee Brice,I Hope You’re Happy Now (Live),I Hope You're Happy Now,198000,false
+2020-06-030,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-06-031,Camila Cabello Featuring DaBaby,Romance,My Oh My,170000,false
+2020-06-032,The Weeknd,After Hours,In Your Eyes,237000,false
+2020-06-033,Travis Denning,After A Few,After A Few,213000,false
+2020-06-034,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-06-035,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-06-036,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-06-037,Sam Hunt,Hard To Forget,Hard To Forget,204000,false
+2020-06-038,Gunna Featuring Young Thug,WUNNA,Dollaz On My Head,197000,true
+2020-06-039,Marshmello & Halsey,Be Kind,Be Kind,172000,false
+2020-06-040,Thomas Rhett Featuring Jon Pardi,Center Point Road,Beer Can't Fix,210000,false
+2020-06-041,Gunna Featuring Roddy Ricch,WUNNA,Cooler Than A Bitch,197000,true
+2020-06-042,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),RITMO (Bad Boys For Life),222000,true
+2020-06-043,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-06-044,BENEE Featuring Gus Dapperton,STELLA & STEVE,Supalonely,223000,true
+2020-06-045,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-06-046,NLE Choppa Featuring Roddy Ricch,Walk Em Down (feat. Roddy Ricch),Walk Em Down,173000,true
+2020-06-047,Luke Bryan,One Margarita,One Margarita,193000,false
+2020-06-048,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2020-06-049,Polo G Featuring Juice WRLD,THE GOAT,Flex,163000,true
+2020-06-050,Lil Baby,Sum 2 Prove,Sum 2 Prove,206000,true
+2020-06-051,Miranda Lambert,Wildcard,Bluebird,209000,false
+2020-06-052,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-06-053,Diplo Presents Thomas Wesley Featuring Morgan Wallen,Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant,Heartless,169000,true
+2020-06-054,Lil Baby,My Turn (Deluxe),Emotionally Scarred,198000,true
+2020-06-055,Gunna Featuring Travis Scott,WUNNA,Top Floor,169000,true
+2020-06-056,Pop Smoke,Meet The Woo,Dior,216000,false
+2020-06-057,Gunna,WUNNA,Wunna,158000,true
+2020-06-058,Drake Featuring Giveon,Dark Lane Demo Tapes,Chicago Freestyle,220000,true
+2020-06-059,Gunna Featuring Lil Baby,WUNNA (Deluxe),Blindfold,154000,true
+2020-06-060,Lil Baby & 42 Dugg,My Turn (Deluxe),We Paid,181000,true
+2020-06-061,twenty one pilots,Level of Concern,Level Of Concern,220000,false
+2020-06-062,Migos Featuring YoungBoy Never Broke Again,Need It,Need It,195000,true
+2020-06-063,Don Toliver,Heaven Or Hell,After Party,167000,true
+2020-06-064,Florida Georgia Line,6-Pack,I Love My Country,184000,false
+2020-06-065,Gunna,SKYBOX,SkyBox,178000,true
+2020-06-066,Jonas Brothers Featuring Karol G,XV,X,185000,false
+2020-06-067,Gunna,WUNNA,Argentina,149000,true
+2020-06-068,Bad Bunny,YHLQMDLG,Yo Perreo Sola,172000,true
+2020-06-069,Kenny Chesney,Here And Now,Here And Now,171000,false
+2020-06-070,Gunna,WUNNA,Met Gala,149000,true
+2020-06-071,JACKBOYS Featuring Young Thug,JACKBOYS,Out West,157000,true
+2020-06-072,Juice WRLD,Legends Never Die,Righteous,243000,true
+2020-06-073,JP Saxe Featuring Julia Michaels,If the World Was Ending (feat. Julia Michaels),If The World Was Ending,208000,false
+2020-06-074,PARTYNEXTDOOR & Rihanna,PARTYMOBILE,Believe It,183000,false
+2020-06-075,Regard,Ride It,Ride It.,157000,false
+2020-06-076,Agust D,D-2,Daechwita,225000,true
+2020-06-077,Jhene Aiko,P*$$Y Fairy (OTW),P*$$y Fairy (OTW),181000,true
+2020-06-078,Gunna,WUNNA,Nasty Girl / On Camera,230000,true
+2020-06-079,Katy Perry,Daisies,Daisies,174000,false
+2020-06-080,Keith Urban,THE SPEED OF NOW Part 1,God Whispered Your Name,232000,false
+2020-06-081,Scotty McCreery,Seasons Change,In Between,221000,false
+2020-06-082,Maddie & Tae,The Way It Feels,Die From A Broken Heart,188000,false
+2020-06-083,Future Featuring Travis Scott,High Off Life,Solitaires,205000,true
+2020-06-084,Gunna,WUNNA,MOTW,152000,true
+2020-06-085,Future Featuring YoungBoy Never Broke Again,High Off Life,Trillionaire,167000,true
+2020-06-086,Gunna,WUNNA,Gimmick,128000,true
+2020-06-087,Carrie Underwood,Cry Pretty,Drinking Alone,259000,false
+2020-06-088,Eminem Featuring Juice WRLD,Music To Be Murdered By,Godzilla,211000,true
+2020-06-089,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",Be A Light,Be A Light,174000,false
+2020-06-090,"NAV, Gunna & Travis Scott",Turks,Turks,161000,true
+2020-06-091,Polo G Featuring NLE Choppa & Stunna 4 Vegas,Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),Go Stupid,165000,true
+2020-06-092,Young T & Bugsey Featuring Headie One,Don't Rush (feat. Headie One),Don't Rush,206000,true
+2020-06-093,Polo G Featuring Lil Baby,THE GOAT,Be Something,194000,true
+2020-06-094,Polo G,THE GOAT,Martin & Gina,132000,true
+2020-06-095,Polo G,THE GOAT,21,163000,true
+2020-06-096,Noah Cyrus & Leon Bridges,THE END OF EVERYTHING,July,156000,false
+2020-06-097,Lil Baby & 42 Dugg,My Turn,Grace,203000,true
+2020-06-098,Gunna,WUNNA (Deluxe),Feigning,165000,true
+2020-06-099,Lil Baby,All In,All In,156000,true
+2020-06-100,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-07-001,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-07-002,Megan Thee Stallion,Suga,Savage,155000,true
+2020-07-003,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-07-004,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-07-005,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-07-006,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-07-007,Lil Baby,The Bigger Picture,The Bigger Picture,252000,true
+2020-07-008,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-07-009,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-07-010,Post Malone,Circles,Circles,215000,false
+2020-07-011,Lady Gaga & Ariana Grande,Chromatica,Rain On Me,182000,false
+2020-07-012,Harry Styles,Fine Line,Adore You,207000,false
+2020-07-013,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-07-014,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-07-015,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-07-016,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-07-017,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-07-018,Lil Baby & 42 Dugg,My Turn (Deluxe),We Paid,181000,true
+2020-07-019,Trevor Daniel,Nicotine,Falling,159000,false
+2020-07-020,Drake,Toosie Slide,Toosie Slide,247000,true
+2020-07-021,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-07-022,Surfaces,Where the Light Is,Sunday Best,158000,false
+2020-07-023,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-07-024,Powfu Featuring beabadoobee,death bed (coffee for your head),Death Bed,173000,false
+2020-07-025,StaySolidRocky,Party Girl,Party Girl,147000,true
+2020-07-026,Sam Hunt,Hard To Forget,Hard To Forget,204000,false
+2020-07-027,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-07-028,Ariana Grande & Justin Bieber,Stuck with U,Stuck With U,228000,false
+2020-07-029,Luke Bryan,One Margarita,One Margarita,193000,false
+2020-07-030,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-07-031,Roddy Ricch Featuring Mustard,Please Excuse Me for Being Antisocial,High Fashion,220000,true
+2020-07-032,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-07-033,Miranda Lambert,Wildcard,Bluebird,209000,false
+2020-07-034,6ix9ine & Nicki Minaj,TattleTales,Trollz,202000,true
+2020-07-035,"THE SCOTTS, Travis Scott & Kid Cudi",THE SCOTTS,The Scotts,165000,true
+2020-07-036,Lil Baby,My Turn (Deluxe),Emotionally Scarred,198000,true
+2020-07-037,Beyonce,BLACK PARADE,Black Parade,281000,true
+2020-07-038,Kenny Chesney,Here And Now,Here And Now,171000,false
+2020-07-039,NLE Choppa Featuring Roddy Ricch,Walk Em Down (feat. Roddy Ricch),Walk Em Down,173000,true
+2020-07-040,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2020-07-041,Marshmello & Halsey,Be Kind,Be Kind,172000,false
+2020-07-042,BENEE Featuring Gus Dapperton,STELLA & STEVE,Supalonely,223000,true
+2020-07-043,Jawsh 685 x Jason Derulo,,Savage Love (Laxed - Siren Beat),171000,true
+2020-07-044,Blake Shelton Duet With Gwen Stefani,Fully Loaded: God's Country,Nobody But You,194000,false
+2020-07-045,Carly Pearce & Lee Brice,I Hope You’re Happy Now (Live),I Hope You're Happy Now,198000,false
+2020-07-046,Pop Smoke,Meet The Woo,Dior,216000,false
+2020-07-047,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2020-07-048,Luke Combs Featuring Eric Church,What You See Is What You Get,Does To Me,223000,false
+2020-07-049,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2020-07-050,6ix9ine,GOOBA,Gooba,132000,true
+2020-07-051,Maddie & Tae,The Way It Feels,Die From A Broken Heart,188000,false
+2020-07-052,JP Saxe Featuring Julia Michaels,If the World Was Ending (feat. Julia Michaels),If The World Was Ending,208000,false
+2020-07-053,Florida Georgia Line,6-Pack,I Love My Country,184000,false
+2020-07-054,J. Cole,Snow On Tha Bluff,Snow On Tha Bluff,235000,true
+2020-07-055,Travis Denning,After A Few,After A Few,213000,false
+2020-07-056,Jhene Aiko,P*$$Y Fairy (OTW),P*$$y Fairy (OTW),181000,true
+2020-07-057,A Boogie Wit da Hoodie,Artist 2.0 (Deluxe),Bleed,176000,true
+2020-07-058,Young T & Bugsey Featuring Headie One,Don't Rush (feat. Headie One),Don't Rush,206000,true
+2020-07-059,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",Be A Light,Be A Light,174000,false
+2020-07-060,Scotty McCreery,Seasons Change,In Between,221000,false
+2020-07-061,Keith Urban,THE SPEED OF NOW Part 1,God Whispered Your Name,232000,false
+2020-07-062,"Black Eyed Peas, Ozuna + J.Rey Soul",,Mamacita,249000,true
+2020-07-063,Don Toliver,Heaven Or Hell,After Party,167000,true
+2020-07-064,Drake Featuring Giveon,Dark Lane Demo Tapes,Chicago Freestyle,220000,true
+2020-07-065,Kid LAROI & Juice WRLD,GO,Go!,184000,true
+2020-07-066,Thomas Rhett Featuring Jon Pardi,Center Point Road,Beer Can't Fix,210000,false
+2020-07-067,Jason Aldean,Got What I Got,Got What I Got,178000,false
+2020-07-068,LOCASH,Brothers,One Big Country Song,193000,false
+2020-07-069,Polo G Featuring Juice WRLD,THE GOAT,Flex,163000,true
+2020-07-070,PARTYNEXTDOOR & Rihanna,PARTYMOBILE,Believe It,183000,false
+2020-07-071,Bad Bunny,YHLQMDLG,Yo Perreo Sola,172000,true
+2020-07-072,Doja Cat Featuring Gucci Mane,Hot Pink,Like That,163000,true
+2020-07-073,Justin Moore,Late Nights And Longnecks,Why We Drink,211000,false
+2020-07-074,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-07-075,Migos Featuring YoungBoy Never Broke Again,Need It,Need It,195000,true
+2020-07-076,Chris Janson,Done,Done,220000,false
+2020-07-077,Lil Baby & 42 Dugg,My Turn,Grace,203000,true
+2020-07-078,Kane Brown,Cool Again (feat. Nelly),Cool Again,175000,false
+2020-07-079,Katy Perry,Daisies,Daisies,174000,false
+2020-07-080,The Weeknd,After Hours,In Your Eyes,237000,false
+2020-07-081,Lee Brice,One Of Them Girls,One Of Them Girls,188000,false
+2020-07-082,Gunna Featuring Young Thug,WUNNA,Dollaz On My Head,197000,true
+2020-07-083,NLE Choppa,Shotta Flow 5,Shotta Flow 5,145000,true
+2020-07-084,Polo G,THE GOAT,21,163000,true
+2020-07-085,Jonas Brothers Featuring Karol G,XV,X,185000,false
+2020-07-086,HARDY Featuring Lauren Alaina & Devin Dawson,HIXTAPE: Vol. 1,One Beer,173000,false
+2020-07-087,Ashley McBryde,One Night Standards,One Night Standards,190000,false
+2020-07-088,Tyla Yaweh & Post Malone,Tommy Lee (feat. Post Malone),Tommy Lee,224000,true
+2020-07-089,Rod Wave,Pray 4 Love,Girl Of My Dreams,159000,true
+2020-07-090,twenty one pilots,Level of Concern,Level Of Concern,220000,false
+2020-07-091,Chloe X Halle,Ungodly Hour,Do It,176000,false
+2020-07-092,BRELAND,My Truck,My Truck,158000,false
+2020-07-093,Juice WRLD,Legends Never Die,Righteous,243000,true
+2020-07-094,YoungBoy Never Broke Again Featuring Lil Baby,One Shot (feat. Lil Baby),One Shot,196000,true
+2020-07-095,J.I The Prince Of N.Y,"Hood Life Krisis, Vol. 1",Need Me,151000,false
+2020-07-096,Parker McCollum,Pretty Heart,Pretty Heart,244000,false
+2020-07-097,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-07-098,Lil Baby,All In,All In,156000,true
+2020-07-099,AJR,Bang!,Bang!,171000,false
+2020-07-100,Noah Cyrus & Leon Bridges,THE END OF EVERYTHING,July,156000,false
+2020-08-001,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-08-002,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-08-003,DJ Khaled Featuring Drake,POPSTAR (feat. Drake),Popstar,200000,true
+2020-08-004,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-08-005,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-08-006,Megan Thee Stallion,Suga,Savage,155000,true
+2020-08-007,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-08-008,DJ Khaled Featuring Drake,GREECE (feat. Drake),Greece,218000,true
+2020-08-009,Juice WRLD x Marshmello,Legends Never Die,Come & Go,205000,true
+2020-08-010,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-08-011,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-08-012,Jawsh 685 x Jason Derulo,,Savage Love (Laxed - Siren Beat),171000,true
+2020-08-013,Juice WRLD,Legends Never Die,Wishing Well,195000,true
+2020-08-014,Lady Gaga & Ariana Grande,Chromatica,Rain On Me,182000,false
+2020-08-015,Harry Styles,Fine Line,Adore You,207000,false
+2020-08-016,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-08-017,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-08-018,Post Malone,Circles,Circles,215000,false
+2020-08-019,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-08-020,Lil Baby & 42 Dugg,My Turn (Deluxe),We Paid,181000,true
+2020-08-021,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-08-022,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-08-023,Pop Smoke Featuring Lil Baby & DaBaby,Shoot For The Stars Aim For The Moon,For The Night,190000,true
+2020-08-024,StaySolidRocky,Party Girl,Party Girl,147000,true
+2020-08-025,Luke Bryan,One Margarita,One Margarita,193000,false
+2020-08-026,Miranda Lambert,Wildcard,Bluebird,209000,false
+2020-08-027,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-08-028,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-08-029,Powfu Featuring beabadoobee,death bed (coffee for your head),Death Bed,173000,false
+2020-08-030,Trevor Daniel,Nicotine,Falling,159000,false
+2020-08-031,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-08-032,Pop Smoke Featuring 50 Cent & Roddy Ricch,Shoot For The Stars Aim For The Moon,The Woo,201000,true
+2020-08-033,Sam Hunt,Hard To Forget,Hard To Forget,204000,false
+2020-08-034,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-08-035,Maddie & Tae,The Way It Feels,Die From A Broken Heart,188000,false
+2020-08-036,Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI,Legends Never Die,Hate The Other Side,160000,true
+2020-08-037,Lil Baby,The Bigger Picture,The Bigger Picture,252000,true
+2020-08-038,Juice WRLD,Legends Never Die,Conversations,181000,true
+2020-08-039,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-08-040,Surfaces,Where the Light Is,Sunday Best,158000,false
+2020-08-041,Rod Wave Featuring ATR Son Son,Pray 4 Love (Deluxe),Rags2Riches,167000,true
+2020-08-042,Juice WRLD X Halsey,Legends Never Die,Life's A Mess,202000,true
+2020-08-043,Lil Baby,My Turn (Deluxe),Emotionally Scarred,198000,true
+2020-08-044,Moneybagg Yo,Said Sum (Remix),Said Sum,178000,true
+2020-08-045,Drake,Toosie Slide,Toosie Slide,247000,true
+2020-08-046,Megan Thee Stallion,Girls in the Hood,Girls In The Hood,154000,true
+2020-08-047,BENEE Featuring Gus Dapperton,STELLA & STEVE,Supalonely,223000,true
+2020-08-048,NLE Choppa Featuring Roddy Ricch,Walk Em Down (feat. Roddy Ricch),Walk Em Down,173000,true
+2020-08-049,Juice WRLD,Legends Never Die,Blood On My Jeans,154000,true
+2020-08-050,LOCASH,Brothers,One Big Country Song,193000,false
+2020-08-051,Juice WRLD,Legends Never Die,Righteous,243000,true
+2020-08-052,JP Saxe Featuring Julia Michaels,If the World Was Ending (feat. Julia Michaels),If The World Was Ending,208000,false
+2020-08-053,Jason Aldean,Got What I Got,Got What I Got,178000,false
+2020-08-054,Florida Georgia Line,6-Pack,I Love My Country,184000,false
+2020-08-055,Pop Smoke,Shoot For The Stars Aim For The Moon,Got It On Me,164000,false
+2020-08-056,Chris Janson,Done,Done,220000,false
+2020-08-057,Doja Cat Featuring Gucci Mane,Hot Pink,Like That,163000,true
+2020-08-058,Ariana Grande & Justin Bieber,Stuck with U,Stuck With U,228000,false
+2020-08-059,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",Be A Light,Be A Light,174000,false
+2020-08-060,Young T & Bugsey Featuring Headie One,Don't Rush (feat. Headie One),Don't Rush,206000,true
+2020-08-061,Marshmello & Halsey,Be Kind,Be Kind,172000,false
+2020-08-062,Juice WRLD,Legends Never Die,Titanic,176000,true
+2020-08-063,"Black Eyed Peas, Ozuna + J.Rey Soul",,Mamacita,249000,true
+2020-08-064,Juice WRLD,Legends Never Die,Stay High,168000,true
+2020-08-065,Kane Brown With Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),Be Like That,191000,false
+2020-08-066,Saweetie,Tap In,Tap In,139000,true
+2020-08-067,Keith Urban,THE SPEED OF NOW Part 1,God Whispered Your Name,232000,false
+2020-08-068,Juice WRLD,Legends Never Die,Bad Energy,186000,true
+2020-08-069,Lee Brice,One Of Them Girls,One Of Them Girls,188000,false
+2020-08-070,Pop Smoke Featuring Lil Tjay,Shoot For The Stars Aim For The Moon,Mood Swings,213000,true
+2020-08-071,Justin Moore,Late Nights And Longnecks,Why We Drink,211000,false
+2020-08-072,Luke Combs,What You See Is What You Get,Lovin' On You,195000,false
+2020-08-073,Kane Brown,Cool Again (feat. Nelly),Cool Again,175000,false
+2020-08-074,"THE SCOTTS, Travis Scott & Kid Cudi",THE SCOTTS,The Scotts,165000,true
+2020-08-075,Pop Smoke,Shoot For The Stars Aim For The Moon (Deluxe),Something Special,158000,true
+2020-08-076,Migos Featuring YoungBoy Never Broke Again,Need It,Need It,195000,true
+2020-08-077,Juice WRLD & Trippie Redd,Legends Never Die,Tell Me U Luv Me,180000,true
+2020-08-078,Juice WRLD,Legends Never Die,Up Up And Away,147000,true
+2020-08-079,Juice WRLD,Legends Never Die,Fighting Demons,200000,true
+2020-08-080,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-08-081,Jhene Aiko Featuring H.E.R.,Chilombo,B.S.,212000,true
+2020-08-082,Don Toliver,Heaven Or Hell,After Party,167000,true
+2020-08-083,Trevor Daniel x Selena Gomez,,Past Life,185000,false
+2020-08-084,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-08-085,Rod Wave,Pray 4 Love,Girl Of My Dreams,159000,true
+2020-08-086,HARDY Featuring Lauren Alaina & Devin Dawson,HIXTAPE: Vol. 1,One Beer,173000,false
+2020-08-087,Lil Durk Featuring Lil Baby & Polo G,3 Headed Goat (feat. Lil Baby & Polo G),3 Headed Goat,169000,true
+2020-08-088,Luke Combs Featuring Eric Church,What You See Is What You Get,Does To Me,223000,false
+2020-08-089,Juice WRLD,Legends Never Die,Man Of The Year,136000,true
+2020-08-090,AJR,Bang!,Bang!,171000,false
+2020-08-091,Ashley McBryde,One Night Standards,One Night Standards,190000,false
+2020-08-092,Juice WRLD,Legends Never Die,Can't Die,182000,true
+2020-08-093,Drake Featuring Giveon,Dark Lane Demo Tapes,Chicago Freestyle,220000,true
+2020-08-094,Polo G Featuring Juice WRLD,THE GOAT,Flex,163000,true
+2020-08-095,Juice WRLD,Legends Never Die,Screw Juice,179000,true
+2020-08-096,Gunna Featuring Young Thug,WUNNA,Dollaz On My Head,197000,true
+2020-08-097,Topic & A7S,Breaking Me,Breaking Me,166000,false
+2020-08-098,Pop Smoke Featuring Karol G,Shoot For The Stars Aim For The Moon,Enjoy Yourself,197000,true
+2020-08-099,Parker McCollum,Pretty Heart,Pretty Heart,244000,false
+2020-08-100,J. Cole,The Off-Season,the.climb.back,306000,true
+2020-09-001,BTS,Dynamite (NightTime Version),Dynamite,199000,false
+2020-09-002,Cardi B Featuring Megan Thee Stallion,WAP (feat. Megan Thee Stallion),WAP,187000,true
+2020-09-003,Drake Featuring Lil Durk,Laugh Now Cry Later,Laugh Now Cry Later,261000,true
+2020-09-004,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-09-005,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-09-006,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-09-007,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-09-008,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-09-009,Jawsh 685 x Jason Derulo,,Savage Love (Laxed - Siren Beat),171000,true
+2020-09-010,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-09-011,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-09-012,24kGoldn Featuring iann dior,El Dorado,Mood,140000,true
+2020-09-013,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-09-014,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-09-015,Pop Smoke Featuring Lil Baby & DaBaby,Shoot For The Stars Aim For The Moon,For The Night,190000,true
+2020-09-016,Post Malone,Circles,Circles,215000,false
+2020-09-017,Harry Styles,Fine Line,Adore You,207000,false
+2020-09-018,Pop Smoke Featuring Lil Tjay,Shoot For The Stars Aim For The Moon,Mood Swings,213000,true
+2020-09-019,Juice WRLD x Marshmello,Legends Never Die,Come & Go,205000,true
+2020-09-020,Megan Thee Stallion,Suga,Savage,155000,true
+2020-09-021,DJ Khaled Featuring Drake,POPSTAR (feat. Drake),Popstar,200000,true
+2020-09-022,Maddie & Tae,The Way It Feels,Die From A Broken Heart,188000,false
+2020-09-023,Pop Smoke Featuring 50 Cent & Roddy Ricch,Shoot For The Stars Aim For The Moon,The Woo,201000,true
+2020-09-024,Powfu Featuring beabadoobee,death bed (coffee for your head),Death Bed,173000,false
+2020-09-025,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2020-09-026,Kane Brown With Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),Be Like That,191000,false
+2020-09-027,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-09-028,Rod Wave Featuring ATR Son Son,Pray 4 Love (Deluxe),Rags2Riches,167000,true
+2020-09-029,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-09-030,Luke Combs,What You See Is What You Get,Lovin' On You,195000,false
+2020-09-031,Saweetie,Tap In,Tap In,139000,true
+2020-09-032,Juice WRLD,Legends Never Die,Wishing Well,195000,true
+2020-09-033,Jason Aldean,Got What I Got,Got What I Got,178000,false
+2020-09-034,JP Saxe Featuring Julia Michaels,If the World Was Ending (feat. Julia Michaels),If The World Was Ending,208000,false
+2020-09-035,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-09-036,Taylor Swift,folklore,Cardigan,239000,false
+2020-09-037,Luke Bryan,One Margarita,One Margarita,193000,false
+2020-09-038,Morgan Wallen,7 Summers,7 Summers,210000,false
+2020-09-039,Kane Brown,Cool Again (feat. Nelly),Cool Again,175000,false
+2020-09-040,Florida Georgia Line,6-Pack,I Love My Country,184000,false
+2020-09-041,Miley Cyrus,Plastic Hearts,Midnight Sky,223000,false
+2020-09-042,Justin Bieber Featuring Quavo,Intentions,Intentions,213000,false
+2020-09-043,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-09-044,Lil Baby & 42 Dugg,My Turn (Deluxe),We Paid,181000,true
+2020-09-045,Megan Thee Stallion,Girls in the Hood,Girls In The Hood,154000,true
+2020-09-046,Lee Brice,One Of Them Girls,One Of Them Girls,188000,false
+2020-09-047,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-09-048,Roddy Ricch,Artist 2.0,The Box,188000,true
+2020-09-049,Maroon 5,JORDI (Deluxe),Nobody's Love,211000,false
+2020-09-050,Conan Gray,Kid Krow,Heather,197000,false
+2020-09-051,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",Be A Light,Be A Light,174000,false
+2020-09-052,Juice WRLD & The Weeknd,Smile,Smile,196000,true
+2020-09-053,StaySolidRocky,Party Girl,Party Girl,147000,true
+2020-09-054,Lil Baby,The Bigger Picture,The Bigger Picture,252000,true
+2020-09-055,Lady Gaga & Ariana Grande,Chromatica,Rain On Me,182000,false
+2020-09-056,Doja Cat Featuring Gucci Mane,Hot Pink,Like That,163000,true
+2020-09-057,Billie Eilish,Happier Than Ever,My Future,208000,false
+2020-09-058,Moneybagg Yo,Said Sum (Remix),Said Sum,178000,true
+2020-09-059,Dan + Shay,I Should Probably Go To Bed,I Should Probably Go To Bed,171000,false
+2020-09-060,Justin Moore,Late Nights And Longnecks,Why We Drink,211000,false
+2020-09-061,Tim McGraw,Here On Earth,I Called Mama,211000,false
+2020-09-062,DJ Khaled Featuring Drake,GREECE (feat. Drake),Greece,218000,true
+2020-09-063,Money Man Featuring Lil Baby,24 (feat. Lil Baby),24,182000,true
+2020-09-064,AJR,Bang!,Bang!,171000,false
+2020-09-065,YoungBoy Never Broke Again,Top,Kacey Talk,151000,true
+2020-09-066,Internet Money & Gunna Featuring Don Toliver & NAV,B4 The Storm,Lemonade,195000,true
+2020-09-067,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-09-068,Keith Urban,THE SPEED OF NOW Part 1,God Whispered Your Name,232000,false
+2020-09-069,Migos Featuring YoungBoy Never Broke Again,Need It,Need It,195000,true
+2020-09-070,"J Balvin, Dua Lipa, Bad Bunny & Tainy",UN DIA (ONE DAY),Un Dia (One Day),232000,false
+2020-09-071,Topic & A7S,Breaking Me,Breaking Me,166000,false
+2020-09-072,HARDY Featuring Lauren Alaina & Devin Dawson,HIXTAPE: Vol. 1,One Beer,173000,false
+2020-09-073,Ava Max,Kings & Queens,Kings & Queens,162000,false
+2020-09-074,Travis Scott,"The Plan (From the Motion Picture ""TENET"")",The Plan,185000,true
+2020-09-075,Parker McCollum,Pretty Heart,Pretty Heart,244000,false
+2020-09-076,Chris Janson,Done,Done,220000,false
+2020-09-077,Blake Shelton Featuring Gwen Stefani,Happy Anywhere (feat. Gwen Stefani),Happy Anywhere,170000,false
+2020-09-078,Jameson Rodgers,Jameson Rodgers,Some Girls,184000,false
+2020-09-079,Maluma & The Weeknd,Hawái,Hawai,200000,false
+2020-09-080,Ashley McBryde,One Night Standards,One Night Standards,190000,false
+2020-09-081,Ozuna x Karol G x Myke Towers,Instrumental Playback Hits - Karaoke Remix Playlist 2020.2,Caramelo,207000,false
+2020-09-082,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-09-083,Polo G,THE GOAT,Martin & Gina,132000,true
+2020-09-084,Gunna Featuring Young Thug,WUNNA,Dollaz On My Head,197000,true
+2020-09-085,Taylor Swift,folklore (deluxe version),The 1,210000,true
+2020-09-086,Machine Gun Kelly X blackbear,Tickets To My Downfall,My Ex's Best Friend,138000,true
+2020-09-087,Rod Wave,Pray 4 Love,Girl Of My Dreams,159000,true
+2020-09-088,Don Toliver,Heaven Or Hell,After Party,167000,true
+2020-09-089,Ariana Grande & Justin Bieber,Stuck with U,Stuck With U,228000,false
+2020-09-090,YoungBoy Never Broke Again,Top,All In,156000,true
+2020-09-091,Pop Smoke,Shoot For The Stars Aim For The Moon,Got It On Me,164000,false
+2020-09-092,Lil Durk Featuring Lil Baby & Polo G,3 Headed Goat (feat. Lil Baby & Polo G),3 Headed Goat,169000,true
+2020-09-093,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka,,La Jeepeta,345000,true
+2020-09-094,Chase Rice,The Album,Lonely If You Are,176000,false
+2020-09-095,Tate McRae,you broke me first,You Broke Me First.,169000,true
+2020-09-096,Nas Featuring Fivio Foreign & A$AP Ferg,King's Disease,Spicy,167000,true
+2020-09-097,Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI,Legends Never Die,Hate The Other Side,160000,true
+2020-09-098,Taylor Swift Featuring Bon Iver,folklore,Exile,285000,false
+2020-09-099,Mulatto,B*tch From Da Souf,B*tch From da Souf,144000,true
+2020-09-100,Polo G,THE GOAT,21,163000,true
+2020-10-001,BTS,Dynamite (NightTime Version),Dynamite,199000,false
+2020-10-002,Cardi B Featuring Megan Thee Stallion,WAP (feat. Megan Thee Stallion),WAP,187000,true
+2020-10-003,Justin Bieber Featuring Chance The Rapper,Holy,Holy,212000,false
+2020-10-004,Drake Featuring Lil Durk,Laugh Now Cry Later,Laugh Now Cry Later,261000,true
+2020-10-005,24kGoldn Featuring iann dior,El Dorado,Mood,140000,true
+2020-10-006,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-10-007,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-10-008,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-10-009,Jawsh 685 x Jason Derulo,,Savage Love (Laxed - Siren Beat),171000,true
+2020-10-010,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-10-011,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-10-012,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-10-013,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-10-014,DJ Khaled Featuring Drake,POPSTAR (feat. Drake),Popstar,200000,true
+2020-10-015,Pop Smoke Featuring Lil Baby & DaBaby,Shoot For The Stars Aim For The Moon,For The Night,190000,true
+2020-10-016,Internet Money & Gunna Featuring Don Toliver & NAV,B4 The Storm,Lemonade,195000,true
+2020-10-017,Post Malone,Circles,Circles,215000,false
+2020-10-018,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-10-019,Juice WRLD x Marshmello,Legends Never Die,Come & Go,205000,true
+2020-10-020,Pop Smoke Featuring Lil Tjay,Shoot For The Stars Aim For The Moon,Mood Swings,213000,true
+2020-10-021,Jason Aldean,Got What I Got,Got What I Got,178000,false
+2020-10-022,Lee Brice,One Of Them Girls,One Of Them Girls,188000,false
+2020-10-023,Harry Styles,Fine Line,Adore You,207000,false
+2020-10-024,Moneybagg Yo,Said Sum (Remix),Said Sum,178000,true
+2020-10-025,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-10-026,Luke Combs,What You See Is What You Get,Lovin' On You,195000,false
+2020-10-027,Kane Brown With Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),Be Like That,191000,false
+2020-10-028,Saweetie,Tap In,Tap In,139000,true
+2020-10-029,Kane Brown,Cool Again (feat. Nelly),Cool Again,175000,false
+2020-10-030,Pop Smoke Featuring 50 Cent & Roddy Ricch,Shoot For The Stars Aim For The Moon,The Woo,201000,true
+2020-10-031,JP Saxe Featuring Julia Michaels,If the World Was Ending (feat. Julia Michaels),If The World Was Ending,208000,false
+2020-10-032,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-10-033,AJR,Bang!,Bang!,171000,false
+2020-10-034,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-10-035,Rod Wave Featuring ATR Son Son,Pray 4 Love (Deluxe),Rags2Riches,167000,true
+2020-10-036,Future Featuring Drake,Life Is Good (feat. Drake),Life Is Good,237000,true
+2020-10-037,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-10-038,Ava Max,Kings & Queens,Kings & Queens,162000,false
+2020-10-039,Miley Cyrus,Plastic Hearts,Midnight Sky,223000,false
+2020-10-040,Morgan Wallen,Country Music Sleep,Chasin' You,205000,false
+2020-10-041,Lady Gaga & Ariana Grande,Chromatica,Rain On Me,182000,false
+2020-10-042,Dan + Shay,I Should Probably Go To Bed,I Should Probably Go To Bed,171000,false
+2020-10-043,Jameson Rodgers,Jameson Rodgers,Some Girls,184000,false
+2020-10-044,Maddie & Tae,The Way It Feels,Die From A Broken Heart,188000,false
+2020-10-045,Juice WRLD,Legends Never Die,Wishing Well,195000,true
+2020-10-046,Lil Baby & 42 Dugg,My Turn (Deluxe),We Paid,181000,true
+2020-10-047,Doja Cat Featuring Nicki Minaj,Hot Pink,Say So,240000,true
+2020-10-048,Megan Thee Stallion,Suga,Savage,155000,true
+2020-10-049,Taylor Swift,folklore,Cardigan,239000,false
+2020-10-050,Lil Mosey,Blueberry Faygo,Blueberry Faygo,162000,true
+2020-10-051,Sam Smith,Diamonds,Diamonds,213000,false
+2020-10-052,HARDY Featuring Lauren Alaina & Devin Dawson,HIXTAPE: Vol. 1,One Beer,173000,false
+2020-10-053,Topic & A7S,Breaking Me,Breaking Me,166000,false
+2020-10-054,Conan Gray,Kid Krow,Heather,197000,false
+2020-10-055,Maluma & The Weeknd,Hawái,Hawai,200000,false
+2020-10-056,Pop Smoke,Shoot For The Stars Aim For The Moon (Deluxe),What You Know Bout Love,160000,false
+2020-10-057,Blake Shelton Featuring Gwen Stefani,Happy Anywhere (feat. Gwen Stefani),Happy Anywhere,170000,false
+2020-10-058,Machine Gun Kelly X blackbear,Tickets To My Downfall,My Ex's Best Friend,138000,true
+2020-10-059,Morgan Wallen,7 Summers,7 Summers,210000,false
+2020-10-060,Money Man Featuring Lil Baby,24 (feat. Lil Baby),24,182000,true
+2020-10-061,Parker McCollum,Pretty Heart,Pretty Heart,244000,false
+2020-10-062,Keith Urban Duet With P!nk,THE SPEED OF NOW Part 1,One Too Many,203000,false
+2020-10-063,Tate McRae,you broke me first,You Broke Me First.,169000,true
+2020-10-064,Doja Cat Featuring Gucci Mane,Hot Pink,Like That,163000,true
+2020-10-065,DJ Khaled Featuring Drake,GREECE (feat. Drake),Greece,218000,true
+2020-10-066,BLACKPINK X Selena Gomez,THE ALBUM,Ice Cream,176000,false
+2020-10-067,Tim McGraw,Here On Earth,I Called Mama,211000,false
+2020-10-068,Megan Thee Stallion,Girls in the Hood,Girls In The Hood,154000,true
+2020-10-069,Lil Baby,The Bigger Picture,The Bigger Picture,252000,true
+2020-10-070,Luke Combs Featuring Amanda Shires,What You See Ain't Always What You Get (Deluxe Edition),Without You,224000,false
+2020-10-071,"J Balvin, Dua Lipa, Bad Bunny & Tainy",UN DIA (ONE DAY),Un Dia (One Day),232000,false
+2020-10-072,YoungBoy Never Broke Again,Top,Kacey Talk,151000,true
+2020-10-073,Chris Stapleton,Starting Over,Starting Over,240000,false
+2020-10-074,Polo G,THE GOAT,Martin & Gina,132000,true
+2020-10-075,Marshmello & Demi Lovato,OK Not To Be OK,OK Not To Be OK,159000,false
+2020-10-076,"Sech, Daddy Yankee & J Balvin Featuring Rosalia & Farruko",Relación (Remix),Relacion,247000,false
+2020-10-077,Russell Dickerson,Love You Like I Used To,Love You Like I Used To,186000,false
+2020-10-078,Juice WRLD & The Weeknd,Smile,Smile,196000,true
+2020-10-079,Jon Pardi,Heartache Medication,Ain't Always The Cowboy,220000,false
+2020-10-080,Lil Tecca & Lil Uzi Vert,Virgo World,Dolly,180000,true
+2020-10-081,SZA Featuring Ty Dolla $ign,"Hit Different (feat. Ty Dolla $ign, The Neptunes & Pharrell Williams)",Hit Different,202000,true
+2020-10-082,Maroon 5,JORDI (Deluxe),Nobody's Love,211000,false
+2020-10-083,Matt Stell,Everywhere But On,Everywhere But On,192000,false
+2020-10-084,Ozuna x Karol G x Myke Towers,Instrumental Playback Hits - Karaoke Remix Playlist 2020.2,Caramelo,207000,false
+2020-10-085,Chloe X Halle,Ungodly Hour,Do It,176000,false
+2020-10-086,Calvin Harris X The Weeknd,Over Now,Over Now,211000,true
+2020-10-087,Gunna Featuring Young Thug,WUNNA,Dollaz On My Head,197000,true
+2020-10-088,VEDO,You Got It,You Got It,203000,true
+2020-10-089,YoungBoy Never Broke Again Featuring Lil Wayne,Top,My Window,192000,true
+2020-10-090,Lil Tecca & Polo G Featuring Lil Durk,Virgo World,When You Down,193000,true
+2020-10-091,Anitta Featuring Cardi B & Myke Towers,Me Gusta (with Cardi B & Myke Towers),Me Gusta,180000,false
+2020-10-092,YFN Lucci,Wet (She Got That…),Wet. (She Got That...) ,209000,true
+2020-10-093,Sada Baby Featuring Nicki Minaj,Whole Lotta Choppas,Whole Lotta Choppas,153000,true
+2020-10-094,Chase Rice,The Album,Lonely If You Are,176000,false
+2020-10-095,DaBaby Featuring Young Thug,BLAME IT ON BABY (DELUXE),Blind,154000,true
+2020-10-096,Lil Durk Featuring Lil Baby & Polo G,3 Headed Goat (feat. Lil Baby & Polo G),3 Headed Goat,169000,true
+2020-10-097,YoungBoy Never Broke Again,Top,Drug Addiction,164000,true
+2020-10-098,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka,,La Jeepeta,345000,true
+2020-10-099,Jhene Aiko Featuring H.E.R.,Chilombo,B.S.,212000,true
+2020-10-100,Big Sean Featuring Post Malone,Detroit 2,Wolves,200000,true
+2020-11-001,Ariana Grande,Positions,Positions,172000,false
+2020-11-002,Luke Combs,What You See Ain't Always What You Get (Deluxe Edition),Forever After All,232000,false
+2020-11-003,24kGoldn Featuring iann dior,El Dorado,Mood,140000,true
+2020-11-004,Drake Featuring Lil Durk,Laugh Now Cry Later,Laugh Now Cry Later,261000,true
+2020-11-005,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-11-006,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-11-007,Cardi B Featuring Megan Thee Stallion,WAP (feat. Megan Thee Stallion),WAP,187000,true
+2020-11-008,Jawsh 685 x Jason Derulo,,Savage Love (Laxed - Siren Beat),171000,true
+2020-11-009,Internet Money & Gunna Featuring Don Toliver & NAV,B4 The Storm,Lemonade,195000,true
+2020-11-010,Justin Bieber Featuring Chance The Rapper,Holy,Holy,212000,false
+2020-11-011,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-11-012,BTS,Dynamite (NightTime Version),Dynamite,199000,false
+2020-11-013,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-11-014,Pop Smoke Featuring Lil Baby & DaBaby,Shoot For The Stars Aim For The Moon,For The Night,190000,true
+2020-11-015,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-11-016,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-11-017,Moneybagg Yo,Said Sum (Remix),Said Sum,178000,true
+2020-11-018,Post Malone,Circles,Circles,215000,false
+2020-11-019,Kane Brown With Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),Be Like That,191000,false
+2020-11-020,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-11-021,Jason Aldean,Got What I Got,Got What I Got,178000,false
+2020-11-022,Ava Max,Kings & Queens,Kings & Queens,162000,false
+2020-11-023,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-11-024,Juice WRLD x Marshmello,Legends Never Die,Come & Go,205000,true
+2020-11-025,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-11-026,Lee Brice,One Of Them Girls,One Of Them Girls,188000,false
+2020-11-027,Justin Bieber & benny blanco,Lonely,Lonely,149000,true
+2020-11-028,AJR,Bang!,Bang!,171000,false
+2020-11-029,Pop Smoke,Shoot For The Stars Aim For The Moon (Deluxe),What You Know Bout Love,160000,false
+2020-11-030,Luke Combs,What You See Is What You Get,Better Together,219000,false
+2020-11-031,Harry Styles,Fine Line,Adore You,207000,false
+2020-11-032,Shawn Mendes,Wonder,Wonder,172000,false
+2020-11-033,Fleetwood Mac,Rumours,Dreams,257000,false
+2020-11-034,Jack Harlow,Tyler Herro,Tyler Herro,156000,true
+2020-11-035,Pop Smoke Featuring 50 Cent & Roddy Ricch,Shoot For The Stars Aim For The Moon,The Woo,201000,true
+2020-11-036,HARDY Featuring Lauren Alaina & Devin Dawson,HIXTAPE: Vol. 1,One Beer,173000,false
+2020-11-037,Russell Dickerson,Love You Like I Used To,Love You Like I Used To,186000,false
+2020-11-038,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2020-11-039,SAINt JHN,Roses (Imanbek Remix),Roses,176000,true
+2020-11-040,Rod Wave Featuring ATR Son Son,Pray 4 Love (Deluxe),Rags2Riches,167000,true
+2020-11-041,Luke Combs,What You See Is What You Get,Lovin' On You,195000,false
+2020-11-042,Dua Lipa,Future Nostalgia,Levitating,203000,false
+2020-11-043,Parker McCollum,Pretty Heart,Pretty Heart,244000,false
+2020-11-044,Dua Lipa,Break My Heart,Break My Heart,221000,false
+2020-11-045,Jameson Rodgers,Jameson Rodgers,Some Girls,184000,false
+2020-11-046,Blake Shelton Featuring Gwen Stefani,Happy Anywhere (feat. Gwen Stefani),Happy Anywhere,170000,false
+2020-11-047,Pop Smoke Featuring Lil Tjay,Shoot For The Stars Aim For The Moon,Mood Swings,213000,true
+2020-11-048,Matt Stell,Everywhere But On,Everywhere But On,192000,false
+2020-11-049,21 Savage & Metro Boomin Featuring Drake,SAVAGE MODE II,Mr. Right Now,193000,true
+2020-11-050,Dan + Shay,I Should Probably Go To Bed,I Should Probably Go To Bed,171000,false
+2020-11-051,Travis Scott Featuring Young Thug & M.I.A.,FRANCHISE (feat. Young Thug & M.I.A.),Franchise,202000,true
+2020-11-052,Money Man Featuring Lil Baby,24 (feat. Lil Baby),24,182000,true
+2020-11-053,Ty Dolla $ign Featuring Post Malone,Spicy (feat. Post Malone),Spicy,144000,true
+2020-11-054,DJ Khaled Featuring Drake,POPSTAR (feat. Drake),Popstar,200000,true
+2020-11-055,Tate McRae,you broke me first,You Broke Me First.,169000,true
+2020-11-056,Miley Cyrus,Plastic Hearts,Midnight Sky,223000,false
+2020-11-057,Machine Gun Kelly X blackbear,Tickets To My Downfall,My Ex's Best Friend,138000,true
+2020-11-058,Sam Smith,Diamonds,Diamonds,213000,false
+2020-11-059,Saweetie,Tap In,Tap In,139000,true
+2020-11-060,Morgan Wallen,7 Summers,7 Summers,210000,false
+2020-11-061,21 Savage & Metro Boomin,SAVAGE MODE II,Runnin,195000,true
+2020-11-062,Juice WRLD,Legends Never Die,Wishing Well,195000,true
+2020-11-063,Chris Stapleton,Starting Over,Starting Over,240000,false
+2020-11-064,Maluma & The Weeknd,Hawái,Hawai,200000,false
+2020-11-065,Jon Pardi,Heartache Medication,Ain't Always The Cowboy,220000,false
+2020-11-066,Ne-Yo & Jeremih,U 2 Luv,U 2 Luv,208000,true
+2020-11-067,Chris Lane,"Big, Big Plans","Big, Big Plans",187000,false
+2020-11-068,SZA Featuring Ty Dolla $ign,"Hit Different (feat. Ty Dolla $ign, The Neptunes & Pharrell Williams)",Hit Different,202000,true
+2020-11-069,Luke Combs,What You See Ain't Always What You Get (Deluxe Edition),The Other Guy,190000,false
+2020-11-070,H.E.R.,Back of My Mind,Damage,227000,false
+2020-11-071,Conan Gray,Kid Krow,Heather,197000,false
+2020-11-072,Megan Thee Stallion Featuring Young Thug,Don’t Stop (feat. Young Thug),Don't Stop,187000,true
+2020-11-073,Polo G,THE GOAT,Martin & Gina,132000,true
+2020-11-074,Harry Styles,Fine Line,Golden,208000,false
+2020-11-075,Jhene Aiko Featuring H.E.R.,Chilombo,B.S.,212000,true
+2020-11-076,Saweetie Featuring Jhene Aiko,Back to the Streets (feat. Jhené Aiko),Back To The Streets,189000,true
+2020-11-077,The Kid LAROI,F*CK LOVE 3+: OVER YOU,So Done,126000,false
+2020-11-078,Luke Combs Featuring Amanda Shires,What You See Ain't Always What You Get (Deluxe Edition),Without You,224000,false
+2020-11-079,"Sech, Daddy Yankee & J Balvin Featuring Rosalia & Farruko",Relación (Remix),Relacion,247000,false
+2020-11-080,Ritt Momney,Put Your Records On,Put Your Records On,210000,false
+2020-11-081,Niko Moon,GOOD TIME,Good Time,215000,false
+2020-11-082,Lil Baby,The Bigger Picture,The Bigger Picture,252000,true
+2020-11-083,DaBaby Featuring Young Thug,BLAME IT ON BABY (DELUXE),Blind,154000,true
+2020-11-084,Luke Combs,What You See Ain't Always What You Get (Deluxe Edition),Cold As You,186000,false
+2020-11-085,YoungBoy Never Broke Again,Top,Kacey Talk,151000,true
+2020-11-086,DaBaby,BLAME IT ON BABY (DELUXE),Practice,123000,true
+2020-11-087,Kelsea Ballerini,hole in the bottle (with Shania Twain),Hole In The Bottle,156000,false
+2020-11-088,Sada Baby Featuring Nicki Minaj,Whole Lotta Choppas,Whole Lotta Choppas,153000,true
+2020-11-089,Yung Bleu Featuring Drake,Moon Boy,You're Mines Still,226000,false
+2020-11-090,Lady A,Champagne Night (From Songland),Champagne Night,185000,false
+2020-11-091,DJ Khaled Featuring Drake,GREECE (feat. Drake),Greece,218000,true
+2020-11-092,Kenny Chesney,Here And Now,Happy Does,168000,false
+2020-11-093,BRS Kash,Kash Only,Throat Baby (Go Baby),211000,true
+2020-11-094,"J Balvin, Dua Lipa, Bad Bunny & Tainy",UN DIA (ONE DAY),Un Dia (One Day),232000,false
+2020-11-095,Chloe X Halle,Ungodly Hour,Do It,176000,false
+2020-11-096,Taylor Swift,folklore,Cardigan,239000,false
+2020-11-097,Machine Gun Kelly & Halsey,times of my life,Forget Me Too,168000,false
+2020-11-098,Farruko,La Tóxica,La Toxica,180000,false
+2020-11-099,Joel Corry X MNEK,Head & Heart (feat. MNEK),Head & Heart,166000,false
+2020-11-100,Little Big Town,Nightfall,"Wine, Beer, Whiskey",196000,false
+2020-12-001,BTS,BE,Life Goes On,207000,false
+2020-12-002,24kGoldn Featuring iann dior,El Dorado,Mood,140000,true
+2020-12-003,BTS,Dynamite (NightTime Version),Dynamite,199000,false
+2020-12-004,Ariana Grande,Positions,Positions,172000,false
+2020-12-005,Gabby Barrett Featuring Charlie Puth,I Hope,I Hope,209000,false
+2020-12-006,Justin Bieber Featuring Chance The Rapper,Holy,Holy,212000,false
+2020-12-007,Drake Featuring Lil Durk,Laugh Now Cry Later,Laugh Now Cry Later,261000,true
+2020-12-008,Shawn Mendes & Justin Bieber,Monster,Monster,179000,false
+2020-12-009,The Weeknd,After Hours,Blinding Lights,200000,false
+2020-12-010,Internet Money & Gunna Featuring Don Toliver & NAV,B4 The Storm,Lemonade,195000,true
+2020-12-011,Billie Eilish,Happier Than Ever,Therefore I Am,174000,false
+2020-12-012,Megan Thee Stallion,Good News,Body,171000,true
+2020-12-013,BTS,BE,Blue & Grey,254000,false
+2020-12-014,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2020-12-015,Bad Bunny & Jhay Cortez,DÁKITI,Dakiti,205000,true
+2020-12-016,Pop Smoke Featuring Lil Baby & DaBaby,Shoot For The Stars Aim For The Moon,For The Night,190000,true
+2020-12-017,Chris Brown & Young Thug,Slime & B,Go Crazy,176000,true
+2020-12-018,Ava Max,Kings & Queens,Kings & Queens,162000,false
+2020-12-019,Jawsh 685 x Jason Derulo,,Savage Love (Laxed - Siren Beat),171000,true
+2020-12-020,Morgan Wallen,More Than My Hometown,More Than My Hometown,216000,false
+2020-12-021,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
+2020-12-022,BTS,Stay Gold,Stay,243000,false
+2020-12-023,Cardi B Featuring Megan Thee Stallion,WAP (feat. Megan Thee Stallion),WAP,187000,true
+2020-12-024,Dua Lipa,Future Nostalgia,Levitating,203000,false
+2020-12-025,Morgan Wallen,Dangerous: The Double Album (Bonus),Somebody's Problem,161000,false
+2020-12-026,DaBaby Featuring Roddy Ricch,BLAME IT ON BABY,Rockstar,182000,true
+2020-12-027,Kane Brown With Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),Be Like That,191000,false
+2020-12-028,Lewis Capaldi,Before You Go,Before You Go,215000,false
+2020-12-029,AJR,Bang!,Bang!,171000,false
+2020-12-030,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,34+35 (Remix),34+35,182000,true
+2020-12-031,Bobby Helms,Jingle Bells,Jingle Bell Rock,130000,false
+2020-12-032,Justin Bieber & benny blanco,Lonely,Lonely,149000,true
+2020-12-033,Surf Mesa Featuring Emilee,ily (i love you baby),ily,176000,false
+2020-12-034,Moneybagg Yo,Said Sum (Remix),Said Sum,178000,true
+2020-12-035,Maluma & The Weeknd,Hawái,Hawai,200000,false
+2020-12-036,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2020-12-037,Andy Williams,The Andy Williams Christmas Album,It's The Most Wonderful Time Of The Year,151000,false
+2020-12-038,HARDY Featuring Lauren Alaina & Devin Dawson,HIXTAPE: Vol. 1,One Beer,173000,false
+2020-12-039,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",WHATS POPPIN,Whats Poppin,139000,true
+2020-12-040,Lee Brice,One Of Them Girls,One Of Them Girls,188000,false
+2020-12-041,Pop Smoke,Shoot For The Stars Aim For The Moon (Deluxe),What You Know Bout Love,160000,false
+2020-12-042,Wham!,LAST CHRISTMAS,Last Christmas,264000,false
+2020-12-043,Parker McCollum,Pretty Heart,Pretty Heart,244000,false
+2020-12-044,Blake Shelton Featuring Gwen Stefani,Happy Anywhere (feat. Gwen Stefani),Happy Anywhere,170000,false
+2020-12-045,Jose Feliciano,Feliz Navidad,Feliz Navidad,182000,false
+2020-12-046,Morgan Wallen,Still Goin Down,Still Goin Down,186000,false
+2020-12-047,Luke Combs,What You See Is What You Get,Better Together,219000,false
+2020-12-048,Nat King Cole,The Christmas Song,The Christmas Song (Merry Christmas To You),190000,false
+2020-12-049,Dean Martin,Let It Snow,"Let It Snow, Let It Snow, Let It Snow",116000,false
+2020-12-050,Russell Dickerson,Love You Like I Used To,Love You Like I Used To,186000,false
+2020-12-051,Chris Lane,"Big, Big Plans","Big, Big Plans",187000,false
+2020-12-052,Chris Stapleton,Starting Over,Starting Over,240000,false
+2020-12-053,Luke Combs,What You See Ain't Always What You Get (Deluxe Edition),Forever After All,232000,false
+2020-12-054,Miley Cyrus Featuring Dua Lipa,Plastic Hearts,Prisoner,169000,false
+2020-12-055,Lil Nas X,HOLIDAY,Holiday,154000,true
+2020-12-056,Sam Smith,Diamonds,Diamonds,213000,false
+2020-12-057,Shawn Mendes,Wonder,Wonder,172000,false
+2020-12-058,Dan + Shay,I Should Probably Go To Bed,I Should Probably Go To Bed,171000,false
+2020-12-059,Morgan Wallen,7 Summers,7 Summers,210000,false
+2020-12-060,Juice WRLD x Marshmello,Legends Never Die,Come & Go,205000,true
+2020-12-061,Jon Pardi,Heartache Medication,Ain't Always The Cowboy,220000,false
+2020-12-062,Megan Thee Stallion Featuring Young Thug,Don’t Stop (feat. Young Thug),Don't Stop,187000,true
+2020-12-063,Tate McRae,you broke me first,You Broke Me First.,169000,true
+2020-12-064,Ariana Grande,Positions,pov,201000,false
+2020-12-065,21 Savage & Metro Boomin Featuring Drake,SAVAGE MODE II,Mr. Right Now,193000,true
+2020-12-066,CJ,Whoopty,Whoopty,123000,false
+2020-12-067,Machine Gun Kelly X blackbear,Tickets To My Downfall,My Ex's Best Friend,138000,true
+2020-12-068,Jhene Aiko Featuring H.E.R.,Chilombo,B.S.,212000,true
+2020-12-069,BTS,BE,Fly To My Room,222000,false
+2020-12-070,BTS,BE,Telepathy,202000,false
+2020-12-071,Megan Thee Stallion Featuring DaBaby,Good News,Cry Baby,137000,true
+2020-12-072,BTS,BE,Dis-ease,239000,false
+2020-12-073,King Von,Took Her To The O,Took Her To The O,194000,true
+2020-12-074,BRS Kash,Kash Only,Throat Baby (Go Baby),211000,true
+2020-12-075,Miley Cyrus,Plastic Hearts,Midnight Sky,223000,false
+2020-12-076,Lady A,Champagne Night (From Songland),Champagne Night,185000,false
+2020-12-077,Jack Harlow,Tyler Herro,Tyler Herro,156000,true
+2020-12-078,Travis Scott Featuring Young Thug & M.I.A.,FRANCHISE (feat. Young Thug & M.I.A.),Franchise,202000,true
+2020-12-079,Niko Moon,GOOD TIME,Good Time,215000,false
+2020-12-080,Megan Thee Stallion,Girls in the Hood,Girls In The Hood,154000,true
+2020-12-081,Harry Styles,Fine Line,Golden,208000,false
+2020-12-082,Megan Thee Stallion,Good News,Shots Fired,170000,true
+2020-12-083,Morgan Wallen,Livin’ The Dream,Livin' The Dream,239000,true
+2020-12-084,SZA Featuring Ty Dolla $ign,"Hit Different (feat. Ty Dolla $ign, The Neptunes & Pharrell Williams)",Hit Different,202000,true
+2020-12-085,Saweetie Featuring Jhene Aiko,Back to the Streets (feat. Jhené Aiko),Back To The Streets,189000,true
+2020-12-086,Meek Mill Featuring Lil Durk,QUARANTINE PACK,Pain Away,196000,true
+2020-12-087,Kelsea Ballerini,hole in the bottle (with Shania Twain),Hole In The Bottle,156000,false
+2020-12-088,Ne-Yo & Jeremih,U 2 Luv,U 2 Luv,208000,true
+2020-12-089,Polo G,THE GOAT,Martin & Gina,132000,true
+2020-12-090,Future & Lil Uzi Vert,Pluto x Baby Pluto,Drankin N Smokin,213000,true
+2020-12-091,Juice WRLD,Legends Never Die,Wishing Well,195000,true
+2020-12-092,Megan Thee Stallion Featuring City Girls & Hot Girl Meg,Good News,Do It On The Tip,167000,true
+2020-12-093,Jameson Rodgers,Jameson Rodgers,Some Girls,184000,false
+2020-12-094,Megan Thee Stallion,Good News,Circles,170000,true
+2020-12-095,Ritt Momney,Put Your Records On,Put Your Records On,210000,false
+2020-12-096,DJ Khaled Featuring Drake,POPSTAR (feat. Drake),Popstar,200000,true
+2020-12-097,Karol G,BICHOTA,Bichota,178000,true
+2020-12-098,Kenny Chesney,Here And Now,Happy Does,168000,false
+2020-12-099,Morgan Wallen,Cover Me Up,Cover Me Up,292000,false
+2020-12-100,The Kid LAROI,F*CK LOVE 3+: OVER YOU,So Done,126000,false
