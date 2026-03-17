@@ -1,0 +1,1201 @@
+track_id,artists,album_name,track_name,duration_ms,explicit
+2019-01-001,Ariana Grande,"thank u, next","Thank U, Next",206000,true
+2019-01-002,Halsey,Manic,Without Me,201000,true
+2019-01-003,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2019-01-004,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-01-005,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-01-006,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-01-007,Marshmello & Bastille,Happier,Happier,214000,false
+2019-01-008,Bobby Helms,Jingle Bells,Jingle Bell Rock,130000,false
+2019-01-009,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
+2019-01-010,Burl Ives,Have A Holly Jolly Christmas,A Holly Jolly Christmas,128000,false
+2019-01-011,Nat King Cole,The Christmas Song,The Christmas Song (Merry Christmas To You),190000,false
+2019-01-012,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2019-01-013,Andy Williams,The Andy Williams Christmas Album,It's The Most Wonderful Time Of The Year,151000,false
+2019-01-014,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2019-01-015,Kodak Black Featuring Travis Scott & Offset,ZEZE (feat. Travis Scott & Offset),ZEZE,228000,true
+2019-01-016,Gene Autry,Rudolph The Red Nosed Reindeer And Other Christmas Classics,Rudolph The Red-Nosed Reindeer,187000,false
+2019-01-017,Sheck Wes,MUDBOY,Mo Bamba,181000,true
+2019-01-018,Gucci Mane X Bruno Mars X Kodak Black,Wake Up in the Sky,Wake Up In The Sky,204000,true
+2019-01-019,Cardi B,Money,Money,183000,true
+2019-01-020,Dean Martin,Let It Snow,"Let It Snow, Let It Snow, Let It Snow",116000,false
+2019-01-021,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-01-022,Ariana Grande,Sweetener,Breathin,198000,true
+2019-01-023,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2019-01-024,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2019-01-025,Wham!,LAST CHRISTMAS,Last Christmas,264000,false
+2019-01-026,The Ronettes,A Christmas Gift For You From Phil Spector,Sleigh Ride,181000,false
+2019-01-027,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2019-01-028,Gene Autry,The Essential Gene Autry,Here Comes Santa Claus (Right Down Santa Claus Lane),150000,false
+2019-01-029,Jose Feliciano,Feliz Navidad,Feliz Navidad,182000,false
+2019-01-030,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",Carte Blanche,Taki Taki,213000,true
+2019-01-031,Bad Bunny Featuring Drake,X 100PRE,MIA,210000,false
+2019-01-032,Perry Como With Mitchell Ayers And His Orchestra,A Perry Como Christmas,(There's No Place Like) Home For The Holidays (1959),178000,false
+2019-01-033,Flipp Dinero,LOVE FOR GUALA,Leave Me Alone,196000,true
+2019-01-034,Bing Crosby,The Polar Express (Original Motion Picture Soundtrack),White Christmas,184000,false
+2019-01-035,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,Greatest Christmas Songs,It's Beginning To Look A Lot Like Christmas,155000,false
+2019-01-036,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-01-037,21 Savage,i am > i was,A Lot,290000,true
+2019-01-038,Ella Mai,Ella Mai,Trip,217000,false
+2019-01-039,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2019-01-040,Elvis Presley,Blue Christmas,Blue Christmas,128000,false
+2019-01-041,Dan + Shay,Speechless,Speechless,212000,false
+2019-01-042,John & Yoko/The Plastic Ono Band With The Harlem Community Choir,Signature Box,Happy Xmas (War Is Over),216000,false
+2019-01-043,Darlene Love,A Christmas Gift For You From Phil Spector,Christmas (Baby Please Come Home),166000,false
+2019-01-044,Kelly Clarkson,Wrapped In Red,Underneath The Tree,229000,false
+2019-01-045,Chuck Berry,Rock 'N' Roll Rarities,Run Rudolph Run,162000,false
+2019-01-046,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2019-01-047,Post Malone,Wow.,Wow.,150000,true
+2019-01-048,Khalid & Normani,Love Lies,Love Lies,201000,true
+2019-01-049,Frank Sinatra,Christmas,Jingle Bells,117000,false
+2019-01-050,Bazzi Featuring Camila Cabello,Beautiful,Beautiful,178000,false
+2019-01-051,Khalid,Better,Better,229000,true
+2019-01-052,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-01-053,Katy Perry,Cozy Little Christmas,Cozy Little Christmas,182000,false
+2019-01-054,Luke Combs,This One's for You Too (Deluxe Edition),She Got The Best Of Me ,185000,false
+2019-01-055,Lauren Daigle,Behold: The Complete Set,The Christmas Song,269000,false
+2019-01-056,Lil Wayne,Tha Carter V,Uproar,194000,true
+2019-01-057,A Boogie Wit da Hoodie Featuring 6ix9ine,Hoodie SZN,Swervin,189000,true
+2019-01-058,21 Savage,i am > i was (Deluxe),Can't Leave Without It,205000,true
+2019-01-059,Lauren Daigle,Look Up Child,You Say,274000,false
+2019-01-060,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me,Close To Me,182000,true
+2019-01-061,Jimmie Allen,Best Shot (Acoustic Version),Best Shot,193000,false
+2019-01-062,Meek Mill Featuring Jeremih & PnB Rock,Legends of the Summer,Dangerous,234000,true
+2019-01-063,Dean Lewis,Be Alright,Be Alright,196000,true
+2019-01-064,Mitchell Tenpenny,Telling All My Secrets,Drunk Me,213000,false
+2019-01-065,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender (feat. Offset and Tyga),Startender,192000,true
+2019-01-066,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-01-067,21 Savage,i am > i was,All My Friends,212000,true
+2019-01-068,XXXTENTACION,BAD!,BAD!,94000,false
+2019-01-069,Pardison Fontaine Featuring Cardi B,Backin' It Up (feat. Cardi B),Backin' It Up,190000,true
+2019-01-070,21 Savage,i am > i was,Break Da Law,178000,true
+2019-01-071,Ariana Grande,"thank u, next",Imagine,212000,true
+2019-01-072,Tory Lanez & Rich The Kid,LoVE me NOw (ReLoAdeD),Talk To Me,184000,true
+2019-01-073,21 Savage,i am > i was,Monster,233000,true
+2019-01-074,Kodak Black,Dying to Live,Calling My Spirit,152000,true
+2019-01-075,Camila Cabello,Camila,Consequences,178000,false
+2019-01-076,Juice WRLD,Armed And Dangerous,Armed And Dangerous,170000,true
+2019-01-077,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You (feat. Maluma & Swae Lee),Arms Around You,198000,true
+2019-01-078,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like A Heart,217000,false
+2019-01-079,Thomas Rhett,Life Changes,Sixteen,178000,false
+2019-01-080,Dierks Bentley Featuring Brothers Osborne,The Mountain,Burning Man,239000,false
+2019-01-081,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,193000,false
+2019-01-082,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2019-01-083,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-01-084,The Chainsmokers Featuring Kelsea Ballerini,Sick Boy,This Feeling,197000,false
+2019-01-085,Jacquees,4275 (Bonus Version),You,217000,true
+2019-01-086,21 Savage,i am > i was,1.5,149000,true
+2019-01-087,Jason Aldean,30 Number One Hits,Girl Like You,192000,false
+2019-01-088,21 Savage,i am > i was (Deluxe),Out For The Night,235000,true
+2019-01-089,Dustin Lynch,Tullahoma,Good Girl,189000,false
+2019-01-090,French Montana Featuring Drake,No Stylist,No Stylist,192000,true
+2019-01-091,Billie Eilish & Khalid,lovely,Lovely,199000,false
+2019-01-092,Anuel AA & Romeo Santos,Ella Quiere Beber (Remix),Ella Quiere Beber,219000,false
+2019-01-093,21 Savage,i am > i was (Deluxe),Gun Smoke,167000,true
+2019-01-094,A Boogie Wit da Hoodie Featuring Juice WRLD,Hoodie SZN,Demons And Angels,214000,true
+2019-01-095,21 Savage,i am > i was (Deluxe),ASMR,172000,true
+2019-01-096,Kip Moore,SLOWHEART,Last Shot,228000,false
+2019-01-097,Future & Juice WRLD,Future & Juice WRLD Present... WRLD ON DRUGS,Fine China,142000,true
+2019-01-098,Calboy,Envy Me,Envy Me,120000,true
+2019-01-099,Shawn Mendes X Zedd,Shawn Mendes,Lost In Japan,201000,false
+2019-01-100,Scotty McCreery,Seasons Change,This Is It,230000,false
+2019-02-001,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-02-002,Halsey,Manic,Without Me,201000,true
+2019-02-003,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-02-004,Ariana Grande,"thank u, next","Thank U, Next",206000,true
+2019-02-005,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-02-006,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-02-007,Marshmello & Bastille,Happier,Happier,214000,false
+2019-02-008,Post Malone,Wow.,Wow.,150000,true
+2019-02-009,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2019-02-010,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2019-02-011,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-02-012,Kodak Black Featuring Travis Scott & Offset,ZEZE (feat. Travis Scott & Offset),ZEZE,228000,true
+2019-02-013,Cardi B,Money,Money,183000,true
+2019-02-014,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-02-015,Gucci Mane X Bruno Mars X Kodak Black,Wake Up in the Sky,Wake Up In The Sky,204000,true
+2019-02-016,Sheck Wes,MUDBOY,Mo Bamba,181000,true
+2019-02-017,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2019-02-018,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",Carte Blanche,Taki Taki,213000,true
+2019-02-019,Bad Bunny Featuring Drake,X 100PRE,MIA,210000,false
+2019-02-020,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2019-02-021,Flipp Dinero,LOVE FOR GUALA,Leave Me Alone,196000,true
+2019-02-022,Ariana Grande,Sweetener,Breathin,198000,true
+2019-02-023,Khalid,Better,Better,229000,true
+2019-02-024,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-02-025,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2019-02-026,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-02-027,Bazzi Featuring Camila Cabello,Beautiful,Beautiful,178000,false
+2019-02-028,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me,Close To Me,182000,true
+2019-02-029,City Girls Featuring Cardi B,Girl Code,Twerk,165000,true
+2019-02-030,Ella Mai,Ella Mai,Trip,217000,false
+2019-02-031,Dan + Shay,Speechless,Speechless,212000,false
+2019-02-032,Khalid & Normani,Love Lies,Love Lies,201000,true
+2019-02-033,Gesaffelstein & The Weeknd,Hyperion,Lost In The Fire,202000,true
+2019-02-034,21 Savage,i am > i was,A Lot,290000,true
+2019-02-035,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-02-036,Pinkfong,Baby Shark Special,Baby Shark,96000,false
+2019-02-037,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2019-02-038,Logic,Confessions of a Dangerous Mind,Keanu Reeves,226000,true
+2019-02-039,Lauren Daigle,Look Up Child,You Say,274000,false
+2019-02-040,Pardison Fontaine Featuring Cardi B,Backin' It Up (feat. Cardi B),Backin' It Up,190000,true
+2019-02-041,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-02-042,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,193000,false
+2019-02-043,Future,Future Hndrxx Presents: The WIZRD,Crushed Up,150000,true
+2019-02-044,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-02-045,Calboy,Envy Me,Envy Me,120000,true
+2019-02-046,A Boogie Wit da Hoodie Featuring 6ix9ine,Hoodie SZN,Swervin,189000,true
+2019-02-047,Future Featuring Travis Scott,Future Hndrxx Presents: The WIZRD,First Off,229000,true
+2019-02-048,Dierks Bentley Featuring Brothers Osborne,The Mountain,Burning Man,239000,false
+2019-02-049,Thomas Rhett,Life Changes,Sixteen,178000,false
+2019-02-050,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2019-02-051,Jason Aldean,30 Number One Hits,Girl Like You,192000,false
+2019-02-052,Dean Lewis,Be Alright,Be Alright,196000,true
+2019-02-053,Scotty McCreery,Seasons Change,This Is It,230000,false
+2019-02-054,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like A Heart,217000,false
+2019-02-055,Chris Brown,Indigo,Undecided,181000,true
+2019-02-056,The Chainsmokers Featuring Kelsea Ballerini,Sick Boy,This Feeling,197000,false
+2019-02-057,Future,Future Hndrxx Presents: The WIZRD,Jumpin On A Jet,138000,true
+2019-02-058,Dustin Lynch,Tullahoma,Good Girl,189000,false
+2019-02-059,Lil Wayne,Tha Carter V,Uproar,194000,true
+2019-02-060,Jimmie Allen,Best Shot (Acoustic Version),Best Shot,193000,false
+2019-02-061,Anuel AA & Romeo Santos,Ella Quiere Beber (Remix),Ella Quiere Beber,219000,false
+2019-02-062,Kodak Black,Dying to Live,Calling My Spirit,152000,true
+2019-02-063,Juice WRLD,Armed And Dangerous,Armed And Dangerous,170000,true
+2019-02-064,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You (feat. Maluma & Swae Lee),Arms Around You,198000,true
+2019-02-065,Future,Future Hndrxx Presents: The WIZRD,Never Stop,291000,true
+2019-02-066,Blueface,Famous Cryp,Thotiana,129000,true
+2019-02-067,Jacquees,4275 (Bonus Version),You,217000,true
+2019-02-068,Anuel AA & Karol G,Secreto,Secreto,258000,false
+2019-02-069,French Montana Featuring Drake,No Stylist,No Stylist,192000,true
+2019-02-070,Luke Bryan,What Makes You Country,What Makes You Country,235000,false
+2019-02-071,YNW Melly Featuring Kanye West,We All Shine,Mixed Personalities,230000,true
+2019-02-072,Camila Cabello,Camila,Consequences,178000,false
+2019-02-073,Chris Stapleton,From A Room: Volume 2,Millionaire,211000,false
+2019-02-074,Travis Scott,ASTROWORLD,Yosemite,150000,false
+2019-02-075,Khalid & Kane Brown,Suncity,Saturday Nights,210000,false
+2019-02-076,Future,Future Hndrxx Presents: The WIZRD,Temptation,168000,true
+2019-02-077,Zara Larsson,Ruin My Life,Ruin My Life,190000,true
+2019-02-078,Jordan Davis,Take It From Me,Take It From Me,175000,false
+2019-02-079,Future,Future Hndrxx Presents: The WIZRD,Rocket Ship,117000,true
+2019-02-080,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender (feat. Offset and Tyga),Startender,192000,true
+2019-02-081,Mustard & Migos,Perfect Ten,Pure Water,194000,true
+2019-02-082,Billie Eilish & Khalid,lovely,Lovely,199000,false
+2019-02-083,Future,Future Hndrxx Presents: The WIZRD,F&N,189000,true
+2019-02-084,Jake Owen,Greetings From...Jake,Down To The Honkytonk,186000,true
+2019-02-085,Loud Luxury Featuring Brando,Body,Body,163000,false
+2019-02-086,Lukas Graham,3 (The Purple Album),Love Someone,205000,false
+2019-02-087,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2019-02-088,Kehlani Featuring Ty Dolla $ign,Nights Like This (feat. Ty Dolla $ign),Nights Like This,201000,true
+2019-02-089,Lil Baby,Street Gossip,Pure Cocaine,154000,true
+2019-02-090,Silk City x Dua Lipa,,Electricity,238000,false
+2019-02-091,Cody Johnson,Ain't Nothin' to It - EP,On My Way To You,213000,false
+2019-02-092,Old Dominion,Old Dominion,Make It Sweet,186000,false
+2019-02-093,Carrie Underwood,Country Wedding Songs,Love Wins,229000,false
+2019-02-094,Tory Lanez & Rich The Kid,LoVE me NOw (ReLoAdeD),Talk To Me,184000,true
+2019-02-095,YNW Melly,Murder On My Mind,Murder On My Mind,269000,true
+2019-02-096,Maren Morris,GIRL,GIRL,250000,false
+2019-02-097,benny blanco & Juice WRLD Featuring Brendon Urie,Roses,Roses,223000,true
+2019-02-098,Hikaru Utada & Skrillex,Face My Fears,Face My Fears,222000,false
+2019-02-099,Ariana Grande,"thank u, next",Imagine,212000,true
+2019-02-100,Future,Future Hndrxx Presents: The WIZRD,Call The Coroner,132000,true
+2019-03-001,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-03-002,Halsey,Manic,Without Me,201000,true
+2019-03-003,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-03-004,Ariana Grande,"thank u, next","Thank U, Next",206000,true
+2019-03-005,Cardi B & Bruno Mars,Please Me,Please Me,200000,true
+2019-03-006,Marshmello & Bastille,Happier,Happier,214000,false
+2019-03-007,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-03-008,Ariana Grande,"thank u, next","Break Up With Your Girlfriend, I'm Bored",189000,true
+2019-03-009,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-03-010,Post Malone,Wow.,Wow.,150000,true
+2019-03-011,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-03-012,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-03-013,Blueface,Famous Cryp,Thotiana,129000,true
+2019-03-014,YNW Melly,Murder On My Mind,Murder On My Mind,269000,true
+2019-03-015,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-03-016,Cardi B,Money,Money,183000,true
+2019-03-017,21 Savage,i am > i was,A Lot,290000,true
+2019-03-018,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2019-03-019,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2019-03-020,Khalid,Better,Better,229000,true
+2019-03-021,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-03-022,Kodak Black Featuring Travis Scott & Offset,ZEZE (feat. Travis Scott & Offset),ZEZE,228000,true
+2019-03-023,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,193000,false
+2019-03-024,Bad Bunny Featuring Drake,X 100PRE,MIA,210000,false
+2019-03-025,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-03-026,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2019-03-027,Juice WRLD,Death Race For Love (Bonus Track Version),Robbery,240000,true
+2019-03-028,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2019-03-029,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-03-030,Dean Lewis,Be Alright,Be Alright,196000,true
+2019-03-031,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2019-03-032,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bury A Friend,193000,false
+2019-03-033,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2019-03-034,Lauren Daigle,Look Up Child,You Say,274000,false
+2019-03-035,Flipp Dinero,LOVE FOR GUALA,Leave Me Alone,196000,true
+2019-03-036,Gucci Mane X Bruno Mars X Kodak Black,Wake Up in the Sky,Wake Up In The Sky,204000,true
+2019-03-037,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me,Close To Me,182000,true
+2019-03-038,Pinkfong,Baby Shark Special,Baby Shark,96000,false
+2019-03-039,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-03-040,Sheck Wes,MUDBOY,Mo Bamba,181000,true
+2019-03-041,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2019-03-042,Calboy,Envy Me,Envy Me,120000,true
+2019-03-043,A Boogie Wit da Hoodie Featuring 6ix9ine,Hoodie SZN,Swervin,189000,true
+2019-03-044,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",Carte Blanche,Taki Taki,213000,true
+2019-03-045,Scotty McCreery,Seasons Change,This Is It,230000,false
+2019-03-046,Ariana Grande,"thank u, next",NASA,173000,false
+2019-03-047,Pardison Fontaine Featuring Cardi B,Backin' It Up (feat. Cardi B),Backin' It Up,190000,true
+2019-03-048,Ariana Grande,"thank u, next",Needy,171000,true
+2019-03-049,Offset,Red Room,Red Room,241000,true
+2019-03-050,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-03-051,Jason Aldean,30 Number One Hits,Girl Like You,192000,false
+2019-03-052,City Girls Featuring Cardi B,Girl Code,Twerk,165000,true
+2019-03-053,Ariana Grande,"thank u, next",Bloodline,215000,true
+2019-03-054,Luke Bryan,What Makes You Country,What Makes You Country,235000,false
+2019-03-055,Ariana Grande,"thank u, next",Bad Idea,266000,false
+2019-03-056,Mustard & Migos,Perfect Ten,Pure Water,194000,true
+2019-03-057,Ariana Grande,"thank u, next",Fake Smile,208000,true
+2019-03-058,Ariana Grande,"thank u, next",Imagine,212000,true
+2019-03-059,Jordan Davis,Take It From Me,Take It From Me,175000,false
+2019-03-060,YNW Melly Featuring Kanye West,We All Shine,Mixed Personalities,230000,true
+2019-03-061,Gesaffelstein & The Weeknd,Hyperion,Lost In The Fire,202000,true
+2019-03-062,Ariana Grande,"thank u, next",Ghostin,270000,false
+2019-03-063,Mark Ronson Featuring Miley Cyrus,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like A Heart,217000,false
+2019-03-064,The Chainsmokers Featuring Kelsea Ballerini,Sick Boy,This Feeling,197000,false
+2019-03-065,Chris Brown,Indigo,Undecided,181000,true
+2019-03-066,Chris Stapleton,From A Room: Volume 2,Millionaire,211000,false
+2019-03-067,Brett Young,The Acoustic Sessions,Here Tonight,198000,false
+2019-03-068,Kodak Black,Dying to Live,Calling My Spirit,152000,true
+2019-03-069,Thomas Rhett,Life Changes,Sixteen,178000,false
+2019-03-070,Lukas Graham,3 (The Purple Album),Love Someone,205000,false
+2019-03-071,Juice WRLD,Armed And Dangerous,Armed And Dangerous,170000,true
+2019-03-072,Kehlani Featuring Ty Dolla $ign,Nights Like This (feat. Ty Dolla $ign),Nights Like This,201000,true
+2019-03-073,Lil Baby,Drip Harder,Close Friends,203000,true
+2019-03-074,Ariana Grande,"thank u, next",In My Head,222000,true
+2019-03-075,Yo Gotti Featuring Lil Baby,Put a Date On It (feat. Lil Baby),Put A Date On It,195000,true
+2019-03-076,Lil Baby,Street Gossip,Pure Cocaine,154000,true
+2019-03-077,Jake Owen,Greetings From...Jake,Down To The Honkytonk,186000,true
+2019-03-078,Anuel AA & Romeo Santos,Ella Quiere Beber (Remix),Ella Quiere Beber,219000,false
+2019-03-079,Billie Eilish & Khalid,lovely,Lovely,199000,false
+2019-03-080,Florida Georgia Line,Can't Say I Ain't Country,Talk You Out Of It,202000,false
+2019-03-081,Kelsea Ballerini,Unapologetically (Deluxe Edition),Miss Me More,192000,false
+2019-03-082,Loud Luxury Featuring Brando,Body,Body,163000,false
+2019-03-083,Midland,On The Rocks,Burn Out,191000,false
+2019-03-084,Chase Rice,Lambs & Lions,Eyes On You,182000,false
+2019-03-085,The Chainsmokers Featuring 5 Seconds Of Summer,World War Joy...Takeaway,Who Do You Love,226000,true
+2019-03-086,Zedd & Katy Perry,365,365,181000,false
+2019-03-087,YK Osiris,Worth It,Worth It,189000,false
+2019-03-088,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2019-03-089,Travis Scott,ASTROWORLD,Yosemite,150000,false
+2019-03-090,Ella Mai,Ella Mai,Shot Clock,201000,true
+2019-03-091,Riley Green,Different 'Round Here,There Was This Girl,195000,false
+2019-03-092,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,Con Calma,192000,false
+2019-03-093,Cody Johnson,Ain't Nothin' to It - EP,On My Way To You,213000,false
+2019-03-094,Alec Benjamin + Alessia Cara,Let Me Down Slowly (feat. Alessia Cara),Let Me Down Slowly,169000,false
+2019-03-095,Ariana Grande,"thank u, next",Make Up,140000,true
+2019-03-096,Old Dominion,Old Dominion,Make It Sweet,186000,false
+2019-03-097,Dustin Lynch,Tullahoma,Good Girl,189000,false
+2019-03-098,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You (feat. Maluma & Swae Lee),Arms Around You,198000,true
+2019-03-099,A Boogie Wit da Hoodie Featuring Offset & Tyga,Startender (feat. Offset and Tyga),Startender,192000,true
+2019-03-100,Michael Ray,Pump-Up Country,One That Got Away,218000,false
+2019-04-001,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-04-002,Post Malone,Wow.,Wow.,150000,true
+2019-04-003,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-04-004,Halsey,Manic,Without Me,201000,true
+2019-04-005,Cardi B & Bruno Mars,Please Me,Please Me,200000,true
+2019-04-006,Marshmello & Bastille,Happier,Happier,214000,false
+2019-04-007,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-04-008,Blueface,Famous Cryp,Thotiana,129000,true
+2019-04-009,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-04-010,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-04-011,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-04-012,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-04-013,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-04-014,Ariana Grande,"thank u, next","Break Up With Your Girlfriend, I'm Bored",189000,true
+2019-04-015,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-04-016,Khalid,Better,Better,229000,true
+2019-04-017,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-04-018,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-04-019,YNW Melly,Murder On My Mind,Murder On My Mind,269000,true
+2019-04-020,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-04-021,Ariana Grande,"thank u, next","Thank U, Next",206000,true
+2019-04-022,21 Savage,i am > i was,A Lot,290000,true
+2019-04-023,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2019-04-024,Dean Lewis,Be Alright,Be Alright,196000,true
+2019-04-025,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,193000,false
+2019-04-026,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2019-04-027,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me,Close To Me,182000,true
+2019-04-028,Cardi B,Money,Money,183000,true
+2019-04-029,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2019-04-030,Lauren Daigle,Look Up Child,You Say,274000,false
+2019-04-031,Mustard & Migos,Perfect Ten,Pure Water,194000,true
+2019-04-032,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2019-04-033,Pinkfong,Baby Shark Special,Baby Shark,96000,false
+2019-04-034,Bad Bunny Featuring Drake,X 100PRE,MIA,210000,false
+2019-04-035,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-04-036,Calboy,Envy Me,Envy Me,120000,true
+2019-04-037,Juice WRLD,Death Race For Love (Bonus Track Version),Robbery,240000,true
+2019-04-038,Kodak Black Featuring Travis Scott & Offset,ZEZE (feat. Travis Scott & Offset),ZEZE,228000,true
+2019-04-039,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2019-04-040,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-04-041,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bury A Friend,193000,false
+2019-04-042,YNW Melly Featuring Kanye West,We All Shine,Mixed Personalities,230000,true
+2019-04-043,City Girls,Girl Code,Act Up,158000,true
+2019-04-044,A Boogie Wit da Hoodie Featuring 6ix9ine,Hoodie SZN,Swervin,189000,true
+2019-04-045,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2019-04-046,Yo Gotti Featuring Lil Baby,Put a Date On It (feat. Lil Baby),Put A Date On It,195000,true
+2019-04-047,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2019-04-048,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",Carte Blanche,Taki Taki,213000,true
+2019-04-049,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,Con Calma,192000,false
+2019-04-050,City Girls Featuring Cardi B,Girl Code,Twerk,165000,true
+2019-04-051,Brett Young,The Acoustic Sessions,Here Tonight,198000,false
+2019-04-052,The Chainsmokers Featuring 5 Seconds Of Summer,World War Joy...Takeaway,Who Do You Love,226000,true
+2019-04-053,Marshmello Featuring CHVRCHES,Here With Me (feat. CHVRCHES),Here With Me,156000,false
+2019-04-054,Chase Rice,Lambs & Lions,Eyes On You,182000,false
+2019-04-055,YK Osiris,Worth It,Worth It,189000,false
+2019-04-056,Imagine Dragons,Origins (Deluxe),Bad Liar,260000,false
+2019-04-057,Lil Baby,Drip Harder,Close Friends,203000,true
+2019-04-058,Summer Walker X Drake,Last Day Of Summer,Girls Need Love,222000,true
+2019-04-059,Kane Brown,Experiment Extended,Good As You,191000,false
+2019-04-060,Kelsea Ballerini,Unapologetically (Deluxe Edition),Miss Me More,192000,false
+2019-04-061,FLETCHER,you ruined new york city for me,Undrunk,183000,true
+2019-04-062,Ella Mai,Ella Mai,Shot Clock,201000,true
+2019-04-063,P!nk,Walk Me Home,Walk Me Home,177000,false
+2019-04-064,Chris Stapleton,From A Room: Volume 2,Millionaire,211000,false
+2019-04-065,Jake Owen,Greetings From...Jake,Down To The Honkytonk,186000,true
+2019-04-066,Morgan Wallen,If I Know Me,Whiskey Glasses,234000,false
+2019-04-067,Michael Ray,Pump-Up Country,One That Got Away,218000,false
+2019-04-068,Scotty McCreery,Seasons Change,This Is It,230000,false
+2019-04-069,Thomas Rhett,Center Point Road,Look What God Gave Her,168000,false
+2019-04-070,Lil Baby,Street Gossip,Pure Cocaine,154000,true
+2019-04-071,Riley Green,Different 'Round Here,There Was This Girl,195000,false
+2019-04-072,NAV Featuring The Weeknd,Bad Habits (Deluxe),Price On My Head,217000,true
+2019-04-073,Khalid & Kane Brown,Suncity,Saturday Nights,210000,false
+2019-04-074,Old Dominion,Old Dominion,Make It Sweet,186000,false
+2019-04-075,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting (feat. Fall Out Boy),I've Been Waiting,235000,true
+2019-04-076,Jason Aldean,30 Number One Hits,Girl Like You,192000,false
+2019-04-077,Maren Morris,GIRL,GIRL,250000,false
+2019-04-078,Logic,Confessions of a Dangerous Mind,Confessions Of A Dangerous Mind,284000,true
+2019-04-079,Jordan Davis,Take It From Me,Take It From Me,175000,false
+2019-04-080,Rich The Kid,The World Is Yours 2,Splashin,177000,true
+2019-04-081,Jon Pardi,California Sunrise,Night Shift,173000,false
+2019-04-082,Lil Skies,Shelby,I,181000,true
+2019-04-083,Lee Brice,Lee Brice,Rumor,198000,false
+2019-04-084,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Wish You Were Gay,221000,false
+2019-04-085,"benny blanco, Tainy, Selena Gomez & J Balvin",I Can’t Get Enough,I Can't Get Enough,158000,false
+2019-04-086,Juice WRLD,Death Race For Love (Bonus Track Version),Hear Me Calling,190000,true
+2019-04-087,Ski Mask The Slump God,STOKELEY,Faucet Failure,145000,true
+2019-04-088,Florida Georgia Line,Can't Say I Ain't Country,Talk You Out Of It,202000,false
+2019-04-089,NAV Featuring Meek Mill,Bad Habits (Deluxe),Tap,148000,true
+2019-04-090,Pedro Capo X Farruko,Calma (Remix),Calma,238000,false
+2019-04-091,Chris Brown,Indigo,Undecided,181000,true
+2019-04-092,Cody Johnson,Ain't Nothin' to It - EP,On My Way To You,213000,false
+2019-04-093,Anuel AA & Karol G,Secreto,Secreto,258000,false
+2019-04-094,Kodak Black,Dying to Live,Calling My Spirit,152000,true
+2019-04-095,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-04-096,Billie Eilish & Khalid,lovely,Lovely,199000,false
+2019-04-097,Mabel,Ivy To Roses (Mixtape),Don't Call Me Up,178000,false
+2019-04-098,Bebe Rexha,Last Hurrah,Last Hurrah,150000,false
+2019-04-099,Juice WRLD,The Party Never Ends 2.0,Empty,136000,true
+2019-04-100,Carrie Underwood,Country Wedding Songs,Love Wins,229000,false
+2019-05-001,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-05-002,Post Malone,Wow.,Wow.,150000,true
+2019-05-003,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-05-004,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-05-005,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-05-006,Halsey,Manic,Without Me,201000,true
+2019-05-007,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-05-008,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-05-009,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-05-010,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-05-011,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-05-012,Marshmello & Bastille,Happier,Happier,214000,false
+2019-05-013,Cardi B & Bruno Mars,Please Me,Please Me,200000,true
+2019-05-014,Ariana Grande,"thank u, next","Break Up With Your Girlfriend, I'm Bored",189000,true
+2019-05-015,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-05-016,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-05-017,Lil Dicky,Earth,Earth,281000,true
+2019-05-018,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-05-019,Khalid,Better,Better,229000,true
+2019-05-020,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-05-021,Blueface,Famous Cryp,Thotiana,129000,true
+2019-05-022,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2019-05-023,Mustard & Migos,Perfect Ten,Pure Water,194000,true
+2019-05-024,21 Savage,i am > i was,A Lot,290000,true
+2019-05-025,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-05-026,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,193000,false
+2019-05-027,Dean Lewis,Be Alright,Be Alright,196000,true
+2019-05-028,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-05-029,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me,Close To Me,182000,true
+2019-05-030,City Girls,Girl Code,Act Up,158000,true
+2019-05-031,Calboy,Envy Me,Envy Me,120000,true
+2019-05-032,Lil Uzi Vert,Sanguine Paradise,Sanguine Paradise,243000,true
+2019-05-033,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2019-05-034,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,Con Calma,192000,false
+2019-05-035,YNW Melly,Murder On My Mind,Murder On My Mind,269000,true
+2019-05-036,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bury A Friend,193000,false
+2019-05-037,Marshmello Featuring CHVRCHES,Here With Me (feat. CHVRCHES),Here With Me,156000,false
+2019-05-038,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2019-05-039,Offset Featuring Cardi B,FATHER OF 4,Clout,205000,true
+2019-05-040,BTS Featuring Halsey,MAP OF THE SOUL : 7,Boy With Luv,229000,false
+2019-05-041,Ariana Grande,"thank u, next","Thank U, Next",206000,true
+2019-05-042,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2019-05-043,Blake Shelton,God's Country,God's Country,205000,false
+2019-05-044,Chase Rice,Lambs & Lions,Eyes On You,182000,false
+2019-05-045,Lauren Daigle,Look Up Child,You Say,274000,false
+2019-05-046,DaBaby,Baby On Baby,Suge,163000,true
+2019-05-047,Pinkfong,Baby Shark Special,Baby Shark,96000,false
+2019-05-048,Morgan Wallen,If I Know Me,Whiskey Glasses,234000,false
+2019-05-049,Brett Young,The Acoustic Sessions,Here Tonight,198000,false
+2019-05-050,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2019-05-051,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,Racks in the Middle (feat. Roddy Ricch and Hit-Boy),Racks In The Middle,233000,true
+2019-05-052,Kane Brown,Experiment Extended,Good As You,191000,false
+2019-05-053,Thomas Rhett,Center Point Road,Look What God Gave Her,168000,false
+2019-05-054,A Boogie Wit da Hoodie Featuring 6ix9ine,Hoodie SZN,Swervin,189000,true
+2019-05-055,The Chainsmokers Featuring 5 Seconds Of Summer,World War Joy...Takeaway,Who Do You Love,226000,true
+2019-05-056,Old Dominion,Old Dominion,Make It Sweet,186000,false
+2019-05-057,Lil Baby,Drip Harder,Close Friends,203000,true
+2019-05-058,YK Osiris,Worth It,Worth It,189000,false
+2019-05-059,Kelsea Ballerini,Unapologetically (Deluxe Edition),Miss Me More,192000,false
+2019-05-060,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-05-061,Jon Pardi,California Sunrise,Night Shift,173000,false
+2019-05-062,P!nk,Walk Me Home,Walk Me Home,177000,false
+2019-05-063,YNW Melly Featuring Kanye West,We All Shine,Mixed Personalities,230000,true
+2019-05-064,Lil Peep & iLoveMakonnen Featuring Fall Out Boy,I've Been Waiting (feat. Fall Out Boy),I've Been Waiting,235000,true
+2019-05-065,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",You Should See Me In A Crown,180000,false
+2019-05-066,Juice WRLD,Death Race For Love (Bonus Track Version),Robbery,240000,true
+2019-05-067,Lee Brice,Lee Brice,Rumor,198000,false
+2019-05-068,Eli Young Band,Love Ain't,Love Ain't,186000,false
+2019-05-069,Jonas Brothers,Happiness Begins,Cool,167000,false
+2019-05-070,Mabel,Ivy To Roses (Mixtape),Don't Call Me Up,178000,false
+2019-05-071,Pedro Capo X Farruko,Calma (Remix),Calma,238000,false
+2019-05-072,Summer Walker X Drake,Last Day Of Summer,Girls Need Love,222000,true
+2019-05-073,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Wish You Were Gay,221000,false
+2019-05-074,Maren Morris,GIRL,GIRL,250000,false
+2019-05-075,Beyonce,HOMECOMING: THE LIVE ALBUM,Before I Let Go,241000,true
+2019-05-076,Megan Thee Stallion,Tina Snow,Big Ole Freak,214000,true
+2019-05-077,Yo Gotti Featuring Lil Baby,Put a Date On It (feat. Lil Baby),Put A Date On It,195000,true
+2019-05-078,Florida Georgia Line,Can't Say I Ain't Country,Talk You Out Of It,202000,false
+2019-05-079,Ella Mai,Ella Mai,Shot Clock,201000,true
+2019-05-080,Panic! At The Disco,Pray for the Wicked,"Hey Look Ma, I Made It",169000,false
+2019-05-081,Lauv & Troye Sivan,i'm so tired...,I'm So Tired...,162000,false
+2019-05-082,Lil Uzi Vert,That's a Rack,That's A Rack,236000,true
+2019-05-083,Anuel AA & Karol G,Secreto,Secreto,258000,false
+2019-05-084,Billie Eilish,Ocean Eyes,Ocean Eyes,200000,false
+2019-05-085,Imagine Dragons,Origins (Deluxe),Bad Liar,260000,false
+2019-05-086,BLACKPINK,KILL THIS LOVE,Kill This Love,189000,false
+2019-05-087,Avicii Featuring Aloe Blacc,SOS,SOS,157000,false
+2019-05-088,Ski Mask The Slump God,STOKELEY,Faucet Failure,145000,true
+2019-05-089,Cody Johnson,Ain't Nothin' to It - EP,On My Way To You,213000,false
+2019-05-090,French Montana Featuring Blueface & Lil Tjay,Slide (feat. Blueface & Lil Tjay),Slide,186000,true
+2019-05-091,Khalid & Kane Brown,Suncity,Saturday Nights,210000,false
+2019-05-092,Lil Baby,Street Gossip,Pure Cocaine,154000,true
+2019-05-093,Brett Eldredge,Love Someone,Love Someone,210000,false
+2019-05-094,Scotty McCreery,Seasons Change,This Is It,230000,false
+2019-05-095,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",My Strange Addiction,180000,false
+2019-05-096,NLE Choppa,Cottonwood,Shotta Flow,176000,true
+2019-05-097,Alec Benjamin + Alessia Cara,Let Me Down Slowly (feat. Alessia Cara),Let Me Down Slowly,169000,false
+2019-05-098,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Xanny,243000,false
+2019-05-099,Michael Ray,Pump-Up Country,One That Got Away,218000,false
+2019-05-100,Taylor Swift Featuring Brendon Urie,Lover,ME!,193000,false
+2019-06-001,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-06-002,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-06-003,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-06-004,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-06-005,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-06-006,Post Malone,Wow.,Wow.,150000,true
+2019-06-007,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-06-008,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-06-009,Taylor Swift Featuring Brendon Urie,Lover,ME!,193000,false
+2019-06-010,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-06-011,Halsey,Manic,Without Me,201000,true
+2019-06-012,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-06-013,"Tyler, The Creator",IGOR,EARFQUAKE,190000,true
+2019-06-014,DaBaby,Baby On Baby,Suge,163000,true
+2019-06-015,Halsey,"If I Can’t Have Love, I Want Power (Deluxe)",Nightmare,231000,true
+2019-06-016,Shawn Mendes,If I Can't Have You,If I Can't Have You,190000,false
+2019-06-017,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-06-018,Marshmello & Bastille,Happier,Happier,214000,false
+2019-06-019,DJ Khaled Featuring Cardi B & 21 Savage,Father Of Asahd,Wish Wish,202000,true
+2019-06-020,Ariana Grande,"thank u, next","Break Up With Your Girlfriend, I'm Bored",189000,true
+2019-06-021,DJ Khaled Featuring Nipsey Hussle & John Legend,Father Of Asahd,Higher,176000,true
+2019-06-022,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-06-023,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-06-024,Blake Shelton,God's Country,God's Country,205000,false
+2019-06-025,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-06-026,Morgan Wallen,If I Know Me,Whiskey Glasses,234000,false
+2019-06-027,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,Con Calma,192000,false
+2019-06-028,Mustard & Migos,Perfect Ten,Pure Water,194000,true
+2019-06-029,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-06-030,Khalid,Better,Better,229000,true
+2019-06-031,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-06-032,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-06-033,Cardi B & Bruno Mars,Please Me,Please Me,200000,true
+2019-06-034,City Girls,Girl Code,Act Up,158000,true
+2019-06-035,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2019-06-036,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-06-037,Kane Brown,Experiment Extended,Good As You,191000,false
+2019-06-038,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-06-039,Calboy,Envy Me,Envy Me,120000,true
+2019-06-040,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2019-06-041,Luke Combs,What You See Is What You Get,Beer Never Broke My Heart,187000,false
+2019-06-042,Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,193000,false
+2019-06-043,DJ Khaled Featuring SZA,Father Of Asahd,Just Us,221000,true
+2019-06-044,"DJ Khaled Featuring Meek Mill, J Balvin, Lil Baby & Jeremih",Father Of Asahd,You Stay,275000,true
+2019-06-045,Lee Brice,Lee Brice,Rumor,198000,false
+2019-06-046,21 Savage,i am > i was,A Lot,290000,true
+2019-06-047,Panic! At The Disco,Pray for the Wicked,"Hey Look Ma, I Made It",169000,false
+2019-06-048,Marshmello Featuring CHVRCHES,Here With Me (feat. CHVRCHES),Here With Me,156000,false
+2019-06-049,Thomas Rhett,Center Point Road,Look What God Gave Her,168000,false
+2019-06-050,Blueface,Famous Cryp,Thotiana,129000,true
+2019-06-051,"Tyler, The Creator",IGOR,I Think,212000,true
+2019-06-052,DJ Khaled Featuring Travis Scott & Post Malone,Father Of Asahd,Celebrate,206000,false
+2019-06-053,Logic Featuring Eminem,Confessions of a Dangerous Mind,Homicide,245000,true
+2019-06-054,Chase Rice,Lambs & Lions,Eyes On You,182000,false
+2019-06-055,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bury A Friend,193000,false
+2019-06-056,Offset Featuring Cardi B,FATHER OF 4,Clout,205000,true
+2019-06-057,"DJ Khaled Featuring Chris Brown, Lil Wayne & Big Sean",Father Of Asahd,Jealous,255000,true
+2019-06-058,P!nk,Walk Me Home,Walk Me Home,177000,false
+2019-06-059,Lil Baby,Drip Harder,Close Friends,203000,true
+2019-06-060,Kelsea Ballerini,Unapologetically (Deluxe Edition),Miss Me More,192000,false
+2019-06-061,YNW Melly,Murder On My Mind,Murder On My Mind,269000,true
+2019-06-062,YK Osiris,Worth It,Worth It,189000,false
+2019-06-063,Lil Uzi Vert,Sanguine Paradise,Sanguine Paradise,243000,true
+2019-06-064,Yo Gotti Featuring Lil Baby,Put a Date On It (feat. Lil Baby),Put A Date On It,195000,true
+2019-06-065,"Tyler, The Creator",IGOR,Running Out Of Time,177000,true
+2019-06-066,Eli Young Band,Love Ain't,Love Ain't,186000,false
+2019-06-067,"Tyler, The Creator",IGOR,Igor's Theme,200000,false
+2019-06-068,Jonas Brothers,Happiness Begins,Cool,167000,false
+2019-06-069,Maren Morris,GIRL,GIRL,250000,false
+2019-06-070,"Tyler, The Creator",IGOR,New Magic Wand,195000,true
+2019-06-071,BTS Featuring Halsey,MAP OF THE SOUL : 7,Boy With Luv,229000,false
+2019-06-072,Megan Thee Stallion,Tina Snow,Big Ole Freak,214000,true
+2019-06-073,The Chainsmokers Featuring 5 Seconds Of Summer,World War Joy...Takeaway,Who Do You Love,226000,true
+2019-06-074,"Tyler, The Creator",IGOR,A Boy Is A Gun,210000,true
+2019-06-075,Nipsey Hussle Featuring Roddy Ricch & Hit-Boy,Racks in the Middle (feat. Roddy Ricch and Hit-Boy),Racks In The Middle,233000,true
+2019-06-076,"Lunay, Daddy Yankee & Bad Bunny",Soltera (Remix),Soltera,266000,false
+2019-06-077,Beyonce,HOMECOMING: THE LIVE ALBUM,Before I Let Go,241000,true
+2019-06-078,Lil Dicky,Earth,Earth,281000,true
+2019-06-079,Mabel,Ivy To Roses (Mixtape),Don't Call Me Up,178000,false
+2019-06-080,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-06-081,Luke Bryan,Knockin' Boots,Knockin' Boots,199000,false
+2019-06-082,Summer Walker X Drake,Last Day Of Summer,Girls Need Love,222000,true
+2019-06-083,Brett Eldredge,Love Someone,Love Someone,210000,false
+2019-06-084,Juice WRLD,Death Race For Love (Bonus Track Version),Robbery,240000,true
+2019-06-085,"Tyler, The Creator",IGOR,What's Good,205000,true
+2019-06-086,Lady Antebellum,Ocean,What If I Never Get Over You,206000,false
+2019-06-087,NLE Choppa,Cottonwood,Shotta Flow,176000,true
+2019-06-088,"Tyler, The Creator",IGOR,Puppet,179000,true
+2019-06-089,Florida Georgia Line,Can't Say I Ain't Country,Talk You Out Of It,202000,false
+2019-06-090,Jon Pardi,California Sunrise,Night Shift,173000,false
+2019-06-091,DJ Khaled Featuring Meek Mill & Lil Baby,Father Of Asahd,Weather The Storm,153000,true
+2019-06-092,"YG, Tyga & Jon Z",4REAL 4REAL,Go Loko,299000,true
+2019-06-093,Dan + Shay,All To Myself,All To Myself,169000,false
+2019-06-094,Jhene Aiko,Triggered (freestyle),Triggered,211000,true
+2019-06-095,Cody Johnson,Ain't Nothin' to It - EP,On My Way To You,213000,false
+2019-06-096,Pedro Capo X Farruko,Calma (Remix),Calma,238000,false
+2019-06-097,Meek Mill Featuring Ella Mai,Championships,24/7,221000,true
+2019-06-098,Brett Young,The Acoustic Sessions,Here Tonight,198000,false
+2019-06-099,Ozuna x Daddy Yankee x J Balvin x Farruko x Anuel AA,Nibiru,Baila Baila Baila,158000,false
+2019-06-100,Nicky Jam X Ozuna,Intimo,Te Robare,201000,false
+2019-07-001,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-07-002,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2019-07-003,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-07-004,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-07-005,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-07-006,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-07-007,DaBaby,Baby On Baby,Suge,163000,true
+2019-07-008,Drake Featuring Rick Ross,The Best In The World Pack,Money In The Grave,205000,true
+2019-07-009,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2019-07-010,Post Malone,Wow.,Wow.,150000,true
+2019-07-011,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-07-012,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-07-013,Taylor Swift,Lover,You Need To Calm Down,171000,false
+2019-07-014,Shawn Mendes,If I Can't Have You,If I Can't Have You,190000,false
+2019-07-015,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-07-016,Lil Nas X,7,Panini,114000,false
+2019-07-017,Halsey,Manic,Without Me,201000,true
+2019-07-018,Blake Shelton,God's Country,God's Country,205000,false
+2019-07-019,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-07-020,Nicki Minaj,MEGATRON,MEGATRON,190000,true
+2019-07-021,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-07-022,Lil Nas X & Cardi B Or Nas,7,Rodeo,158000,true
+2019-07-023,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-07-024,Panic! At The Disco,Pray for the Wicked,"Hey Look Ma, I Made It",169000,false
+2019-07-025,Marshmello & Bastille,Happier,Happier,214000,false
+2019-07-026,Lee Brice,Lee Brice,Rumor,198000,false
+2019-07-027,Katy Perry,Never Really Over,Never Really Over,224000,false
+2019-07-028,Morgan Wallen,If I Know Me,Whiskey Glasses,234000,false
+2019-07-029,Blanco Brown,Honeysuckle & Lightning Bugs,The Git Up,200000,false
+2019-07-030,"Young Thug, J. Cole & Travis Scott",The London (feat. J. Cole & Travis Scott),The London,200000,true
+2019-07-031,Taylor Swift Featuring Brendon Urie,Lover,ME!,193000,false
+2019-07-032,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-07-033,Luke Combs,What You See Is What You Get,Beer Never Broke My Heart,187000,false
+2019-07-034,City Girls,Girl Code,Act Up,158000,true
+2019-07-035,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2019-07-036,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-07-037,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,Con Calma,192000,false
+2019-07-038,Mustard & Migos,Perfect Ten,Pure Water,194000,true
+2019-07-039,Ed Sheeran Featuring Chance The Rapper & PnB Rock,Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me,206000,true
+2019-07-040,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-07-041,Khalid,Better,Better,229000,true
+2019-07-042,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-07-043,Cardi B,Press,Press,143000,true
+2019-07-044,Dan + Shay,Speechless,Speechless,212000,false
+2019-07-045,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-07-046,"Tyler, The Creator",IGOR,EARFQUAKE,190000,true
+2019-07-047,A Boogie Wit da Hoodie,Look Back at It,Look Back At It,179000,true
+2019-07-048,NLE Choppa,Cottonwood,Shotta Flow,176000,true
+2019-07-049,Ariana Grande,"thank u, next","Break Up With Your Girlfriend, I'm Bored",189000,true
+2019-07-050,Halsey,"If I Can’t Have Love, I Want Power (Deluxe)",Nightmare,231000,true
+2019-07-051,Lil Tecca,Ransom,Ran$om,131000,true
+2019-07-052,"YG, Tyga & Jon Z",4REAL 4REAL,Go Loko,299000,true
+2019-07-053,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-07-054,Thomas Rhett,Center Point Road,Look What God Gave Her,168000,false
+2019-07-055,Jonas Brothers,Happiness Begins,Cool,167000,false
+2019-07-056,Offset Featuring Cardi B,FATHER OF 4,Clout,205000,true
+2019-07-057,Marshmello & Kane Brown,One Thing Right,One Thing Right,182000,false
+2019-07-058,Kane Brown,Experiment Extended,Good As You,191000,false
+2019-07-059,YK Osiris,Worth It,Worth It,189000,false
+2019-07-060,DJ Khaled Featuring SZA,Father Of Asahd,Just Us,221000,true
+2019-07-061,Luke Bryan,Knockin' Boots,Knockin' Boots,199000,false
+2019-07-062,P!nk,Walk Me Home,Walk Me Home,177000,false
+2019-07-063,Maren Morris,GIRL,GIRL,250000,false
+2019-07-064,5 Seconds Of Summer,CALM,Easier,157000,false
+2019-07-065,Cardi B & Bruno Mars,Please Me,Please Me,200000,true
+2019-07-066,Eric Church,Desperate Man,Some Of It,195000,false
+2019-07-067,Dan + Shay,All To Myself,All To Myself,169000,false
+2019-07-068,Bad Bunny & Tainy,Callaita,Callaita,250000,true
+2019-07-069,Meek Mill Featuring Ella Mai,Championships,24/7,221000,true
+2019-07-070,Ali Gatie,It's You,It's You,212000,false
+2019-07-071,Jason Aldean,30 Number One Hits,Rearview Town,183000,false
+2019-07-072,Lil Baby Featuring Future,Out The Mud,Out The Mud,157000,true
+2019-07-073,The Chainsmokers & Bebe Rexha,World War Joy...Takeaway,Call You Mine,217000,false
+2019-07-074,Summer Walker X Drake,Last Day Of Summer,Girls Need Love,222000,true
+2019-07-075,"Lunay, Daddy Yankee & Bad Bunny",Soltera (Remix),Soltera,266000,false
+2019-07-076,Florida Georgia Line,Can't Say I Ain't Country,Talk You Out Of It,202000,false
+2019-07-077,SHAED,Trampoline,Trampoline,184000,false
+2019-07-078,"Yella Beezy, Gucci Mane & Quavo",Baccend Beezy,Bacc At It Again,228000,true
+2019-07-079,Beyonce,HOMECOMING: THE LIVE ALBUM,Before I Let Go,241000,true
+2019-07-080,DJ Khaled Featuring Cardi B & 21 Savage,Father Of Asahd,Wish Wish,202000,true
+2019-07-081,Chris Young,Raised on Country,Raised On Country,175000,false
+2019-07-082,Travis Scott,ASTROWORLD,Wake Up,232000,true
+2019-07-083,"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",Otro Trago (Remix),Otro Trago,287000,true
+2019-07-084,Chase Rice,Lambs & Lions,Eyes On You,182000,false
+2019-07-085,Bryce Vine Featuring YG,La La Land,La La Land,157000,false
+2019-07-086,Billie Eilish,Ocean Eyes,Ocean Eyes,200000,false
+2019-07-087,Marshmello Featuring CHVRCHES,Here With Me (feat. CHVRCHES),Here With Me,156000,false
+2019-07-088,Brett Eldredge,Love Someone,Love Someone,210000,false
+2019-07-089,Lil Uzi Vert,Sanguine Paradise,Sanguine Paradise,243000,true
+2019-07-090,Eli Young Band,Love Ain't,Love Ain't,186000,false
+2019-07-091,Pedro Capo X Farruko,Calma (Remix),Calma,238000,false
+2019-07-092,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2019-07-093,Justin Moore,Late Nights And Longnecks,The Ones That Didn't Make It Back Home,191000,false
+2019-07-094,Megan Thee Stallion,Tina Snow,Big Ole Freak,214000,true
+2019-07-095,NAV Featuring Meek Mill,Bad Habits (Deluxe),Tap,148000,true
+2019-07-096,"DJ Khaled Featuring Meek Mill, J Balvin, Lil Baby & Jeremih",Father Of Asahd,You Stay,275000,true
+2019-07-097,Ozuna x Daddy Yankee x J Balvin x Farruko x Anuel AA,Nibiru,Baila Baila Baila,158000,false
+2019-07-098,Megan Thee Stallion Featuring DaBaby,Fever,Cash Shit,192000,true
+2019-07-099,Drake,The Best In The World Pack,Omerta,219000,true
+2019-07-100,Martin Garrix Featuring Macklemore & Patrick Stump,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days,163000,true
+2019-08-001,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-08-002,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-08-003,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2019-08-004,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-08-005,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-08-006,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-08-007,Post Malone Featuring Young Thug,Goodbyes,Goodbyes,174000,true
+2019-08-008,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-08-009,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-08-010,Shawn Mendes,If I Can't Have You,If I Can't Have You,190000,false
+2019-08-011,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2019-08-012,DaBaby,Baby On Baby,Suge,163000,true
+2019-08-013,Drake Featuring Rick Ross,The Best In The World Pack,Money In The Grave,205000,true
+2019-08-014,Blanco Brown,Honeysuckle & Lightning Bugs,The Git Up,200000,false
+2019-08-015,Taylor Swift,Lover,You Need To Calm Down,171000,false
+2019-08-016,Panic! At The Disco,Pray for the Wicked,"Hey Look Ma, I Made It",169000,false
+2019-08-017,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-08-018,Post Malone,Wow.,Wow.,150000,true
+2019-08-019,Lil Tecca,Ransom,Ran$om,131000,true
+2019-08-020,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-08-021,Blake Shelton,God's Country,God's Country,205000,false
+2019-08-022,Halsey,Manic,Without Me,201000,true
+2019-08-023,"Young Thug, J. Cole & Travis Scott",The London (feat. J. Cole & Travis Scott),The London,200000,true
+2019-08-024,Luke Combs,What You See Is What You Get,Beer Never Broke My Heart,187000,false
+2019-08-025,Ed Sheeran Featuring Khalid,Beautiful People (feat. Khalid),Beautiful People,197000,false
+2019-08-026,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-08-027,Marshmello & Bastille,Happier,Happier,214000,false
+2019-08-028,Lil Nas X,7,Panini,114000,false
+2019-08-029,Sam Smith,How Do You Sleep?,How Do You Sleep?,201000,false
+2019-08-030,Dan + Shay,Speechless,Speechless,212000,false
+2019-08-031,Ava Max,Heaven & Hell,Sweet But Psycho,187000,false
+2019-08-032,Katy Perry,Never Really Over,Never Really Over,224000,false
+2019-08-033,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-08-034,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2019-08-035,Morgan Wallen,If I Know Me,Whiskey Glasses,234000,false
+2019-08-036,NLE Choppa,Cottonwood,Shotta Flow,176000,true
+2019-08-037,Saweetie,ICY,My Type,126000,true
+2019-08-038,Luke Bryan,Knockin' Boots,Knockin' Boots,199000,false
+2019-08-039,Lee Brice,Lee Brice,Rumor,198000,false
+2019-08-040,City Girls,Girl Code,Act Up,158000,true
+2019-08-041,Dan + Shay,All To Myself,All To Myself,169000,false
+2019-08-042,Lil Baby & DaBaby,NI,Baby,258000,true
+2019-08-043,Khalid,Better,Better,229000,true
+2019-08-044,Maren Morris,GIRL,GIRL,250000,false
+2019-08-045,Meek Mill Featuring Drake,Championships,Going Bad,180000,true
+2019-08-046,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2019-08-047,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2019-08-048,Daddy Yankee & Katy Perry Featuring Snow,Con Calma,Con Calma,192000,false
+2019-08-049,J. Cole,MIDDLE CHILD,Middle Child,213000,true
+2019-08-050,Offset Featuring Cardi B,FATHER OF 4,Clout,205000,true
+2019-08-051,Megan Thee Stallion Featuring DaBaby,Fever,Cash Shit,192000,true
+2019-08-052,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China,China,301000,false
+2019-08-053,YK Osiris,Worth It,Worth It,189000,false
+2019-08-054,Jason Aldean,30 Number One Hits,Rearview Town,183000,false
+2019-08-055,Bad Bunny & Tainy,Callaita,Callaita,250000,true
+2019-08-056,"YG, Tyga & Jon Z",4REAL 4REAL,Go Loko,299000,true
+2019-08-057,DJ Khaled Featuring SZA,Father Of Asahd,Just Us,221000,true
+2019-08-058,Taylor Swift Featuring Brendon Urie,Lover,ME!,193000,false
+2019-08-059,Eric Church,Desperate Man,Some Of It,195000,false
+2019-08-060,Marshmello & Kane Brown,One Thing Right,One Thing Right,182000,false
+2019-08-061,Ed Sheeran Featuring Chance The Rapper & PnB Rock,Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me,206000,true
+2019-08-062,Ed Sheeran & Travis Scott,No.6 Collaborations Project,Antisocial,161000,false
+2019-08-063,Cardi B,Press,Press,143000,true
+2019-08-064,5 Seconds Of Summer,CALM,Easier,157000,false
+2019-08-065,Florida Georgia Line,Can't Say I Ain't Country,Talk You Out Of It,202000,false
+2019-08-066,The Chainsmokers & Bebe Rexha,World War Joy...Takeaway,Call You Mine,217000,false
+2019-08-067,SHAED,Trampoline,Trampoline,184000,false
+2019-08-068,Justin Moore,Late Nights And Longnecks,The Ones That Didn't Make It Back Home,191000,false
+2019-08-069,Taylor Swift,Lover,The Archer,211000,false
+2019-08-070,"Tyler, The Creator",IGOR,EARFQUAKE,190000,true
+2019-08-071,Chris Young,Raised on Country,Raised On Country,175000,false
+2019-08-072,Ali Gatie,It's You,It's You,212000,false
+2019-08-073,Lil Nas X & Cardi B Or Nas,7,Rodeo,158000,true
+2019-08-074,"Lunay, Daddy Yankee & Bad Bunny",Soltera (Remix),Soltera,266000,false
+2019-08-075,Bryce Vine Featuring YG,La La Land,La La Land,157000,false
+2019-08-076,"Beyonce, SAINt JHN & Wizkid Featuring Blue Ivy Carter",The Lion King: The Gift,Brown Skin Girl,248000,false
+2019-08-077,Y2K & bbno$,Lalala,Lalala,161000,true
+2019-08-078,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2019-08-079,"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",Otro Trago (Remix),Otro Trago,287000,true
+2019-08-080,Meek Mill Featuring Ella Mai,Championships,24/7,221000,true
+2019-08-081,Halsey,"If I Can’t Have Love, I Want Power (Deluxe)",Nightmare,231000,true
+2019-08-082,Ellie Goulding & Juice WRLD,Hate Me,Hate Me,186000,false
+2019-08-083,"Jhay Cortez, J Balvin & Bad Bunny",Summer Vacation,No Me Conoce,309000,false
+2019-08-084,Jonas Brothers,Happiness Begins,Cool,167000,false
+2019-08-085,Beyonce,HOMECOMING: THE LIVE ALBUM,Before I Let Go,241000,true
+2019-08-086,Chris Lane,Laps Around The Sun,I Don't Know About You,207000,false
+2019-08-087,NAV Featuring Meek Mill,Bad Habits (Deluxe),Tap,148000,true
+2019-08-088,"Dreamville Featuring J. Cole, Lute & DaBaby",Revenge Of The Dreamers III,Under The Sun,201000,true
+2019-08-089,Carrie Underwood,Cry Pretty,Southbound,203000,false
+2019-08-090,"Beyonce, JAY-Z & Childish Gambino Featuring Oumou Sangare",The Lion King: The Gift,Mood 4 Eva,272000,false
+2019-08-091,DJ Khaled Featuring Cardi B & 21 Savage,Father Of Asahd,Wish Wish,202000,true
+2019-08-092,Eli Young Band,Love Ain't,Love Ain't,186000,false
+2019-08-093,"Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",Perfect Ten,Baguettes In The Face,174000,true
+2019-08-094,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2019-08-095,Pedro Capo X Farruko,Calma (Remix),Calma,238000,false
+2019-08-096,J Balvin & Bad Bunny,OASIS,Que Pretendes,222000,false
+2019-08-097,Lil Uzi Vert,Sanguine Paradise,Sanguine Paradise,243000,true
+2019-08-098,Kenny Chesney,Here And Now,Tip Of My Tongue,199000,false
+2019-08-099,Ed Sheeran Featuring Camila Cabello & Cardi B,No.6 Collaborations Project,South Of The Border,204000,false
+2019-08-100,Nicki Minaj,MEGATRON,MEGATRON,190000,true
+2019-09-001,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-09-002,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2019-09-003,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-09-004,Taylor Swift,Lover,You Need To Calm Down,171000,false
+2019-09-005,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-09-006,Lil Tecca,Ransom,Ran$om,131000,true
+2019-09-007,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2019-09-008,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-09-009,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-09-010,Taylor Swift,Lover,Lover,221000,false
+2019-09-011,Taylor Swift Featuring Brendon Urie,Lover,ME!,193000,false
+2019-09-012,Post Malone Featuring Young Thug,Goodbyes,Goodbyes,174000,true
+2019-09-013,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-09-014,Drake Featuring Rick Ross,The Best In The World Pack,Money In The Grave,205000,true
+2019-09-015,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-09-016,Shawn Mendes,If I Can't Have You,If I Can't Have You,190000,false
+2019-09-017,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-09-018,DaBaby,Baby On Baby,Suge,163000,true
+2019-09-019,Blanco Brown,Honeysuckle & Lightning Bugs,The Git Up,200000,false
+2019-09-020,Ed Sheeran Featuring Khalid,Beautiful People (feat. Khalid),Beautiful People,197000,false
+2019-09-021,Saweetie,ICY,My Type,126000,true
+2019-09-022,Ariana Grande & Social House,boyfriend,Boyfriend,186000,true
+2019-09-023,Taylor Swift,Lover,The Man,190000,false
+2019-09-024,Lil Baby & DaBaby,NI,Baby,258000,true
+2019-09-025,"Young Thug, J. Cole & Travis Scott",The London (feat. J. Cole & Travis Scott),The London,200000,true
+2019-09-026,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-09-027,Luke Combs,What You See Is What You Get,Beer Never Broke My Heart,187000,false
+2019-09-028,Taylor Swift,Lover,I Forgot That You Existed,170000,false
+2019-09-029,Taylor Swift,Lover,Cruel Summer,178000,false
+2019-09-030,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-09-031,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Hot Girl Summer,199000,true
+2019-09-032,Halsey,Manic,Without Me,201000,true
+2019-09-033,Dan + Shay,Speechless,Speechless,212000,false
+2019-09-034,Luke Bryan,Knockin' Boots,Knockin' Boots,199000,false
+2019-09-035,Post Malone,Wow.,Wow.,150000,true
+2019-09-036,Sam Smith,How Do You Sleep?,How Do You Sleep?,201000,false
+2019-09-037,Panic! At The Disco,Pray for the Wicked,"Hey Look Ma, I Made It",169000,false
+2019-09-038,Taylor Swift,Lover,The Archer,211000,false
+2019-09-039,Young Thug Featuring Gunna,Hot (Remix) [feat. Gunna and Travis Scott],Hot,279000,true
+2019-09-040,Lil Nas X,7,Panini,114000,false
+2019-09-041,SHAED,Trampoline,Trampoline,184000,false
+2019-09-042,Megan Thee Stallion Featuring DaBaby,Fever,Cash Shit,192000,true
+2019-09-043,Ariana Grande,"thank u, next",7 Rings,178000,true
+2019-09-044,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2019-09-045,Taylor Swift,Lover,Paper Rings,222000,false
+2019-09-046,Blake Shelton,God's Country,God's Country,205000,false
+2019-09-047,Morgan Wallen,If I Know Me,Whiskey Glasses,234000,false
+2019-09-048,Dan + Shay,All To Myself,All To Myself,169000,false
+2019-09-049,Taylor Swift,Lover,Miss Americana & The Heartbreak Prince,234000,false
+2019-09-050,NLE Choppa,Cottonwood,Shotta Flow,176000,true
+2019-09-051,Taylor Swift,Lover,I Think He Knows,173000,false
+2019-09-052,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2019-09-053,Justin Moore,Late Nights And Longnecks,The Ones That Didn't Make It Back Home,191000,false
+2019-09-054,Young Thug Featuring Lil Baby,So Much Fun,Bad Bad Bad,149000,true
+2019-09-055,Wale Featuring Jeremih,On Chill (feat. Jeremih),On Chill,214000,true
+2019-09-056,Jason Aldean,30 Number One Hits,Rearview Town,183000,false
+2019-09-057,Taylor Swift,Lover,Cornelia Street,287000,false
+2019-09-058,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China,China,301000,false
+2019-09-059,Marshmello & Kane Brown,One Thing Right,One Thing Right,182000,false
+2019-09-060,"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",Otro Trago (Remix),Otro Trago,287000,true
+2019-09-061,Sarah Jeffery,Descendants 3 (Original TV Movie Soundtrack),Queen Of Mean,189000,false
+2019-09-062,Taylor Swift,Lover,London Boy,190000,false
+2019-09-063,Taylor Swift Featuring Dixie Chicks,Lover,Soon You'll Get Better,201000,false
+2019-09-064,Miley Cyrus,SHE IS COMING,Slide Away,233000,false
+2019-09-065,5 Seconds Of Summer,CALM,Easier,157000,false
+2019-09-066,Normani,Motivation,Motivation,193000,false
+2019-09-067,Taylor Swift,Lover,Death By A Thousand Cuts,198000,false
+2019-09-068,Chris Lane,Laps Around The Sun,I Don't Know About You,207000,false
+2019-09-069,Bad Bunny & Tainy,Callaita,Callaita,250000,true
+2019-09-070,Lil Tjay,F.N,F.N,224000,true
+2019-09-071,Y2K & bbno$,Lalala,Lalala,161000,true
+2019-09-072,NF,The Search,Time,240000,false
+2019-09-073,Dierks Bentley,The Mountain,Living,223000,false
+2019-09-074,Matt Stell,Everywhere But On,Prayed For You,210000,false
+2019-09-075,Taylor Swift,Lover,Afterglow,223000,false
+2019-09-076,Carrie Underwood,Cry Pretty,Southbound,203000,false
+2019-09-077,Taylor Swift,Lover,False God,200000,false
+2019-09-078,Ali Gatie,It's You,It's You,212000,false
+2019-09-079,The Chainsmokers & Bebe Rexha,World War Joy...Takeaway,Call You Mine,217000,false
+2019-09-080,Ellie Goulding & Juice WRLD,Hate Me,Hate Me,186000,false
+2019-09-081,Cole Swindell,Love You Too Late,Love You Too Late,204000,false
+2019-09-082,Lizzo,Cuz I Love You,Juice,195000,true
+2019-09-083,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2019-09-084,"YG, Tyga & Jon Z",4REAL 4REAL,Go Loko,299000,true
+2019-09-085,Cardi B,Press,Press,143000,true
+2019-09-086,"Jhay Cortez, J Balvin & Bad Bunny",Summer Vacation,No Me Conoce,309000,false
+2019-09-087,Summer Walker,Over It,Playing Games,143000,true
+2019-09-088,Kenny Chesney,Here And Now,Tip Of My Tongue,199000,false
+2019-09-089,Taylor Swift,Lover,Daylight,293000,false
+2019-09-090,Chris Young,Raised on Country,Raised On Country,175000,false
+2019-09-091,Old Dominion,Old Dominion,One Man Band,186000,false
+2019-09-092,Taylor Swift,Lover,It's Nice To Have A Friend,150000,false
+2019-09-093,Khalid Featuring A Boogie Wit da Hoodie,Right Back (feat. A Boogie Wit Da Hoodie),Right Back,254000,false
+2019-09-094,Katy Perry,Never Really Over,Never Really Over,224000,false
+2019-09-095,"Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",Perfect Ten,Baguettes In The Face,174000,true
+2019-09-096,"Tyler, The Creator",IGOR,EARFQUAKE,190000,true
+2019-09-097,"Lunay, Daddy Yankee & Bad Bunny",Soltera (Remix),Soltera,266000,false
+2019-09-098,DaBaby Featuring Offset,Baby On Baby,Baby Sitter,157000,true
+2019-09-099,Lil Tecca,We Love You Tecca,Did It Again,116000,true
+2019-09-100,Runaway June,Runaway June (EP),Buy My Own Drinks,206000,false
+2019-10-001,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-10-002,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2019-10-003,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-10-004,Lil Tecca,Ransom,Ran$om,131000,true
+2019-10-005,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2019-10-006,Lil Nas X,7,Panini,114000,false
+2019-10-007,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-10-008,Post Malone,Circles,Circles,215000,false
+2019-10-009,Post Malone Featuring Young Thug,Goodbyes,Goodbyes,174000,true
+2019-10-010,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-10-011,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-10-012,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-10-013,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-10-014,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-10-015,Ed Sheeran Featuring Khalid,Beautiful People (feat. Khalid),Beautiful People,197000,false
+2019-10-016,Drake Featuring Rick Ross,The Best In The World Pack,Money In The Grave,205000,true
+2019-10-017,DaBaby,BE MORE GRATEFUL,INTRO,228000,true
+2019-10-018,DaBaby,Baby On Baby,Suge,163000,true
+2019-10-019,Ariana Grande & Social House,boyfriend,Boyfriend,186000,true
+2019-10-020,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Hot Girl Summer,199000,true
+2019-10-021,Lil Baby & DaBaby,NI,Baby,258000,true
+2019-10-022,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2019-10-023,Taylor Swift,Lover,You Need To Calm Down,171000,false
+2019-10-024,Saweetie,ICY,My Type,126000,true
+2019-10-025,Post Malone Featuring Ozzy Osbourne & Travis Scott,Hollywood's Bleeding,Take What You Want,231000,false
+2019-10-026,Sam Smith,How Do You Sleep?,How Do You Sleep?,201000,false
+2019-10-027,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-10-028,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2019-10-029,Wale Featuring Jeremih,On Chill (feat. Jeremih),On Chill,214000,true
+2019-10-030,Blanco Brown,Honeysuckle & Lightning Bugs,The Git Up,200000,false
+2019-10-031,Shawn Mendes,If I Can't Have You,If I Can't Have You,190000,false
+2019-10-032,SHAED,Trampoline,Trampoline,184000,false
+2019-10-033,Post Malone,Wow.,Wow.,150000,true
+2019-10-034,Halsey,Manic,Without Me,201000,true
+2019-10-035,Young Thug Featuring Gunna,Hot (Remix) [feat. Gunna and Travis Scott],Hot,279000,true
+2019-10-036,Post Malone Featuring DaBaby,Hollywood's Bleeding,Enemies,196000,false
+2019-10-037,NLE Choppa,Camelot,Camelot,148000,true
+2019-10-038,YNW Melly & 9lokknine,223's (feat. 9lokknine),223's,176000,true
+2019-10-039,Chris Lane,Laps Around The Sun,I Don't Know About You,207000,false
+2019-10-040,"Young Thug, J. Cole & Travis Scott",The London (feat. J. Cole & Travis Scott),The London,200000,true
+2019-10-041,Megan Thee Stallion Featuring DaBaby,Fever,Cash Shit,192000,true
+2019-10-042,Polo G Featuring Lil Tjay,Die A Legend,Pop Out,166000,true
+2019-10-043,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2019-10-044,Taylor Swift,Lover,Lover,221000,false
+2019-10-045,Luke Combs,What You See Is What You Get,Beer Never Broke My Heart,187000,false
+2019-10-046,Dan + Shay,Speechless,Speechless,212000,false
+2019-10-047,Marshmello & Kane Brown,One Thing Right,One Thing Right,182000,false
+2019-10-048,Post Malone,Hollywood's Bleeding,Saint-Tropez,150000,false
+2019-10-049,NF,The Search,Time,240000,false
+2019-10-050,Luke Bryan,Knockin' Boots,Knockin' Boots,199000,false
+2019-10-051,Dierks Bentley,The Mountain,Living,223000,false
+2019-10-052,"Ariana Grande, Miley Cyrus & Lana Del Rey",Charlie's Angels (Original Motion Picture Soundtrack),Don't Call Me Angel (Charlie's Angels),190000,false
+2019-10-053,Post Malone,Hollywood's Bleeding,Hollywood's Bleeding,156000,false
+2019-10-054,Matt Stell,Everywhere But On,Prayed For You,210000,false
+2019-10-055,Camila Cabello,Liar,Liar,207000,false
+2019-10-056,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2019-10-057,Chris Brown Featuring Gunna,Indigo,Heat,232000,true
+2019-10-058,Luke Combs,What You See Is What You Get,Even Though I'm Leaving,225000,false
+2019-10-059,Post Malone Featuring Future & Halsey,Hollywood's Bleeding,Die For Me,245000,false
+2019-10-060,Halsey,Manic,Graveyard,181000,false
+2019-10-061,Normani,Motivation,Motivation,193000,false
+2019-10-062,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China,China,301000,false
+2019-10-063,Post Malone Featuring Meek Mill & Lil Baby,Hollywood's Bleeding,On The Road,218000,false
+2019-10-064,Old Dominion,Old Dominion,One Man Band,186000,false
+2019-10-065,Cole Swindell,Love You Too Late,Love You Too Late,204000,false
+2019-10-066,Carrie Underwood,Cry Pretty,Southbound,203000,false
+2019-10-067,"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",Otro Trago (Remix),Otro Trago,287000,true
+2019-10-068,Chris Janson,Good Vibes,Good Vibes,165000,false
+2019-10-069,Y2K & bbno$,Lalala,Lalala,161000,true
+2019-10-070,Bad Bunny & Tainy,Callaita,Callaita,250000,true
+2019-10-071,DaBaby Featuring Offset,Baby On Baby,Baby Sitter,157000,true
+2019-10-072,Justin Moore,Late Nights And Longnecks,The Ones That Didn't Make It Back Home,191000,false
+2019-10-073,Young Thug Featuring Lil Baby,So Much Fun,Bad Bad Bad,149000,true
+2019-10-074,Summer Walker,Over It,Playing Games,143000,true
+2019-10-075,Russell Dickerson,Every Little Thing (Stripped),Every Little Thing,190000,false
+2019-10-076,Kenny Chesney,Here And Now,Tip Of My Tongue,199000,false
+2019-10-077,Khalid Featuring A Boogie Wit da Hoodie,Right Back (feat. A Boogie Wit Da Hoodie),Right Back,254000,false
+2019-10-078,"Jhay Cortez, J Balvin & Bad Bunny",Summer Vacation,No Me Conoce,309000,false
+2019-10-079,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2019-10-080,YoungBoy Never Broke Again,AI YoungBoy 2,Self Control,185000,true
+2019-10-081,Brantley Gilbert + Lindsay Ell,Fire & Brimstone (Deluxe Edition),What Happens In A Small Town,202000,false
+2019-10-082,Lil Tjay,F.N,F.N,224000,true
+2019-10-083,Drake,Top Boy (A Selection of Music Inspired by the Series),Behind Barz,163000,false
+2019-10-084,Lil Tecca,We Love You Tecca,Did It Again,116000,true
+2019-10-085,Thomas Rhett,Center Point Road,Remember You Young,180000,false
+2019-10-086,"Tainy, Anuel AA & Ozuna",Adicto,Adicto,270000,false
+2019-10-087,Ellie Goulding & Juice WRLD,Hate Me,Hate Me,186000,false
+2019-10-088,Post Malone,Hollywood's Bleeding,A Thousand Bad Times,221000,false
+2019-10-089,Lady Antebellum,Ocean,What If I Never Get Over You,206000,false
+2019-10-090,DJ Khaled Featuring Cardi B & 21 Savage,Father Of Asahd,Wish Wish,202000,true
+2019-10-091,Keith Urban,THE SPEED OF NOW Part 1,We Were,188000,false
+2019-10-092,Kygo X Whitney Houston,Higher Love,Higher Love,228000,false
+2019-10-093,Lil Mosey x Gunna,Certified Hitmaker,Stuck In A Dream,123000,true
+2019-10-094,Ali Gatie,It's You,It's You,212000,false
+2019-10-095,Miley Cyrus,SHE IS COMING,Slide Away,233000,false
+2019-10-096,"DJ Snake, J. Balvin & Tyga",Carte Blanche,Loco Contigo,185000,false
+2019-10-097,Camila Cabello,Shameless,Shameless,219000,false
+2019-10-098,Sarah Jeffery,Descendants 3 (Original TV Movie Soundtrack),Queen Of Mean,189000,false
+2019-10-099,Jason Aldean,30 Number One Hits,Rearview Town,183000,false
+2019-10-100,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2019-11-001,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-11-002,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-11-003,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2019-11-004,Post Malone,Circles,Circles,215000,false
+2019-11-005,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2019-11-006,Lil Nas X,7,Panini,114000,false
+2019-11-007,Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,175000,true
+2019-11-008,Lil Tecca,Ransom,Ran$om,131000,true
+2019-11-009,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-11-010,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2019-11-011,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2019-11-012,Juice WRLD & YoungBoy Never Broke Again,Bandit,Bandit,189000,false
+2019-11-013,Ed Sheeran Featuring Khalid,Beautiful People (feat. Khalid),Beautiful People,197000,false
+2019-11-014,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2019-11-015,Selena Gomez,Rare,Lose You To Love Me,206000,false
+2019-11-016,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-11-017,Post Malone Featuring Young Thug,Goodbyes,Goodbyes,174000,true
+2019-11-018,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-11-019,SHAED,Trampoline,Trampoline,184000,false
+2019-11-020,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2019-11-021,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2019-11-022,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-11-023,Jonas Brothers,Happiness Begins,Sucker,181000,false
+2019-11-024,Wale Featuring Jeremih,On Chill (feat. Jeremih),On Chill,214000,true
+2019-11-025,Drake Featuring Rick Ross,The Best In The World Pack,Money In The Grave,205000,true
+2019-11-026,Summer Walker,Over It,Playing Games,143000,true
+2019-11-027,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2019-11-028,DaBaby,Baby On Baby,Suge,163000,true
+2019-11-029,Sam Smith,How Do You Sleep?,How Do You Sleep?,201000,false
+2019-11-030,Lil Baby & DaBaby,NI,Baby,258000,true
+2019-11-031,Young Thug Featuring Gunna,Hot (Remix) [feat. Gunna and Travis Scott],Hot,279000,true
+2019-11-032,Old Dominion,Old Dominion,One Man Band,186000,false
+2019-11-033,Sam Smith & Normani,Dancing With A Stranger,Dancing With A Stranger,171000,false
+2019-11-034,Luke Combs,What You See Is What You Get,Even Though I'm Leaving,225000,false
+2019-11-035,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Hot Girl Summer,199000,true
+2019-11-036,Marshmello & Kane Brown,One Thing Right,One Thing Right,182000,false
+2019-11-037,Taylor Swift,Lover,You Need To Calm Down,171000,false
+2019-11-038,Taylor Swift,Lover,Lover,221000,false
+2019-11-039,NLE Choppa,Camelot,Camelot,148000,true
+2019-11-040,Saweetie,ICY,My Type,126000,true
+2019-11-041,Matt Stell,Everywhere But On,Prayed For You,210000,false
+2019-11-042,NF,The Search,Time,240000,false
+2019-11-043,Chris Brown Featuring Gunna,Indigo,Heat,232000,true
+2019-11-044,Halsey,Manic,Graveyard,181000,false
+2019-11-045,YNW Melly & 9lokknine,223's (feat. 9lokknine),223's,176000,true
+2019-11-046,Post Malone,Wow.,Wow.,150000,true
+2019-11-047,YoungBoy Never Broke Again,AI YoungBoy 2,Lonely Child,217000,true
+2019-11-048,Chris Janson,Good Vibes,Good Vibes,165000,false
+2019-11-049,Cole Swindell,Love You Too Late,Love You Too Late,204000,false
+2019-11-050,Post Malone Featuring Ozzy Osbourne & Travis Scott,Hollywood's Bleeding,Take What You Want,231000,false
+2019-11-051,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2019-11-052,Camila Cabello,Liar,Liar,207000,false
+2019-11-053,Blanco Brown,Honeysuckle & Lightning Bugs,The Git Up,200000,false
+2019-11-054,Chris Lane,Laps Around The Sun,I Don't Know About You,207000,false
+2019-11-055,DaBaby,KIRK,BOP,161000,true
+2019-11-056,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2019-11-057,DaBaby,KIRK,VIBEZ,145000,true
+2019-11-058,YoungBoy Never Broke Again,AI YoungBoy 2,Make No Sense,148000,true
+2019-11-059,DaBaby Featuring Offset,Baby On Baby,Baby Sitter,157000,true
+2019-11-060,Megan Thee Stallion Featuring DaBaby,Fever,Cash Shit,192000,true
+2019-11-061,Russell Dickerson,Every Little Thing (Stripped),Every Little Thing,190000,false
+2019-11-062,YoungBoy Never Broke Again,AI YoungBoy 2,Self Control,185000,true
+2019-11-063,Lil Tjay,F.N,F.N,224000,true
+2019-11-064,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2019-11-065,Post Malone Featuring DaBaby,Hollywood's Bleeding,Enemies,196000,false
+2019-11-066,Harry Styles,Fine Line,Lights Up,174000,false
+2019-11-067,DaBaby,BE MORE GRATEFUL,INTRO,228000,true
+2019-11-068,Brantley Gilbert + Lindsay Ell,Fire & Brimstone (Deluxe Edition),What Happens In A Small Town,202000,false
+2019-11-069,Ellie Goulding & Juice WRLD,Hate Me,Hate Me,186000,false
+2019-11-070,Moneybagg Yo X Megan Thee Stallion,Time Served,All Dat,144000,true
+2019-11-071,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China,China,301000,false
+2019-11-072,Summer Walker & Usher,Over It,Come Thru,181000,true
+2019-11-073,Dierks Bentley,The Mountain,Living,223000,false
+2019-11-074,Kenny Chesney,Here And Now,Tip Of My Tongue,199000,false
+2019-11-075,Normani,Motivation,Motivation,193000,false
+2019-11-076,BTS Featuring Lauv,Make It Right (feat. Lauv),Make It Right,226000,false
+2019-11-077,"Layton Greene, Lil Baby, City Girls & PnB Rock",Quality Control: Control The Streets Volume 2,Leave Em Alone,172000,true
+2019-11-078,YoungBoy Never Broke Again,AI YoungBoy 2,Hot Now,128000,true
+2019-11-079,YoungBoy Never Broke Again,AI YoungBoy 2,Rich As Hell,215000,true
+2019-11-080,Thomas Rhett,Center Point Road,Remember You Young,180000,false
+2019-11-081,Keith Urban,THE SPEED OF NOW Part 1,We Were,188000,false
+2019-11-082,"Sech, Darell, Nicky Jam, Ozuna & Anuel AA",Otro Trago (Remix),Otro Trago,287000,true
+2019-11-083,Sam Hunt,Kinfolks,Kinfolks,181000,false
+2019-11-084,Y2K & bbno$,Lalala,Lalala,161000,true
+2019-11-085,Kygo X Whitney Houston,Higher Love,Higher Love,228000,false
+2019-11-086,YoungBoy Never Broke Again,AI YoungBoy 2,In Control,181000,true
+2019-11-087,Jon Pardi,Heartache Medication,Heartache Medication,209000,false
+2019-11-088,Chance The Rapper Featuring MadeinTYO & DaBaby,The Big Day,Hot Shower,225000,true
+2019-11-089,Bad Bunny & Tainy,Callaita,Callaita,250000,true
+2019-11-090,Niall Horan,Nice To Meet Ya,Nice To Meet Ya,159000,false
+2019-11-091,"Ariana Grande, Miley Cyrus & Lana Del Rey",Charlie's Angels (Original Motion Picture Soundtrack),Don't Call Me Angel (Charlie's Angels),190000,false
+2019-11-092,YoungBoy Never Broke Again,AI YoungBoy 2,Carter Son,163000,true
+2019-11-093,J Balvin & Bad Bunny,OASIS,La Cancion,242000,false
+2019-11-094,Lady Antebellum,Ocean,What If I Never Get Over You,206000,false
+2019-11-095,Summer Walker Featuring Jhene Aiko,Over It,I'll Kill You,179000,true
+2019-11-096,DaBaby Featuring Lil Baby & Moneybagg Yo,KIRK,TOES,136000,true
+2019-11-097,"Internet Money, Lil Tecca & A Boogie Wit da Hoodie",Somebody,Somebody,174000,false
+2019-11-098,Frank Ocean,DHL,DHL,268000,true
+2019-11-099,Ariana Grande & Social House,boyfriend,Boyfriend,186000,true
+2019-11-100,DJ Khaled Featuring Cardi B & 21 Savage,Father Of Asahd,Wish Wish,202000,true
+2019-12-001,Post Malone,Circles,Circles,215000,false
+2019-12-002,Lewis Capaldi,Breach,Someone You Loved,182000,false
+2019-12-003,Lizzo,Cuz I Love You (Super Deluxe),Good As Hell,159000,false
+2019-12-004,Maroon 5,JORDI (Deluxe),Memories,189000,false
+2019-12-005,Arizona Zervas,ROXANNE,Roxanne,163000,true
+2019-12-006,Selena Gomez,Rare,Lose You To Love Me,206000,false
+2019-12-007,Shawn Mendes & Camila Cabello,Señorita,Senorita,191000,false
+2019-12-008,Dan + Shay & Justin Bieber,"10,000 Hours","10,000 Hours",167000,false
+2019-12-009,Lizzo,Cuz I Love You (Deluxe),Truth Hurts,173000,true
+2019-12-010,Chris Brown Featuring Drake,Indigo,No Guidance,260000,true
+2019-12-011,Tones And I,The Kids Are Coming,Dance Monkey,209000,false
+2019-12-012,DaBaby,KIRK,BOP,161000,true
+2019-12-013,Lil Nas X,7,Panini,114000,false
+2019-12-014,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Bad Guy,194000,false
+2019-12-015,Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,175000,true
+2019-12-016,Mustard & Roddy Ricch,Perfect Ten,Ballin',180000,true
+2019-12-017,SHAED,Trampoline,Trampoline,184000,false
+2019-12-018,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2019-12-019,Taylor Swift,Lover,Lover,221000,false
+2019-12-020,Lil Nas X Featuring Billy Ray Cyrus,7,Old Town Road,113000,false
+2019-12-021,Young Thug Featuring Gunna,Hot (Remix) [feat. Gunna and Travis Scott],Hot,279000,true
+2019-12-022,Old Dominion,Old Dominion,One Man Band,186000,false
+2019-12-023,Lil Baby,Woah,Woah,183000,true
+2019-12-024,Jonas Brothers,Happiness Begins,Only Human,183000,false
+2019-12-025,Lil Tecca,Ransom,Ran$om,131000,true
+2019-12-026,Billie Eilish,everything i wanted,Everything I Wanted,245000,false
+2019-12-027,Ed Sheeran Featuring Khalid,Beautiful People (feat. Khalid),Beautiful People,197000,false
+2019-12-028,Luke Combs,What You See Is What You Get,Even Though I'm Leaving,225000,false
+2019-12-029,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
+2019-12-030,Juice WRLD & YoungBoy Never Broke Again,Bandit,Bandit,189000,false
+2019-12-031,Wale Featuring Jeremih,On Chill (feat. Jeremih),On Chill,214000,true
+2019-12-032,The Weeknd,After Hours,Heartless,200000,true
+2019-12-033,Bad Bunny,Vete,Vete,192000,true
+2019-12-034,Halsey,Manic,Graveyard,181000,false
+2019-12-035,Ed Sheeran & Justin Bieber,I Don't Care,I Don't Care,219000,false
+2019-12-036,Khalid,Talk (feat. Disclosure),Talk,197000,false
+2019-12-037,Dua Lipa,Future Nostalgia,Don't Start Now,183000,false
+2019-12-038,Chris Brown Featuring Gunna,Indigo,Heat,232000,true
+2019-12-039,Lil Baby & DaBaby,NI,Baby,258000,true
+2019-12-040,Sam Smith,How Do You Sleep?,How Do You Sleep?,201000,false
+2019-12-041,Post Malone Featuring Young Thug,Goodbyes,Goodbyes,174000,true
+2019-12-042,Trevor Daniel,Nicotine,Falling,159000,false
+2019-12-043,Summer Walker,Over It,Playing Games,143000,true
+2019-12-044,DaBaby,Baby On Baby,Suge,163000,true
+2019-12-045,blackbear,everything means nothing,Hot Girl Bummer,188000,false
+2019-12-046,Wham!,LAST CHRISTMAS,Last Christmas,264000,false
+2019-12-047,Bobby Helms,Jingle Bells,Jingle Bell Rock,130000,false
+2019-12-048,Burl Ives,Have A Holly Jolly Christmas,A Holly Jolly Christmas,128000,false
+2019-12-049,Andy Williams,The Andy Williams Christmas Album,It's The Most Wonderful Time Of The Year,151000,false
+2019-12-050,Post Malone Featuring Ozzy Osbourne & Travis Scott,Hollywood's Bleeding,Take What You Want,231000,false
+2019-12-051,Doja Cat & Tyga,Amala (Deluxe Version),Juicy,198000,true
+2019-12-052,Marshmello & Kane Brown,One Thing Right,One Thing Right,182000,false
+2019-12-053,Maren Morris,The Bones (with Hozier),The Bones,197000,false
+2019-12-054,NF,The Search,Time,240000,false
+2019-12-055,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Into The Unknown,194000,false
+2019-12-056,Rod Wave,Heart On Ice,Heart On Ice,159000,true
+2019-12-057,YNW Melly & 9lokknine,223's (feat. 9lokknine),223's,176000,true
+2019-12-058,Trippie Redd,Who Needs Love,Who Needs Love,158000,true
+2019-12-059,Trippie Redd Featuring DaBaby,A Love Letter To You 4 (5 Year Anniversary),Death,172000,true
+2019-12-060,Trippie Redd Featuring Juice WRLD & YNW Melly,A Love Letter To You 4 (5 Year Anniversary),6 Kiss,199000,true
+2019-12-061,Lady Antebellum,Ocean,What If I Never Get Over You,206000,false
+2019-12-062,Thomas Rhett,Center Point Road,Remember You Young,180000,false
+2019-12-063,PARTYNEXTDOOR Featuring Drake,PARTYMOBILE,Loyal,198000,false
+2019-12-064,YNW Melly & Juice WRLD,Melly vs. Melvin,Suicidal,223000,true
+2019-12-065,NLE Choppa,Camelot,Camelot,148000,true
+2019-12-066,DaBaby,KIRK,VIBEZ,145000,true
+2019-12-067,"Layton Greene, Lil Baby, City Girls & PnB Rock",Quality Control: Control The Streets Volume 2,Leave Em Alone,172000,true
+2019-12-068,Keith Urban,THE SPEED OF NOW Part 1,We Were,188000,false
+2019-12-069,Matt Stell,Everywhere But On,Prayed For You,210000,false
+2019-12-070,Sam Hunt,Kinfolks,Kinfolks,181000,false
+2019-12-071,Post Malone Featuring DaBaby,Hollywood's Bleeding,Enemies,196000,false
+2019-12-072,Dustin Lynch,Tullahoma,Ridin' Roads,205000,false
+2019-12-073,Ellie Goulding & Juice WRLD,Hate Me,Hate Me,186000,false
+2019-12-074,Jon Pardi,Heartache Medication,Heartache Medication,209000,false
+2019-12-075,DaBaby Featuring Offset,Baby On Baby,Baby Sitter,157000,true
+2019-12-076,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",All The Good Girls Go To Hell,168000,false
+2019-12-077,Harry Styles,Fine Line,Watermelon Sugar,173000,false
+2019-12-078,Jason Aldean,We Back,We Back,197000,false
+2019-12-079,Kanye West,JESUS IS KING,Follow God,104000,false
+2019-12-080,Tory Lanez & T-Pain,Chixtape 5,Jerry Sprunger,233000,false
+2019-12-081,Trippie Redd,A Love Letter To You 4 (5 Year Anniversary),Love Me More,143000,true
+2019-12-082,Niall Horan,Nice To Meet Ya,Nice To Meet Ya,159000,false
+2019-12-083,Y2K & bbno$,Lalala,Lalala,161000,true
+2019-12-084,Trippie Redd Featuring YoungBoy Never Broke Again,A Love Letter To You 4 (5 Year Anniversary),Hate Me,144000,true
+2019-12-085,A Boogie Wit da Hoodie Featuring Lil Uzi Vert,Reply (feat. Lil Uzi Vert),Reply,183000,true
+2019-12-086,Kenny Chesney,Here And Now,Tip Of My Tongue,199000,false
+2019-12-087,Doja Cat,Amala (Deluxe Version),Candy,190000,true
+2019-12-088,Joji,BALLADS 1,Slow Dancing In The Dark,209000,true
+2019-12-089,Jhene Aiko Featuring Big Sean,None Of Your Concern,None Of Your Concern,262000,true
+2019-12-090,Ant Saunders,Yellow Hearts,Yellow Hearts,223000,false
+2019-12-091,YoungBoy Never Broke Again,AI YoungBoy 2,Make No Sense,148000,true
+2019-12-092,Chris Janson,Good Vibes,Good Vibes,165000,false
+2019-12-093,J Balvin & Bad Bunny,OASIS,La Cancion,242000,false
+2019-12-094,DaniLeigh Featuring Chris Brown,Easy (Remix),Easy,190000,false
+2019-12-095,Rod Wave & Kevin Gates,Ghetto Gospel,Cuban Links,192000,true
+2019-12-096,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Hot Girl Summer,199000,true
+2019-12-097,YoungBoy Never Broke Again,AI YoungBoy 2,Lonely Child,217000,true
+2019-12-098,Panic! At The Disco,La Reine des Neiges 2 (Bande Originale Française du Film/Deluxe Edition),Into The Unknown,195000,false
+2019-12-099,Idina Menzel & Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Show Yourself,260000,false
+2019-12-100,Kane Brown,Experiment Extended,Homesick,205000,false

@@ -1,0 +1,1201 @@
+track_id,artists,album_name,track_name,duration_ms,explicit
+2018-01-001,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-01-002,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-01-003,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-01-004,G-Eazy Featuring A$AP Rocky & Cardi B,The Beautiful & Damned,No Limit,245000,true
+2018-01-005,Imagine Dragons,Evolve,Thunder,187000,false
+2018-01-006,Lil Pump,Gucci Gang,Gucci Gang,124000,true
+2018-01-007,"Migos, Nicki Minaj & Cardi B",Culture II,MotorSport,308000,true
+2018-01-008,Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,201000,false
+2018-01-009,Halsey,hopeless fountain kingdom (Deluxe Plus),Bad At Love,181000,false
+2018-01-010,Cardi B,Girls Like You,Bodak Yellow (Money Moves),236000,true
+2018-01-011,Kendrick Lamar Featuring Zacari,DAMN.,Love.,213000,false
+2018-01-012,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-01-013,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2018-01-014,Cardi B Featuring 21 Savage,Bartier Cardi (feat. 21 Savage),Bartier Cardi,224000,true
+2018-01-015,6ix9ine,Day69: Graduation Day,Gummo,157000,true
+2018-01-016,Post Malone,Stoney (Deluxe),I Fall Apart,226000,true
+2018-01-017,NF,Perception,Let You Down,212000,false
+2018-01-018,Khalid,American Teen,Young Dumb & Broke,202000,false
+2018-01-019,Ed Sheeran,Shape of You,Shape Of You,233000,false
+2018-01-020,Demi Lovato,Tell Me You Love Me,Sorry Not Sorry,203000,true
+2018-01-021,Maroon 5 Featuring SZA,Red Pill Blues (Deluxe),What Lovers Do,199000,false
+2018-01-022,Gucci Mane Featuring Migos,I Get the Bag (feat. Migos),I Get The Bag,233000,true
+2018-01-023,Portugal. The Man,Woodstock,Feel It Still,163000,false
+2018-01-024,G-Eazy & Halsey,The Beautiful & Damned,Him & I,268000,true
+2018-01-025,Imagine Dragons,Evolve,Believer,202000,false
+2018-01-026,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-01-027,Charlie Puth,How Long,How Long,198000,false
+2018-01-028,21 Savage,Issa Album,Bank Account,220000,true
+2018-01-029,Selena Gomez X Marshmello,Wolves,Wolves,198000,false
+2018-01-030,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,VIDA,Despacito,228000,false
+2018-01-031,A$AP Ferg Featuring Nicki Minaj,Still Striving,Plain Jane,173000,true
+2018-01-032,J Balvin & Willy William Featuring Beyonce,Mi Gente,Mi Gente,189000,false
+2018-01-033,SZA,The Weekend (Funk Wav Remix),The Weekend,171000,false
+2018-01-034,Logic Featuring Alessia Cara & Khalid,Everybody,1-800-273-8255,250000,true
+2018-01-035,Lil Uzi Vert Featuring Nicki Minaj,Luv Is Rage 2,The Way Life Goes,221000,true
+2018-01-036,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
+2018-01-037,Bruno Mars,24K Magic,That's What I Like,206000,false
+2018-01-038,Andy Williams,The Andy Williams Christmas Album,It's The Most Wonderful Time Of The Year,151000,false
+2018-01-039,Charlie Puth,Attention,Attention,211000,false
+2018-01-040,Taylor Swift Featuring Ed Sheeran & Future,reputation,End Game,244000,false
+2018-01-041,Miguel Featuring Travis Scott,War & Leisure,Sky Walker,260000,true
+2018-01-042,Nat King Cole,The Christmas Song,The Christmas Song (Merry Christmas To You),190000,false
+2018-01-043,Eminem Featuring Ed Sheeran,Revival,River,221000,true
+2018-01-044,Marshmello Featuring Khalid,Silence (feat. Khalid),Silence,180000,false
+2018-01-045,Thomas Rhett,Life Changes,Marry Me,205000,false
+2018-01-046,Burl Ives,Have A Holly Jolly Christmas,A Holly Jolly Christmas,128000,false
+2018-01-047,French Montana Featuring Swae Lee,Jungle Rules,Unforgettable,233000,true
+2018-01-048,P!nk,What About Us,What About Us,271000,false
+2018-01-049,N*E*R*D & Rihanna,"Sambabook Jorge Aragão, Vol. 3",Lemon,199000,false
+2018-01-050,Post Malone,beerbongs & bentleys,Candy Paint,229000,true
+2018-01-051,Kodak Black Featuring XXXTENTACION,Project Baby 2: All Grown Up (Deluxe Edition),Roll In Peace,213000,true
+2018-01-052,Ozuna x Cardi B,Aura,La Modelo,250000,false
+2018-01-053,Offset & Metro Boomin,Without Warning,Ric Flair Drip,173000,true
+2018-01-054,MAX Featuring gnash,Lights Down Low,Lights Down Low,224000,false
+2018-01-055,Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt,Let Me Go,Let Me Go,174000,false
+2018-01-056,Brett Young,Brett Young,Like I Loved You,210000,false
+2018-01-057,"Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black",Heartbreak on a Full Moon,Pills And Automobiles,292000,true
+2018-01-058,LANCO,Hallelujah Nights,Greatest Love Story,222000,false
+2018-01-059,YBN Nahmir,Rubbin off the Paint,Rubbin Off The Paint,157000,true
+2018-01-060,Macklemore Featuring Kesha,GEMINI,Good Old Days,240000,false
+2018-01-061,Taylor Swift,reputation,...Ready For It?,208000,false
+2018-01-062,Russell Dickerson,Yours,Yours,216000,false
+2018-01-063,Blake Shelton,I'll Name the Dogs,I'll Name The Dogs,183000,false
+2018-01-064,Tay-K,#SantanaWorld (+),The Race,140000,true
+2018-01-065,Huncho Jack Featuring Takeoff,"Huncho Jack, Jack Huncho",Eye 2 Eye,191000,true
+2018-01-066,Taylor Swift,reputation,Look What You Made Me Do,211000,false
+2018-01-067,6ix9ine,Day69: Graduation Day,Kooda,142000,true
+2018-01-068,Huncho Jack,"Huncho Jack, Jack Huncho",Modern Slavery,149000,true
+2018-01-069,Imagine Dragons + Khalid,Thunder / Young Dumb & Broke (Medley),Thunder/Young Dumb & Broke (Medley),251000,false
+2018-01-070,Kodak Black Featuring Lil Wayne,Project Baby 2: All Grown Up (Deluxe Edition),Codeine Dreaming,264000,true
+2018-01-071,Huncho Jack,"Huncho Jack, Jack Huncho",Black & Chinese,172000,true
+2018-01-072,Eric Church,Mr. Misunderstood,Round Here Buzz,214000,false
+2018-01-073,Luke Bryan,What Makes You Country,Light It Up,176000,false
+2018-01-074,Luis Fonsi & Demi Lovato,Échame La Culpa,Echame La Culpa,173000,false
+2018-01-075,Lil Xan,Betrayed,Betrayed,187000,true
+2018-01-076,Chris Young,Losing Sleep,Losing Sleep,180000,false
+2018-01-077,YoungBoy Never Broke Again,AI YoungBoy,No Smoke,160000,true
+2018-01-078,Demi Lovato,Tell Me You Love Me,Tell Me You Love Me,236000,false
+2018-01-079,Walker Hayes,You Broke Up with Me,You Broke Up With Me,197000,false
+2018-01-080,Quavo & Lil Yachty,Quality Control: Control The Streets Volume 1,Ice Tray,214000,true
+2018-01-081,Maren Morris,HERO,I Could Use A Love Song,196000,false
+2018-01-082,BTS Featuring Desiigner,Love Yourself 結 'Answer',MIC Drop,238000,false
+2018-01-083,Huncho Jack Featuring Offset,"Huncho Jack, Jack Huncho",Dubai Shit,228000,true
+2018-01-084,Lil Baby,Harder Than Hard,My Dawg,215000,true
+2018-01-085,Famous Dex Featuring A$AP Rocky,PICK IT UP (feat. A$AP Rocky),Pick It Up,191000,true
+2018-01-086,Old Dominion,Happy Endings,Written In The Sand,184000,false
+2018-01-087,Huncho Jack,"Huncho Jack, Jack Huncho",Huncho Jack,199000,true
+2018-01-088,"Farruko, Nicki Minaj, Bad Bunny, 21 Savage & Rvssian",Krippy Kush (feat. 21 Savage & Rvssian),Krippy Kush,237000,true
+2018-01-089,Scotty McCreery,Seasons Change,Five More Minutes,241000,false
+2018-01-090,Huncho Jack,"Huncho Jack, Jack Huncho",Motorcycle Patches,191000,true
+2018-01-091,Becky G Featuring Bad Bunny,MALA SANTA,Mayores,202000,false
+2018-01-092,Huncho Jack,"Huncho Jack, Jack Huncho",Saint,141000,true
+2018-01-093,Eminem Featuring Beyonce,Revival,Walk On Water,302000,true
+2018-01-094,Migos,Culture II,Stir Fry,192000,true
+2018-01-095,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",Home,Home,202000,false
+2018-01-096,XXXTENTACION Featuring Trippie Redd,17,F**k Love,146000,true
+2018-01-097,Kelsea Ballerini,Unapologetically (Deluxe Edition),Legends,244000,false
+2018-01-098,Niall Horan,Too Much To Ask,Too Much To Ask,223000,true
+2018-01-099,Zayn Featuring Sia,Dusk Till Dawn (feat. Sia) (Radio Edit),Dusk Till Dawn,239000,false
+2018-01-100,Yo Gotti,I Still Am,Juice,149000,true
+2018-02-001,Drake,Scorpion,God's Plan,198000,true
+2018-02-002,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-02-003,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-02-004,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-02-005,Bruno Mars & Cardi B,24K Magic,Finesse,191000,false
+2018-02-006,Halsey,hopeless fountain kingdom (Deluxe Plus),Bad At Love,181000,false
+2018-02-007,Drake,Diplomatic Immunity,Diplomatic Immunity,255000,true
+2018-02-008,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-02-009,Imagine Dragons,Evolve,Thunder,187000,false
+2018-02-010,G-Eazy Featuring A$AP Rocky & Cardi B,The Beautiful & Damned,No Limit,245000,true
+2018-02-011,"Migos, Nicki Minaj & Cardi B",Culture II,MotorSport,308000,true
+2018-02-012,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-02-013,Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,201000,false
+2018-02-014,NF,Perception,Let You Down,212000,false
+2018-02-015,Kendrick Lamar Featuring Zacari,DAMN.,Love.,213000,false
+2018-02-016,G-Eazy & Halsey,The Beautiful & Damned,Him & I,268000,true
+2018-02-017,Lil Pump,Gucci Gang,Gucci Gang,124000,true
+2018-02-018,6ix9ine,Day69: Graduation Day,Gummo,157000,true
+2018-02-019,Post Malone,Stoney (Deluxe),I Fall Apart,226000,true
+2018-02-020,Cardi B Featuring 21 Savage,Bartier Cardi (feat. 21 Savage),Bartier Cardi,224000,true
+2018-02-021,Charlie Puth,How Long,How Long,198000,false
+2018-02-022,Ed Sheeran,Shape of You,Shape Of You,233000,false
+2018-02-023,Cardi B,Girls Like You,Bodak Yellow (Money Moves),236000,true
+2018-02-024,Gucci Mane Featuring Migos,I Get the Bag (feat. Migos),I Get The Bag,233000,true
+2018-02-025,Portugal. The Man,Woodstock,Feel It Still,163000,false
+2018-02-026,Selena Gomez X Marshmello,Wolves,Wolves,198000,false
+2018-02-027,A$AP Ferg Featuring Nicki Minaj,Still Striving,Plain Jane,173000,true
+2018-02-028,Imagine Dragons,Evolve,Believer,202000,false
+2018-02-029,Miguel Featuring Travis Scott,War & Leisure,Sky Walker,260000,true
+2018-02-030,Taylor Swift Featuring Ed Sheeran & Future,reputation,End Game,244000,false
+2018-02-031,Kodak Black Featuring XXXTENTACION,Project Baby 2: All Grown Up (Deluxe Edition),Roll In Peace,213000,true
+2018-02-032,Demi Lovato,Tell Me You Love Me,Sorry Not Sorry,203000,true
+2018-02-033,Justin Timberlake,Man of the Woods,Filthy,293000,false
+2018-02-034,Eminem Featuring Ed Sheeran,Revival,River,221000,true
+2018-02-035,Khalid,American Teen,Young Dumb & Broke,202000,false
+2018-02-036,Thomas Rhett,Life Changes,Marry Me,205000,false
+2018-02-037,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-02-038,MAX Featuring gnash,Lights Down Low,Lights Down Low,224000,false
+2018-02-039,Offset & Metro Boomin,Without Warning,Ric Flair Drip,173000,true
+2018-02-040,N*E*R*D & Rihanna,"Sambabook Jorge Aragão, Vol. 3",Lemon,199000,false
+2018-02-041,Maroon 5 Featuring SZA,Red Pill Blues (Deluxe),What Lovers Do,199000,false
+2018-02-042,Lil Uzi Vert Featuring Nicki Minaj,Luv Is Rage 2,The Way Life Goes,221000,true
+2018-02-043,"6ix9ine, Fetty Wap & A Boogie Wit da Hoodie",Day69: Graduation Day,KEKE,151000,true
+2018-02-044,J Balvin & Willy William Featuring Beyonce,Mi Gente,Mi Gente,189000,false
+2018-02-045,Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt,Let Me Go,Let Me Go,174000,false
+2018-02-046,Logic Featuring Alessia Cara & Khalid,Everybody,1-800-273-8255,250000,true
+2018-02-047,21 Savage,Issa Album,Bank Account,220000,true
+2018-02-048,Charlie Puth,Attention,Attention,211000,false
+2018-02-049,Russell Dickerson,Yours,Yours,216000,false
+2018-02-050,French Montana Featuring Swae Lee,Jungle Rules,Unforgettable,233000,true
+2018-02-051,YoungBoy Never Broke Again,Outside Today,Outside Today,129000,true
+2018-02-052,Migos,Culture II,Stir Fry,192000,true
+2018-02-053,"Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black",Heartbreak on a Full Moon,Pills And Automobiles,292000,true
+2018-02-054,Kendrick Lamar & SZA,All The Stars,All The Stars,235000,true
+2018-02-055,Macklemore Featuring Kesha,GEMINI,Good Old Days,240000,false
+2018-02-056,Bazzi,Mine,Mine,133000,true
+2018-02-057,Lil Skies Featuring Landon Cube,Nowadays (feat. Landon Cube),Nowadays,203000,true
+2018-02-058,Famous Dex Featuring A$AP Rocky,PICK IT UP (feat. A$AP Rocky),Pick It Up,191000,true
+2018-02-059,LANCO,Hallelujah Nights,Greatest Love Story,222000,false
+2018-02-060,Old Dominion,Happy Endings,Written In The Sand,184000,false
+2018-02-061,YoungBoy Never Broke Again,AI YoungBoy,No Smoke,160000,true
+2018-02-062,Chris Young,Losing Sleep,Losing Sleep,180000,false
+2018-02-063,Brett Young,Brett Young,Like I Loved You,210000,false
+2018-02-064,Scotty McCreery,Seasons Change,Five More Minutes,241000,false
+2018-02-065,The Chainsmokers,Sick Boy,Sick Boy,193000,false
+2018-02-066,Keala Settle & The Greatest Showman Ensemble,The Greatest Showman (Original Motion Picture Soundtrack),This Is Me,234000,false
+2018-02-067,Kane Brown,Kane Brown (Deluxe Edition),Heaven,177000,false
+2018-02-068,Luis Fonsi & Demi Lovato,Échame La Culpa,Echame La Culpa,173000,false
+2018-02-069,YBN Nahmir,Rubbin off the Paint,Rubbin Off The Paint,157000,true
+2018-02-070,Walker Hayes,You Broke Up with Me,You Broke Up With Me,197000,false
+2018-02-071,Justin Timberlake,Man of the Woods,Supplies,225000,false
+2018-02-072,Kodak Black Featuring Lil Wayne,Project Baby 2: All Grown Up (Deluxe Edition),Codeine Dreaming,264000,true
+2018-02-073,Lil Xan,Betrayed,Betrayed,187000,true
+2018-02-074,Lil Skies Featuring Landon Cube,Red Roses (feat. Landon Cube),Red Roses,262000,true
+2018-02-075,WALK THE MOON,What If Nothing,One Foot,261000,false
+2018-02-076,Ozuna x Cardi B,Aura,La Modelo,250000,false
+2018-02-077,Zac Efron & Zendaya,The Greatest Showman (Original Motion Picture Soundtrack),Rewrite The Stars,217000,false
+2018-02-078,Post Malone,beerbongs & bentleys,Candy Paint,229000,true
+2018-02-079,Demi Lovato,Tell Me You Love Me,Tell Me You Love Me,236000,false
+2018-02-080,Eric Church,Mr. Misunderstood,Round Here Buzz,214000,false
+2018-02-081,Devin Dawson,All On Me,All On Me,224000,false
+2018-02-082,NF,NO NAME,No Name,183000,false
+2018-02-083,"Jay Rock, Kendrick Lamar, Future & James Blake",Black Panther The Album Music From And Inspired By,King's Dead,229000,true
+2018-02-084,BTS Featuring Desiigner,Love Yourself 結 'Answer',MIC Drop,238000,false
+2018-02-085,Chris Stapleton,From A Room: Volume 1,Broken Halos,183000,false
+2018-02-086,6ix9ine,Day69: Graduation Day,Kooda,142000,true
+2018-02-087,Kelsea Ballerini,Unapologetically (Deluxe Edition),Legends,244000,false
+2018-02-088,Maroon 5,Red Pill Blues (Deluxe),Wait,190000,false
+2018-02-089,"Sofi Tukker Featuring NERVO, The Knocks & Alisa Ueno","Best Friend (feat. NERVO, The Knocks & ALISA UENO)",Best Friend,184000,true
+2018-02-090,Quavo & Lil Yachty,Quality Control: Control The Streets Volume 1,Ice Tray,214000,true
+2018-02-091,P!nk,Beautiful Trauma,Beautiful Trauma,250000,true
+2018-02-092,Dua Lipa,Dua Lipa (Deluxe),IDGAF,217000,true
+2018-02-093,Maluma X Nego do Borel,F.A.M.E.,Corazon,184000,false
+2018-02-094,Becky G Featuring Bad Bunny,MALA SANTA,Mayores,202000,false
+2018-02-095,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greatest Showman Ensemble",The Greatest Showman (Original Motion Picture Soundtrack),The Greatest Show,302000,false
+2018-02-096,Loren Allred,The Greatest Showman (Original Motion Picture Soundtrack),Never Enough,207000,false
+2018-02-097,Lil Baby,Harder Than Hard,My Dawg,215000,true
+2018-02-098,Blake Shelton,I'll Name the Dogs,I'll Name The Dogs,183000,false
+2018-02-099,Plies,Rock,Rock,174000,true
+2018-02-100,Keith Urban,Female,Female,194000,false
+2018-03-001,Drake,Scorpion,God's Plan,198000,true
+2018-03-002,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-03-003,Bruno Mars & Cardi B,24K Magic,Finesse,191000,false
+2018-03-004,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-03-005,BlocBoy JB Featuring Drake,Simi,Look Alive,181000,true
+2018-03-006,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-03-007,Kendrick Lamar & SZA,All The Stars,All The Stars,235000,true
+2018-03-008,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-03-009,The Weeknd & Kendrick Lamar,Pray For Me,Pray For Me,211000,true
+2018-03-010,Migos,Culture II,Stir Fry,192000,true
+2018-03-011,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-03-012,NF,Perception,Let You Down,212000,false
+2018-03-013,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-03-014,G-Eazy & Halsey,The Beautiful & Damned,Him & I,268000,true
+2018-03-015,Kendrick Lamar Featuring Zacari,DAMN.,Love.,213000,false
+2018-03-016,Imagine Dragons,Evolve,Thunder,187000,false
+2018-03-017,Halsey,hopeless fountain kingdom (Deluxe Plus),Bad At Love,181000,false
+2018-03-018,Bazzi,Mine,Mine,133000,true
+2018-03-019,Post Malone,Stoney (Deluxe),I Fall Apart,226000,true
+2018-03-020,MAX Featuring gnash,Lights Down Low,Lights Down Low,224000,false
+2018-03-021,Charlie Puth,How Long,How Long,198000,false
+2018-03-022,"Migos, Nicki Minaj & Cardi B",Culture II,MotorSport,308000,true
+2018-03-023,"Jay Rock, Kendrick Lamar, Future & James Blake",Black Panther The Album Music From And Inspired By,King's Dead,229000,true
+2018-03-024,Ed Sheeran,Shape of You,Shape Of You,233000,false
+2018-03-025,6ix9ine,Day69: Graduation Day,Gummo,157000,true
+2018-03-026,Cardi B Featuring 21 Savage,Bartier Cardi (feat. 21 Savage),Bartier Cardi,224000,true
+2018-03-027,G-Eazy Featuring A$AP Rocky & Cardi B,The Beautiful & Damned,No Limit,245000,true
+2018-03-028,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-03-029,Selena Gomez X Marshmello,Wolves,Wolves,198000,false
+2018-03-030,Justin Timberlake Featuring Chris Stapleton,Man of the Woods,Say Something,279000,false
+2018-03-031,Khalid,American Teen,Young Dumb & Broke,202000,false
+2018-03-032,Portugal. The Man,Woodstock,Feel It Still,163000,false
+2018-03-033,Cardi B,Girls Like You,Bodak Yellow (Money Moves),236000,true
+2018-03-034,Eminem Featuring Ed Sheeran,Revival,River,221000,true
+2018-03-035,YoungBoy Never Broke Again,Outside Today,Outside Today,129000,true
+2018-03-036,Thomas Rhett,Life Changes,Marry Me,205000,false
+2018-03-037,Miguel Featuring Travis Scott,War & Leisure,Sky Walker,260000,true
+2018-03-038,A$AP Ferg Featuring Nicki Minaj,Still Striving,Plain Jane,173000,true
+2018-03-039,Maroon 5,Red Pill Blues (Deluxe),Wait,190000,false
+2018-03-040,Offset & Metro Boomin,Without Warning,Ric Flair Drip,173000,true
+2018-03-041,Demi Lovato,Tell Me You Love Me,Sorry Not Sorry,203000,true
+2018-03-042,Jason Aldean,You Make It Easy,You Make It Easy,196000,false
+2018-03-043,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-03-044,Scotty McCreery,Seasons Change,Five More Minutes,241000,false
+2018-03-045,Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,201000,false
+2018-03-046,Rich The Kid Featuring Kendrick Lamar,The World Is Yours,New Freezer,193000,true
+2018-03-047,Lil Pump,Gucci Gang,Gucci Gang,124000,true
+2018-03-048,N*E*R*D & Rihanna,"Sambabook Jorge Aragão, Vol. 3",Lemon,199000,false
+2018-03-049,Gucci Mane Featuring Migos,I Get the Bag (feat. Migos),I Get The Bag,233000,true
+2018-03-050,Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt,Let Me Go,Let Me Go,174000,false
+2018-03-051,Macklemore Featuring Kesha,GEMINI,Good Old Days,240000,false
+2018-03-052,Migos Featuring Drake,Culture II,Walk It Talk It,276000,true
+2018-03-053,Chris Stapleton,From A Room: Volume 1,Broken Halos,183000,false
+2018-03-054,Kane Brown,Kane Brown (Deluxe Edition),Heaven,177000,false
+2018-03-055,"ScHoolboy Q, 2 Chainz & Saudi",Black Panther The Album Music From And Inspired By,X,267000,true
+2018-03-056,Ozuna & Romeo Santos,El Farsante,El Farsante,233000,false
+2018-03-057,Daddy Yankee,Dura,Dura,200000,false
+2018-03-058,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-03-059,Old Dominion,Happy Endings,Written In The Sand,184000,false
+2018-03-060,Imagine Dragons,Evolve,Whatever It Takes,200000,false
+2018-03-061,Famous Dex Featuring A$AP Rocky,PICK IT UP (feat. A$AP Rocky),Pick It Up,191000,true
+2018-03-062,Migos,Culture II,Narcos,255000,true
+2018-03-063,Luke Bryan,What Makes You Country,Most People Are Good,222000,false
+2018-03-064,Walker Hayes,You Broke Up with Me,You Broke Up With Me,197000,false
+2018-03-065,SOB X RBE,Black Panther The Album Music From And Inspired By,Paramedic!,219000,true
+2018-03-066,Lil Xan,Betrayed,Betrayed,187000,true
+2018-03-067,Russell Dickerson,Yours,Yours,216000,false
+2018-03-068,Khalid & Swae Lee,Black Panther The Album Music From And Inspired By,The Ways,238000,true
+2018-03-069,Rich The Kid,The World Is Yours,Plug Walk,176000,true
+2018-03-070,Devin Dawson,All On Me,All On Me,224000,false
+2018-03-071,Demi Lovato,Tell Me You Love Me,Tell Me You Love Me,236000,false
+2018-03-072,Ozuna x Cardi B,Aura,La Modelo,250000,false
+2018-03-073,Lil Skies Featuring Landon Cube,Nowadays (feat. Landon Cube),Nowadays,203000,true
+2018-03-074,YoungBoy Never Broke Again,AI YoungBoy,No Smoke,160000,true
+2018-03-075,Derez De'Shon,Hardaway (Mixtape Version),Hardaway,247000,false
+2018-03-076,Luis Fonsi & Demi Lovato,Échame La Culpa,Echame La Culpa,173000,false
+2018-03-077,Jordan Davis,Singles You Up,Singles You Up,183000,false
+2018-03-078,Lil Skies Featuring Landon Cube,Red Roses (feat. Landon Cube),Red Roses,262000,true
+2018-03-079,Tank,When We,When We,309000,true
+2018-03-080,Brett Eldredge,The Long Way,The Long Way,208000,false
+2018-03-081,P!nk,Beautiful Trauma,Beautiful Trauma,250000,true
+2018-03-082,"6ix9ine, Fetty Wap & A Boogie Wit da Hoodie",Day69: Graduation Day,KEKE,151000,true
+2018-03-083,Kendrick Lamar & Travis Scott,Black Panther The Album Music From And Inspired By,Big Shot,221000,true
+2018-03-084,Post Malone,beerbongs & bentleys,Candy Paint,229000,true
+2018-03-085,Keala Settle & The Greatest Showman Ensemble,The Greatest Showman (Original Motion Picture Soundtrack),This Is Me,234000,false
+2018-03-086,Jacquees X DeJ Loaf,At The Club,At The Club,173000,false
+2018-03-087,Kelsea Ballerini,Unapologetically (Deluxe Edition),Legends,244000,false
+2018-03-088,Migos Featuring Post Malone,Culture II,Notice Me,234000,true
+2018-03-089,Kodak Black Featuring Lil Wayne,Project Baby 2: All Grown Up (Deluxe Edition),Codeine Dreaming,264000,true
+2018-03-090,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-03-091,Taylor Swift Featuring Ed Sheeran & Future,reputation,End Game,244000,false
+2018-03-092,Liam Payne & Rita Ora,LP1,For You (Fifty Shades Freed),244000,false
+2018-03-093,Daniel Caesar Featuring Kali Uchis,Freudian,Get You,278000,false
+2018-03-094,Maluma X Nego do Borel,F.A.M.E.,Corazon,184000,false
+2018-03-095,Plies,Rock,Rock,174000,true
+2018-03-096,Dua Lipa,Dua Lipa (Deluxe),IDGAF,217000,true
+2018-03-097,YBN Nahmir,Rubbin off the Paint,Rubbin Off The Paint,157000,true
+2018-03-098,WALK THE MOON,What If Nothing,One Foot,261000,false
+2018-03-099,Keith Urban,Female,Female,194000,false
+2018-03-100,Becky G Featuring Bad Bunny,MALA SANTA,Mayores,202000,false
+2018-04-001,Drake,Scorpion,God's Plan,198000,true
+2018-04-002,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-04-003,Bruno Mars & Cardi B,24K Magic,Finesse,191000,false
+2018-04-004,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-04-005,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-04-006,BlocBoy JB Featuring Drake,Simi,Look Alive,181000,true
+2018-04-007,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-04-008,Lil Dicky Featuring Chris Brown,Freaky Friday,Freaky Friday,216000,false
+2018-04-009,XXXTENTACION,?,Sad!,166000,true
+2018-04-010,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-04-011,Bazzi,Mine,Mine,133000,true
+2018-04-012,The Weeknd & Kendrick Lamar,Pray For Me,Pray For Me,211000,true
+2018-04-013,Migos,Culture II,Stir Fry,192000,true
+2018-04-014,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-04-015,Migos Featuring Drake,Culture II,Walk It Talk It,276000,true
+2018-04-016,Kendrick Lamar & SZA,All The Stars,All The Stars,235000,true
+2018-04-017,Offset & Metro Boomin,Without Warning,Ric Flair Drip,173000,true
+2018-04-018,Rich The Kid,The World Is Yours,Plug Walk,176000,true
+2018-04-019,NF,Perception,Let You Down,212000,false
+2018-04-020,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-04-021,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-04-022,Shawn Mendes,Shawn Mendes,In My Blood,211000,false
+2018-04-023,Imagine Dragons,Evolve,Whatever It Takes,200000,false
+2018-04-024,Imagine Dragons,Evolve,Thunder,187000,false
+2018-04-025,G-Eazy & Halsey,The Beautiful & Damned,Him & I,268000,true
+2018-04-026,Maroon 5,Red Pill Blues (Deluxe),Wait,190000,false
+2018-04-027,MAX Featuring gnash,Lights Down Low,Lights Down Low,224000,false
+2018-04-028,Kane Brown,Kane Brown (Deluxe Edition),Heaven,177000,false
+2018-04-029,Post Malone,Stoney (Deluxe),I Fall Apart,226000,true
+2018-04-030,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-04-031,"Jay Rock, Kendrick Lamar, Future & James Blake",Black Panther The Album Music From And Inspired By,King's Dead,229000,true
+2018-04-032,Portugal. The Man,Woodstock,Feel It Still,163000,false
+2018-04-033,Justin Timberlake Featuring Chris Stapleton,Man of the Woods,Say Something,279000,false
+2018-04-034,Jason Aldean,You Make It Easy,You Make It Easy,196000,false
+2018-04-035,Thomas Rhett,Life Changes,Marry Me,205000,false
+2018-04-036,N*E*R*D & Rihanna,"Sambabook Jorge Aragão, Vol. 3",Lemon,199000,false
+2018-04-037,Halsey,hopeless fountain kingdom (Deluxe Plus),Bad At Love,181000,false
+2018-04-038,Rae Sremmurd & Juicy J,SR3MM,Powerglide,332000,true
+2018-04-039,XXXTENTACION,?,Changes,122000,false
+2018-04-040,YoungBoy Never Broke Again,Outside Today,Outside Today,129000,true
+2018-04-041,G-Eazy Featuring A$AP Rocky & Cardi B,The Beautiful & Damned,No Limit,245000,true
+2018-04-042,Rich The Kid Featuring Kendrick Lamar,The World Is Yours,New Freezer,193000,true
+2018-04-043,Kendrick Lamar Featuring Zacari,DAMN.,Love.,213000,false
+2018-04-044,Selena Gomez X Marshmello,Wolves,Wolves,198000,false
+2018-04-045,"Migos, Nicki Minaj & Cardi B",Culture II,MotorSport,308000,true
+2018-04-046,Luke Bryan,What Makes You Country,Most People Are Good,222000,false
+2018-04-047,Cardi B Featuring 21 Savage,Bartier Cardi (feat. 21 Savage),Bartier Cardi,224000,true
+2018-04-048,XXXTENTACION,?,Moonlight,135000,true
+2018-04-049,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-04-050,Jordan Davis,Singles You Up,Singles You Up,183000,false
+2018-04-051,Nicky Jam x J Balvin,Intimo,X,172000,false
+2018-04-052,Taylor Swift,reputation,Delicate,232000,false
+2018-04-053,Daddy Yankee,Dura,Dura,200000,false
+2018-04-054,Dua Lipa,Dua Lipa (Deluxe),IDGAF,217000,true
+2018-04-055,Meghan Trainor,No Excuses,No Excuses,152000,false
+2018-04-056,6ix9ine,Day69: Graduation Day,Gummo,157000,true
+2018-04-057,6ix9ine,Day69: Graduation Day,Billy,112000,true
+2018-04-058,Chris Stapleton,From A Room: Volume 1,Broken Halos,183000,false
+2018-04-059,Demi Lovato,Tell Me You Love Me,Tell Me You Love Me,236000,false
+2018-04-060,Panic! At The Disco,Pray for the Wicked,Say Amen (Saturday Night),189000,false
+2018-04-061,Derez De'Shon,Hardaway (Mixtape Version),Hardaway,247000,false
+2018-04-062,Devin Dawson,All On Me,All On Me,224000,false
+2018-04-063,Ozuna & Romeo Santos,El Farsante,El Farsante,233000,false
+2018-04-064,Shawn Mendes X Zedd,Shawn Mendes,Lost In Japan,201000,false
+2018-04-065,Bad Wolves,Zombie,Zombie,254000,false
+2018-04-066,"DJ Khaled Featuring JAY Z, Future & B","Top Off (feat. JAY Z, Future & Beyoncé)",Top Off,230000,true
+2018-04-067,Logic & Marshmello,Everyday,Everyday,204000,true
+2018-04-068,Brett Eldredge,The Long Way,The Long Way,208000,false
+2018-04-069,Lil Skies Featuring Landon Cube,Red Roses (feat. Landon Cube),Red Roses,262000,true
+2018-04-070,Famous Dex,JAPAN,Japan,144000,true
+2018-04-071,Famous Dex Featuring A$AP Rocky,PICK IT UP (feat. A$AP Rocky),Pick It Up,191000,true
+2018-04-072,Scotty McCreery,Seasons Change,Five More Minutes,241000,false
+2018-04-073,Luke Combs,This One's for You,One Number Away,222000,false
+2018-04-074,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-04-075,Lil Yachty Featuring NBA YoungBoy,Lil Boat 2,NBAYoungboat,139000,true
+2018-04-076,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-04-077,Lil Xan,Betrayed,Betrayed,187000,true
+2018-04-078,Foster The People,Sacred Hearts Club,Sit Next To Me,243000,false
+2018-04-079,YoungBoy Never Broke Again,AI YoungBoy,No Smoke,160000,true
+2018-04-080,Jhene Aiko Featuring Swae Lee Or Rae Sremmurd,Trip,Sativa,277000,true
+2018-04-081,High Valley,She's with Me (Farmhouse Sessions),She's With Me,188000,false
+2018-04-082,Tank,When We,When We,309000,true
+2018-04-083,Blake Shelton,Texoma Shore,I Lived It,219000,false
+2018-04-084,Lil Skies Featuring Landon Cube,Nowadays (feat. Landon Cube),Nowadays,203000,true
+2018-04-085,Logic,Bobby Tarantino II,44 More,189000,true
+2018-04-086,Morgan Wallen Featuring Florida Georgia Line,Greatest Hits,Up Down,198000,false
+2018-04-087,Keala Settle & The Greatest Showman Ensemble,The Greatest Showman (Original Motion Picture Soundtrack),This Is Me,234000,false
+2018-04-088,P!nk,Beautiful Trauma,Beautiful Trauma,250000,true
+2018-04-089,Migos,Culture II,Narcos,255000,true
+2018-04-090,Luis Fonsi & Demi Lovato,Échame La Culpa,Echame La Culpa,173000,false
+2018-04-091,Old Dominion,Happy Endings,Written In The Sand,184000,false
+2018-04-092,Chris Brown,Heartbreak on a Full Moon,Tempo,219000,true
+2018-04-093,Blac Youngsta,223,Booty,160000,true
+2018-04-094,Ozuna x Cardi B,Aura,La Modelo,250000,false
+2018-04-095,Darius Rucker,When Was The Last Time,For The First Time,199000,false
+2018-04-096,YBN Nahmir,Rubbin off the Paint,Rubbin Off The Paint,157000,true
+2018-04-097,XXXTENTACION,?,The Remedy For A Broken Heart (Why Am I So In Love),160000,true
+2018-04-098,Trippie Redd Featuring Travis Scott,Dark Knight Dummo (feat. Travis Scott),Dark Knight Dummo,256000,true
+2018-04-099,Daniel Caesar Featuring Kali Uchis,Freudian,Get You,278000,false
+2018-04-100,Alice Merton,No Roots,No Roots,235000,false
+2018-05-001,Drake,Scorpion,Nice For What,210000,true
+2018-05-002,Drake,Scorpion,God's Plan,198000,true
+2018-05-003,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-05-004,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-05-005,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-05-006,J. Cole,KOD,ATM,217000,true
+2018-05-007,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-05-008,J. Cole,KOD,Kevin's Heart,200000,true
+2018-05-009,BlocBoy JB Featuring Drake,Simi,Look Alive,181000,true
+2018-05-010,J. Cole,KOD,KOD,191000,true
+2018-05-011,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-05-012,Lil Dicky Featuring Chris Brown,Freaky Friday,Freaky Friday,216000,false
+2018-05-013,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-05-014,J. Cole,KOD,Photograph,219000,true
+2018-05-015,J. Cole,KOD,Motiv8,134000,true
+2018-05-016,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-05-017,Bazzi,Mine,Mine,133000,true
+2018-05-018,Migos Featuring Drake,Culture II,Walk It Talk It,276000,true
+2018-05-019,The Weeknd,"My Dear Melancholy,",Call Out My Name,228000,false
+2018-05-020,J. Cole,KOD,1985 (Intro To The Fall Off),190000,true
+2018-05-021,Rich The Kid,The World Is Yours,Plug Walk,176000,true
+2018-05-022,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-05-023,Cardi B,Invasion of Privacy,Be Careful,210000,true
+2018-05-024,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-05-025,Bruno Mars & Cardi B,24K Magic,Finesse,191000,false
+2018-05-026,Imagine Dragons,Evolve,Whatever It Takes,200000,false
+2018-05-027,The Weeknd & Kendrick Lamar,Pray For Me,Pray For Me,211000,true
+2018-05-028,J. Cole Featuring kiLL edward,KOD,The Cut Off,237000,true
+2018-05-029,Kane Brown,Kane Brown (Deluxe Edition),Heaven,177000,false
+2018-05-030,J. Cole,KOD,Brackets,316000,true
+2018-05-031,XXXTENTACION,?,Sad!,166000,true
+2018-05-032,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-05-033,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-05-034,Avicii,True,Wake Me Up!,249000,false
+2018-05-035,Famous Dex,JAPAN,Japan,144000,true
+2018-05-036,Shawn Mendes,Shawn Mendes,In My Blood,211000,false
+2018-05-037,Lil Pump,Esskeetit,Esskeetit,181000,true
+2018-05-038,Jason Aldean,You Make It Easy,You Make It Easy,196000,false
+2018-05-039,Migos,Culture II,Stir Fry,192000,true
+2018-05-040,Rae Sremmurd & Juicy J,SR3MM,Powerglide,332000,true
+2018-05-041,J. Cole,KOD,Window Pain (Outro),287000,true
+2018-05-042,Maroon 5,Red Pill Blues (Deluxe),Wait,190000,false
+2018-05-043,Offset & Metro Boomin,Without Warning,Ric Flair Drip,173000,true
+2018-05-044,Kendrick Lamar & SZA,All The Stars,All The Stars,235000,true
+2018-05-045,Imagine Dragons,Evolve,Thunder,187000,false
+2018-05-046,J. Cole Featuring kiLL edward,KOD,Friends,257000,true
+2018-05-047,J. Cole,KOD,Once An Addict (Interlude),198000,true
+2018-05-048,Nicki Minaj,Queen,Chun-Li,190000,true
+2018-05-049,NF,Perception,Let You Down,212000,false
+2018-05-050,Portugal. The Man,Woodstock,Feel It Still,163000,false
+2018-05-051,Cardi B Featuring Migos,Invasion of Privacy,Drip,262000,true
+2018-05-052,Taylor Swift,reputation,Delicate,232000,false
+2018-05-053,J. Cole,The Fall-Off,Intro,366000,true
+2018-05-054,"Jay Rock, Kendrick Lamar, Future & James Blake",Black Panther The Album Music From And Inspired By,King's Dead,229000,true
+2018-05-055,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-05-056,Nicky Jam x J Balvin,Intimo,X,172000,false
+2018-05-057,"Khalid, Ty Dolla $ign & 6LACK",OTW (feat. 6LACK & Ty Dolla $ign),OTW,263000,true
+2018-05-058,Meghan Trainor,No Excuses,No Excuses,152000,false
+2018-05-059,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-05-060,Cardi B Featuring 21 Savage,Bartier Cardi (feat. 21 Savage),Bartier Cardi,224000,true
+2018-05-061,Rich The Kid Featuring Kendrick Lamar,The World Is Yours,New Freezer,193000,true
+2018-05-062,Luke Bryan,What Makes You Country,Most People Are Good,222000,false
+2018-05-063,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-05-064,Calvin Harris & Dua Lipa,One Kiss,One Kiss,214000,false
+2018-05-065,Justin Timberlake Featuring Chris Stapleton,Man of the Woods,Say Something,279000,false
+2018-05-066,Logic & Marshmello,Everyday,Everyday,204000,true
+2018-05-067,Jordan Davis,Singles You Up,Singles You Up,183000,false
+2018-05-068,Luke Combs,This One's for You,One Number Away,222000,false
+2018-05-069,YoungBoy Never Broke Again,Outside Today,Outside Today,129000,true
+2018-05-070,Cardi B Featuring SZA,Invasion of Privacy,I Do,200000,true
+2018-05-071,Cardi B Featuring Kehlani,Invasion of Privacy,Ring,177000,true
+2018-05-072,Sugarland Featuring Taylor Swift,Bigger,Babe,215000,false
+2018-05-073,Dua Lipa,Dua Lipa (Deluxe),IDGAF,217000,true
+2018-05-074,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te Boté (Remix),Te Bote,417000,true
+2018-05-075,Daddy Yankee,Dura,Dura,200000,false
+2018-05-076,Bad Wolves,Zombie,Zombie,254000,false
+2018-05-077,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-05-078,Nicki Minaj,Barbie Tingz,Barbie Tingz,191000,true
+2018-05-079,Foster The People,Sacred Hearts Club,Sit Next To Me,243000,false
+2018-05-080,Blake Shelton,Texoma Shore,I Lived It,219000,false
+2018-05-081,Pitbull x El Chombo x Karol G Featuring Cutty Ranks,,Dame Tu Cosita,152000,false
+2018-05-082,Kenny Chesney,Get Along,Get Along,199000,false
+2018-05-083,XXXTENTACION,?,Changes,122000,false
+2018-05-084,Morgan Wallen Featuring Florida Georgia Line,Greatest Hits,Up Down,198000,false
+2018-05-085,Brett Eldredge,The Long Way,The Long Way,208000,false
+2018-05-086,Darius Rucker,When Was The Last Time,For The First Time,199000,false
+2018-05-087,Ozuna & Romeo Santos,El Farsante,El Farsante,233000,false
+2018-05-088,Dierks Bentley,The Mountain,"Woman, Amen",180000,false
+2018-05-089,YoungBoy Never Broke Again,Until Death Call My Name (Reloaded),Diamond Teeth Samurai,162000,true
+2018-05-090,Jhene Aiko Featuring Swae Lee Or Rae Sremmurd,Trip,Sativa,277000,true
+2018-05-091,Keala Settle & The Greatest Showman Ensemble,The Greatest Showman (Original Motion Picture Soundtrack),This Is Me,234000,false
+2018-05-092,Halsey Featuring Big Sean & Stefflon Don,hopeless fountain kingdom (Deluxe Plus),Alone,205000,false
+2018-05-093,Lil Skies Featuring Landon Cube,Red Roses (feat. Landon Cube),Red Roses,262000,true
+2018-05-094,XXXTENTACION,?,Moonlight,135000,true
+2018-05-095,David Lee Murphy & Kenny Chesney,No Zip Code,Everything's Gonna Be Alright,229000,false
+2018-05-096,Carrie Underwood,Cry Pretty,Cry Pretty,246000,false
+2018-05-097,Tank,When We,When We,309000,true
+2018-05-098,Rae Sremmurd & Travis Scott,SR3MM,Close,194000,true
+2018-05-099,Cardi B,Invasion of Privacy,Thru Your Phone,188000,true
+2018-05-100,Cardi B Featuring Chance The Rapper,Invasion of Privacy,Best Life,284000,true
+2018-06-001,Drake,Scorpion,Nice For What,210000,true
+2018-06-002,Childish Gambino,This Is America,This Is America,225000,true
+2018-06-003,Drake,Scorpion,God's Plan,198000,true
+2018-06-004,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-06-005,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-06-006,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-06-007,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-06-008,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-06-009,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-06-010,BTS,Love Yourself 轉 'Tear',Fake Love,242000,false
+2018-06-011,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-06-012,BlocBoy JB Featuring Drake,Simi,Look Alive,181000,true
+2018-06-013,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-06-014,Migos Featuring Drake,Culture II,Walk It Talk It,276000,true
+2018-06-015,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-06-016,Cardi B,Invasion of Privacy,Be Careful,210000,true
+2018-06-017,Imagine Dragons,Evolve,Whatever It Takes,200000,false
+2018-06-018,Bazzi,Mine,Mine,133000,true
+2018-06-019,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-06-020,Shawn Mendes,Shawn Mendes,In My Blood,211000,false
+2018-06-021,Kane Brown,Kane Brown (Deluxe Edition),Heaven,177000,false
+2018-06-022,Lil Dicky Featuring Chris Brown,Freaky Friday,Freaky Friday,216000,false
+2018-06-023,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-06-024,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-06-025,The Weeknd & Kendrick Lamar,Pray For Me,Pray For Me,211000,true
+2018-06-026,Rich The Kid,The World Is Yours,Plug Walk,176000,true
+2018-06-027,Maroon 5,Red Pill Blues (Deluxe),Wait,190000,false
+2018-06-028,Nicki Minaj,Queen,Chun-Li,190000,true
+2018-06-029,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-06-030,The Weeknd,"My Dear Melancholy,",Call Out My Name,228000,false
+2018-06-031,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-06-032,XXXTENTACION,?,Sad!,166000,true
+2018-06-033,Kendrick Lamar & SZA,All The Stars,All The Stars,235000,true
+2018-06-034,Taylor Swift,reputation,Delicate,232000,false
+2018-06-035,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-06-036,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-06-037,Bruno Mars & Cardi B,24K Magic,Finesse,191000,false
+2018-06-038,Luke Combs,This One's for You,One Number Away,222000,false
+2018-06-039,Jason Aldean,You Make It Easy,You Make It Easy,196000,false
+2018-06-040,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te Boté (Remix),Te Bote,417000,true
+2018-06-041,Rae Sremmurd & Juicy J,SR3MM,Powerglide,332000,true
+2018-06-042,YoungBoy Never Broke Again,Until Death Call My Name (Reloaded),Overdose,176000,true
+2018-06-043,Calvin Harris & Dua Lipa,One Kiss,One Kiss,214000,false
+2018-06-044,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-06-045,Offset & Metro Boomin,Without Warning,Ric Flair Drip,173000,true
+2018-06-046,Selena Gomez,13 Reasons Why (Season 2),Back To You,207000,false
+2018-06-047,Daddy Yankee,Dura,Dura,200000,false
+2018-06-048,Nicky Jam x J Balvin,Intimo,X,172000,false
+2018-06-049,J. Cole,KOD,KOD,191000,true
+2018-06-050,Post Malone Featuring Nicki Minaj,beerbongs & bentleys,Ball For Me,207000,true
+2018-06-051,Dua Lipa,Dua Lipa (Deluxe),IDGAF,217000,true
+2018-06-052,Famous Dex,JAPAN,Japan,144000,true
+2018-06-053,Juice WRLD,Goodbye & Good Riddance,All Girls Are The Same,165000,true
+2018-06-054,Charlie Puth Featuring Kehlani,Done for Me (feat. Kehlani),Done For Me,180000,false
+2018-06-055,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-06-056,Lil Pump,Esskeetit,Esskeetit,181000,true
+2018-06-057,Morgan Wallen Featuring Florida Georgia Line,Greatest Hits,Up Down,198000,false
+2018-06-058,Darius Rucker,When Was The Last Time,For The First Time,199000,false
+2018-06-059,Kenny Chesney,Get Along,Get Along,199000,false
+2018-06-060,Travis Scott Featuring Lil Uzi Vert & Kanye West,Water (Remix),Watch,200000,false
+2018-06-061,"Jay Rock, Kendrick Lamar, Future & James Blake",Black Panther The Album Music From And Inspired By,King's Dead,229000,true
+2018-06-062,Pitbull x El Chombo x Karol G Featuring Cutty Ranks,,Dame Tu Cosita,152000,false
+2018-06-063,Foster The People,Sacred Hearts Club,Sit Next To Me,243000,false
+2018-06-064,Blake Shelton,Texoma Shore,I Lived It,219000,false
+2018-06-065,Post Malone,beerbongs & bentleys,Rich & Sad,203000,true
+2018-06-066,Post Malone,beerbongs & bentleys,Paranoid,224000,false
+2018-06-067,Playboi Carti Featuring Lil Uzi Vert,Die Lit,Shoota,153000,true
+2018-06-068,Kevin Gates,Chained to the City,Change Lanes,205000,true
+2018-06-069,"Khalid, Ty Dolla $ign & 6LACK",OTW (feat. 6LACK & Ty Dolla $ign),OTW,263000,true
+2018-06-070,Halsey Featuring Big Sean & Stefflon Don,hopeless fountain kingdom (Deluxe Plus),Alone,205000,false
+2018-06-071,Brett Young,Brett Young,Mercy,217000,false
+2018-06-072,Cardi B Featuring Migos,Invasion of Privacy,Drip,262000,true
+2018-06-073,Kris Wu,Fresh Karaoke Hits - 2018 - Vol. 8,Like That,231000,false
+2018-06-074,Dierks Bentley,The Mountain,"Woman, Amen",180000,false
+2018-06-075,Rich The Kid Featuring Kendrick Lamar,The World Is Yours,New Freezer,193000,true
+2018-06-076,David Lee Murphy & Kenny Chesney,No Zip Code,Everything's Gonna Be Alright,229000,false
+2018-06-077,Post Malone Featuring Swae Lee,beerbongs & bentleys,Spoil My Night,194000,true
+2018-06-078,Jordan Davis,Singles You Up,Singles You Up,183000,false
+2018-06-079,Lil Baby,Harder Than Ever,Southside,173000,true
+2018-06-080,Lil Baby Featuring Gunna & Lil Uzi Vert,Harder Than Ever,Life Goes On,247000,true
+2018-06-081,Luke Bryan,What Makes You Country,Most People Are Good,222000,false
+2018-06-082,Kevin Gates,Chained to the City,Let It Sing,195000,true
+2018-06-083,Pharrell Williams x Camila Cabello,Sangria Wine (Originally by Pharrell Williams x Camila Cabello - Karaoke Version),Sangria Wine,203000,false
+2018-06-084,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward",Welcome to the Party (feat. Zhavia),Welcome To The Party,181000,true
+2018-06-085,Bad Wolves,Zombie,Zombie,254000,false
+2018-06-086,NAV Featuring Travis Scott,RECKLESS,Champion,194000,true
+2018-06-087,Lil Skies Featuring Landon Cube,Red Roses (feat. Landon Cube),Red Roses,262000,true
+2018-06-088,Post Malone,beerbongs & bentleys,Stay,208000,true
+2018-06-089,J. Cole,KOD,ATM,217000,true
+2018-06-090,Jhene Aiko Featuring Swae Lee Or Rae Sremmurd,Trip,Sativa,277000,true
+2018-06-091,Logic & Marshmello,Everyday,Everyday,204000,true
+2018-06-092,J. Cole,KOD,Kevin's Heart,200000,true
+2018-06-093,Meghan Trainor,No Excuses,No Excuses,152000,false
+2018-06-094,XXXTENTACION,?,Moonlight,135000,true
+2018-06-095,Lil Skies,Life of a Dark Rose,Lust,156000,true
+2018-06-096,Bhad Bhabie Featuring Lil Yachty,Gucci Flip Flops (feat. Lil Yachty),Gucci Flip Flops,150000,true
+2018-06-097,YoungBoy Never Broke Again,Outside Today,Outside Today,129000,true
+2018-06-098,Sam Hunt,Downtown's Dead,Downtown's Dead,213000,false
+2018-06-099,Backstreet Boys,DNA,Don't Go Breaking My Heart,215000,false
+2018-06-100,Ozuna & Romeo Santos,El Farsante,El Farsante,233000,false
+2018-07-001,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-07-002,XXXTENTACION,?,Sad!,166000,true
+2018-07-003,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-07-004,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2018-07-005,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-07-006,Drake,Scorpion,Nice For What,210000,true
+2018-07-007,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-07-008,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-07-009,Drake,Scorpion,God's Plan,198000,true
+2018-07-010,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-07-011,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-07-012,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-07-013,XXXTENTACION,?,Moonlight,135000,true
+2018-07-014,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-07-015,Rich The Kid,The World Is Yours,Plug Walk,176000,true
+2018-07-016,Bazzi,Mine,Mine,133000,true
+2018-07-017,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-07-018,XXXTENTACION,?,Changes,122000,false
+2018-07-019,The Carters,EVERYTHING IS LOVE,Apes**t,265000,true
+2018-07-020,Taylor Swift,reputation,Delicate,232000,false
+2018-07-021,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-07-022,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-07-023,Shawn Mendes,Shawn Mendes,In My Blood,211000,false
+2018-07-024,Childish Gambino,This Is America,This Is America,225000,true
+2018-07-025,XXXTENTACION,17,Jocelyn Flores,119000,true
+2018-07-026,Drake,Scorpion,I'm Upset,214000,true
+2018-07-027,BlocBoy JB Featuring Drake,Simi,Look Alive,181000,true
+2018-07-028,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-07-029,Migos Featuring Drake,Culture II,Walk It Talk It,276000,true
+2018-07-030,Tyga Featuring Offset,Taste (feat. Offset),Taste,232000,true
+2018-07-031,Imagine Dragons,Evolve,Whatever It Takes,200000,false
+2018-07-032,Cardi B,Invasion of Privacy,Be Careful,210000,true
+2018-07-033,Post Malone Featuring 21 Savage,beerbongs & bentleys,Rockstar,219000,true
+2018-07-034,XXXTENTACION Featuring Trippie Redd,17,F**k Love,146000,true
+2018-07-035,Selena Gomez,13 Reasons Why (Season 2),Back To You,207000,false
+2018-07-036,Calvin Harris & Dua Lipa,One Kiss,One Kiss,214000,false
+2018-07-037,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-07-038,Kane Brown,Kane Brown (Deluxe Edition),Heaven,177000,false
+2018-07-039,Camila Cabello Featuring Young Thug,Camila,Havana,216000,false
+2018-07-040,Dua Lipa,Dua Lipa (Deluxe),New Rules,209000,false
+2018-07-041,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-07-042,Juice WRLD,Goodbye & Good Riddance,All Girls Are The Same,165000,true
+2018-07-043,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te Boté (Remix),Te Bote,417000,true
+2018-07-044,Kenny Chesney,Get Along,Get Along,199000,false
+2018-07-045,Florida Georgia Line,Can't Say I Ain't Country,Simple,185000,false
+2018-07-046,XXXTENTACION,17,Everybody Dies In Their Nightmares,95000,true
+2018-07-047,Lil Dicky Featuring Chris Brown,Freaky Friday,Freaky Friday,216000,false
+2018-07-048,Brett Young,Brett Young,Mercy,217000,false
+2018-07-049,Luke Combs,This One's for You,One Number Away,222000,false
+2018-07-050,Maroon 5,Red Pill Blues (Deluxe),Wait,190000,false
+2018-07-051,Foster The People,Sacred Hearts Club,Sit Next To Me,243000,false
+2018-07-052,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2018-07-053,Morgan Wallen Featuring Florida Georgia Line,Greatest Hits,Up Down,198000,false
+2018-07-054,Kanye West,ye,All Mine,146000,true
+2018-07-055,XXXTENTACION,?,The Remedy For A Broken Heart (Why Am I So In Love),160000,true
+2018-07-056,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",STAY DANGEROUS,Big Bank,239000,true
+2018-07-057,Daddy Yankee,Dura,Dura,200000,false
+2018-07-058,Demi Lovato,Sober,Sober,197000,false
+2018-07-059,Post Malone Featuring Nicki Minaj,beerbongs & bentleys,Ball For Me,207000,true
+2018-07-060,"2 Chainz, Drake & Quavo",Bigger Than You,Bigger > You,225000,true
+2018-07-061,Panic! At The Disco,Pray for the Wicked,Say Amen (Saturday Night),189000,false
+2018-07-062,Nicki Minaj,Queen,Chun-Li,190000,true
+2018-07-063,Famous Dex,JAPAN,Japan,144000,true
+2018-07-064,Nicky Jam x J Balvin,Intimo,X,172000,false
+2018-07-065,Juice WRLD,Legends,Legends,191000,true
+2018-07-066,David Lee Murphy & Kenny Chesney,No Zip Code,Everything's Gonna Be Alright,229000,false
+2018-07-067,Nicki Minaj Featuring Ariana Grande,Queen,Bed,189000,true
+2018-07-068,J. Cole,KOD,KOD,191000,true
+2018-07-069,Halsey Featuring Big Sean & Stefflon Don,hopeless fountain kingdom (Deluxe Plus),Alone,205000,false
+2018-07-070,XXXTENTACION,?,Hope,112000,true
+2018-07-071,Lil Pump,Esskeetit,Esskeetit,181000,true
+2018-07-072,6ix9ine Featuring DJ SPINKING,DUMMY BOY (Revised),TATI,154000,true
+2018-07-073,Jason Aldean Featuring Miranda Lambert,30 Number One Hits,Drowns The Whiskey,202000,false
+2018-07-074,Charlie Puth Featuring Kehlani,Done for Me (feat. Kehlani),Done For Me,180000,false
+2018-07-075,Jake Owen,Greetings From...Jake,I Was Jack (You Were Diane),187000,false
+2018-07-076,BTS,Love Yourself 轉 'Tear',Fake Love,242000,false
+2018-07-077,Kanye West,ye,Yikes,189000,true
+2018-07-078,The Weeknd,"My Dear Melancholy,",Call Out My Name,228000,false
+2018-07-079,Lil Skies Featuring Yung Pinch,I Know You (feat. Yung Pinch),I Know You,211000,true
+2018-07-080,XXXTENTACION,?,Numb,186000,false
+2018-07-081,Queen Naija,Medicine,Medicine,224000,false
+2018-07-082,A$AP Rocky Featuring Skepta,TESTING,Praise The Lord (Da Shine),206000,true
+2018-07-083,Becky G + Natti Natasha,Sin Pijama,Sin Pijama,187000,false
+2018-07-084,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2018-07-085,Blake Shelton,Texoma Shore,I Lived It,219000,false
+2018-07-086,Rae Sremmurd & Juicy J,SR3MM,Powerglide,332000,true
+2018-07-087,Billie Eilish & Khalid,lovely,Lovely,199000,false
+2018-07-088,Keith Urban Featuring Julia Michaels,Coming Home,Coming Home,214000,false
+2018-07-089,Lil Baby Featuring Gunna & Lil Uzi Vert,Harder Than Ever,Life Goes On,247000,true
+2018-07-090,Bad Wolves,Zombie,Zombie,254000,false
+2018-07-091,YoungBoy Never Broke Again,Until Death Call My Name (Reloaded),Overdose,176000,true
+2018-07-092,Thomas Rhett,Life Changes,Life Changes,189000,false
+2018-07-093,Dierks Bentley,The Mountain,"Woman, Amen",180000,false
+2018-07-094,Kygo & Imagine Dragons,Born To Be Yours,Born To Be Yours,193000,false
+2018-07-095,Ariana Grande Featuring Nicki Minaj,Sweetener,The Light Is Coming,228000,true
+2018-07-096,"Khalid, Ty Dolla $ign & 6LACK",OTW (feat. 6LACK & Ty Dolla $ign),OTW,263000,true
+2018-07-097,Clean Bandit Featuring Demi Lovato,Solo (feat. Demi Lovato),Solo,222000,false
+2018-07-098,Chris Lane Featuring Tori Kelly,Laps Around The Sun,Take Back Home Girl,212000,false
+2018-07-099,The Carters,EVERYTHING IS LOVE,Boss,245000,true
+2018-07-100,Jhene Aiko Featuring Swae Lee Or Rae Sremmurd,Trip,Sativa,277000,true
+2018-08-001,Drake,Scorpion,In My Feelings,218000,true
+2018-08-002,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-08-003,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2018-08-004,6ix9ine Featuring Nicki Minaj & Murda Beatz,DUMMY BOY (Revised),FEFE,179000,true
+2018-08-005,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-08-006,Drake,Scorpion,Nice For What,210000,true
+2018-08-007,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-08-008,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-08-009,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-08-010,Tyga Featuring Offset,Taste (feat. Offset),Taste,232000,true
+2018-08-011,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-08-012,Taylor Swift,reputation,Delicate,232000,false
+2018-08-013,Drake,Scorpion,God's Plan,198000,true
+2018-08-014,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-08-015,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-08-016,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-08-017,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-08-018,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-08-019,XXXTENTACION,?,Sad!,166000,true
+2018-08-020,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-08-021,Ariana Grande,Sweetener,God Is A Woman,197000,true
+2018-08-022,Bazzi,Mine,Mine,133000,true
+2018-08-023,Shawn Mendes,Shawn Mendes,In My Blood,211000,false
+2018-08-024,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-08-025,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2018-08-026,Selena Gomez,13 Reasons Why (Season 2),Back To You,207000,false
+2018-08-027,Calvin Harris & Dua Lipa,One Kiss,One Kiss,214000,false
+2018-08-028,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",STAY DANGEROUS,Big Bank,239000,true
+2018-08-029,Drake,Scorpion,Nonstop,239000,true
+2018-08-030,The Carters,EVERYTHING IS LOVE,Apes**t,265000,true
+2018-08-031,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-08-032,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-08-033,Brett Young,Brett Young,Mercy,217000,false
+2018-08-034,Imagine Dragons,Evolve,Whatever It Takes,200000,false
+2018-08-035,Kenny Chesney,Get Along,Get Along,199000,false
+2018-08-036,Florida Georgia Line,Can't Say I Ain't Country,Simple,185000,false
+2018-08-037,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2018-08-038,Drake,Scorpion,I'm Upset,214000,true
+2018-08-039,XXXTENTACION,?,Moonlight,135000,true
+2018-08-040,BlocBoy JB Featuring Drake,Simi,Look Alive,181000,true
+2018-08-041,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te Boté (Remix),Te Bote,417000,true
+2018-08-042,Jason Aldean Featuring Miranda Lambert,30 Number One Hits,Drowns The Whiskey,202000,false
+2018-08-043,Jake Owen,Greetings From...Jake,I Was Jack (You Were Diane),187000,false
+2018-08-044,Foster The People,Sacred Hearts Club,Sit Next To Me,243000,false
+2018-08-045,Childish Gambino,This Is America,This Is America,225000,true
+2018-08-046,Cardi B,Invasion of Privacy,Be Careful,210000,true
+2018-08-047,Nicky Jam x J Balvin,Intimo,X,172000,false
+2018-08-048,Luke Combs,This One's for You,One Number Away,222000,false
+2018-08-049,Thomas Rhett,Life Changes,Life Changes,189000,false
+2018-08-050,Keith Urban Featuring Julia Michaels,Coming Home,Coming Home,214000,false
+2018-08-051,XXXTENTACION,?,Changes,122000,false
+2018-08-052,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2018-08-053,Drake,Scorpion,Mob Ties,205000,true
+2018-08-054,Drake Featuring Michael Jackson,Scorpion,Don't Matter To Me,246000,false
+2018-08-055,Nicki Minaj Featuring Ariana Grande,Queen,Bed,189000,true
+2018-08-056,Demi Lovato,Sober,Sober,197000,false
+2018-08-057,Chris Lane Featuring Tori Kelly,Laps Around The Sun,Take Back Home Girl,212000,false
+2018-08-058,Juice WRLD,Goodbye & Good Riddance,All Girls Are The Same,165000,true
+2018-08-059,Luke Bryan,What Makes You Country,"Sunrise, Sunburn, Sunset",216000,false
+2018-08-060,Chance The Rapper,I Might Need Security,I Might Need Security,241000,true
+2018-08-061,Clean Bandit Featuring Demi Lovato,Solo (feat. Demi Lovato),Solo,222000,false
+2018-08-062,Tiesto & Dzeko Featuring Preme & Post Malone,Jackie Chan,Jackie Chan,216000,true
+2018-08-063,Old Dominion,Happy Endings,Hotel Key,166000,false
+2018-08-064,Bebe Rexha,Expectations,I'm A Mess,195000,false
+2018-08-065,Queen Naija,Medicine,Medicine,224000,false
+2018-08-066,Alessia Cara,Growing Pains,Growing Pains,193000,false
+2018-08-067,Juice WRLD Featuring Lil Uzi Vert,Goodbye & Good Riddance,Wasted,256000,true
+2018-08-068,Backstreet Boys,DNA,Don't Go Breaking My Heart,215000,false
+2018-08-069,Childish Gambino,Summer Pack,Summertime Magic,213000,false
+2018-08-070,Morgan Wallen Featuring Florida Georgia Line,Greatest Hits,Up Down,198000,false
+2018-08-071,Morgan Evans,Kiss Somebody,Kiss Somebody,212000,false
+2018-08-072,Becky G + Natti Natasha,Sin Pijama,Sin Pijama,187000,false
+2018-08-073,Lil Dicky Featuring Chris Brown,Freaky Friday,Freaky Friday,216000,false
+2018-08-074,Lauren Daigle,Look Up Child,You Say,274000,false
+2018-08-075,lovelytheband,finding it hard to smile,Broken,204000,false
+2018-08-076,Dylan Scott,Dylan Scott (Deluxe Edition),Hooked,149000,false
+2018-08-077,Ciara,Beauty Marks,Level Up,204000,false
+2018-08-078,TK Kravitz Featuring Jacqueez,Ocean (feat. Jacquees),Ocean,219000,true
+2018-08-079,Kygo Featuring Miguel,Remind Me to Forget,Remind Me To Forget,216000,false
+2018-08-080,"Khalid, Ty Dolla $ign & 6LACK",OTW (feat. 6LACK & Ty Dolla $ign),OTW,263000,true
+2018-08-081,Daniel Caesar Featuring H.E.R.,H.E.R.,Best Part,210000,false
+2018-08-082,G-Eazy Featuring Yo Gotti & YBN Nahmir,1942 (feat. Yo Gotti & YBN Nahmir),1942,213000,true
+2018-08-083,Post Malone Featuring Nicki Minaj,beerbongs & bentleys,Ball For Me,207000,true
+2018-08-084,Carrie Underwood,Cry Pretty,Cry Pretty,246000,false
+2018-08-085,Martin Garrix Featuring Khalid,Ocean (feat. Khalid),Ocean,216000,false
+2018-08-086,Weezer,Africa,Africa,238000,false
+2018-08-087,Cole Swindell,All of It,Break Up In The End,199000,false
+2018-08-088,twenty one pilots,Trench,Jumpsuit,238000,false
+2018-08-089,The Weeknd,"My Dear Melancholy,",Call Out My Name,228000,false
+2018-08-090,Dennis Lloyd,Nevermind,Nevermind,156000,false
+2018-08-091,Kanye West,ye,All Mine,146000,true
+2018-08-092,Migos,Culture II,Narcos,255000,true
+2018-08-093,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",You Should See Me In A Crown,180000,false
+2018-08-094,Eric Church,Desperate Man,Desperate Man,209000,false
+2018-08-095,Wiz Khalifa Featuring Swae Lee,Hopeless Romantic (feat. Swae Lee),Hopeless Romantic,225000,true
+2018-08-096,A$AP Rocky Featuring Skepta,TESTING,Praise The Lord (Da Shine),206000,true
+2018-08-097,NF,Perception,Lie,209000,false
+2018-08-098,Kane Brown,Experiment Extended,Lose It,178000,false
+2018-08-099,Drake,Scorpion,Emotionless,302000,true
+2018-08-100,Drake,Scorpion,Can't Take A Joke,164000,true
+2018-09-001,Drake,Scorpion,In My Feelings,218000,true
+2018-09-002,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2018-09-003,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-09-004,6ix9ine Featuring Nicki Minaj & Murda Beatz,DUMMY BOY (Revised),FEFE,179000,true
+2018-09-005,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-09-006,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-09-007,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-09-008,Ariana Grande,Sweetener,God Is A Woman,197000,true
+2018-09-009,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2018-09-010,Tyga Featuring Offset,Taste (feat. Offset),Taste,232000,true
+2018-09-011,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-09-012,"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo","No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",No Brainer,260000,true
+2018-09-013,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-09-014,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-09-015,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2018-09-016,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-09-017,Drake,Scorpion,Nice For What,210000,true
+2018-09-018,Drake,Scorpion,Nonstop,239000,true
+2018-09-019,Taylor Swift,reputation,Delicate,232000,false
+2018-09-020,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-09-021,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-09-022,Ariana Grande,Sweetener,Breathin,198000,true
+2018-09-023,Selena Gomez,13 Reasons Why (Season 2),Back To You,207000,false
+2018-09-024,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",STAY DANGEROUS,Big Bank,239000,true
+2018-09-025,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-09-026,XXXTENTACION,?,Sad!,166000,true
+2018-09-027,Drake,Scorpion,God's Plan,198000,true
+2018-09-028,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-09-029,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2018-09-030,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-09-031,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2018-09-032,Jason Aldean Featuring Miranda Lambert,30 Number One Hits,Drowns The Whiskey,202000,false
+2018-09-033,Bazzi,Mine,Mine,133000,true
+2018-09-034,Brett Young,Brett Young,Mercy,217000,false
+2018-09-035,Travis Scott,ASTROWORLD,Stargazing,271000,true
+2018-09-036,Florida Georgia Line,Can't Say I Ain't Country,Simple,185000,false
+2018-09-037,Marshmello & Anne-Marie,C'est L'été 2021,Friends,202000,true
+2018-09-038,Nicki Minaj,Queen,Barbie Dreams,279000,true
+2018-09-039,Calvin Harris & Dua Lipa,One Kiss,One Kiss,214000,false
+2018-09-040,Luke Bryan,What Makes You Country,"Sunrise, Sunburn, Sunset",216000,false
+2018-09-041,Camila Cabello,Camila,Never Be The Same,227000,false
+2018-09-042,Shawn Mendes,Shawn Mendes,In My Blood,211000,false
+2018-09-043,Thomas Rhett,Life Changes,Life Changes,189000,false
+2018-09-044,Kenny Chesney,Get Along,Get Along,199000,false
+2018-09-045,Bebe Rexha,Expectations,I'm A Mess,195000,false
+2018-09-046,The Carters,EVERYTHING IS LOVE,Apes**t,265000,true
+2018-09-047,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",Te Boté (Remix),Te Bote,417000,true
+2018-09-048,XXXTENTACION,?,Moonlight,135000,true
+2018-09-049,Cole Swindell,All of It,Break Up In The End,199000,false
+2018-09-050,Bazzi Featuring Camila Cabello,Beautiful,Beautiful,178000,false
+2018-09-051,lovelytheband,finding it hard to smile,Broken,204000,false
+2018-09-052,Old Dominion,Happy Endings,Hotel Key,166000,false
+2018-09-053,Travis Scott,ASTROWORLD,Yosemite,150000,false
+2018-09-054,Weezer,Africa,Africa,238000,false
+2018-09-055,Ariana Grande,Sweetener,Sweetener,208000,false
+2018-09-056,Lauren Daigle,Look Up Child,You Say,274000,false
+2018-09-057,Bryce Vine,Drew Barrymore,Drew Barrymore,191000,true
+2018-09-058,Tiesto & Dzeko Featuring Preme & Post Malone,Jackie Chan,Jackie Chan,216000,true
+2018-09-059,Clean Bandit Featuring Demi Lovato,Solo (feat. Demi Lovato),Solo,222000,false
+2018-09-060,Dylan Scott,Dylan Scott (Deluxe Edition),Hooked,149000,false
+2018-09-061,Juice WRLD,Goodbye & Good Riddance,All Girls Are The Same,165000,true
+2018-09-062,Ariana Grande,Sweetener,Everytime,172000,true
+2018-09-063,Marshmello & Bastille,Happier,Happier,214000,false
+2018-09-064,Queen Naija,Medicine,Medicine,224000,false
+2018-09-065,Calvin Harris & Sam Smith,Promises,Promises,213000,false
+2018-09-066,Kygo Featuring Miguel,Remind Me to Forget,Remind Me To Forget,216000,false
+2018-09-067,Ella Mai,Ella Mai,Trip,217000,false
+2018-09-068,Juice WRLD,Goodbye & Good Riddance,Lean Wit Me,175000,true
+2018-09-069,Ciara,Beauty Marks,Level Up,204000,false
+2018-09-070,Drake,Scorpion,I'm Upset,214000,true
+2018-09-071,G-Eazy Featuring Yo Gotti & YBN Nahmir,1942 (feat. Yo Gotti & YBN Nahmir),1942,213000,true
+2018-09-072,Ariana Grande,Sweetener,R.E.M,245000,true
+2018-09-073,Yella Beezy,That's On Me,That's On Me,219000,true
+2018-09-074,Luke Combs,This One's for You Too (Deluxe Edition),She Got The Best Of Me ,185000,false
+2018-09-075,Kane Brown,Experiment Extended,Lose It,178000,false
+2018-09-076,Backstreet Boys,DNA,Don't Go Breaking My Heart,215000,false
+2018-09-077,Russell Dickerson,Yours,Blue Tacoma,212000,false
+2018-09-078,Young Thug Featuring Gunna & Lil Baby,Slime Language,Chanel (Go Get It),201000,true
+2018-09-079,XXXTENTACION,?,Changes,122000,false
+2018-09-080,Trippie Redd,Taking A Walk,Taking A Walk,121000,true
+2018-09-081,The Chainsmokers Featuring Emily Warren,Sick Boy,Side Effects,173000,false
+2018-09-082,Daniel Caesar Featuring H.E.R.,H.E.R.,Best Part,210000,false
+2018-09-083,Mitchell Tenpenny,Telling All My Secrets,Drunk Me,213000,false
+2018-09-084,Carrie Underwood,Cry Pretty,Cry Pretty,246000,false
+2018-09-085,Cardi B Featuring Kehlani,Invasion of Privacy,Ring,177000,true
+2018-09-086,Morgan Evans,Kiss Somebody,Kiss Somebody,212000,false
+2018-09-087,Ariana Grande,Sweetener,Goodnight N Go,189000,true
+2018-09-088,Janet & Daddy Yankee,Made For Now,Made For Now,210000,false
+2018-09-089,Ariana Grande Featuring Nicki Minaj,Sweetener,The Light Is Coming,228000,true
+2018-09-090,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2018-09-091,Nicki Minaj Featuring Ariana Grande,Queen,Bed,189000,true
+2018-09-092,Alessia Cara,Growing Pains,Growing Pains,193000,false
+2018-09-093,Chris Lane Featuring Tori Kelly,Laps Around The Sun,Take Back Home Girl,212000,false
+2018-09-094,Eric Church,Desperate Man,Desperate Man,209000,false
+2018-09-095,Childish Gambino,This Is America,This Is America,225000,true
+2018-09-096,Quavo,W O R K I N M E,W O R K I N  M E,169000,true
+2018-09-097,NF,Perception,Lie,209000,false
+2018-09-098,Becky G + Natti Natasha,Sin Pijama,Sin Pijama,187000,false
+2018-09-099,Ariana Grande,Sweetener,Pete Davidson,73000,true
+2018-09-100,Nicki Minaj,Queen,Chun-Li,190000,true
+2018-10-001,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2018-10-002,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-10-003,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-10-004,Drake,Scorpion,In My Feelings,218000,true
+2018-10-005,Eminem,Killshot,Killshot,254000,true
+2018-10-006,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2018-10-007,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-10-008,6ix9ine Featuring Nicki Minaj & Murda Beatz,DUMMY BOY (Revised),FEFE,179000,true
+2018-10-009,Kanye West & Lil Pump,I Love It,I Love It,127000,true
+2018-10-010,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2018-10-011,Tyga Featuring Offset,Taste (feat. Offset),Taste,232000,true
+2018-10-012,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-10-013,Lil Peep & XXXTENTACION,"Come Over When You're Sober, Pt. 2",Falling Down,196000,true
+2018-10-014,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2018-10-015,Marshmello & Bastille,Happier,Happier,214000,false
+2018-10-016,Drake,Scorpion,Nonstop,239000,true
+2018-10-017,"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo","No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",No Brainer,260000,true
+2018-10-018,Ella Mai,Ella Mai,Trip,217000,false
+2018-10-019,Selena Gomez,13 Reasons Why (Season 2),Back To You,207000,false
+2018-10-020,Ariana Grande,Sweetener,God Is A Woman,197000,true
+2018-10-021,Ed Sheeran,÷ (Deluxe),Perfect,263000,false
+2018-10-022,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-10-023,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-10-024,Lil Uzi Vert,New Patek,New Patek,343000,true
+2018-10-025,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2018-10-026,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",STAY DANGEROUS,Big Bank,239000,true
+2018-10-027,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2018-10-028,Eminem Featuring Joyner Lucas,Kamikaze,Lucky You,245000,true
+2018-10-029,Taylor Swift,reputation,Delicate,232000,false
+2018-10-030,Bebe Rexha & Florida Georgia Line,All Your Fault: Pt. 2,Meant To Be,163000,false
+2018-10-031,Sheck Wes,MUDBOY,Mo Bamba,181000,true
+2018-10-032,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-10-033,XXXTENTACION,?,Sad!,166000,true
+2018-10-034,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-10-035,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-10-036,Bebe Rexha,Expectations,I'm A Mess,195000,false
+2018-10-037,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-10-038,Gucci Mane X Bruno Mars X Kodak Black,Wake Up in the Sky,Wake Up In The Sky,204000,true
+2018-10-039,Drake,Scorpion,Nice For What,210000,true
+2018-10-040,Machine Gun Kelly,RAP DEVIL,Rap Devil,286000,true
+2018-10-041,lovelytheband,finding it hard to smile,Broken,204000,false
+2018-10-042,Florida Georgia Line,Can't Say I Ain't Country,Simple,185000,false
+2018-10-043,Bazzi Featuring Camila Cabello,Beautiful,Beautiful,178000,false
+2018-10-044,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-10-045,Drake,Scorpion,God's Plan,198000,true
+2018-10-046,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2018-10-047,French Montana Featuring Drake,No Stylist,No Stylist,192000,true
+2018-10-048,Luke Combs,This One's for You Too (Deluxe Edition),She Got The Best Of Me ,185000,false
+2018-10-049,Cardi B Featuring Kehlani,Invasion of Privacy,Ring,177000,true
+2018-10-050,Old Dominion,Happy Endings,Hotel Key,166000,false
+2018-10-051,Bryce Vine,Drew Barrymore,Drew Barrymore,191000,true
+2018-10-052,Russell Dickerson,Yours,Blue Tacoma,212000,false
+2018-10-053,Lauren Daigle,Look Up Child,You Say,274000,false
+2018-10-054,Tiesto & Dzeko Featuring Preme & Post Malone,Jackie Chan,Jackie Chan,216000,true
+2018-10-055,Weezer,Africa,Africa,238000,false
+2018-10-056,Lil' Duval Featuring Snoop Dogg & Ball Greezy,Smile (Living My Best Life) [feat. Snoop Dogg & Ball Greezy & Midnight Star],Smile (Living My Best Life),214000,true
+2018-10-057,Khalid,Better,Better,229000,true
+2018-10-058,Ariana Grande,Sweetener,Breathin,198000,true
+2018-10-059,Luke Bryan,What Makes You Country,"Sunrise, Sunburn, Sunset",216000,false
+2018-10-060,Cole Swindell,All of It,Break Up In The End,199000,false
+2018-10-061,Charlie Puth,Voicenotes,The Way I Am,186000,false
+2018-10-062,NF,Perception,Lie,209000,false
+2018-10-063,Kane Brown,Experiment Extended,Lose It,178000,false
+2018-10-064,Avril Lavigne,Greatest Hits,Head Above Water,220000,false
+2018-10-065,Quavo,W O R K I N M E,W O R K I N  M E,169000,true
+2018-10-066,Queen Naija,Medicine,Medicine,224000,false
+2018-10-067,Mitchell Tenpenny,Telling All My Secrets,Drunk Me,213000,false
+2018-10-068,Calvin Harris & Sam Smith,Promises,Promises,213000,false
+2018-10-069,Yella Beezy,That's On Me,That's On Me,219000,true
+2018-10-070,Nicki Minaj,Queen,Barbie Dreams,279000,true
+2018-10-071,"Labrinth, Sia & Diplo Present... LSD","Thunderclouds (feat. Sia, Diplo & Labrinth)",Thunderclouds,187000,false
+2018-10-072,Juice WRLD,Goodbye & Good Riddance,All Girls Are The Same,165000,true
+2018-10-073,Eminem,Kamikaze,Fall,263000,true
+2018-10-074,The Chainsmokers Featuring Kelsea Ballerini,Sick Boy,This Feeling,197000,false
+2018-10-075,Daniel Caesar Featuring H.E.R.,H.E.R.,Best Part,210000,false
+2018-10-076,Meek Mill Featuring Jeremih & PnB Rock,Legends of the Summer,Dangerous,234000,true
+2018-10-077,Dan + Shay,Speechless,Speechless,212000,false
+2018-10-078,Thomas Rhett,Life Changes,Life Changes,189000,false
+2018-10-079,Dylan Scott,Dylan Scott (Deluxe Edition),Hooked,149000,false
+2018-10-080,Jason Aldean Featuring Miranda Lambert,30 Number One Hits,Drowns The Whiskey,202000,false
+2018-10-081,Flipp Dinero,LOVE FOR GUALA,Leave Me Alone,196000,true
+2018-10-082,Chris Janson,EVERYBODY,Drunk Girl,207000,false
+2018-10-083,Lil Mosey,Northsbest (Extended),Noticed,165000,true
+2018-10-084,Travis Scott,ASTROWORLD,Yosemite,150000,false
+2018-10-085,Chris Young,Losing Sleep,Hangin' On,187000,false
+2018-10-086,Jimmie Allen,Best Shot (Acoustic Version),Best Shot,193000,false
+2018-10-087,Travis Scott,ASTROWORLD,Stargazing,271000,true
+2018-10-088,6ix9ine Featuring Anuel AA,DUMMY BOY (Revised),BEBE,217000,true
+2018-10-089,Juice WRLD,Goodbye & Good Riddance,Lean Wit Me,175000,true
+2018-10-090,Mac Miller,Swimming,Self Care,345000,true
+2018-10-091,"Khalid, Ty Dolla $ign & 6LACK",OTW (feat. 6LACK & Ty Dolla $ign),OTW,263000,true
+2018-10-092,Pardison Fontaine Featuring Cardi B,Backin' It Up (feat. Cardi B),Backin' It Up,190000,true
+2018-10-093,Kygo Featuring Miguel,Remind Me to Forget,Remind Me To Forget,216000,false
+2018-10-094,Eric Church,Desperate Man,Desperate Man,209000,false
+2018-10-095,Eminem,Kamikaze,The Ringer,338000,true
+2018-10-096,Maren Morris,HERO (Deluxe Edition),Rich,208000,false
+2018-10-097,The Carters,EVERYTHING IS LOVE,Apes**t,265000,true
+2018-10-098,Wiz Khalifa Featuring Swae Lee,Hopeless Romantic (feat. Swae Lee),Hopeless Romantic,225000,true
+2018-10-099,Clean Bandit Featuring Demi Lovato,Solo (feat. Demi Lovato),Solo,222000,false
+2018-10-100,Ozuna x Manuel Turizo,Party Tyme 289 (Spanish Karaoke Versions),Vaina Loca,180000,false
+2018-11-001,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2018-11-002,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2018-11-003,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-11-004,Marshmello & Bastille,Happier,Happier,214000,false
+2018-11-005,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-11-006,Kodak Black Featuring Travis Scott & Offset,ZEZE (feat. Travis Scott & Offset),ZEZE,228000,true
+2018-11-007,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2018-11-008,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2018-11-009,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2018-11-010,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-11-011,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",Carte Blanche,Taki Taki,213000,true
+2018-11-012,Halsey,Manic,Without Me,201000,true
+2018-11-013,Bad Bunny Featuring Drake,X 100PRE,MIA,210000,false
+2018-11-014,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2018-11-015,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2018-11-016,Sheck Wes,MUDBOY,Mo Bamba,181000,true
+2018-11-017,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-11-018,Ella Mai,Ella Mai,Trip,217000,false
+2018-11-019,Tyga Featuring Offset,Taste (feat. Offset),Taste,232000,true
+2018-11-020,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2018-11-021,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2018-11-022,Drake,Scorpion,Nonstop,239000,true
+2018-11-023,Drake,Scorpion,In My Feelings,218000,true
+2018-11-024,Ariana Grande,Sweetener,God Is A Woman,197000,true
+2018-11-025,6ix9ine Featuring Nicki Minaj & Murda Beatz,DUMMY BOY (Revised),FEFE,179000,true
+2018-11-026,Future & Juice WRLD,Future & Juice WRLD Present... WRLD ON DRUGS,Fine China,142000,true
+2018-11-027,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-11-028,Selena Gomez,13 Reasons Why (Season 2),Back To You,207000,false
+2018-11-029,"YG Featuring 2 Chainz, Big Sean & Nicki Minaj",STAY DANGEROUS,Big Bank,239000,true
+2018-11-030,lovelytheband,finding it hard to smile,Broken,204000,false
+2018-11-031,Bazzi Featuring Camila Cabello,Beautiful,Beautiful,178000,false
+2018-11-032,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-11-033,Lil Wayne,Tha Carter V,Uproar,194000,true
+2018-11-034,Khalid,Better,Better,229000,true
+2018-11-035,Kanye West & Lil Pump,I Love It,I Love It,127000,true
+2018-11-036,Bebe Rexha,Expectations,I'm A Mess,195000,false
+2018-11-037,Luke Combs,This One's for You Too (Deluxe Edition),She Got The Best Of Me ,185000,false
+2018-11-038,Taylor Swift,reputation,Delicate,232000,false
+2018-11-039,Gucci Mane X Bruno Mars X Kodak Black,Wake Up in the Sky,Wake Up In The Sky,204000,true
+2018-11-040,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-11-041,Ariana Grande,Sweetener,Breathin,198000,true
+2018-11-042,Lil Baby,Drip Harder,Close Friends,203000,true
+2018-11-043,XXXTENTACION,?,Sad!,166000,true
+2018-11-044,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-11-045,Cardi B Featuring Kehlani,Invasion of Privacy,Ring,177000,true
+2018-11-046,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-11-047,"Zedd, Maren Morris & Grey",The Middle,The Middle,184000,false
+2018-11-048,6ix9ine Featuring Bobby Shmurda,DUMMY BOY (Revised),STOOPID,152000,true
+2018-11-049,Lil Baby & Gunna Featuring Drake,Drip Harder,Never Recover,194000,true
+2018-11-050,Ariana Grande,Sweetener,No Tears Left To Cry,205000,false
+2018-11-051,NF,Perception,Lie,209000,false
+2018-11-052,Dan + Shay,Speechless,Speechless,212000,false
+2018-11-053,Flipp Dinero,LOVE FOR GUALA,Leave Me Alone,196000,true
+2018-11-054,Cardi B,Money,Money,183000,true
+2018-11-055,Lil Wayne Featuring Kendrick Lamar,Tha Carter V,Mona Lisa,324000,true
+2018-11-056,Kane Brown,Experiment Extended,Lose It,178000,false
+2018-11-057,Lady Gaga,A Star Is Born Soundtrack,Always Remember Us This Way,210000,false
+2018-11-058,Lil' Duval Featuring Snoop Dogg & Ball Greezy,Smile (Living My Best Life) [feat. Snoop Dogg & Ball Greezy & Midnight Star],Smile (Living My Best Life),214000,true
+2018-11-059,Quavo,W O R K I N M E,W O R K I N  M E,169000,true
+2018-11-060,Tiesto & Dzeko Featuring Preme & Post Malone,Jackie Chan,Jackie Chan,216000,true
+2018-11-061,Jimmie Allen,Best Shot (Acoustic Version),Best Shot,193000,false
+2018-11-062,Shawn Mendes X Zedd,Shawn Mendes,Lost In Japan,201000,false
+2018-11-063,Mitchell Tenpenny,Telling All My Secrets,Drunk Me,213000,false
+2018-11-064,Bryce Vine,Drew Barrymore,Drew Barrymore,191000,true
+2018-11-065,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2018-11-066,Lil Peep & XXXTENTACION,"Come Over When You're Sober, Pt. 2",Falling Down,196000,true
+2018-11-067,Lady Gaga,A Star Is Born Soundtrack,I'll Never Love Again,281000,false
+2018-11-068,French Montana Featuring Drake,No Stylist,No Stylist,192000,true
+2018-11-069,Meek Mill Featuring Jeremih & PnB Rock,Legends of the Summer,Dangerous,234000,true
+2018-11-070,Russell Dickerson,Yours,Blue Tacoma,212000,false
+2018-11-071,Chris Young,Losing Sleep,Hangin' On,187000,false
+2018-11-072,Future & Juice WRLD Featuring Young Scooter,Future & Juice WRLD Present... WRLD ON DRUGS,Jet Lag,271000,true
+2018-11-073,"DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo","No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",No Brainer,260000,true
+2018-11-074,Eminem,Kamikaze,Venom,270000,true
+2018-11-075,Lauren Daigle,Look Up Child,You Say,274000,false
+2018-11-076,Cole Swindell,All of It,Break Up In The End,199000,false
+2018-11-077,Calvin Harris & Sam Smith,Promises,Promises,213000,false
+2018-11-078,Eminem Featuring Joyner Lucas,Kamikaze,Lucky You,245000,true
+2018-11-079,Eminem,Killshot,Killshot,254000,true
+2018-11-080,Lil Mosey,Northsbest (Extended),Noticed,165000,true
+2018-11-081,Maren Morris,HERO (Deluxe Edition),Rich,208000,false
+2018-11-082,Future & Juice WRLD,Future & Juice WRLD Present... WRLD ON DRUGS,Astronauts,170000,true
+2018-11-083,Khalid & Kane Brown,Suncity,Saturday Nights,210000,false
+2018-11-084,Old Dominion,Happy Endings,Hotel Key,166000,false
+2018-11-085,Daniel Caesar Featuring H.E.R.,H.E.R.,Best Part,210000,false
+2018-11-086,Yella Beezy,That's On Me,That's On Me,219000,true
+2018-11-087,Chris Janson,EVERYBODY,Drunk Girl,207000,false
+2018-11-088,Khalid Featuring Empress Of,Suncity,Suncity,189000,false
+2018-11-089,Khalid,Suncity,Vertigo,270000,false
+2018-11-090,Lil Uzi Vert,New Patek,New Patek,343000,true
+2018-11-091,Lil Yachty Featuring Juice WRLD,Nuthin' 2 Prove,Yacht Club,166000,true
+2018-11-092,Juice WRLD,Future & Juice WRLD Present... WRLD ON DRUGS,Make It Back,103000,true
+2018-11-093,Dua Lipa & BLACKPINK,Dua Lipa (Complete Edition),Kiss And Make Up,189000,false
+2018-11-094,Eric Church,Desperate Man,Desperate Man,209000,false
+2018-11-095,Pardison Fontaine Featuring Cardi B,Backin' It Up (feat. Cardi B),Backin' It Up,190000,true
+2018-11-096,Weezer,Africa,Africa,238000,false
+2018-11-097,Silk City x Dua Lipa,,Electricity,238000,false
+2018-11-098,Lil Yachty Featuring Playboi Carti,Nuthin' 2 Prove,Get Dripped,159000,true
+2018-11-099,Jason Aldean Featuring Miranda Lambert,30 Number One Hits,Drowns The Whiskey,202000,false
+2018-11-100,Dierks Bentley Featuring Brothers Osborne,The Mountain,Burning Man,239000,false
+2018-12-001,Ariana Grande,"thank u, next","Thank U, Next",206000,true
+2018-12-002,Travis Scott,ASTROWORLD,Sicko Mode,313000,true
+2018-12-003,Marshmello & Bastille,Happier,Happier,214000,false
+2018-12-004,Halsey,Manic,Without Me,201000,true
+2018-12-005,Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,239000,true
+2018-12-006,Panic! At The Disco,Pray for the Wicked,High Hopes,190000,false
+2018-12-007,Sheck Wes,MUDBOY,Mo Bamba,181000,true
+2018-12-008,Maroon 5 Featuring Cardi B,Girls Like You,Girls Like You,236000,true
+2018-12-009,Lil Baby & Gunna,Drip Harder,Drip Too Hard,146000,true
+2018-12-010,Kodak Black Featuring Travis Scott & Offset,ZEZE (feat. Travis Scott & Offset),ZEZE,228000,true
+2018-12-011,Post Malone,beerbongs & bentleys,Better Now,230000,true
+2018-12-012,5 Seconds Of Summer,Youngblood,Youngblood,203000,false
+2018-12-013,Ariana Grande,Sweetener,Breathin,198000,true
+2018-12-014,Gucci Mane X Bruno Mars X Kodak Black,Wake Up in the Sky,Wake Up In The Sky,204000,true
+2018-12-015,Ella Mai,Ella Mai,Trip,217000,false
+2018-12-016,Post Malone & Swae Lee,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower (Spider-Man: Into The Spider-Verse),158000,false
+2018-12-017,"benny blanco, Halsey & Khalid",Eastside,Eastside,173000,false
+2018-12-018,Bad Bunny Featuring Drake,X 100PRE,MIA,210000,false
+2018-12-019,Khalid & Normani,Love Lies,Love Lies,201000,true
+2018-12-020,Imagine Dragons,Origins (Deluxe),Natural,189000,false
+2018-12-021,Cardi B,Money,Money,183000,true
+2018-12-022,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",Carte Blanche,Taki Taki,213000,true
+2018-12-023,Lady Gaga & Bradley Cooper,A Star Is Born Soundtrack,Shallow,216000,false
+2018-12-024,"Cardi B, Bad Bunny & J Balvin",Invasion of Privacy,I Like It,253000,true
+2018-12-025,Drake,Scorpion,In My Feelings,218000,true
+2018-12-026,Ariana Grande,Sweetener,God Is A Woman,197000,true
+2018-12-027,Tyga Featuring Offset,Taste (feat. Offset),Taste,232000,true
+2018-12-028,Flipp Dinero,LOVE FOR GUALA,Leave Me Alone,196000,true
+2018-12-029,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
+2018-12-030,Bazzi Featuring Camila Cabello,Beautiful,Beautiful,178000,false
+2018-12-031,Lil Baby & Drake,Harder Than Ever,Yes Indeed,142000,true
+2018-12-032,Drake,Scorpion,Nonstop,239000,true
+2018-12-033,Dan + Shay,Speechless,Speechless,212000,false
+2018-12-034,Luke Combs,This One's for You Too (Deluxe Edition),She Got The Best Of Me ,185000,false
+2018-12-035,lovelytheband,finding it hard to smile,Broken,204000,false
+2018-12-036,Dan + Shay,Tequila (Robin Schulz Remix),Tequila,170000,false
+2018-12-037,Lil Wayne,Tha Carter V,Uproar,194000,true
+2018-12-038,6ix9ine Featuring Nicki Minaj & Murda Beatz,DUMMY BOY (Revised),FEFE,179000,true
+2018-12-039,XXXTENTACION,BAD!,BAD!,94000,false
+2018-12-040,Kane Brown,Experiment Extended,Lose It,178000,false
+2018-12-041,Cardi B Featuring Kehlani,Invasion of Privacy,Ring,177000,true
+2018-12-042,Ella Mai,Ella Mai,Boo'd Up,239000,false
+2018-12-043,Khalid,Better,Better,229000,true
+2018-12-044,Lauv,I Like Me Better,I Like Me Better,197000,false
+2018-12-045,Post Malone Featuring Ty Dolla $ign,beerbongs & bentleys,Psycho,221000,true
+2018-12-046,XXXTENTACION,?,Sad!,166000,true
+2018-12-047,Jimmie Allen,Best Shot (Acoustic Version),Best Shot,193000,false
+2018-12-048,NF,Perception,Lie,209000,false
+2018-12-049,XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee,Arms Around You (feat. Maluma & Swae Lee),Arms Around You,198000,true
+2018-12-050,Queen,A Night At The Opera (2011 Remaster),Bohemian Rhapsody,354000,false
+2018-12-051,Meek Mill Featuring Jeremih & PnB Rock,Legends of the Summer,Dangerous,234000,true
+2018-12-052,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",When The Party's Over,199000,false
+2018-12-053,Juice WRLD,Armed And Dangerous,Armed And Dangerous,170000,true
+2018-12-054,Shawn Mendes X Zedd,Shawn Mendes,Lost In Japan,201000,false
+2018-12-055,Mitchell Tenpenny,Telling All My Secrets,Drunk Me,213000,false
+2018-12-056,Yella Beezy,That's On Me,That's On Me,219000,true
+2018-12-057,Lil Baby,Drip Harder,Close Friends,203000,true
+2018-12-058,Lauren Daigle,Look Up Child,You Say,274000,false
+2018-12-059,Bebe Rexha,Expectations,I'm A Mess,195000,false
+2018-12-060,Lil' Duval Featuring Snoop Dogg & Ball Greezy,Smile (Living My Best Life) [feat. Snoop Dogg & Ball Greezy & Midnight Star],Smile (Living My Best Life),214000,true
+2018-12-061,Trippie Redd,A Love Letter To You 3,Topanga,215000,true
+2018-12-062,Maren Morris,HERO (Deluxe Edition),Rich,208000,false
+2018-12-063,Metro Boomin Featuring 21 Savage,NOT ALL HEROES WEAR CAPES,10 Freaky Girls,209000,true
+2018-12-064,Future & Juice WRLD,Future & Juice WRLD Present... WRLD ON DRUGS,Fine China,142000,true
+2018-12-065,Pardison Fontaine Featuring Cardi B,Backin' It Up (feat. Cardi B),Backin' It Up,190000,true
+2018-12-066,French Montana Featuring Drake,No Stylist,No Stylist,192000,true
+2018-12-067,Chris Young,Losing Sleep,Hangin' On,187000,false
+2018-12-068,Trippie Redd Featuring Juice WRLD,A Love Letter To You 3,1400 / 999 Freestyle,175000,true
+2018-12-069,Dierks Bentley Featuring Brothers Osborne,The Mountain,Burning Man,239000,false
+2018-12-070,Lil Baby & Gunna Featuring Drake,Drip Harder,Never Recover,194000,true
+2018-12-071,Tyga & Nicki Minaj,Dip,Dip,195000,false
+2018-12-072,Tory Lanez & Rich The Kid,LoVE me NOw (ReLoAdeD),Talk To Me,184000,true
+2018-12-073,The Chainsmokers Featuring Kelsea Ballerini,Sick Boy,This Feeling,197000,false
+2018-12-074,Metro Boomin Featuring Gunna,NOT ALL HEROES WEAR CAPES,Space Cadet,205000,true
+2018-12-075,Kanye West & Lil Pump,I Love It,I Love It,127000,true
+2018-12-076,Dean Lewis,Be Alright,Be Alright,196000,true
+2018-12-077,Russell Dickerson,Yours,Blue Tacoma,212000,false
+2018-12-078,Metro Boomin Featuring 21 Savage,NOT ALL HEROES WEAR CAPES,Don't Come Out The House,168000,true
+2018-12-079,Anuel AA & Romeo Santos,Ella Quiere Beber (Remix),Ella Quiere Beber,219000,false
+2018-12-080,Billie Eilish & Khalid,lovely,Lovely,199000,false
+2018-12-081,Kodak Black,Porch 2 The Pent,Take One,222000,true
+2018-12-082,Camila Cabello,Camila,Consequences,178000,false
+2018-12-083,Daniel Caesar Featuring H.E.R.,H.E.R.,Best Part,210000,false
+2018-12-084,Lil Peep & XXXTENTACION,"Come Over When You're Sober, Pt. 2",Falling Down,196000,true
+2018-12-085,6ix9ine Featuring Bobby Shmurda,DUMMY BOY (Revised),STOOPID,152000,true
+2018-12-086,Quavo,W O R K I N M E,W O R K I N  M E,169000,true
+2018-12-087,Thomas Rhett,Life Changes,Sixteen,178000,false
+2018-12-088,Dustin Lynch,Tullahoma,Good Girl,189000,false
+2018-12-089,Eminem Featuring Joyner Lucas,Kamikaze,Lucky You,245000,true
+2018-12-090,Kip Moore,SLOWHEART,Last Shot,228000,false
+2018-12-091,Lil Wayne Featuring Kendrick Lamar,Tha Carter V,Mona Lisa,324000,true
+2018-12-092,City Girls Featuring Cardi B,Girl Code,Twerk,165000,true
+2018-12-093,Lil Mosey,Northsbest (Extended),Noticed,165000,true
+2018-12-094,Silk City x Dua Lipa,,Electricity,238000,false
+2018-12-095,Eric Church,Desperate Man,Desperate Man,209000,false
+2018-12-096,Chris Stapleton,From A Room: Volume 2,Millionaire,211000,false
+2018-12-097,Billie Eilish,Ocean Eyes,Ocean Eyes,200000,false
+2018-12-098,Ellie Goulding X Diplo Featuring Swae Lee,Close To Me,Close To Me,182000,true
+2018-12-099,Jason Aldean,30 Number One Hits,Girl Like You,192000,false
+2018-12-100,AJR,Burn the House Down,Burn The House Down,212000,true
