@@ -1,4 +1,4 @@
-track_id,artists,album_name,track_name,duration_ms,explicit
+billboard_id,artists,album_name,track_name,duration_ms,explicit
 2025-01-001,Mariah Carey,Merry Christmas,All I Want For Christmas Is You,239000,false
 2025-01-002,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
 2025-01-003,Wham!,LAST CHRISTMAS,Last Christmas,264000,false
