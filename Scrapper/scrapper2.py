@@ -128,7 +128,8 @@ from tqdm import tqdm
 def query_and_store_song_info(
     input_csv="track_ids.csv",
     output_csv="song_info.csv",
-    max_retries=5
+    max_retries=5,
+    retry_delay=60  # 30 minutes for pending premium
 ):
     """
     Given a CSV with 'track_id,billboard_id', query Spotify for song info + audio features
@@ -175,7 +176,7 @@ def query_and_store_song_info(
             track_id, billboard_id = row[0], row[1]
 
             if billboard_id in existing_billboard_ids:
-                continue
+                continue  # already processed
 
             attempt = 0
             backoff = 1
@@ -218,19 +219,27 @@ def query_and_store_song_info(
 
                     existing_billboard_ids.add(billboard_id)
                     print(f"Stored info for {billboard_id} ({track['name']})")
-                    break  # Success → exit retry loop
+                    break  # success → exit retry loop
 
                 except SpotifyException as e:
                     if e.http_status == 429:
+                        # Rate-limited → exponential backoff
                         retry_after = int(e.headers.get("Retry-After", backoff))
                         wait_time = max(retry_after, backoff)
                         print(f"Rate limited. Waiting {wait_time}s...")
                         time.sleep(wait_time)
                         backoff *= 2
                         attempt += 1
+
+                    elif e.http_status == 403 and "Active premium subscription" in str(e):
+                        # Pending premium → wait and retry later
+                        print(f"Track {billboard_id} requires active premium. Waiting {retry_delay}s before retry...")
+                        time.sleep(retry_delay)
+
                     else:
                         print(f"Spotify API error for {billboard_id}: {e}")
-                        break
+                        break  # skip track
+
                 except Exception as e:
                     print(f"Unexpected error for {billboard_id}: {e}")
                     break
