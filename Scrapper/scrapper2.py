@@ -17,10 +17,10 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from creds import CLIENT_SECRET, CLIENT_ID
 import time
-INPUT_FILE = "./source_files/billboard_configured.csv"
 from spotipy.exceptions import SpotifyException
+from tqdm import tqdm
 
-
+INPUT_FILE = "./source_files/billboard_configured.csv"
 def query_and_store_track_id(
     song_name: str,
     artist: str,
@@ -122,14 +122,13 @@ def append_not_found(billboard_id: str, artist: str, song_name: str, filename="n
 
     except Exception as e:
         print(f"Error writing not-found entry: {e}")
-from tqdm import tqdm
 
 
 def query_and_store_song_info(
     input_csv="track_ids.csv",
     output_csv="song_info.csv",
     max_retries=5,
-    retry_delay=60  # 30 minutes for pending premium
+    retry_delay=1  # 30 minutes for pending premium
 ):
     """
     Given a CSV with 'track_id,billboard_id', query Spotify for song info + audio features
@@ -185,8 +184,11 @@ def query_and_store_song_info(
                 try:
                     # Query track metadata
                     track = sp.track(track_id)
+                    # print(track)
+                    
                     features = sp.audio_features(track_id)[0]
-
+                    print(features)
+                    break
                     song_info = [
                         billboard_id,
                         track_id,
@@ -231,8 +233,10 @@ def query_and_store_song_info(
                         backoff *= 2
                         attempt += 1
 
-                    elif e.http_status == 403 and "Active premium subscription" in str(e):
+                    # elif e.http_status == 403 and "Active premium subscription" in str(e):
+                    elif e.http_status == 403:
                         # Pending premium → wait and retry later
+                        print(e)
                         print(f"Track {billboard_id} requires active premium. Waiting {retry_delay}s before retry...")
                         time.sleep(retry_delay)
 
@@ -246,7 +250,136 @@ def query_and_store_song_info(
 
             else:
                 print(f"Max retries exceeded for {billboard_id}")
+def batch_query_and_store_song_info(
+    input_csv="track_ids.csv",
+    output_csv="song_info.csv",
+    batch_size=50,
+    max_retries=5,
+    retry_delay=1800  # 30 minutes for pending premium
+):
+    """
+    Reads a CSV with track_id,billboard_id and queries Spotify in batches for song info + audio features.
+    Appends results to output CSV.
+    Handles duplicates, 429 rate limits (exponential backoff), and 403 pending premium errors.
+    """
 
+    # Initialize Spotify client
+    sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
+        client_id=CLIENT_ID,
+        client_secret=CLIENT_SECRET
+    ))
+
+    # Track existing billboard_ids
+    existing_billboard_ids = set()
+    if os.path.isfile(output_csv):
+        with open(output_csv, "r", newline="", encoding="utf-8") as f:
+            reader = csv.reader(f)
+            existing_billboard_ids = {row[0] for row in reader if row}
+
+    # Ensure header exists
+    if not os.path.isfile(output_csv):
+        with open(output_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow([
+                "billboard_id", "track_id", "name", "artists", "album",
+                "release_date", "duration_ms", "popularity", "explicit",
+                "spotify_url", "danceability", "energy", "key", "loudness",
+                "mode", "speechiness", "acousticness", "instrumentalness",
+                "liveness", "valence", "tempo", "time_signature"
+            ])
+
+    # Read input CSV and filter unprocessed tracks
+    track_rows = []
+    with open(input_csv, "r", newline="", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if len(row) < 2:
+                continue
+            track_id, billboard_id = row[0], row[1]
+            if billboard_id not in existing_billboard_ids:
+                track_rows.append((track_id, billboard_id))
+
+    # Process in batches
+    for i in range(0, len(track_rows), batch_size):
+        batch = track_rows[i:i+batch_size]
+        track_ids = [t[0] for t in batch]
+        billboard_ids = [t[1] for t in batch]
+
+        attempt = 0
+        backoff = 1
+
+        while attempt < max_retries:
+            try:
+                # Query track metadata individually (still per track)
+                tracks_info = []
+                features_info = sp.audio_features(track_ids)
+
+                for idx, track_id in enumerate(track_ids):
+                    try:
+                        track = sp.track(track_id)
+                        features = features_info[idx]
+                        if not features:
+                            print(f"No features for track {track_id}")
+                            continue
+
+                        song_info = [
+                            billboard_ids[idx],
+                            track_id,
+                            track["name"],
+                            "; ".join([a["name"] for a in track["artists"]]),
+                            track["album"]["name"],
+                            track["album"]["release_date"],
+                            track["duration_ms"],
+                            track["popularity"],
+                            track["explicit"],
+                            track["external_urls"]["spotify"],
+                            features["danceability"],
+                            features["energy"],
+                            features["key"],
+                            features["loudness"],
+                            features["mode"],
+                            features["speechiness"],
+                            features["acousticness"],
+                            features["instrumentalness"],
+                            features["liveness"],
+                            features["valence"],
+                            features["tempo"],
+                            features["time_signature"]
+                        ]
+                        tracks_info.append(song_info)
+                        existing_billboard_ids.add(billboard_ids[idx])
+                        print(f"Processed {billboard_ids[idx]} ({track['name']})")
+                    except SpotifyException as e:
+                        if e.http_status == 403 and "Active premium subscription" in str(e):
+                            print(f"Track {billboard_ids[idx]} pending premium. Skipping for now.")
+                        else:
+                            print(f"Error for track {track_id}: {e}")
+                    except Exception as e:
+                        print(f"Unexpected error for track {track_id}: {e}")
+
+                # Write batch to CSV
+                if tracks_info:
+                    with open(output_csv, "a", newline="", encoding="utf-8") as f_out:
+                        writer = csv.writer(f_out)
+                        writer.writerows(tracks_info)
+                break  # batch processed successfully
+
+            except SpotifyException as e:
+                if e.http_status == 429:
+                    retry_after = int(e.headers.get("Retry-After", backoff))
+                    wait_time = max(retry_after, backoff)
+                    print(f"Rate limited. Waiting {wait_time}s...")
+                    time.sleep(wait_time)
+                    backoff *= 2
+                    attempt += 1
+                else:
+                    print(f"Spotify API error during batch: {e}")
+                    break
+            except Exception as e:
+                print(f"Unexpected error during batch: {e}")
+                break
+        else:
+            print(f"Max retries exceeded for batch starting with {billboard_ids[0]}")
 # with open(INPUT_FILE, newline="", encoding="utf-8") as f:
 #     rows = list(csv.DictReader(f))
 #     print(rows[0])
@@ -261,3 +394,4 @@ def query_and_store_song_info(
 
 
 query_and_store_song_info()
+# batch_query_and_store_song_info()
