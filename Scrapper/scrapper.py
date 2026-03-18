@@ -2,7 +2,7 @@ import csv
 import os
 from pathlib import Path
 from rapidfuzz import fuzz
-
+import unicodedata
 DATASET_PATH = "source_files/dataset.csv"
 global ctr_weird
 ctr_weird = 0
@@ -27,24 +27,40 @@ fieldnames = [
     "Tempo",
     "Time Signature"
 ]
-def load_dataset(dataset_path=DATASET_PATH):
+def remove_accents(text):
+    return ''.join(
+        c for c in unicodedata.normalize('NFKD', text)
+        if not unicodedata.combining(c)
+    )
+def keep_letters_spaces(s):
+    return "".join(c for c in s if c.isalpha() or c == " ")
+def load_dataset(unmatched_file, dataset_path=DATASET_PATH ):
     """Load dataset.csv into a list of dicts for fuzzy matching."""
     records = []
     with open(dataset_path, newline="", encoding="utf-8") as f:
         
         for row in csv.DictReader(f):
             if row["track_id"].startswith("spotify:local"):
-                global ctr_weird
-                ctr_weird += 1
-                continue
+                row["track_id"] = (14 + len("5dae01pKNjRQtgOeAkFzPY")) * "0"
+                # global ctr_weird
+                # ctr_weird += 1
+                # with open(unmatched_file, "a", newline="", encoding="utf-8") as f:
+                #     #track_id,Track Name,Artist Name(s),Release Date,Duration (ms),Explicit,Genres,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+
+                #     csv.DictWriter(f, fieldnames=["billboard_id", "artists", "track_name"]).writerow(
+
+                #         {"billboard_id": "0000-00-00", "artists": row["Artist Name(s)"], "track_name": row["Track Name"]}
+                #     )
+                # continue
+
             # print(row.keys())
             assert(len(row["track_id"][14:]) == len("5dae01pKNjRQtgOeAkFzPY")), (len(row["track_id"][14:]),len("5dae01pKNjRQtgOeAkFzPY"), row["track_id"])
             # assert(not row["track_id"].startswith(":"))
             
             records.append({
                 "track_id": row["track_id"][14:],
-                "Track Name": row["Track Name"].lower().strip(),
-                "Artist Name(s)": row["Artist Name(s)"].lower().strip(),
+                "Track Name": remove_accents(row["Track Name"].lower().strip()),
+                "Artist Name(s)": remove_accents(row["Artist Name(s)"].lower().strip()),
                 "Release Date": row["Release Date"],
                 "Duration (ms)": row["Duration (ms)"],
                 "Explicit": row["Explicit"],
@@ -64,27 +80,7 @@ def load_dataset(dataset_path=DATASET_PATH):
     return records
 
 
-# def find_best_match(artist, track_name, dataset, threshold=85):
-#     """
-#     Fuzzy-match an artist+track against the dataset.
-#     Returns track_id if a match above the threshold is found, else None.
-#     Scoring is a weighted average: 60% track name, 40% artist name.
-#     """
-#     artist     = artist.lower().strip()
-#     track_name = track_name.lower().strip()
 
-#     best_score, best_id = 0, None
-
-#     for record in dataset:
-#         track_score  = fuzz.token_sort_ratio(track_name, record["track_name"])
-#         artist_score = fuzz.token_sort_ratio(artist,     record["artists"])
-#         combined     = 0.6 * track_score + 0.4 * artist_score
-
-#         if combined > best_score:
-#             best_score = combined
-#             best_id    = record["track_id"]
-
-#     return best_id if best_score >= threshold else None
 def match_artists(artists_a, artists_b):
     """
     Score two artist lists against each other.
@@ -98,18 +94,21 @@ def match_artists(artists_a, artists_b):
     ]
     return sum(scores) / len(scores)
 def find_best_match(artist, track_name, dataset, threshold=85):
-    track_name = track_name.lower().strip()
+    tn = track_name.lower().strip()
 
     best_score, best_id = 0, None
 
     for record in dataset:
-        if record["Track Name"] != track_name:
+        if track_name in record["Track Name"]:
             continue
-
+        # if track_name == "Like I'm Gonna Lose You".lower().strip():
+        #     print("Like I'm Gonna Lose You")
+        #     print(record)
         tst = artist.split(" ")[0].lower()
         # print(tst)
         # print(record['artists'])
-        if tst in record["Artist Name(s)"]:
+        
+        if tst in record["Artist Name(s)"].lower():
             return record
     return best_id if best_score >= threshold else None
 
@@ -141,8 +140,11 @@ def fetch_track_ids(
         dataset_path:   Path to dataset.csv    (columns: track_id, artists, track_name)
         threshold:      Minimum fuzzy score (0-100) to count as a match (default: 85)
     """
-    dataset = load_dataset(dataset_path)
-    print(f"Loaded {len(dataset)} tracks from dataset.")
+    with open(unmatched_file, "w", newline="", encoding="utf-8") as f:
+        csv.DictWriter(f, fieldnames=["billboard_id", "artists", "track_name"]).writeheader()
+
+    dataset = load_dataset(unmatched_file, dataset_path )
+    # print(f"Loaded {len(dataset)} tracks from dataset.")
 
     # Write headers if files don't exist yet
     if not os.path.exists(output_file):
@@ -150,18 +152,16 @@ def fetch_track_ids(
             csv.DictWriter(f, fieldnames=fieldnames).writeheader()
 
 
-    with open(unmatched_file, "w", newline="", encoding="utf-8") as f:
-        csv.DictWriter(f, fieldnames=["billboard_id", "artists", "track_name"]).writeheader()
 
     # Resume support — skip already-processed IDs
     processed_ids = load_existing_ids(output_file)
-    print(f"Resuming — {len(processed_ids)} tracks already processed.")
+    # print(f"Resuming — {len(processed_ids)} tracks already processed.")
 
     with open(input_file, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
     pending = [r for r in rows if r["track_id"] not in processed_ids]
-    print(f"{len(pending)} tracks remaining.\n")
+    # print(f"{len(pending)} tracks remaining.\n")
 
     matched_count, unmatched_count = 0, 0
 
@@ -169,13 +169,12 @@ def fetch_track_ids(
         billboard_id = row["track_id"]
         artist       = row["artists"]
         track_name   = row["track_name"]
-        print(billboard_id)
         track = find_best_match(artist, track_name, dataset, threshold)
 
 
         if track:
             # print(track.keys())
-            track_id = track['track_id']
+
 
 
             with open(output_file, "a", newline="", encoding="utf-8") as f:
@@ -183,8 +182,8 @@ def fetch_track_ids(
                 to_add = {
                     "billboard_id": billboard_id,
                     "track_id": track["track_id"],
-                    "Track Name": track["Track Name"],
-                    "Artist Name(s)": track["Artist Name(s)"],
+                    "Track Name": track_name,
+                    "Artist Name(s)": artist,
                     "Release Date": track["Release Date"],
                     "Duration (ms)": track["Duration (ms)"],
                     "Explicit": track["Explicit"],
@@ -201,10 +200,10 @@ def fetch_track_ids(
                     "Tempo": track["Tempo"],
                     "Time Signature": track["Time Signature"]
                 }
-                print(to_add)
+                # print(to_add)
                 writer.writerow(to_add)
             matched_count += 1
-            print(f"[{i+1}/{len(pending)}] ✓ {billboard_id} → {track_id}")
+            print(f"[{i+1}/{len(pending)}] ✓ {billboard_id} → {track["track_id"]}")
         else:
             with open(unmatched_file, "a", newline="", encoding="utf-8") as f:
                 #track_id,Track Name,Artist Name(s),Release Date,Duration (ms),Explicit,Genres,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
@@ -214,9 +213,9 @@ def fetch_track_ids(
                     {"billboard_id": billboard_id, "artists": artist, "track_name": track_name}
                 )
             unmatched_count += 1
-            print(f"[{i+1}/{len(pending)}] ✗ {billboard_id} → no match  ({artist} – {track_name})")
+            # print(f"[{i+1}/{len(pending)}] ✗ {billboard_id} → no match  ({artist} – {track_name})")
 
-    print(f"\nDone. Matched: {matched_count} | Unmatched: {unmatched_count}")
+    print(f"Done. Matched: {matched_count} | Unmatched: {unmatched_count}")
 
 print(ctr_weird)
 def remove_duplicate_tracks(input_csv, output_csv):
@@ -235,17 +234,41 @@ def remove_duplicate_tracks(input_csv, output_csv):
             if track_id not in seen_tracks:
                 seen_tracks.add(track_id)
                 writer.writerow(row)
+def remove_duplicate_tracks2(input_csv, output_csv, fieldnames=fieldnames):
+    seen_tracks = set()
+
+    with open(input_csv, newline="", encoding="utf-8-sig") as infile, \
+         open(output_csv, "w", newline="", encoding="utf-8") as outfile:
+
+        reader = csv.DictReader(infile)
+        writer = csv.DictWriter(outfile, fieldnames=["billboard_id", "artists", "track_name"])
+        writer.writeheader()
+
+        for row in reader:
+            track_name  = row["track_name"]
+            artists     = row["artists"]
+            t           = (track_name, artists)
+
+            if t not in seen_tracks:
+                seen_tracks.add(t)
+                writer.writerow(row)
 for i in [2016, 2017, 2018,2019,2020,2021,2022, 2023,2024,2025]:
+# for i in [2016]:
     # for i in [2016]:
     print(f"year: {i}")
     fetch_track_ids(
-        input_file      = f'source_files/billboard_hot100_{i}_monthly_enriched.csv',
-        output_file     = f"results/track_ids2/track_ids_{i}.csv",
-        unmatched_file  = f"results/unmatch_{i}.csv",
+        input_file      = f'source_files/billboard_data/enriched/billboard_hot100_{i}_monthly_enriched.csv',
+        output_file     = f"results/track_ids/track_ids_{i}.csv",
+        unmatched_file  = f"results/unmatched/unmatch_{i}.csv",
         dataset_path    = "source_files/Billboard_Top_100_songs_of_each_year_1950-2025.csv"
     )
 for i in [2016, 2017, 2018,2019,2020,2021,2022, 2023,2024,2025]:
     remove_duplicate_tracks(
-        input_csv       = f"results/track_ids2/track_ids_{i}.csv",
-        output_csv     = f"results/track_nodupe/track_ids_nd_{i}.csv",
+        input_csv       = f"results/track_ids/track_ids_{i}.csv",
+        output_csv      = f"results/track_nodupe/track_ids_nd_{i}.csv",
+    )
+    remove_duplicate_tracks2(
+        input_csv       = f"results/unmatched/unmatch_{i}.csv",
+        output_csv      = f"results/unmatched/unmatch_{i}_nd.csv",
+
     )

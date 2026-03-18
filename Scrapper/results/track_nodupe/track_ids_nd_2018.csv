@@ -1,96 +1,171 @@
 billboard_id,track_id,Track Name,Artist Name(s),Release Date,Duration (ms),Explicit,Genres,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
-2018-01-001,0tgVpDi06FyKpA1z0VMD4v,perfect,ed sheeran,2017-03-03,263400,false,soft pop,0.599,0.448,-6.312,1,0.0232,0.163,0,0.106,0.168,95.05,3
-2018-01-002,1OmcAT5Y8eg5bUPv9qJT4R,rockstar,post malone;21 savage,2017-09-15,218320,true,,0.58,0.531,-6.631,0,0.0776,0.128,0.000127,0.143,0.141,159.786,4
-2018-01-004,2DQ1ITjI0YoLFzuADN1ZBW,no limit,g-eazy;a$ap rocky;cardi b,2017-12-15,245386,true,rap,0.838,0.771,-3.791,1,0.244,0.0117,0,0.0853,0.405,175.957,4
-2018-01-005,5VnDkUNyX6u5Sk0yZiP8XB,thunder,imagine dragons,2017-06-23,187146,false,,0.604,0.826,-4.804,1,0.0434,0.00782,0.15,0.154,0.241,167.985,4
-2018-01-006,43ZyHQITOjhciSUUNPVRHc,gucci gang,lil pump,2017-10-06,124055,true,,0.936,0.523,-6.71,1,0.0597,0.239,0,0.117,0.699,119.889,4
-2018-01-008,3VlbOrM6nYPprVvzBZllE5,too good at goodbyes,sam smith,2017-11-03,201000,false,soft pop,0.715,0.372,-8.237,1,0.0443,0.638,0,0.169,0.474,91.931,4
-2018-01-009,7y9iMe8SOB6z3NoHE2OfXl,bad at love,halsey,2017-06-02,181279,false,,0.675,0.751,-3.539,1,0.0296,0.0604,0,0.0893,0.612,118.384,4
-2018-01-012,6tF92PMv01Ug9Dh8Rmy6nH,new rules,dua lipa,2017-06-02,209320,false,pop,0.762,0.7,-6.021,0,0.0694,0.00261,0.0000156,0.153,0.608,116.073,4
-2018-01-013,0bYg9bo50gSsH3LtXe2SQn,all i want for christmas is you,mariah carey,1994-10-28,241562,false,christmas,0.336,0.627,-7.463,1,0.0384,0.164,0,0.0708,0.35,150.273,4
-2018-01-015,4HbiCvH1R7mVOJ7KY7JQBD,gummo,6ix9ine,2018-04-10,157643,true,,0.66,0.775,-4.926,1,0.172,0.0553,0,0.129,0.635,157.036,4
-2018-01-016,75ZvA4QfFiZvzhj2xkaWAh,i fall apart,post malone,2016-12-09,223346,true,,0.556,0.538,-5.408,0,0.0382,0.0689,0,0.196,0.291,143.946,4
+2018-01-001,1FKI2zdazbVqTWpE5bWmzo,wish you were here - remastered,eddie fisher,2001-08-06,175306,false,adult standards,0.432,0.165,-12.289,1,0.0336,0.881,0.000111,0.229,0.171,104.346,4
+2018-01-002,6eT7xZZlB2mwyzJ2sUKG6w,white iverson,post malone,2016-12-09,256532,true,,0.675,0.561,-7.678,1,0.0352,0.233,0,0.0793,0.309,130.098,4
+2018-01-003,0ofbQMrRDsUaVKq2mGLEAb,havana (feat. young thug),camila cabello;young thug,2017-08-03,216896,false,"rap,melodic rap,trap",0.768,0.517,-4.323,0,0.0312,0.186,0.000038,0.104,0.418,104.992,4
+2018-01-004,40YcuQysJ0KlGQTeGUosTC,"me, myself & i",g-eazy;bebe rexha,2015-12-04,251465,true,,0.756,0.674,-6.518,0,0.0959,0.0184,0,0.158,0.389,111.995,4
+2018-01-005,6BtmXhTJMM9sBTHeYYASGz,it's time,imagine dragons,2012-09-04,237986,false,,0.656,0.884,-4.748,1,0.0372,0.016,0,0.145,0.858,105.009,4
+2018-01-006,1vMdYJe6OweG41UjDzEYe8,not tonight,lil' kim,1996,271826,true,east coast hip hop,0.862,0.662,-7.669,0,0.153,0.00562,0,0.0375,0.777,91.052,4
+2018-01-008,7fPOOCejoBt3dIm6UcEdm8,you send me,sam cooke,1993,163560,false,"motown,soul,classic soul",0.538,0.226,-13.817,0,0.0288,0.945,0,0.125,0.553,96.951,4
+2018-01-009,7i2DJ88J7jQ8K7zqFX2fW8,now or never,halsey,2017-06-02,214801,false,,0.67,0.585,-4.861,0,0.0354,0.107,0.00000111,0.131,0.447,110.03,4
+2018-01-010,2771LMNxwf62FTAdpJMQfM,bodak yellow,cardi b,2017-06-16,223962,true,,0.929,0.723,-5.792,0,0.109,0.0672,0,0.346,0.458,125.022,4
+2018-01-011,6REbwUNlppTfcnV4d4ZoZi,swimming pools (drank),kendrick lamar,2012-01-01,247800,true,"hip hop,west coast hip hop",0.693,0.445,-5.892,1,0.257,0.00625,0.000234,0.0899,0.199,74.044,4
+2018-01-012,4nAJtcmiyoL0ARY5WZY9IN,rebel rouser,duane eddy,1965-11-24,153533,false,"surf rock,rockabilly",0.388,0.434,-11.997,1,0.0354,0.789,0.954,0.728,0.873,206.313,4
+2018-01-013,0gLQ6jhJsyYfl7PrD1RZ7X,vision of love,mariah carey,1990-06-12,208552,false,christmas,0.256,0.464,-10.959,1,0.0382,0.433,0,0.121,0.355,205.362,3
+2018-01-015,4QIyEq7TcTdAcxjI2AFlAK,fefe,6ix9ine;nicki minaj;murda beatz,2018-11-27,179404,true,,0.931,0.387,-9.127,1,0.412,0.088,0,0.136,0.376,125.978,4
 2018-01-017,52okn5MNA47tk87PeZJLEL,let you down,nf,2017-10-06,212120,false,christian hip hop,0.661,0.714,-5.68,0,0.121,0.314,0,0.179,0.464,147.998,4
-2018-01-018,5Z3GHaZ6ec9bsiI5BenrbY,young dumb & broke,khalid,2017-04-27,202534,false,,0.799,0.539,-6.351,1,0.0421,0.199,0.0000166,0.165,0.394,136.948,4
-2018-01-019,7qiZfU4dY1lWllzX7mPBI3,shape of you,ed sheeran,2017-03-03,233712,false,soft pop,0.825,0.652,-3.183,0,0.0802,0.581,0,0.0931,0.931,95.977,4
-2018-01-020,3Du2K5dLzmduCNp6uwuaL0,sorry not sorry,demi lovato,2017-09-29,203760,true,,0.702,0.635,-6.917,0,0.265,0.0223,0,0.283,0.873,144.004,4
+2018-01-018,152lZdxL1OR0ZMW6KquMif,location,khalid,2017-04-27,219080,false,,0.736,0.449,-11.462,0,0.425,0.33,0.000162,0.0898,0.326,80.126,4
+2018-01-020,3sP3c86WFjOzHHnbhhZcLA,give your heart a break,demi lovato,2011-01-01,205346,false,,0.651,0.695,-3.218,1,0.0487,0.23,0,0.144,0.569,123.008,4
+2018-01-021,6YgV0EF8xJMZz0Zm6BTaT4,this love,maroon 5,2002-06-25,206200,false,pop,0.712,0.862,-4.612,0,0.0378,0.0519,0,0.093,0.808,95.051,4
+2018-01-022,5tFep7dXGd7vEJ668wTPux,both (feat. drake),gucci mane;drake,2016-12-16,190311,true,"southern hip hop,rap,trap",0.85,0.405,-7.509,0,0.225,0.119,0.000118,0.0707,0.344,139.976,4
 2018-01-023,7FESgYLcOufHqKlwrvJN60,feel it still,portugal. the man,2017-03-02,163250,false,,0.78,0.798,-5.151,0,0.0613,0.0406,0.0000631,0.0733,0.771,78.969,4
-2018-01-025,1NtIMM4N0cFa1dNzN15chl,believer,imagine dragons,2017-06-23,204346,false,,0.772,0.78,-4.288,0,0.108,0.0512,0,0.119,0.719,124.988,4
-2018-01-027,6wmAHw1szh5RCKSRjiXhPe,how long,charlie puth,2018-05-11,200853,false,soft pop,0.845,0.561,-5.253,0,0.0778,0.211,0.00000349,0.0383,0.811,109.974,4
+2018-01-026,4e4fqjx0Izh4svvTef1z7e,meant to be (feat. florida georgia line),bebe rexha;florida georgia line,2018-06-22,164205,false,"country,pop country,acoustic country",0.642,0.772,-6.61,1,0.0848,0.0476,0,0.0646,0.589,153.995,4
+2018-01-027,5aCE7zadGNpIk4noPUU6YI,butterfly,charlie gracie,2005-01-01,142600,false,"rockabilly,doo-wop,boogie-woogie,rock and roll",0.615,0.667,-6.763,1,0.0787,0.809,0.000085,0.476,0.761,129.053,4
 2018-01-028,2fQrGHiQOvpL9UgPvtYy6G,bank account,21 savage,2017-09-23,220306,true,,0.884,0.347,-8.227,0,0.35,0.015,0.000007,0.0871,0.376,75.016,4
-2018-01-029,0tBbt8CrmxbjRP0pueQkyU,wolves,selena gomez;marshmello,2017-10-25,197993,false,edm,0.725,0.804,-4.614,0,0.0422,0.124,0,0.204,0.31,124.996,4
-2018-01-031,4dVpf9jZjcORqGTLUaeYj9,plain jane,a$ap ferg,2017-08-18,173601,true,rap,0.797,0.844,-5.482,1,0.275,0.0651,0,0.087,0.52,170.142,4
-2018-01-034,5tz69p7tJuGPeMGwNTxYuV,1-800-273-8255,logic;alessia cara;khalid,2017-05-05,250173,true,,0.62,0.574,-7.788,0,0.0479,0.569,0,0.19,0.357,100.023,4
-2018-01-036,2EjXfH91m7f8HiJN1yQg97,rockin' around the christmas tree,brenda lee,1964-10-19,126266,false,christmas,0.598,0.47,-8.744,1,0.0496,0.617,0,0.505,0.879,67.086,4
-2018-01-037,0KKkJNfGyhkQ5aFogxQAPU,that's what i like,bruno mars,2016-11-18,206693,false,,0.853,0.56,-4.961,1,0.0406,0.013,0,0.0944,0.86,134.066,4
-2018-01-039,4iLqG9SeJSnt0cSPICSjxv,attention,charlie puth,2017-04-20,211475,false,soft pop,0.774,0.626,-4.432,0,0.0432,0.0969,0.0000312,0.0848,0.777,100.041,4
-2018-01-045,0OWZFobGSIW9GrSlQ9C5pc,marry me,thomas rhett,2017-09-08,205453,false,"country,acoustic country,pop country",0.583,0.412,-8.633,1,0.0238,0.0976,0,0.113,0.499,84.952,4
+2018-01-029,0zt7g7yazz9SiWHprOVIHZ,naturally,selena gomez & the scene,2010-01-01,202560,false,,0.605,0.907,-5.402,0,0.0496,0.0164,0.00000167,0.0533,0.871,132.617,4
+2018-01-030,6rPO02ozF3bM7NnOV4h6s2,despacito - remix,luis fonsi;daddy yankee;justin bieber,2017-04-17,228826,false,"latin,reggaeton",0.653,0.816,-4.353,1,0.167,0.228,0,0.0967,0.816,178.085,4
+2018-01-031,4X5f3vT8MRuXF68pfjNte5,"f**kin' problems (feat. drake, 2 chainz & kendrick lamar)",a$ap rocky;drake;2 chainz;kendrick lamar,2013,233786,true,"rap,southern hip hop,hip hop,west coast hip hop",0.853,0.693,-6.87,1,0.275,0.0239,0,0.11,0.662,95.967,4
+2018-01-032,74uuI8nGoIPIydD7oXF0O8,cry,johnnie ray;the four lads,1958-04-01,137529,false,"vocal jazz,adult standards,doo-wop",0.745,0.194,-9.692,1,0.0779,0.914,0,0.107,0.673,133.776,5
+2018-01-033,0q75NwOoFiARAVp4EXU4Bs,love galore (feat. travis scott),sza;travis scott,2017-06-09,275085,true,"r&b,rap",0.795,0.594,-6.2,1,0.0748,0.112,0,0.162,0.409,135.002,4
+2018-01-036,4LJcNiq2pBb8OeqrGdBJQw,i'm sorry,brenda lee,1960-08-01,161546,false,christmas,0.558,0.223,-12.362,1,0.0299,0.868,0.000972,0.13,0.303,101.711,3
+2018-01-037,7BqBn9nzAq8spo5e7cZ0dJ,just the way you are,bruno mars,2010-05-11,220734,false,,0.635,0.841,-5.379,1,0.0422,0.0134,0,0.0622,0.424,109.021,4
+2018-01-038,1iouzbWau005kKOAXsoyl2,canadian sunset,andy williams,2012-12-11,156604,false,"christmas,adult standards",0.344,0.441,-8.495,1,0.0313,0.705,0,0.17,0.444,119.962,4
+2018-01-040,6enR2PAZd7LUMMwQb4ciuh,i'll always love you,taylor dayne,1988-01-19,270786,false,,0.604,0.538,-6.285,1,0.0228,0.256,0,0.088,0.446,85.332,4
+2018-01-041,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2018-01-042,5dae01pKNjRQtgOeAkFzPY,mona lisa,nat king cole,1954-01-01,194986,false,"christmas,adult standards,vocal jazz",0.241,0.237,-12.201,1,0.0371,0.952,0,0.113,0.303,174.578,3
+2018-01-043,1MYlx4dBtiyjn7K8YSyfzT,the real slim shady,eminem,2005-12-06,284800,true,"rap,hip hop",0.947,0.655,-4.243,0,0.0609,0.0331,0,0.0433,0.787,104.485,4
+2018-01-044,08bNPGLD8AhKpnnERrAc6G,friends,marshmello;anne-marie,2018-02-09,202620,true,edm,0.626,0.88,-2.384,0,0.0504,0.205,0,0.128,0.534,95.079,4
+2018-01-045,71GcB5eY2lsq7WghDh3NWF,tragedy,thomas wayne,2011-01-27,132371,false,"rockabilly,doo-wop",0.363,0.163,-12.108,1,0.0267,0.992,0.0253,0.148,0.145,74.362,4
 2018-01-046,77khP2fIVhSW23NwxrRluh,a holly jolly christmas,burl ives,1965-10-01,135533,false,christmas,0.682,0.375,-13.056,1,0.0303,0.579,0,0.076,0.888,140.453,4
 2018-01-047,3B54sVLJ402zGa6Xm4YGNe,unforgettable,french montana;swae lee,2017-07-14,233901,true,,0.726,0.769,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,4
-2018-01-048,31MkGwj0SWgZaTvEt5Hgxv,what about us,p!nk,2017-08-10,271519,false,,0.386,0.594,-6.186,1,0.0566,0.0252,0.00000319,0.0873,0.187,113.756,4
-2018-01-054,60vvp6UXG2KmLmrNvcVHa8,lights down low,max;gnash,2016-10-14,225013,false,,0.622,0.571,-5.338,0,0.0493,0.0458,0,0.122,0.635,81.059,4
-2018-01-066,2VjtYe7gpfUi2OkGxR2O2z,look what you made me do,taylor swift,2017-08-24,211859,false,,0.767,0.671,-6.416,0,0.142,0.21,0.0000112,0.129,0.474,128.072,4
-2018-01-094,2UVbBKQOdFAekPTRsnkzcf,stir fry,migos,2018-01-26,190288,true,trap,0.817,0.816,-5.402,1,0.269,0.00263,0,0.159,0.508,181.982,4
-2018-02-001,6DCZcSspjsKoFjzjrWoCdn,god's plan,drake,2018-06-29,198973,true,rap,0.754,0.449,-9.211,1,0.109,0.0332,0.0000829,0.552,0.357,77.169,4
-2018-02-037,4eWQlBRaTjPPUlzacqEeoQ,never be the same,camila cabello,2018-01-12,226986,false,,0.637,0.713,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,4
-2018-02-051,3sA7HKGzcKTVscdiTCrWpX,outside today,youngboy never broke again,2018-06-29,129105,true,,0.851,0.666,-5.334,0,0.0694,0.139,0,0.105,0.0585,134.068,4
+2018-01-048,6PpR4UJF2oaXQn2ycp7Fl3,there you go,p!nk,2010-11-12,204880,false,,0.825,0.886,-5.147,0,0.0842,0.0953,0,0.0379,0.682,107.904,4
+2018-01-051,4Q3N4Ct4zCuIHuZ65E3BD4,tunnel vision,kodak black,2017-03-31,268186,true,,0.497,0.489,-7.724,0,0.294,0.0576,0.0000991,0.122,0.231,171.853,4
+2018-01-053,7sO5G9EABYOXQKNPNiE9NR,ric flair drip (with metro boomin),offset;metro boomin,2017-10-30,172800,true,,0.88,0.428,-8.28,1,0.206,0.149,0.0000505,0.114,0.333,100.007,4
+2018-01-054,332VORrJcFkukIdOe2c9LB,right back where we started from,maxine nightingale,2010-01-01,193533,false,,0.674,0.588,-7.403,1,0.0766,0.571,0.00000985,0.493,0.886,148.233,4
+2018-01-055,4Ce37cRWvM1vIGGynKcs22,starving,hailee steinfeld;grey;zedd,2016-07-22,181880,false,edm,0.728,0.616,-4.238,1,0.0645,0.378,0,0.105,0.508,99.962,4
+2018-01-056,10M2Ex445zw585Ducldzkw,in case you didn't know,brett young,2017-02-10,224853,false,country,0.607,0.536,-7.306,1,0.0302,0.386,0,0.102,0.436,147.992,4
+2018-01-057,0fbAW05kmVB6C3zbNMmpB5,petite fleur,chris barber's jazz band,2012-08-13,164986,false,"ragtime,jazz,swing music",0.694,0.227,-8.285,0,0.0336,0.95,0.744,0.111,0.505,112.075,4
+2018-01-060,4YMqbFcDIFiCBd02PzUBcM,thrift shop (feat. wanz),macklemore & ryan lewis;wanz,2012-10-10,235613,true,"g-funk,west coast hip hop",0.781,0.526,-6.985,0,0.293,0.0619,0,0.0457,0.662,94.992,4
+2018-01-062,6VVqPBFZIbcmv14zNfOc13,she likes it (feat. jake scott),russell dickerson;jake scott,2021-11-05,163311,false,"country,pop country",0.79,0.325,-11.689,1,0.127,0.509,0,0.155,0.539,126.877,4
+2018-01-063,2WQAknZHrJAEQOFXe0F44P,austin,blake shelton,2001-07-31,230333,false,country,0.605,0.609,-7.063,1,0.0278,0.188,0,0.0982,0.275,119.914,4
+2018-01-072,2tAYoHaFbx6e7QOkOkAhrX,spill the wine,eric burdon;war,1997-01-01,242066,false,funk rock,0.819,0.528,-10.666,0,0.0713,0.377,0,0.131,0.894,120.357,4
+2018-01-073,0tVDfAiHDgvRyXuVike1Ju,raise the roof,luke;no good but so good,1997,29688,true,"miami bass,baltimore club,new orleans bounce",0.709,0.504,-17.387,1,0.202,0.0661,0,0.36,0.942,142.544,4
+2018-01-077,3sA7HKGzcKTVscdiTCrWpX,outside today,youngboy never broke again,2018-06-29,129105,true,,0.851,0.666,-5.334,0,0.0694,0.139,0,0.105,0.0585,134.068,4
+2018-01-079,3ZozFqJJlDBNIm4xqxn2ZD,fancy like,walker hayes,2021-06-04,161853,false,country,0.649,0.76,-6.487,1,0.0574,0.114,0,0.317,0.843,80.018,4
+2018-01-081,1yTTMcUhL7rtz08Dsgb7Qb,the bones - with hozier,maren morris;hozier,2019-10-04,197298,false,country,0.561,0.597,-6,0,0.0405,0.286,0,0.0979,0.355,76.826,4
+2018-01-082,0t1kP63rueHleOhQkYSXFY,dynamite,bts,2020-08-28,199053,false,k-pop,0.746,0.765,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,4
+2018-01-086,3mfg4z3URdPF6WuPt7Nro9,one man band,old dominion,2020-09-16,186240,false,country,0.706,0.358,-8.331,1,0.0347,0.677,0,0.107,0.478,75.991,4
+2018-01-089,4jp9FimhP2bQ93vR0A5r7b,damn strait,scotty mccreery,2021-09-14,230226,false,"country,acoustic country",0.523,0.64,-6.15,1,0.0295,0.0512,0.0000552,0.0675,0.48,144.022,4
+2018-01-091,3DmW6y7wTEYHJZlLo1r6XJ,shower,becky g,2014-04-23,206166,false,"reggaeton,latin",0.699,0.529,-7.548,1,0.0487,0.0317,0.0000359,0.285,0.121,119.987,4
+2018-01-094,4Km5HrUvYTaSUfiSGPJeQR,bad and boujee (feat. lil uzi vert),migos;lil uzi vert,2017-04-07,343150,true,"trap,melodic rap,rage rap",0.926,0.666,-5.314,1,0.244,0.0611,0,0.123,0.168,127.079,4
+2018-01-096,7floNISpH8VF4z4459Qo18,look at me!,xxxtentacion,2017-02-20,126345,true,emo rap,0.763,0.726,-6.405,1,0.282,0.259,0,0.0976,0.349,139.059,4
+2018-01-098,27vTihlWXiz9f9lJM3XGVU,slow hands,niall horan,2017-05-04,188174,false,,0.735,0.423,-6.652,1,0.0459,0.011,0,0.0553,0.851,85.899,4
+2018-01-099,0IKK48xF4eEdfofyaeKWWO,pillowtalk,zayn,2016-01-29,203686,true,,0.588,0.702,-4.271,1,0.0496,0.104,0,0.089,0.429,124.909,4
+2018-01-100,2EwS2VaAsnGrwMkpJaIjug,bust a move,young mc,1989,262400,false,,0.947,0.488,-15.672,1,0.131,0.0829,0.0000658,0.0765,0.829,117.558,4
+2018-02-001,3QLjDkgLh9AOEHlhQtDuhs,best i ever had,drake,2009,257690,true,rap,0.395,0.922,-2.176,1,0.375,0.19,0,0.134,0.558,162.361,4
+2018-02-033,6W2Ef5Ph6ILTUAedoQ3QIv,like i love you,justin timberlake,2002-11-04,283626,false,,0.853,0.811,-4.927,0,0.0646,0.0439,0.000307,0.0703,0.9,114.964,4
 2018-02-056,7uzmGiiJyRfuViKKK3lVmR,mine,bazzi,2018-04-12,131064,true,,0.71,0.789,-3.874,1,0.0722,0.0161,0.00000277,0.451,0.717,142.929,4
-2018-02-067,1HXy5I3HTWq8OvxCn0z7G7,heaven,kane brown,2017-10-06,177333,false,"country,pop country",0.677,0.556,-6.544,1,0.0306,0.263,0,0.105,0.521,80.006,4
-2018-02-088,6AvfZXpbb6r35DfF7gHPRq,wait,maroon 5,2018-06-15,190642,false,pop,0.658,0.603,-5.016,1,0.0549,0.0946,0,0.107,0.435,126.035,4
-2018-02-092,1ny60YCHhEsxsJXWLhK7b0,idgaf,dua lipa,2017-06-02,217946,true,pop,0.836,0.544,-5.975,1,0.0943,0.0403,0,0.0824,0.51,97.028,4
-2018-03-042,6EGAfJaLUFzhS4zRBIEQ2J,you make it easy,jason aldean,2018-04-13,196800,false,"country,acoustic country",0.375,0.574,-5.305,1,0.0315,0.143,0,0.11,0.406,132.025,3
-2018-03-043,7w3rcy1CrATkUgCoItTbId,love lies,khalid;normani,2018-03-16,200976,true,,0.702,0.573,-7.748,1,0.049,0.108,0,0.114,0.394,143.916,4
-2018-03-052,6n4U3TlzUGhdSFbUUhTvLP,walk it talk it,migos;drake,2018-01-26,276147,true,"trap,rap",0.908,0.633,-5.145,1,0.183,0.0859,0.00000231,0.106,0.395,145.914,4
-2018-03-057,6KuqAtoeVzxAYOaMveLNpH,dura,daddy yankee,2018-01-18,200480,false,"reggaeton,latin",0.783,0.84,-3.416,1,0.051,0.174,0,0.412,0.839,95.001,4
-2018-03-058,08bNPGLD8AhKpnnERrAc6G,friends,marshmello;anne-marie,2018-02-09,202620,true,edm,0.626,0.88,-2.384,0,0.0504,0.205,0,0.128,0.534,95.079,4
-2018-03-060,6Qn5zhYkTa37e91HC1D7lb,whatever it takes,imagine dragons,2017-06-23,201240,false,,0.672,0.655,-5.021,0,0.031,0.0362,0,0.117,0.555,134.948,4
-2018-03-069,1ZAyjvIk9YiD76yYy0TEG6,plug walk,rich the kid,2018-03-30,175229,true,trap,0.872,0.519,-6.531,1,0.177,0.203,0,0.108,0.154,95.006,4
+2018-02-065,4cebVIEpo3f2Pks50fATbc,sentimental me,the ames brothers,2007-05-26,198239,false,adult standards,0.41,0.177,-11.459,1,0.0274,0.86,0,0.118,0.264,75.601,4
+2018-02-067,7zVCrzzEJU7u24sbJPXA5W,what ifs (feat. lauren alaina),kane brown;lauren alaina,2016-12-02,188270,false,"country,pop country",0.612,0.799,-4.603,1,0.0275,0.00898,0,0.172,0.687,125.976,4
+2018-02-075,4kbj5MwxO1bq9wjT5g9HaA,shut up and dance,walk the moon,2014-12-02,199080,false,,0.578,0.866,-3.804,1,0.0619,0.00701,0,0.257,0.619,128.038,4
+2018-02-077,4dGJf1SER1T6ooX46vwzRB,chicken fried,zac brown band,2008-11-17,238146,false,"country,acoustic country",0.566,0.713,-4.25,1,0.0417,0.645,0,0.114,0.807,169.864,4
+2018-02-083,7s4QQhv3iHxBllAMjzhxMS,she cried,jay & the americans,1964,174226,false,doo-wop,0.457,0.237,-15.505,0,0.0286,0.551,0,0.291,0.41,99.931,4
+2018-02-095,6ltEROUPq7bgFLdivUcr5v,grazing in the grass,hugh masekela,2006-01-01,158013,false,"afro soul,afrobeat",0.667,0.629,-9.348,1,0.0287,0.645,0.912,0.253,0.878,107.567,4
+2018-02-099,0mYoKqA23wUUj7BTEgNzjg,shawty (feat. t pain),plies;t-pain,2007-08-06,255413,true,southern hip hop,0.444,0.708,-5.926,0,0.126,0.0419,0,0.0775,0.26,105.412,5
+2018-02-100,6ga2CNQzcbhh3r1LfkIIQu,98.6,keith,2006-01-01,181960,false,baroque pop,0.573,0.263,-12.307,1,0.0509,0.582,0,0.124,0.468,74.708,4
+2018-03-005,6HJ34Zyw6bg8yGm28AxLXf,look alive (feat. drake),blocboy jb;drake,2018-05-04,181414,true,rap,0.918,0.58,-7.501,1,0.322,0.00108,0.0000612,0.106,0.611,139.977,4
+2018-03-042,4tK4ARuilOrBzwVQK73E0Y,the remedy (i won't worry),jason mraz,2002,256440,false,"soft pop,acoustic pop",0.589,0.867,-4.523,1,0.0385,0.041,0,0.306,0.795,94.52,4
+2018-03-046,5nd60X8U2tF8HghyKzsWSV,ruby,richard hayman,2014-04-14,178306,false,exotica,0.198,0.34,-10.46,0,0.0308,0.53,0.642,0.176,0.266,80.762,4
+2018-03-055,29gsi1zZrZxdStACmTQB0Z,studio,schoolboy q;bj the chicago kid,2014-01-01,278066,true,,0.709,0.589,-7.776,0,0.0434,0.0508,0,0.0585,0.58,133.921,3
+2018-03-057,6EqXJqk5hLV8WpfmzZxP68,chick-a-boom (don't ya jes love it),daddy dewdrop,2012-10-01,171533,false,,0.781,0.734,-6.777,1,0.0511,0.0309,0,0.216,0.964,124.55,4
+2018-03-077,6miou5rcSI3TqJWTKizJJI,give it to you,jordan knight,1999-01-01,289760,false,,0.829,0.669,-7.449,1,0.0608,0.0547,0,0.0589,0.58,134.86,4
 2018-03-090,2P91MQbaiQOfbiz9VqhqKQ,i like me better,lauv,2018-05-31,197436,false,,0.752,0.505,-7.621,1,0.253,0.535,0.00000255,0.104,0.419,91.97,4
-2018-04-009,3ee8Jmje8o58CHK66QrVC2,sad!,xxxtentacion,2018-03-16,166605,true,emo rap,0.74,0.613,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,4
-2018-04-022,2QZ7WLBE8h2y1Y5Fb8RYbH,in my blood,shawn mendes,2018-05-25,211360,false,,0.622,0.711,-7.321,1,0.0665,0.0573,0,0.13,0.487,140.016,4
-2018-04-039,7AFASza1mXqntmGtbxXprO,changes,xxxtentacion,2018-03-16,121886,false,emo rap,0.669,0.308,-10.068,1,0.029,0.883,0,0.0984,0.52,64.934,4
-2018-04-048,0JP9xo3adEtGSdUEISiszL,moonlight,xxxtentacion,2018-03-16,135090,true,emo rap,0.921,0.537,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,4
-2018-04-051,39N9RPD9MRb5WmoLzNzPeA,x,nicky jam;j balvin,2018-03-02,173627,false,"reggaeton,latin",0.595,0.773,-4.736,0,0.0549,0.0364,0.00108,0.334,0.711,180.073,4
-2018-04-052,6NFyWDv5CjfwuzoCkw47Xf,delicate,taylor swift,2017-11-10,232253,false,,0.75,0.404,-10.178,0,0.0682,0.216,0.000357,0.0911,0.0499,95.045,4
-2018-04-073,4gB7HrYHbJVJ5RFOjxmoq4,one number away,luke combs,2017-06-02,222573,false,country,0.544,0.781,-6.16,0,0.0311,0.00585,0,0.191,0.527,144.075,4
-2018-04-074,42fw0rxRO2xbesF6mJfd4Y,tequila,dan + shay,2018-06-22,196746,false,country,0.489,0.581,-5.731,1,0.0281,0.0312,0,0.132,0.494,86.016,4
-2018-05-001,3CA9pLiwRIGtUBiMjbZmRw,nice for what,drake,2018-06-29,210746,true,rap,0.585,0.909,-6.474,1,0.0707,0.0891,0.000097,0.119,0.758,93.372,4
-2018-05-003,2qT1uLXPVPzGgFOx4jtEuo,no tears left to cry,ariana grande,2018-08-17,205920,false,pop,0.699,0.713,-5.507,0,0.0594,0.04,0.00000311,0.294,0.354,121.993,4
-2018-05-016,58q2HKrzhC3ozto2nDdN4z,i like it,cardi b;bad bunny;j balvin,2018-04-06,253390,true,"reggaeton,trap latino,latin,urbano latino",0.816,0.726,-3.998,0,0.129,0.099,0,0.372,0.65,136.048,4
-2018-05-019,09mEdoA6zrmBPgTEN5qXmN,call out my name,the weeknd,2018-03-30,228373,false,,0.461,0.593,-4.954,1,0.0356,0.165,0,0.307,0.174,134.165,3
-2018-05-023,2Yl4OmDby9iitgNWZPwxkd,be careful,cardi b,2018-04-06,210787,true,,0.82,0.568,-8.23,0,0.411,0.0256,0,0.0952,0.535,152.279,4
-2018-05-055,4squZv12LD9M8ooJfoVgZS,boo'd up,ella mai,2018-10-12,239341,false,r&b,0.568,0.843,-3.726,0,0.0727,0.158,0,0.0844,0.227,82.014,4
-2018-05-082,6n6OQfBpCgzF9oEg8zhBN7,get along,kenny chesney,2018-07-27,199625,false,country,0.632,0.804,-6.109,1,0.0503,0.101,0,0.17,0.35,92.456,4
-2018-06-002,0b9oOr2ZgvyQu88wzixux9,this is america,childish gambino,2018-05-06,225773,true,,0.854,0.463,-6.159,1,0.137,0.117,0,0.354,0.549,120.024,4
-2018-06-006,6vN77lE9LK6HP2DewaN6HZ,yes indeed,lil baby;drake,2018-05-18,142273,true,rap,0.963,0.346,-9.309,0,0.53,0.0355,0,0.108,0.562,119.957,4
-2018-06-029,7dt6x5M1jzdTEt8oCbisTK,better now,post malone,2018-04-27,231266,true,,0.674,0.578,-5.804,1,0.0408,0.331,0,0.135,0.34,145.07,4
-2018-06-035,0s3nnoMeVWz3989MkNQiRf,lucid dreams,juice wrld,2018-05-23,239835,true,"melodic rap,emo rap",0.511,0.566,-7.23,0,0.2,0.349,0,0.34,0.218,83.903,4
-2018-06-046,514rhnksEwHUh6LxXsQ4Y9,back to you,selena gomez,2018-05-18,210240,false,,0.6,0.683,-6.271,1,0.049,0.097,0.00000135,0.11,0.489,102.036,4
-2018-06-071,2VIPU72L6tIR4w8J8ap6Kp,mercy,brett young,2017-02-10,217120,false,country,0.638,0.367,-7.906,1,0.0266,0.84,0,0.0999,0.219,71.957,4
-2018-07-026,3qN5qMTKyEEmiTZD38BNTT,i'm upset,drake,2018-06-29,214466,true,rap,0.899,0.586,-7.866,0,0.343,0.279,0,0.0836,0.492,150.002,4
-2018-07-045,1co0puPTYvqAdUEjFOjne9,simple,florida georgia line,2018-08-24,185200,false,"country,pop country,acoustic country",0.375,0.889,-3.704,1,0.0991,0.0848,0,0.136,0.881,199.669,4
-2018-07-052,2iUXsYOEPhVqEBwsqP70rE,youngblood,5 seconds of summer,2018-06-15,203417,false,,0.597,0.854,-5.114,0,0.463,0.0169,0,0.124,0.152,120.276,4
-2018-07-084,1rqqCSm0Qe4I9rUvWncaom,high hopes,panic! at the disco,2018-06-22,190946,false,emo,0.579,0.904,-2.729,1,0.0618,0.193,0,0.064,0.681,82.014,4
-2018-08-001,2G7V7zsVDxg1yRsu7Ew9RJ,in my feelings,drake,2018-06-29,217925,true,rap,0.835,0.626,-5.833,1,0.125,0.0589,0.00006,0.396,0.35,91.03,4
-2018-08-004,4QIyEq7TcTdAcxjI2AFlAK,fefe,6ix9ine;nicki minaj;murda beatz,2018-11-27,179404,true,,0.931,0.387,-9.127,1,0.412,0.088,0,0.136,0.376,125.978,4
-2018-08-021,5OCJzvD7sykQEKHH7qAC3C,god is a woman,ariana grande,2018-08-17,197546,true,pop,0.602,0.658,-5.934,1,0.0558,0.0233,0.00006,0.237,0.268,145.031,4
-2018-08-029,0TlLq3lA83rQOYtrqBqSct,nonstop,drake,2018-06-29,238614,true,rap,0.912,0.412,-8.074,1,0.123,0.0165,0.0126,0.104,0.423,154.983,4
-2018-08-037,2FY7b99s15jUprqC0M5NCT,natural,imagine dragons,2018-11-09,189466,false,,0.704,0.611,-6.112,1,0.041,0.217,0,0.0812,0.22,99.994,4
+2018-03-092,4Ro98RCK90oHqqSZUnTFq5,strip that down,liam payne;quavo,2017-05-18,204502,false,,0.874,0.497,-5.484,1,0.0562,0.22,0,0.0761,0.542,106.025,4
+2018-03-093,05vTGiwFFK7fBx4xM33TPY,beautiful sunday,daniel boone,2009-12-21,192746,false,,0.627,0.579,-13.173,1,0.029,0.342,0.000345,0.0893,0.951,121.929,4
+2018-04-022,6NUiDZQALrNiDfqDB6ZBaF,sunny came home,shawn colvin,1996-07-08,264733,false,,0.554,0.566,-8.05,0,0.0332,0.33,0.01,0.0943,0.418,167.88,4
+2018-04-038,4scpF6J5uMBvoh6sFB7EL1,no type,rae sremmurd,2015-01-06,200080,true,,0.888,0.486,-7.803,1,0.16,0.0158,0.00000411,0.0925,0.232,125.079,4
+2018-04-051,7qCAVkHWZkF44OzOUKf8Cr,el perdón (with enrique iglesias),nicky jam;enrique iglesias,2017-01-20,205906,false,"reggaeton,latin,latin pop",0.628,0.69,-5.83,1,0.0511,0.443,0,0.113,0.66,179.908,4
+2018-04-055,5jE48hhRu8E6zBDPRSkEq7,all about that bass,meghan trainor,2015-01-12,191488,true,,0.807,0.887,-3.726,1,0.0503,0.0573,0.00000287,0.124,0.961,134.052,4
+2018-04-060,4bPQs0PHn4xbipzdPfn6du,i write sins not tragedies,panic! at the disco,2005-09-27,186634,true,emo,0.569,0.83,-4.106,0,0.14,0.0807,0,0.114,0.609,170.094,4
+2018-04-065,1tURLJqgjF5FyvZyRq1wAR,come and get it,badfinger,2007-01-01,138186,false,"power pop,jangle pop",0.622,0.404,-14.425,1,0.0306,0.22,0,0.0348,0.637,98.304,4
+2018-04-066,20XdEFyaUR9C7aDIdq2OAd,summertime,dj jazzy jeff & the fresh prince,1991-07-09,270973,false,old school hip hop,0.677,0.539,-14.439,1,0.063,0.0455,0.00000184,0.845,0.469,95.116,4
+2018-04-067,5tz69p7tJuGPeMGwNTxYuV,1-800-273-8255,logic;alessia cara;khalid,2017-05-05,250173,true,,0.62,0.574,-7.788,0,0.0479,0.569,0,0.19,0.357,100.023,4
+2018-04-074,6jNSLzZleQ0iprO0seAwun,white on white,danny williams,2010-01-01,138786,false,northern soul,0.651,0.537,-7.944,1,0.026,0.854,0,0.304,0.746,112.825,4
+2018-04-078,7w87IxuO7BDcJ3YUqCyMTT,pumped up kicks,foster the people,2011-05-23,239600,false,,0.733,0.71,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,4
+2018-04-081,7CfCUjAZFndcpAWLogl9J3,you can't turn me off (in the middle of turning me on) - single version,high inergy,1993-01-15,212026,false,"motown,classic soul",0.381,0.362,-10.321,0,0.0501,0.695,0,0.0863,0.595,183.438,4
+2018-04-086,6foY66mWZN0pSRjZ408c00,whiskey glasses,morgan wallen,2018-04-27,234346,false,country,0.614,0.68,-4.58,1,0.0289,0.369,0.00000184,0.115,0.707,149.959,4
+2018-04-093,53t0qoKIstEnyoqUFKicpH,everybody everybody - le freak album mix,black box,1990,247000,false,eurodance,0.709,0.792,-6.435,0,0.0378,0.00365,0.0000106,0.0892,0.971,117.634,4
+2018-04-095,3xdjjKMcMOFgo1eQrfbogM,wagon wheel,darius rucker,2013-01-01,298373,false,country,0.535,0.66,-7.174,1,0.0297,0.455,0,0.135,0.577,148.044,4
+2018-04-100,2wRXbDpe0Uv0ebgsCSkXHO,school's out - single version,alice cooper,2009-01-01,208240,false,"glam rock,hard rock,glam metal,proto-punk,classic rock",0.272,0.814,-6.645,1,0.0433,0.00166,0.0686,0.481,0.398,134.769,4
+2018-05-003,0S4RKPbRDA72tvKwVdXQqe,the way,ariana grande;mac miller,2013-01-01,227026,false,pop,0.645,0.878,-3.208,0,0.113,0.294,0,0.076,0.862,82.324,4
+2018-05-006,48obzdkQV1biEq8cPsGLys,last kiss,j. frank wilson & the cavaliers,2015-09-11,148680,false,doo-wop,0.746,0.482,-7.919,0,0.0471,0.262,0,0.0671,0.698,135.202,4
+2018-05-034,4QRZirU4s1f30iDHzuKncj,wake me up,avicii,2013-07-30,249693,false,edm,0.516,0.806,-5.133,1,0.0538,0.00389,0.000674,0.115,0.577,124.118,4
+2018-05-048,1JhP5jEC8NLDcSNjJWCAem,total eclipse of the heart,nicki french,1995,235159,false,eurodance,0.603,0.789,-8.939,1,0.0285,0.00682,0,0.11,0.486,136.049,4
+2018-05-055,33FiJdNiWACHYd5yk0en35,the blacksmith blues,ella mae morse;freddie slack and his orchestra,1992-01-01,186760,false,"boogie-woogie,swing music,rockabilly,big band",0.838,0.294,-11.298,1,0.0453,0.498,0.00000224,0.21,0.806,127.659,4
+2018-05-064,1gihuPhrLraKYrJMAEONyc,feel so close - radio edit,calvin harris,2012-10-29,206413,false,edm,0.707,0.924,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,4
+2018-05-081,13plQdOoWSSXPRUSZc5FuM,i know you want me (calle ocho),pitbull,2009-08-31,237120,false,,0.817,0.733,-6.009,1,0.145,0.0152,0.0000431,0.107,0.833,127.056,4
+2018-05-082,23vUUPCzEapn1h5JOOFZvi,midnight in moscow,kenny ball,1997,180013,false,swing music,0.53,0.402,-14.117,0,0.0338,0.681,0.964,0.283,0.915,166.266,4
+2018-05-088,0r8iDf65NHgFgZOGLwj5r8,what was i thinkin',dierks bentley,2003-01-01,260826,false,country,0.551,0.825,-6.24,0,0.044,0.152,0.0000062,0.0999,0.933,164.857,4
+2018-05-095,5tdbfH5mOJnjalyR3HdJh0,the stripper,david rose,2009-12-11,120733,false,exotica,0.484,0.448,-10.144,1,0.0276,0.622,0.692,0.156,0.542,94.167,4
+2018-05-096,3w8xlZi49MQuQkyyB5bi5e,inside your heaven (bonus track),carrie underwood,2005-11-14,224711,false,country,0.377,0.565,-4.74,1,0.0312,0.112,0.00000165,0.204,0.14,134.542,4
+2018-06-002,3kxfsdsCpFgN412fpnW85Y,redbone,childish gambino,2016-12-02,326933,true,,0.745,0.356,-10.425,1,0.0941,0.172,0.00943,0.123,0.607,160.033,4
+2018-06-035,6xBUWSz8INNHO6wFYuPtQl,queen of hearts,juice newton,1988-10-19,206866,false,,0.669,0.779,-11.522,1,0.0533,0.211,0.0000898,0.132,0.975,169.478,4
+2018-06-060,3oW6SWwGqiZSPTiAp7ZQoH,it's a great day to be alive,travis tritt,2000-10-01,241533,false,"classic country,country,outlaw country",0.595,0.653,-4.935,1,0.0265,0.246,0,0.264,0.542,128.93,4
+2018-06-067,1e1JKLEDKP7hEQzJfNAgPl,magnolia,playboi carti,2017-04-14,181812,true,rage rap,0.791,0.582,-7.323,0,0.286,0.0114,0,0.35,0.443,162.991,4
+2018-06-068,0RmXtDH1cBMGImRrmn5xL6,turn me on,kevin lyttle,2004-03-30,192106,false,"soca,dancehall",0.677,0.682,-6.879,1,0.0361,0.0405,0,0.0351,0.875,106.279,4
+2018-06-073,5X6p7cX8TefrNzb3xHH9gD,why me,kris kristofferson,1972,206333,false,"outlaw country,classic country,country",0.44,0.153,-15.804,1,0.0267,0.678,0,0.103,0.302,81.668,3
+2018-06-083,0iFOG4Ki9aDmJUYUFHQlPG,frontin' (feat. jay-z) - club mix,pharrell williams;jaÿ-z,2003-08-19,236506,true,"hip hop,east coast hip hop,rap",0.894,0.404,-5.913,0,0.13,0.453,0.00000157,0.0801,0.759,102.009,4
+2018-06-099,1nRwyxNsqCLeA17qR8Nfxx,quit playing games (with my heart),backstreet boys,1996,233533,false,,0.8,0.875,-4.952,0,0.0338,0.0615,0.00000279,0.13,0.882,100.033,4
+2018-07-030,0srwKuJPH8yBzzFUJMBQM2,rack city,tyga,2012-01-01,203200,true,,0.929,0.339,-10.881,1,0.371,0.0373,0.0000196,0.187,0.273,98.986,4
+2018-07-045,2z8OXShNGUgRitHyO3GuYG,cruise - remix,florida georgia line;nelly,2013-01-01,206813,false,"country,pop country,acoustic country",0.528,0.921,-4.044,0,0.0787,0.0166,0,0.736,0.68,149.031,4
+2018-07-052,4RY96Asd9IefaL3X4LOLZ8,in da club,50 cent,2003-02-06,193466,true,"old school hip hop,east coast hip hop",0.904,0.72,-2.776,0,0.348,0.259,0,0.0749,0.805,90.062,4
+2018-07-054,62r62ArmWq38cu6QCVgyTc,jesus walks,kanye west,2004-02-13,193733,true,rap,0.427,0.844,-4.597,0,0.427,0.578,0,0.284,0.716,85.346,4
+2018-07-056,7hpGGPTNTgdmyjtudEmLfX,my nigga,yg;jeezy;rich homie quan,2013-01-01,236093,true,"southern hip hop,crunk,rap,gangster rap",0.665,0.475,-6.58,0,0.224,0.0756,0,0.176,0.785,171.255,4
+2018-07-060,74kHlIr01X459gqsSdNilW,i get around,2pac;shock g;money b,1998-01-01,258640,true,"old school hip hop,gangster rap,west coast hip hop,g-funk,hip hop,miami bass",0.84,0.717,-4.368,0,0.105,0.12,0.0000129,0.298,0.675,96.224,4
+2018-07-075,3ts6xK5GzfMAAriT9AIBmP,barefoot blue jean night,jake owen,2011-08-29,169420,false,"country,acoustic country",0.599,0.807,-4.679,1,0.0402,0.202,0,0.196,0.812,172.017,4
+2018-07-081,7GqWnsKhMtEW0nzki5o0d8,killer queen - remastered 2011,queen,1974-11-08,179600,false,"classic rock,rock,glam rock",0.535,0.65,-6.328,1,0.0554,0.379,0,0.14,0.61,117.188,4
+2018-07-087,0cCbK9QWZXDLc8a6hTI7Eb,kiss the rain,billie myers,1997-01-01,270160,false,,0.455,0.682,-6.996,1,0.041,0.00142,0.0000496,0.162,0.283,177.997,4
+2018-07-094,3eR23VReFzcdmS7TYCrhCe,it ain't me (with selena gomez),kygo;selena gomez,2017-02-16,220780,false,tropical house,0.64,0.533,-6.596,1,0.0706,0.119,0,0.0864,0.515,99.968,4
+2018-07-097,3s4U7OHV7gnj42VV72eSZ6,rather be (feat. jess glynne),clean bandit;jess glynne,2014-01-17,227833,false,,0.799,0.586,-6.735,1,0.0377,0.162,0.00000203,0.193,0.549,120.97,4
+2018-08-052,0fA1VA1rJ1Yd6nYC4WEoO8,into the night (re-recorded in stereo),benny mardones,1990-03-12,263533,false,yacht rock,0.461,0.641,-10.109,0,0.0276,0.239,0,0.13,0.562,83.756,4
+2018-08-066,1wYZZtamWTQAoj8B812uKQ,here,alessia cara,2015-11-13,199453,false,,0.376,0.821,-3.974,1,0.104,0.0785,0,0.0823,0.331,120.462,4
 2018-08-074,6Up545NUflOiXo8cEraH49,you say,lauren daigle,2018-09-07,274693,false,"christian,worship,ccm",0.494,0.632,-6.89,1,0.0342,0.682,0,0.0869,0.0797,147.873,4
-2018-09-009,2xLMifQCjDGFmkHkpNLD9h,sicko mode,travis scott,2018-08-03,312820,true,rap,0.834,0.73,-3.714,1,0.222,0.00513,0,0.124,0.446,155.008,4
-2018-09-012,5WvAo7DNuPRmk4APhdPzi8,no brainer,dj khaled;justin bieber;quavo;chance the rapper,2018-07-27,260000,true,,0.552,0.76,-4.706,1,0.342,0.0733,0,0.0865,0.639,135.702,5
-2018-09-022,4OafepJy2teCjYJbvFE60J,breathin,ariana grande,2018-08-17,198160,true,pop,0.568,0.656,-5.413,1,0.0433,0.0211,0.0000137,0.213,0.364,100.049,4
-2018-09-063,2dpaYNEQHiRxtZbfNsse99,happier,marshmello;bastille,2018-08-17,214289,false,edm,0.687,0.792,-2.749,1,0.0452,0.191,0,0.167,0.671,100.011,4
-2018-09-067,6CTWathupIiDs7U4InHnDA,trip,ella mai,2018-10-12,213993,false,r&b,0.477,0.609,-5.628,0,0.144,0.222,0,0.107,0.357,79.884,4
+2018-08-077,3dFwpxh2yH7C7p9BGEKLVB,goodies (feat. petey pablo),ciara;petey pablo,2004-09-27,223000,false,"crunk,southern hip hop",0.826,0.647,-6.306,0,0.0491,0.0277,0.00000152,0.298,0.872,102.017,4
+2018-08-085,5qeGK2JxwCWEUiFgHb4maZ,quiet village,martin denny,1991,220240,false,"exotica,lounge,easy listening",0.818,0.482,-8.915,0,0.0538,0.685,0.119,0.228,0.299,114.324,4
+2018-08-086,1yKu2MhpwzDXXH2tzG6xoa,beverly hills,weezer,2005-05-10,196093,false,alternative rock,0.693,0.823,-3.761,1,0.0726,0.0932,0,0.328,0.741,87.904,4
+2018-08-087,1irAliF0T8sLIOPJp6n7rU,single saturday night,cole swindell,2020-05-22,187683,false,"country,acoustic country",0.623,0.79,-5.07,1,0.0473,0.118,0,0.226,0.694,81.949,4
+2018-08-088,3CRDbSIZ4r5MsZ0YwxuEkn,stressed out,twenty one pilots,2015-05-15,202333,false,,0.734,0.637,-5.677,0,0.141,0.0462,0.0000229,0.0602,0.648,169.977,4
+2018-08-090,2w5bTNfHHXHBYrqFadasns,scorpio (rerecorded),dennis coffey & the detroit guitar band,2010-12-23,252533,false,,0.793,0.676,-12.662,0,0.0426,0.00931,0.91,0.101,0.871,115.375,4
+2018-08-095,6NdkIejC39Pcwg9Buw5f2B,black and yellow,wiz khalifa,2010-09-14,217666,true,,0.684,0.834,-4.524,0,0.0675,0.0646,0,0.271,0.538,164.02,4
+2018-09-088,5vywtoD7fO1CP0B2wtm6I6,control,janet jackson,1986-02-04,353306,false,new jack swing,0.785,0.786,-12.487,1,0.0501,0.28,0.236,0.158,0.638,120.404,4
 2018-10-031,1xzBco0xcoJEDXktl7Jxrr,mo bamba,sheck wes,2018-10-05,183906,true,,0.729,0.625,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,4
-2018-10-038,2G1tXoGBaEMJ7FKGnkf6ud,wake up in the sky,gucci mane;bruno mars;kodak black,2018-12-07,203161,true,"southern hip hop,rap,trap",0.8,0.578,-5.144,0,0.0485,0.00381,0,0.367,0.367,143.01,4
-2018-10-057,339Y993TrFyWyO438be0RY,better,khalid,2019-04-05,229400,true,,0.692,0.552,-9.543,0,0.0497,0.0503,0.165,0.136,0.15,98.028,4
-2018-10-077,3GJ4hzg4lrGwU51Y3VARbF,speechless,dan + shay,2018-06-22,213386,false,country,0.616,0.438,-5.968,1,0.0298,0.356,0,0.24,0.386,135.929,4
+2018-10-064,5xEM5hIgJ1jjgcEBfpkt2F,complicated,avril lavigne,2002-06-04,244506,false,,0.585,0.776,-5.898,1,0.0459,0.0572,0.00000774,0.3,0.427,77.987,4
+2018-10-076,0hy1SOTEn9ifXTzOwnCwEr,all eyes on you (feat. chris brown & nicki minaj),meek mill;chris brown;nicki minaj,2015-06-29,223973,true,"rap,r&b",0.589,0.658,-5.288,0,0.203,0.0242,0,0.118,0.251,77.521,4
 2018-10-081,6V7g6qM8wheMivMWrzbPTM,leave me alone,flipp dinero,2019-11-22,195637,true,,0.792,0.743,-2.806,1,0.0851,0.107,0,0.183,0.742,150.024,4
-2018-11-012,5p7ujcrUXASCNwRaWNHR1C,without me,halsey,2018-10-04,201660,true,,0.752,0.488,-7.05,1,0.0705,0.297,0.00000911,0.0936,0.533,136.041,4
-2018-11-013,3gE4eQH3K83Sght0ZLvuBK,mia,bad bunny;drake,2018-12-23,210367,false,"reggaeton,trap latino,latin,urbano latino,rap",0.816,0.538,-6.354,0,0.0617,0.0142,0.000485,0.099,0.156,97.055,4
-2018-11-054,2GGMabyHXnJmjY6CXhhB2e,money,cardi b,2018-10-23,183527,true,,0.95,0.59,-6.508,0,0.29,0.00534,0,0.11,0.219,130.003,4
-2018-11-065,43zdsphuZLzwA9k4DJhU0I,when the party's over,billie eilish,2019-03-29,196077,false,,0.367,0.111,-14.084,1,0.0972,0.978,0.0000397,0.0897,0.198,82.642,4
-2018-12-001,3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next",ariana grande,2019-02-08,207320,true,pop,0.72,0.654,-5.634,1,0.0647,0.227,0,0.101,0.411,106.976,4
-2018-12-050,4339TrijLVEhPLlbMrVsW4,bohemian rhapsody,queen,1992-03-10,355040,false,"classic rock,rock,glam rock",0.442,0.337,-12.406,1,0.0451,0.154,0,0.191,0.225,71.336,4
-2018-12-076,5qrSlOut2rNAWv3ubArkNy,be alright,dean lewis,2019-03-22,196493,true,,0.551,0.537,-7.595,1,0.034,0.705,0,0.0802,0.493,126.421,4
+2018-10-086,3kjEjsy17HdYmC3dpHZQSW,secretly (rerecorded),jimmie rodgers,2009-10-13,155626,false,,0.741,0.308,-13.904,0,0.0321,0.771,0.00000139,0.102,0.615,114.569,4
+2018-10-090,2XqALXk2nRDKSoDcLYmrZA,chirpy chirpy cheep cheep (rerecorded),mac & katie kissoon,2014-08-27,148293,false,,0.711,0.584,-11.177,1,0.0395,0.13,0,0.628,0.983,134.626,4
+2018-11-014,7zACUQbWQxzT4aER7ityBV,poker face,lady gaga,2009-11-05,237200,true,"art pop,pop",0.851,0.806,-4.618,1,0.0787,0.119,0.00000172,0.121,0.774,119.001,4
+2018-11-026,7EiZI6JVHllARrX9PUvAdX,low life (feat. the weeknd),future;the weeknd,2016-04-13,313546,true,rap,0.722,0.331,-7.789,1,0.0726,0.337,0.282,0.146,0.102,143.961,4
+2018-11-097,5CdJveJgiGXoGwDFqF6afp,freak me,silk,1992,274533,false,"quiet storm,new jack swing,r&b",0.697,0.608,-10.976,0,0.0463,0.0295,0,0.276,0.725,133.879,4
+2018-12-063,7rRbPBl5OIRZaKvmoWYPby,shake it - radio mix,metro station,2008-08-09,182973,false,,0.589,0.922,-4.437,1,0.0504,0.00204,0.00616,0.405,0.603,149.931,4
+2018-12-072,16Ah4QqH4mgYVXqfC4mdSd,luv,tory lanez,2016-08-19,228640,true,,0.542,0.528,-8.113,0,0.243,0.0108,0,0.117,0.253,190.42,4
+2018-12-076,5I9iHWuPvQMjzcBBYx1hpH,that's amore - 1998 - remastered,dean martin,2004,187506,false,"christmas,adult standards,big band,swing music",0.325,0.219,-9.417,1,0.0349,0.77,0,0.112,0.521,79.181,1
+2018-12-088,2YMhrXQYKkm4kXLcXKKd5z,small town boy,dustin lynch,2017-09-08,205733,false,"country,acoustic country",0.554,0.743,-6.016,1,0.0287,0.0251,0,0.359,0.673,72.997,4
+2018-12-090,6Ymvlzom4TQeoKqAWsZRD8,somethin' 'bout a truck,kip moore,2012-01-01,213826,false,country,0.554,0.794,-5.417,1,0.035,0.0697,0,0.63,0.79,176.01,4
+2018-12-092,1tJkic0TURTCXw3rBhYgWu,what would you do?,city high,2001-01-01,175560,true,,0.733,0.794,-6.909,1,0.223,0.259,0,0.483,0.832,95.877,4
+2018-12-098,7gUpO6td4OOnu0Lf9vhcIV,lights - single version,ellie goulding,2010,211800,false,,0.683,0.788,-6.132,0,0.0354,0.0283,0.0469,0.112,0.809,120.019,4
+2018-12-100,53BHUFdQphHiZUUG3nx9zn,bang!,ajr,2020-02-12,170858,false,,0.74,0.516,-6.233,0,0.0507,0.0183,0,0.0558,0.698,139.918,4
+2018-04-080,7Ek7O4RkKQUx8uptSThUA4,Sativa,Jhene Aiko Featuring Swae Lee Or Rae Sremmurd,2020-08-10,181860,true,r&b,0.559,0.519,-7.092,0,0.216,0.536,0,0.102,0.35,128.252,4
+2018-01-034,7qUJQSNX9QNf46CC6FgH66,1-800-273-8255,Logic Featuring Alessia Cara & Khalid,2016-08-05,243490,true,"rap,hip hop,trap soul",0.502,0.786,-4.378,0,0.317,0.255,0,0.65,0.739,169.021,4
+2018-01-052,3V8UKqhEK5zBkBb6d6ub8i,La Modelo,Ozuna x Cardi B,2018-04-13,417920,true,"reggaeton,trap latino,urbano latino,latin,dembow",0.903,0.675,-3.445,0,0.214,0.542,0.0000128,0.0595,0.442,96.507,4
+2018-01-058,0d2iYfpKoM0QCKvcLCkBao,Greatest Love Story,LANCO,2018-07-12,173799,false,,0.56,0.68,-7.648,0,0.321,0.555,0,0.116,0.319,89.391,4
+2018-01-080,3a1lNhkSLSkpJE4MSHpDu9,Ice Tray,Quavo & Lil Yachty,2016-12-09,220293,true,,0.63,0.804,-4.183,1,0.0364,0.215,0,0.253,0.492,123.146,4
+2018-01-085,6PDMoU9g50Ntbrc8CLbC2c,Pick It Up,Famous Dex Featuring A$AP Rocky,2007-01-01,193866,false,,0.866,0.578,-8.385,1,0.0331,0.0207,0.387,0.113,0.516,112.512,4
+2018-01-095,7tMnrHpbVkTvYCAgfgi119,Home,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",2017-01-20,181360,false,bubblegum pop,0.686,0.516,-8.575,1,0.0373,0.19,0,0.0759,0.408,92.052,4
+2018-02-096,7zAgg3PU31pQAnzEY9dJPr,Never Enough,Loren Allred,1998-09-14,263933,false,christmas,0.402,0.509,-9.392,1,0.0324,0.68,0,0.823,0.326,81.509,4
+2018-03-079,1lHtE5JDCas1EwXhQIMOIj,When We,Tank,2004-04-27,232800,false,nu metal,0.447,0.668,-4.683,1,0.0294,0.0127,0,0.152,0.0695,82.904,4
+2018-06-086,02kDW379Yfd5PzW5A6vuGt,Champion,NAV Featuring Travis Scott,2020-08-14,195428,true,melodic rap,0.799,0.66,-6.153,0,0.079,0.256,0,0.111,0.471,140.04,4
+2018-08-060,3DXncPQOG4VBw3QHh3S817,I Might Need Security,Chance The Rapper,2017-06-22,288600,true,"rap,hip hop",0.609,0.668,-4.284,1,0.0367,0.0552,0,0.167,0.811,80.924,4
+2018-08-076,7BkAlVpGwXXl3sYNn5OoJ7,Hooked,Dylan Scott,1966-06-20,277383,false,"folk rock,folk,singer-songwriter,roots rock",0.556,0.592,-7.378,1,0.0337,0.458,0,0.0637,0.587,94.887,4
+2018-08-078,0I3q5fE6wg7LIfHGngUTnV,Ocean,TK Kravitz Featuring Jacqueez,2000-10-31,270506,true,"southern hip hop,hip hop",0.843,0.806,-5.946,0,0.269,0.143,0,0.0771,0.613,94.948,4
+2018-09-083,27vLW4WaU8Cu0uRt00jGic,Drunk Me,Mitchell Tenpenny,2012-01-01,185560,false,"christmas,adult standards",0.235,0.183,-10.153,1,0.0295,0.906,0.0000523,0.288,0.194,158.566,4
+2018-01-049,4PpuH4mxL0rD35mOWaLoKS,Lemon,N*E*R*D & Rihanna,2017-12-15,219706,true,,0.916,0.727,-6.556,1,0.0861,0.00214,0.000145,0.118,0.201,94.997,4

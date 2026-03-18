@@ -1,93 +1,164 @@
 billboard_id,track_id,Track Name,Artist Name(s),Release Date,Duration (ms),Explicit,Genres,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
-2024-01-001,2EjXfH91m7f8HiJN1yQg97,rockin' around the christmas tree,brenda lee,1964-10-19,126266,false,christmas,0.598,0.47,-8.744,1,0.0496,0.617,0,0.505,0.879,67.086,4
-2024-01-002,0bYg9bo50gSsH3LtXe2SQn,all i want for christmas is you,mariah carey,1994-10-28,241562,false,christmas,0.336,0.627,-7.463,1,0.0384,0.164,0,0.0708,0.35,150.273,4
-2024-01-003,7vQbuQcyTflfCIOu3Uzzya,jingle bell rock,bobby helms,1957-12-02,130973,false,christmas,0.754,0.424,-8.463,1,0.0363,0.643,0,0.0652,0.806,119.705,4
-2024-01-004,2FRnf9qhLbvw8fu4IBXx78,last christmas,wham!,1984-11-29,262960,false,christmas,0.735,0.478,-12.472,1,0.0293,0.189,0.00000248,0.355,0.947,107.682,4
+2024-01-001,4LJcNiq2pBb8OeqrGdBJQw,i'm sorry,brenda lee,1960-08-01,161546,false,christmas,0.558,0.223,-12.362,1,0.0299,0.868,0.000972,0.13,0.303,101.711,3
+2024-01-002,0gLQ6jhJsyYfl7PrD1RZ7X,vision of love,mariah carey,1990-06-12,208552,false,christmas,0.256,0.464,-10.959,1,0.0382,0.433,0,0.121,0.355,205.362,3
+2024-01-003,1NX4kgWTCIHuBy6t9oq9kw,my special angel,bobby helms,2008-01-23,181453,false,christmas,0.491,0.309,-8.427,1,0.0252,0.654,0,0.16,0.362,78.693,4
+2024-01-004,0ikz6tENMONtK6qGkOrU3c,wake me up before you go-go,wham!,1984-10-23,231333,false,christmas,0.62,0.573,-11.893,1,0.0423,0.271,0,0.0607,0.897,81.548,4
 2024-01-005,77khP2fIVhSW23NwxrRluh,a holly jolly christmas,burl ives,1965-10-01,135533,false,christmas,0.682,0.375,-13.056,1,0.0303,0.579,0,0.076,0.888,140.453,4
-2024-01-009,4xhsWYTOGcal8zt0J161CU,lovin on me,jack harlow,2023-11-10,138411,true,,0.943,0.558,-4.911,1,0.0568,0.0026,0.00000219,0.0937,0.606,104.983,4
-2024-01-019,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
-2024-01-024,3rUGC1vUpkDG9CZFHMur1t,greedy,tate mcrae,2023-09-15,131872,true,,0.749,0.729,-3.19,0,0.0321,0.261,0,0.113,0.816,111.004,1
-2024-01-029,7DlZH8EiVDgQXNoj3dnyZC,paint the town red,doja cat,2023-09-22,230466,true,,0.864,0.556,-7.683,0,0.194,0.255,0.00000385,0.112,0.726,99.974,4
+2024-01-006,1iouzbWau005kKOAXsoyl2,canadian sunset,andy williams,2012-12-11,156604,false,"christmas,adult standards",0.344,0.441,-8.495,1,0.0313,0.705,0,0.17,0.444,119.962,4
+2024-01-007,5I9iHWuPvQMjzcBBYx1hpH,that's amore - 1998 - remastered,dean martin,2004,187506,false,"christmas,adult standards,big band,swing music",0.325,0.219,-9.417,1,0.0349,0.77,0,0.112,0.521,79.181,1
+2024-01-009,2urRqmAFhjZKo8Z6sEGzEv,my true love,jack scott,2009-04-01,165293,false,"rockabilly,doo-wop,psychobilly",0.554,0.189,-14.277,1,0.0279,0.915,0.0000137,0.132,0.214,136.714,3
+2024-01-010,4cebVIEpo3f2Pks50fATbc,sentimental me,the ames brothers,2007-05-26,198239,false,adult standards,0.41,0.177,-11.459,1,0.0274,0.86,0,0.118,0.264,75.601,4
+2024-01-011,0S4RKPbRDA72tvKwVdXQqe,the way,ariana grande;mac miller,2013-01-01,227026,false,pop,0.645,0.878,-3.208,0,0.113,0.294,0,0.076,0.862,82.324,4
+2024-01-012,5dae01pKNjRQtgOeAkFzPY,mona lisa,nat king cole,1954-01-01,194986,false,"christmas,adult standards,vocal jazz",0.241,0.237,-12.201,1,0.0371,0.952,0,0.113,0.303,174.578,3
+2024-01-013,4TPVLeEWGTnNSwORbNmR13,friend of mine,kelly price,1998-01-01,329293,false,r&b,0.587,0.559,-7.133,0,0.0556,0.0931,0,0.108,0.482,119.537,4
+2024-01-014,28IBsttOK2aG9Cb4QtqhMr,dear hearts and gentle people,bing crosby,1993-01-01,161293,false,christmas,0.768,0.288,-12.741,1,0.0397,0.91,0.00034,0.142,0.721,107.741,3
+2024-01-016,4Gx5Hy6fnfeXcSEnVls6f3,the cry of the wild goose,frankie laine,2014-04-18,174813,false,adult standards,0.637,0.275,-12.261,0,0.0386,0.824,0,0.239,0.454,80.044,4
+2024-01-018,3T99MhhnbWTqo0Bj5lyuP8,heartbreak hotel,elvis presley,2009-12-25,128039,false,"rockabilly,rock and roll",0.688,0.223,-11.476,1,0.0619,0.849,0.0000021,0.0974,0.701,93.551,4
+2024-01-019,6enR2PAZd7LUMMwQb4ciuh,i'll always love you,taylor dayne,1988-01-19,270786,false,,0.604,0.538,-6.285,1,0.0228,0.256,0,0.088,0.446,85.332,4
+2024-01-020,3U69pCQwveSOn5bl9VAime,c'est si bon,eartha kitt,1956,179106,false,christmas,0.512,0.35,-10.989,0,0.0472,0.796,0,0.0887,0.552,75.47,4
+2024-01-021,0TMrV95mP7sDlvbE4iVfKP,be-bop-a-lula,gene vincent & his blue caps;gene vincent,1996-01-01,157206,false,"rockabilly,rock and roll,psychobilly,doo-wop,roots rock",0.607,0.561,-10.099,1,0.0425,0.421,0,0.298,0.841,127.638,3
+2024-01-022,3nWP3JoMsTgbq7zc9aq3sg,school day,chuck berry,2012-01-01,160327,false,"rockabilly,rock and roll",0.757,0.844,-6.204,1,0.0467,0.821,0.0000239,0.112,0.945,130.773,4
+2024-01-023,3bBVFWRjAR7X0H4pzNBukG,ben,michael jackson,1995,167333,false,,0.461,0.136,-13.284,1,0.0305,0.877,0.000558,0.102,0.28,136.177,4
+2024-01-024,45bE4HXI0AwGZXfZtMp8JR,you broke me first,tate mcrae,2020-04-17,169265,true,,0.667,0.373,-9.389,1,0.05,0.785,0,0.0906,0.0823,124.148,4
+2024-01-026,4chlGZQX5uPYpRLp3NezmX,diana,paul anka,2000-10-03,138360,false,adult standards,0.57,0.408,-9.932,1,0.0295,0.341,0,0.549,0.96,143.249,4
+2024-01-027,6SHADtq8nTZCUTjyP7HJqf,hoop-dee-doo,perry como,1988-06-16,174040,false,"christmas,adult standards",0.645,0.43,-11.916,1,0.0444,0.91,0,0.561,0.944,132.643,4
+2024-01-028,608xszaAxVh4m7NcKJiAbF,one of these nights - 2013 remaster,eagles,1975-06-10,291685,false,"classic rock,yacht rock,soft rock",0.655,0.606,-10.385,1,0.0285,0.0603,0.0789,0.0757,0.765,110.061,4
+2024-01-029,3Dv1eDb0MEgF93GpLXlucZ,say so,doja cat,2019-11-07,237894,true,,0.787,0.673,-4.583,0,0.159,0.264,0.00000335,0.0904,0.779,110.962,4
+2024-01-030,5lyapyooYkeyqYUKmNDRnm,doctor my eyes,jackson browne,2004,199906,false,"yacht rock,soft rock,folk rock,singer-songwriter",0.48,0.626,-8.406,1,0.0294,0.266,0.000057,0.0857,0.542,75.63,4
+2024-01-031,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
 2024-01-032,5aIVCx5tnk0ntmdiinnYvw,water,tyla,2023-07-28,200255,false,afrobeats,0.673,0.722,-3.495,0,0.0755,0.0856,0,0.137,0.519,117.187,4
-2024-01-035,7dJYggqjKo71KI9sLzqCs8,agora hills,doja cat,2023-09-22,265360,true,,0.75,0.674,-6.128,0,0.097,0.228,0.0000891,0.122,0.392,123.026,4
-2024-01-036,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
-2024-01-047,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2024-01-034,4kjOWauuYptQVSnuac4dsr,go away little girl,donny osmond,2002-01-01,149160,false,,0.316,0.39,-11.472,1,0.0409,0.76,0.000186,0.149,0.371,110.055,4
+2024-01-036,6foY66mWZN0pSRjZ408c00,whiskey glasses,morgan wallen,2018-04-27,234346,false,country,0.614,0.68,-4.58,1,0.0289,0.369,0.00000184,0.115,0.707,149.959,4
+2024-01-037,6W2Ef5Ph6ILTUAedoQ3QIv,like i love you,justin timberlake,2002-11-04,283626,false,,0.853,0.811,-4.927,0,0.0646,0.0439,0.000307,0.0703,0.9,114.964,4
+2024-01-039,4eB38xaOoNp9WZCjvSIgTC,cindy oh cindy,vince martin with the tarriers,2011-05-16,174532,false,,0.619,0.304,-10.636,0,0.0579,0.673,0,0.203,0.343,128.458,4
+2024-01-040,2VEsmoek0sol9MnJFyoG9e,burnin' up,jonas brothers,2008-08-12,175093,false,,0.667,0.954,-3.462,1,0.0817,0.0296,0,0.331,0.807,114.03,4
+2024-01-042,74uuI8nGoIPIydD7oXF0O8,cry,johnnie ray;the four lads,1958-04-01,137529,false,"vocal jazz,adult standards,doo-wop",0.745,0.194,-9.692,1,0.0779,0.914,0,0.107,0.673,133.776,5
+2024-01-046,1FKI2zdazbVqTWpE5bWmzo,wish you were here - remastered,eddie fisher,2001-08-06,175306,false,adult standards,0.432,0.165,-12.289,1,0.0336,0.881,0.000111,0.229,0.171,104.346,4
+2024-01-047,0tVDfAiHDgvRyXuVike1Ju,raise the roof,luke;no good but so good,1997,29688,true,"miami bass,baltimore club,new orleans bounce",0.709,0.504,-17.387,1,0.202,0.0661,0,0.36,0.942,142.544,4
 2024-01-048,6usohdchdzW9oML7VC4Uhk,lose control,teddy swims,2023-06-23,210688,false,,0.561,0.604,-4.409,1,0.0337,0.199,0.000019,0.104,0.242,159.92,3
-2024-01-051,0cVyQfDyRnMJ0V3rjjdlU3,lil boo thang,paul russell,2023-08-18,114233,false,,0.85,0.699,-3.292,1,0.0776,0.152,0,0.32,0.915,114.481,4
-2024-01-053,1a73gcEg6h6Re6hHXoVltJ,ftcu,nicki minaj,2023-12-08,172137,true,,0.93,0.435,-6.694,1,0.202,0.0173,0.000287,0.117,0.227,144.978,4
-2024-01-054,0mflMxspEfB0VbI1kyLiAv,stick season,noah kahan,2022-10-14,182346,false,,0.664,0.5,-6.935,1,0.0651,0.799,0,0.0966,0.801,117.896,4
-2024-01-056,7MSWxMumjz6lHj7oRApNbg,white horse,chris stapleton,2023-07-21,267893,false,"country,outlaw country",0.353,0.77,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225,4
-2024-01-059,6D8y7Bck8h11byRY88Pt2z,houdini,dua lipa,2024-05-03,185917,false,pop,0.744,0.789,-4.876,0,0.059,0.0036,0.00144,0.0947,0.866,116.985,4
+2024-01-052,3QLjDkgLh9AOEHlhQtDuhs,best i ever had,drake,2009,257690,true,rap,0.395,0.922,-2.176,1,0.375,0.19,0,0.134,0.558,162.361,4
+2024-01-053,1JhP5jEC8NLDcSNjJWCAem,total eclipse of the heart,nicki french,1995,235159,false,eurodance,0.603,0.789,-8.939,1,0.0285,0.00682,0,0.11,0.486,136.049,4
+2024-01-054,22VHOlVYBqytsrAqV8yXBK,dial drunk (with post malone),noah kahan;post malone,2023-07-18,213817,true,,0.669,0.606,-7.193,1,0.0292,0.124,0,0.112,0.69,112.108,4
+2024-01-056,0fbAW05kmVB6C3zbNMmpB5,petite fleur,chris barber's jazz band,2012-08-13,164986,false,"ragtime,jazz,swing music",0.694,0.227,-8.285,0,0.0336,0.95,0.744,0.111,0.505,112.075,4
+2024-01-058,0G71WvIkF2K6HViJeFvOcM,see you again,miley cyrus,2007-01-01,190453,false,,0.692,0.911,-5.098,0,0.177,0.0149,0.0000734,0.112,0.801,138.975,4
+2024-01-059,4nAJtcmiyoL0ARY5WZY9IN,rebel rouser,duane eddy,1965-11-24,153533,false,"surf rock,rockabilly",0.388,0.434,-11.997,1,0.0354,0.789,0.954,0.728,0.873,206.313,4
 2024-01-061,5ya0TmUQw2wHMkq36rPsnd,world on fire,nate smith,2023-04-28,189986,false,country,0.461,0.887,-4.871,0,0.0429,0.000219,0,0.104,0.411,95.964,4
 2024-01-062,0R6NfOiLzLj4O5VbYSJAjf,la diabla,xavi,2023-11-30,172264,false,"corridos tumbados,corrido,corridos bélicos,sad sierreño,sierreño,banda,música mexicana",0.751,0.819,-4.372,0,0.0409,0.255,0,0.236,0.697,131.842,3
-2024-01-063,2gT2iF1YK5r54A2PDEXVv8,pretty little poison,warren zeiders,2023-03-17,218160,false,country,0.518,0.557,-4.839,1,0.0332,0.0258,0.00000246,0.156,0.216,111.865,3
+2024-01-063,68pWLkspLFIfIPPtzyTkQy,regulate,warren g;nate dogg,1994-06-07,248866,true,"g-funk,west coast hip hop,old school hip hop,gangster rap",0.849,0.521,-12.999,0,0.216,0.306,0.00000165,0.115,0.763,95.262,4
 2024-01-064,1o8Z7GD1CeOaVBEyuzu4HO,on my mama,victoria monét,2023-06-16,186678,true,alternative r&b,0.481,0.539,-7.865,0,0.108,0.551,0.00539,0.12,0.621,153.277,4
-2024-01-066,4E63weMCaNZuGPEFMnuEi8,exes,tate mcrae,2023-12-08,159400,true,,0.821,0.575,-6.57,0,0.0589,0.173,0.000242,0.114,0.611,136.962,4
-2024-01-068,4MjDJD8cW7iVeWInc2Bdyj,monaco,bad bunny,2023-10-13,267194,true,"reggaeton,trap latino,latin,urbano latino",0.787,0.621,-5.009,0,0.068,0.15,0.000402,0.58,0.13,139.056,4
-2024-01-076,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
-2024-01-080,0eBFgRxyVSeuT4iyrbukdn,where the wild things are,luke combs,2023-03-24,239544,false,country,0.708,0.731,-4.872,1,0.0345,0.0189,0.00000447,0.129,0.379,116.975,4
-2024-01-084,6UoKX6uLJwhsnyTp5k5StP,the painter,cody johnson,2023-08-11,211413,false,"texas country,country,red dirt",0.512,0.709,-5.766,1,0.0329,0.0415,0.00000425,0.107,0.261,97.981,4
-2024-01-085,6uTPdRrEDeH8Fyg5L5qmeU,never lose me,flo milli,2023-11-30,125901,true,,0.781,0.567,-7.857,1,0.0969,0.0504,0,0.0981,0.0743,121.964,4
-2024-01-086,09hVlIVHtEE1nLUv6YGZiW,burn it down,parker mccollum,2023-05-12,233869,false,"texas country,red dirt,country",0.461,0.718,-5.627,1,0.0666,0.139,0.0000166,0.0968,0.334,162.187,4
-2024-01-094,2Zo1PcszsT9WQ0ANntJbID,feather,sabrina carpenter,2023-03-17,185552,true,pop,0.791,0.694,-4.332,0,0.0335,0.0736,0.00000175,0.0958,0.826,123.508,4
-2024-02-006,7gaA3wERFkFkgivjwbSvkG,"yes, and?",ariana grande,2024-01-12,214994,true,pop,0.787,0.775,-6.614,1,0.0548,0.19,0.0000654,0.113,0.787,118.998,4
-2024-02-009,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
-2024-02-010,52eIcoLUM25zbQupAZYoFh,redrum,21 savage,2024-01-12,270697,true,,0.625,0.733,-8.757,1,0.0488,0.00598,0.000983,0.375,0.244,172.09,4
+2024-01-067,3G7XYAwtxtoGK7fAm4IlD9,classic man (feat. roman gianarthur),jidenna;roman gianarthur,2015-02-03,222925,true,neo soul,0.79,0.585,-6.058,1,0.0348,0.185,0,0.292,0.585,94.072,4
+2024-01-068,1tURLJqgjF5FyvZyRq1wAR,come and get it,badfinger,2007-01-01,138186,false,"power pop,jangle pop",0.622,0.404,-14.425,1,0.0306,0.22,0,0.0348,0.637,98.304,4
+2024-01-071,5ehVOC0zSdwWqyZlhomJSi,have you never been mellow,olivia newton-john,1975,213533,false,,0.542,0.324,-14.07,1,0.0329,0.566,0.00000227,0.0876,0.421,121.802,4
+2024-01-073,0IKeDy5bT9G0bA7ZixRT4A,bebe dame,fuerza regida;grupo frontera,2022-12-28,271861,false,"corrido,corridos tumbados,corridos bélicos,sierreño,música mexicana,banda,sad sierreño,electro corridos,cumbia norteña,norteño,grupera,tejano,ranchera",0.529,0.602,-4.629,1,0.0458,0.299,0,0.0716,0.756,157.643,4
+2024-01-074,5mvKuE9Lf9ARVXVXA32kK9,price tag,jessie j;b.o.b,2011-01-01,223053,false,,0.637,0.832,-3.945,1,0.183,0.0282,0.00000347,0.277,0.68,175.011,4
+2024-01-075,2VzCjpKvPB1l1tqLndtAQa,por las noches,peso pluma,2021-06-11,239845,false,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda",0.807,0.595,-7.19,1,0.0325,0.31,0.0000244,0.0735,0.392,92.491,4
+2024-01-076,49GYvCcvMQq1SY3f7Y347h,wait in the truck,hardy;lainey wilson,2023-01-20,277659,false,"country,country rock",0.534,0.466,-6.98,1,0.0272,0.277,0,0.0979,0.23,140,4
+2024-01-077,6jNSLzZleQ0iprO0seAwun,white on white,danny williams,2010-01-01,138786,false,northern soul,0.651,0.537,-7.944,1,0.026,0.854,0,0.304,0.746,112.825,4
+2024-01-078,5jE48hhRu8E6zBDPRSkEq7,all about that bass,meghan trainor,2015-01-12,191488,true,,0.807,0.887,-3.726,1,0.0503,0.0573,0.00000287,0.124,0.961,134.052,4
+2024-01-081,7dSZ6zGTQx66c2GF91xCrb,provenza,karol g,2022-04-22,210200,false,"reggaeton,latin,urbano latino",0.87,0.516,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4
+2024-01-083,1vMdYJe6OweG41UjDzEYe8,not tonight,lil' kim,1996,271826,true,east coast hip hop,0.862,0.662,-7.669,0,0.153,0.00562,0,0.0375,0.777,91.052,4
+2024-01-084,13rC4iKtfQocWIfzPOJxaT,'til you can't,cody johnson,2021-06-11,224773,false,"texas country,country,red dirt",0.505,0.814,-4.905,1,0.0439,0.0566,0,0.106,0.503,160.085,4
+2024-01-085,0WnESCgrJ4XBxlsnHMECtl,san antonio rose,floyd cramer,1961,139586,false,,0.575,0.451,-14.082,1,0.0282,0.438,0.754,0.172,0.972,173.573,4
+2024-01-086,4reXo2zg1uhEIpUAacDb9C,handle on you,parker mccollum,2023-05-12,219967,false,"texas country,red dirt,country",0.591,0.928,-3.925,1,0.0316,0.00441,0,0.291,0.619,105.025,4
+2024-01-090,6LLK7hZgXFYi5Jk4oRQvAl,bang bang (my baby shot me down) - single version,cher,1999-01-01,166173,false,,0.418,0.383,-12.789,0,0.0294,0.223,0.00000552,0.212,0.878,167.049,4
+2024-01-091,6o4mAOfN5FYdhMG8ozSB8V,a rose and a baby ruth (rerecorded),george hamilton iv,2008-07-29,140466,false,"country christian,traditional country,classic country",0.572,0.206,-11.574,1,0.0264,0.775,0.00000823,0.165,0.287,95.286,3
+2024-01-092,6xBUWSz8INNHO6wFYuPtQl,queen of hearts,juice newton,1988-10-19,206866,false,,0.669,0.779,-11.522,1,0.0533,0.211,0.0000898,0.132,0.975,169.478,4
+2024-01-094,2qSkIjg1o9h3YT9RAgYN75,espresso,sabrina carpenter,2024-04-12,175459,true,pop,0.701,0.76,-5.478,1,0.0285,0.107,0.0000654,0.185,0.69,103.969,4
+2024-01-096,2yzshFeBIwH8tWIqHEFLeD,un x100to,grupo frontera;bad bunny,2023-08-25,194563,false,"cumbia norteña,banda,norteño,música mexicana,corrido,corridos tumbados,grupera,tejano,ranchera,reggaeton,trap latino,latin,urbano latino",0.571,0.72,-4.089,1,0.0458,0.213,0,0.271,0.542,83.827,4
+2024-01-097,2HRgqmZQC0MC7GeNuDIXHN,seven (feat. latto) (explicit ver.),jung kook;latto,2023-11-03,183550,true,k-pop,0.79,0.831,-4.185,1,0.044,0.312,0,0.0797,0.872,124.987,4
+2024-01-100,6c20LH3R4foocWLmYyojWq,maggie may,rod stewart,1971-01-01,350266,false,soft rock,0.611,0.583,-10.428,1,0.0408,0.611,0.0853,0.0688,0.53,129.432,4
+2024-02-009,0q75NwOoFiARAVp4EXU4Bs,love galore (feat. travis scott),sza;travis scott,2017-06-09,275085,true,"r&b,rap",0.795,0.594,-6.2,1,0.0748,0.112,0,0.162,0.409,135.002,4
+2024-02-010,2fQrGHiQOvpL9UgPvtYy6G,bank account,21 savage,2017-09-23,220306,true,,0.884,0.347,-8.227,0,0.35,0.015,0.000007,0.0871,0.376,75.016,4
 2024-02-015,6tNQ70jh4OwmPGpYy6R2o9,beautiful things,benson boone,2024-01-18,180304,false,,0.472,0.471,-5.692,1,0.0603,0.151,0,0.14,0.219,105.029,3
-2024-02-027,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
-2024-02-032,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2024-02-022,74eR7BB8czisFwox9vhseT,when,kalin twins,2011-06-23,150560,false,doo-wop,0.657,0.537,-6.578,1,0.0314,0.614,0.00000697,0.186,0.95,92.872,4
+2024-02-023,0cCbK9QWZXDLc8a6hTI7Eb,kiss the rain,billie myers,1997-01-01,270160,false,,0.455,0.682,-6.996,1,0.041,0.00142,0.0000496,0.162,0.283,177.997,4
+2024-02-032,57TRYhuuEShbqy8Y4EnSaS,pushin p (feat. young thug),gunna;future;young thug,2022-01-06,136266,false,"melodic rap,rap,trap",0.77,0.412,-4.605,1,0.189,0.00722,0.0781,0.122,0.486,77.508,1
 2024-02-033,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
-2024-02-036,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
-2024-02-038,1kuGVB7EU95pJObxwvfwKS,vampire,olivia rodrigo,2023-09-08,219724,true,,0.484,0.53,-5.821,1,0.0538,0.154,0,0.263,0.323,136.848,4
-2024-02-044,0WIv5qV41y6YjjB9V1biuC,made for me,muni long,2023-09-15,188000,false,,0.796,0.468,-6.375,0,0.0324,0.122,0,0.118,0.0677,119.98,4
-2024-03-032,57wp7VFnV8X0pSVnYArGeJ,whatever she wants,bryson tiller,2024-02-13,161342,true,"trap soul,r&b",0.803,0.512,-6.871,0,0.066,0.128,0,0.0928,0.435,96.02,4
+2024-02-044,5Ej6ptHhOt4cR6AODkU9tE,hrs & hrs,muni long,2022-09-23,204316,false,,0.533,0.528,-4.777,0,0.192,0.611,0,0.114,0.67,140.506,3
+2024-02-051,0RmEn2jcbyrLV4em3bnDZJ,damn i wish i was your lover,sophie b. hawkins,2003,323400,false,,0.563,0.806,-6.826,1,0.0496,0.281,0.0000149,0.363,0.42,95.188,4
+2024-02-058,2rMAtCaTj16NptyVfEIeAC,cash shit (feat. dababy),megan thee stallion;dababy,2019-05-17,192539,true,,0.921,0.635,-4.904,1,0.416,0.0218,0,0.0946,0.549,130.028,4
+2024-02-062,3QS9ZCtoSCJhmaJ7QNXSAS,act ii: date @ 8 (feat. drake) - remix,4batz;drake,2024-03-08,231338,true,rap,0.55,0.545,-9.304,1,0.163,0.318,0,0.0608,0.412,102.469,4
+2024-02-069,4u2pk0zATUkEeMtuuMtu46,worst way,riley green,2024-03-29,220558,false,country,0.366,0.492,-7.9,1,0.0324,0.0899,0.000994,0.132,0.349,197.768,3
+2024-02-070,5tdbfH5mOJnjalyR3HdJh0,the stripper,david rose,2009-12-11,120733,false,exotica,0.484,0.448,-10.144,1,0.0276,0.622,0.692,0.156,0.542,94.167,4
+2024-02-072,7zVCrzzEJU7u24sbJPXA5W,what ifs (feat. lauren alaina),kane brown;lauren alaina,2016-12-02,188270,false,"country,pop country",0.612,0.799,-4.603,1,0.0275,0.00898,0,0.172,0.687,125.976,4
+2024-02-075,73kIKvg65QWieOKXIwyLJP,all the way (feat. bailey zimmerman),bigxthaplug;bailey zimmerman,2025-04-04,165000,true,"southern hip hop,country",0.831,0.555,-6.331,0,0.0576,0.314,0,0.135,0.444,135.015,4
+2024-02-077,3oW6SWwGqiZSPTiAp7ZQoH,it's a great day to be alive,travis tritt,2000-10-01,241533,false,"classic country,country,outlaw country",0.595,0.653,-4.935,1,0.0265,0.246,0,0.264,0.542,128.93,4
+2024-02-081,4jkn5PRfAJoKfXF0OPL7n7,that's the way i've always heard it should be,carly simon,1971-03,258133,false,,0.4,0.0897,-19.012,1,0.0288,0.938,0.000521,0.0847,0.24,70.387,4
+2024-02-082,6PhOzQShyz2vjELsXax7TQ,player's anthem,junior m.a.f.i.a.,1995,322266,true,east coast hip hop,0.822,0.545,-7.933,1,0.445,0.204,0.00000271,0.105,0.564,87.985,4
+2024-02-090,71GcB5eY2lsq7WghDh3NWF,tragedy,thomas wayne,2011-01-27,132371,false,"rockabilly,doo-wop",0.363,0.163,-12.108,1,0.0267,0.992,0.0253,0.148,0.145,74.362,4
+2024-02-094,1cOboCuWYI2osTOfolMRS6,tu boda,oscar maydon;fuerza regida,2024-09-26,225880,true,"corrido,corridos tumbados,corridos bélicos,electro corridos,sierreño,dembow belico,sad sierreño,música mexicana,banda",0.694,0.651,-6.968,1,0.0784,0.496,0.0000136,0.0787,0.471,112.648,3
+2024-02-095,7sO5G9EABYOXQKNPNiE9NR,ric flair drip (with metro boomin),offset;metro boomin,2017-10-30,172800,true,,0.88,0.428,-8.28,1,0.206,0.149,0.0000505,0.114,0.333,100.007,4
+2024-02-098,1qBc4ZjI8dZPWkhp64N7CY,ma belle amie - single version,tee-set;the skankin' monks;peter tetteroo,2013-11-23,213360,false,nederpop,0.696,0.69,-8.133,1,0.0657,0.00638,0.00000209,0.296,0.943,159.992,4
+2024-03-032,3pXF1nA74528Edde4of9CC,don't,bryson tiller,2015-10-02,198294,true,"trap soul,r&b",0.765,0.356,-5.556,0,0.195,0.223,0,0.0963,0.189,96.991,4
+2024-03-039,7hpGGPTNTgdmyjtudEmLfX,my nigga,yg;jeezy;rich homie quan,2013-01-01,236093,true,"southern hip hop,crunk,rap,gangster rap",0.665,0.475,-6.58,0,0.224,0.0756,0,0.176,0.785,171.255,4
+2024-03-047,47TqCCnEliDp8NRDyIQoQq,you make me wanna...,usher,1997-09-16,219120,false,r&b,0.761,0.639,-7.577,0,0.0539,0.0359,0,0.0945,0.922,164.088,4
 2024-03-051,3qhlB30KknSejmIvZZLjOD,end of beginning,djo,2022-09-16,159245,false,,0.689,0.454,-7.643,1,0.0584,0.0351,0.00259,0.0707,0.912,159.982,4
-2024-03-086,0SdBkFh6u5IHIXqlBu0NyI,yeah glo!,glorilla,2024-02-09,142702,true,,0.894,0.66,-5.349,0,0.33,0.0243,0,0.139,0.181,148.072,4
-2024-03-098,0wXThIDxO3YRJCpPgnmbkw,where it ends,bailey zimmerman,2023-01-11,179294,false,country,0.431,0.837,-5.067,1,0.0432,0.259,0,0.0879,0.648,170.041,4
-2024-04-005,4IadxL6BUymXlh8RCJJu7T,too sweet,hozier,2024-03-22,251424,false,,0.741,0.62,-5.505,1,0.0412,0.0295,0.000809,0.0398,0.934,117.038,4
-2024-04-010,46kspZSY3aKmwQe7O77fCC,we can't be friends (wait for your love),ariana grande,2024-03-08,228639,false,pop,0.645,0.646,-8.334,1,0.0427,0.0615,0.0000304,0.074,0.295,115.842,4
-2024-04-026,1bjeWoagtHmUKputLVyDxQ,saturn,sza,2024-02-22,186191,false,r&b,0.411,0.619,-6.834,1,0.0368,0.62,0,0.11,0.337,177.937,4
+2024-03-060,5nd60X8U2tF8HghyKzsWSV,ruby,richard hayman,2014-04-14,178306,false,exotica,0.198,0.34,-10.46,0,0.0308,0.53,0.642,0.176,0.266,80.762,4
+2024-03-065,5aWvinQcbc1W1WdP0GQ6J1,electric blue,icehouse,1987-09-21,263680,false,synthpop,0.688,0.909,-4.756,1,0.0354,0.0608,0.00000197,0.1,0.641,109.673,4
+2024-03-070,5IMHJFmezONtZgtWOgmxUj,i'll walk alone (rerecorded),don cornell,2014-10-23,184053,false,,0.347,0.278,-10.784,1,0.0289,0.789,0.000888,0.0647,0.216,66.085,3
+2024-03-078,5QS8PNEWbqTEZyQ6e9ZbJf,things a man oughta know,lainey wilson,2021-02-19,203373,false,country,0.659,0.683,-5.623,1,0.0312,0.513,0.00000493,0.133,0.397,139.931,4
+2024-03-086,0WNfQxDGaPTl0yogcMR5v1,tomorrow 2 (with cardi b),glorilla;cardi b,2022-11-11,209811,true,,0.839,0.813,-3.979,1,0.36,0.0744,0,0.116,0.711,79.816,4
+2024-03-098,5gVCfYmQRPy1QJifP8f5gg,fall in love,bailey zimmerman,2022-02-11,232058,false,country,0.524,0.643,-6.055,1,0.0297,0.451,0,0.221,0.397,135.962,4
+2024-04-005,0aOluBqXYd0rFSCsgDyAWX,take me to church,hozier,2014-10-07,241688,false,,0.575,0.664,-5.303,0,0.0481,0.637,0,0.116,0.437,129.07,4
+2024-04-008,7EiZI6JVHllARrX9PUvAdX,low life (feat. the weeknd),future;the weeknd,2016-04-13,313546,true,rap,0.722,0.331,-7.789,1,0.0726,0.337,0.282,0.146,0.102,143.961,4
 2024-04-028,2MjXWroB9wlTG2kqv3avfS,get it sexyy,sexyy red,2024-03-15,148551,true,,0.811,0.64,-5.63,0,0.274,0.0957,0,0.127,0.527,145.031,4
-2024-04-045,6WO7IDGLakjO38lsvI2gHB,slow it down,benson boone,2024-03-21,161831,false,,0.432,0.583,-4.682,1,0.0687,0.174,0,0.0933,0.544,181.489,4
+2024-04-044,2771LMNxwf62FTAdpJMQfM,bodak yellow,cardi b,2017-06-16,223962,true,,0.929,0.723,-5.792,0,0.109,0.0672,0,0.346,0.458,125.022,4
+2024-04-053,2uqYupMHANxnwgeiXTZXzd,austin (boots stop workin'),dasha,2024-02-16,171782,true,,0.756,0.672,-6.743,1,0.0522,0.464,0.00000337,0.108,0.739,114.935,4
 2024-04-070,2GxrNKugF82CnoRFbQfzPf,i like the way you kiss me,artemas,2024-03-19,142514,false,,0.599,0.946,-4.263,1,0.0447,0.000938,0.0106,0.0826,0.747,151.647,4
+2024-04-072,2lnzGkdtDj5mtlcOW2yRtG,"whenever, wherever",shakira,2001-11-13,196160,false,latin pop,0.794,0.832,-4.862,0,0.0407,0.237,0.0000114,0.203,0.871,107.657,4
 2024-04-083,6XjDF6nds4DE2BBbagZol6,gata only,floyymenor;cris mj,2024-02-02,222000,true,"reggaeton chileno,chilean trap,chilean mambo,reggaeton",0.791,0.499,-8.472,0,0.0509,0.446,0.0000241,0.0899,0.669,99.986,4
-2024-05-002,1kbEbBdEgQdQeLXCJh28pJ,down bad,taylor swift,2024-04-19,261228,true,,0.541,0.366,-10.412,1,0.0748,0.56,0.000001,0.0946,0.168,159.707,4
-2024-05-003,4q5YezDOIPcoLr8R81x9qy,i can do it with a broken heart,taylor swift,2024-04-18,218004,true,,0.701,0.751,-8.39,1,0.0502,0.123,0,0.15,0.22,129.994,4
-2024-05-022,2qSkIjg1o9h3YT9RAgYN75,espresso,sabrina carpenter,2024-04-12,175459,true,pop,0.701,0.76,-5.478,1,0.0285,0.107,0.0000654,0.185,0.69,103.969,4
+2024-04-097,6miou5rcSI3TqJWTKizJJI,give it to you,jordan knight,1999-01-01,289760,false,,0.829,0.669,-7.449,1,0.0608,0.0547,0,0.0589,0.58,134.86,4
+2024-04-100,7fPOOCejoBt3dIm6UcEdm8,you send me,sam cooke,1993,163560,false,"motown,soul,classic soul",0.538,0.226,-13.817,0,0.0288,0.945,0,0.125,0.553,96.951,4
 2024-05-027,2FQrifJ1N335Ljm3TjTVVf,a bar song (tipsy),shaboozey,2024-04-12,171291,true,,0.722,0.709,-4.95,1,0.0273,0.0633,0,0.0804,0.604,81.012,4
 2024-05-062,0WbMK4wrZ1wFSty9F7FCgu,"good luck, babe!",chappell roan,2024-04-05,218423,false,,0.7,0.582,-5.96,0,0.0356,0.0502,0,0.0881,0.785,116.712,4
-2024-05-079,6VpH2prT3NGiK5pnpG2L3J,bulletproof,nate smith,2024-02-09,183919,false,country,0.444,0.727,-5.177,1,0.0394,0.0361,0,0.114,0.519,79.912,4
-2024-06-002,6AI3ezQ4o3HUoP6Dhudph3,not like us,kendrick lamar,2024-05-04,274192,true,"hip hop,west coast hip hop",0.898,0.472,-7.001,1,0.0776,0.0107,0,0.141,0.214,101.061,4
-2024-06-003,5AJ9hqTS2wcFQCELCFRO7A,million dollar baby,tommy richman,2024-04-26,155151,false,,0.852,0.697,-5.52,0,0.0439,0.0973,0.00037,0.0678,0.919,138.029,4
-2024-06-005,629DixmZGHc7ILtEntuiWE,lunch,billie eilish,2024-05-17,179586,false,,0.893,0.4,-7.981,0,0.0643,0.0452,0.0823,0.0632,0.945,124.987,4
-2024-06-013,6dOtVTDdiauQNBQEDOtlAB,birds of a feather,billie eilish,2024-05-17,210373,false,,0.747,0.507,-10.171,1,0.0358,0.2,0.0608,0.117,0.438,104.978,4
-2024-06-016,77DRzu7ERs0TX3roZcre7Q,euphoria,kendrick lamar,2024-04-30,383639,true,"hip hop,west coast hip hop",0.831,0.643,-5.002,1,0.11,0.046,0,0.084,0.142,139.948,4
-2024-06-017,3QaPy1KgI7nu9FJEQUgn6h,wildflower,billie eilish,2024-05-17,261466,false,,0.467,0.247,-12.002,0,0.0431,0.612,0.000271,0.17,0.126,148.101,4
-2024-06-029,4pkb8SbRGeHAvdb87v9rpf,miles on it,marshmello;kane brown,2024-05-03,168355,false,"edm,country,pop country",0.634,0.761,-4.752,1,0.0472,0.00537,0,0.549,0.785,129.963,4
+2024-05-073,6AqwH2Y9FJwhUE2dCSkw1u,5 foot 9,tyler hubbard,2022-05-20,189780,false,country,0.602,0.796,-5.609,1,0.0465,0.146,0,0.125,0.53,106.005,4
+2024-05-076,7iQMm50NNwlUIRWhONZR2k,wind up missin’ you,tucker wetmore,2024-03-29,166040,true,country,0.572,0.722,-5.818,1,0.0363,0.512,0.00000112,0.124,0.636,171.857,4
+2024-05-090,0W4NhJhcqKCqEP2GIpDCDq,love,keyshia cole,2005-01-01,255333,false,r&b,0.688,0.518,-4.285,1,0.0283,0.0642,0,0.1,0.314,116.714,4
+2024-06-001,6eT7xZZlB2mwyzJ2sUKG6w,white iverson,post malone,2016-12-09,256532,true,,0.675,0.561,-7.678,1,0.0352,0.233,0,0.0793,0.309,130.098,4
+2024-06-002,6REbwUNlppTfcnV4d4ZoZi,swimming pools (drank),kendrick lamar,2012-01-01,247800,true,"hip hop,west coast hip hop",0.693,0.445,-5.892,1,0.257,0.00625,0.000234,0.0899,0.199,74.044,4
+2024-06-003,4H57HkfX2yD2RHKwpKe6Ff,teenage crush,tommy sands,2012-09-18,143870,false,"rockabilly,doo-wop",0.524,0.626,-6.904,0,0.0308,0.739,0,0.12,0.634,87.794,4
+2024-06-029,08bNPGLD8AhKpnnERrAc6G,friends,marshmello;anne-marie,2018-02-09,202620,true,edm,0.626,0.88,-2.384,0,0.0504,0.205,0,0.128,0.534,95.079,4
+2024-06-047,73KAidtqbDftZjy8AD0H04,high road (feat. jessie murph),koe wetzel;jessie murph,2024-06-07,179413,true,"red dirt,texas country,country,country rock",0.614,0.743,-5.046,1,0.0313,0.0839,0,0.107,0.623,138.077,4
+2024-06-072,6rPO02ozF3bM7NnOV4h6s2,despacito - remix,luis fonsi;daddy yankee;justin bieber,2017-04-17,228826,false,"latin,reggaeton",0.653,0.816,-4.353,1,0.167,0.228,0,0.0967,0.816,178.085,4
 2024-06-079,3Vr3zh0r7ALn8VLqCiRR10,stargazing,myles smith,2024-05-10,172533,false,,0.635,0.601,-6.129,0,0.0295,0.246,0,0.11,0.332,123.994,4
-2024-07-005,5N3hjp1WNayUPZrA8kJmJP,please please please,sabrina carpenter,2024-06-06,186365,true,pop,0.669,0.586,-6.073,1,0.054,0.274,0,0.104,0.579,107.071,4
-2024-07-013,4ZJ4vzLQekI0WntDbanNC7,pink skies,zach bryan,2024-05-24,194920,false,"country,red dirt",0.525,0.488,-6.909,1,0.038,0.191,0.0000514,0.135,0.253,84.999,4
-2024-07-016,2HYFX63wP3otVIvopRS99Z,houdini,eminem,2024-05-31,227239,true,"rap,hip hop",0.936,0.887,-2.76,0,0.0683,0.0292,0.00000188,0.0582,0.889,127.003,4
-2024-07-031,3SaS0Va6o6jYkWvadT86C6,i am not okay,jelly roll,2024-10-10,198066,false,"country hip hop,country",0.536,0.651,-5.208,1,0.0287,0.084,0,0.148,0.363,76.964,4
-2024-07-038,4xdBrk0nFZaP54vvZj0yx7,hot to go!,chappell roan,2023-09-22,184841,false,,0.742,0.757,-4.981,1,0.0421,0.0187,0,0.305,0.957,139.982,4
-2024-07-066,1k2pQc5i348DCHwbn5KTdc,pink pony club,chappell roan,2023-09-22,258034,false,,0.61,0.65,-6.199,1,0.0474,0.399,0,0.11,0.507,106.719,4
-2024-08-012,7Fzl7QaTu47WyP9R5S5mh5,lies lies lies,morgan wallen,2024-07-05,198068,false,country,0.486,0.702,-5.758,0,0.0298,0.239,0.0000754,0.0912,0.382,81.053,4
+2024-06-080,5eaK7PLGwyDXmHfTdWZZuE,straight from the heart,bryan adams,1983-01-18,211933,false,,0.587,0.237,-18.466,1,0.0272,0.0766,0,0.139,0.366,84.764,4
+2024-06-090,7GvhZ0F7cMBwpv7QzeGABf,teen angel (rerecorded),mark dinning,2008-07-29,157080,false,doo-wop,0.583,0.168,-12.426,1,0.035,0.869,0,0.148,0.349,97.572,4
+2024-06-092,23vUUPCzEapn1h5JOOFZvi,midnight in moscow,kenny ball,1997,180013,false,swing music,0.53,0.402,-14.117,0,0.0338,0.681,0.964,0.283,0.915,166.266,4
+2024-07-016,1MYlx4dBtiyjn7K8YSyfzT,the real slim shady,eminem,2005-12-06,284800,true,"rap,hip hop",0.947,0.655,-4.243,0,0.0609,0.0331,0,0.0433,0.787,104.485,4
+2024-07-021,3sKz6Sd72K0ofPWcJPPk6H,said sum,moneybagg yo,2020-09-18,155168,true,,0.929,0.667,-6.789,0,0.353,0.0185,0,0.1,0.274,126.998,4
+2024-07-036,7ne4VBA60CxGM75vw0EYad,that’s so true,gracie abrams,2024-10-18,166300,true,,0.554,0.808,-4.169,1,0.0368,0.214,0,0.159,0.372,108.548,4
+2024-07-053,33FiJdNiWACHYd5yk0en35,the blacksmith blues,ella mae morse;freddie slack and his orchestra,1992-01-01,186760,false,"boogie-woogie,swing music,rockabilly,big band",0.838,0.294,-11.298,1,0.0453,0.498,0.00000224,0.21,0.806,127.659,4
+2024-07-057,3j84U36KvLeXNDPv4t5pI8,pure water (with migos),mustard;migos,2019-06-28,192470,true,trap,0.68,0.559,-5.545,1,0.127,0.177,0,0.344,0.135,202.018,4
+2024-07-061,5AzYIo8Y7pvnKtdl2Yflcb,2 on (feat. schoolboy q),tinashe;schoolboy q,2014-01-21,230320,true,alternative r&b,0.738,0.596,-7.604,0,0.111,0.136,0,0.159,0.39,100.964,4
+2024-07-063,5aCE7zadGNpIk4noPUU6YI,butterfly,charlie gracie,2005-01-01,142600,false,"rockabilly,doo-wop,boogie-woogie,rock and roll",0.615,0.667,-6.763,1,0.0787,0.809,0.000085,0.476,0.761,129.053,4
+2024-07-072,0bxPRWprUVpQK0UFcddkrA,folded,kehlani,2025-06-11,238120,false,,0.572,0.598,-7.189,1,0.0564,0.295,0,0.12,0.498,135.578,4
+2024-07-081,0BCPKOYdS2jbQ8iyB56Zns,clocks,coldplay,2002-08-27,307879,false,,0.577,0.749,-7.215,0,0.0279,0.599,0.0115,0.183,0.255,130.97,4
+2024-07-085,4tK4ARuilOrBzwVQK73E0Y,the remedy (i won't worry),jason mraz,2002,256440,false,"soft pop,acoustic pop",0.589,0.867,-4.523,1,0.0385,0.041,0,0.306,0.795,94.52,4
+2024-07-095,2YMhrXQYKkm4kXLcXKKd5z,small town boy,dustin lynch,2017-09-08,205733,false,"country,acoustic country",0.554,0.743,-6.016,1,0.0287,0.0251,0,0.359,0.673,72.997,4
 2024-08-014,7tI8dRuH2Yc6RuoTjxo4dU,who,jimin,2024-07-19,170887,false,k-pop,0.66,0.756,-3.743,0,0.032,0.00289,0,0.193,0.838,116.034,4
-2024-09-002,5G2f63n7IPVPPjfNIGih7Q,taste,sabrina carpenter,2024-08-23,157279,false,pop,0.674,0.907,-4.086,1,0.064,0.101,0,0.297,0.721,112.964,4
-2024-09-006,2plbrEY59IikOBgBGLjaoe,die with a smile,lady gaga;bruno mars,2024-08-16,251667,false,"art pop,pop",0.521,0.592,-7.777,0,0.0304,0.308,0,0.122,0.535,157.969,3
-2024-09-014,1UHS8Rf6h5Ar3CDWRd3wjF,bed chem,sabrina carpenter,2024-08-23,171869,false,pop,0.739,0.727,-5.968,0,0.0426,0.0678,0,0.104,0.676,94.99,4
+2024-08-049,5yogRsv5ggT6iCnFgvdpho,stray cat strut,stray cats,1982-01-01,198000,false,"rockabilly,psychobilly",0.679,0.609,-9.482,0,0.0347,0.0957,0.00113,0.0474,0.695,132.467,4
+2024-08-069,3kxfsdsCpFgN412fpnW85Y,redbone,childish gambino,2016-12-02,326933,true,,0.745,0.356,-10.425,1,0.0941,0.172,0.00943,0.123,0.607,160.033,4
+2024-08-085,28u8fx3Cl3FsYkO3hXKhrI,who dat,jt money,2010-10-11,233747,false,"miami bass,southern hip hop",0.822,0.841,-5.695,0,0.228,0.0146,0,0.265,0.425,87.019,4
+2024-08-093,3pEuO9J2MTEmec8kUfYYvl,another night,real mccoy,1995-03-28,236933,false,"eurodance,europop",0.813,0.882,-7.575,1,0.0402,0.0908,0.00457,0.147,0.874,125.983,4
+2024-09-006,7zACUQbWQxzT4aER7ityBV,poker face,lady gaga,2009-11-05,237200,true,"art pop,pop",0.851,0.806,-4.618,1,0.0787,0.119,0.00000172,0.121,0.774,119.001,4
+2024-09-064,1PSBzsahR2AKwLJgx8ehBj,bad things (with camila cabello),mgk;camila cabello,2017-05-12,239293,false,,0.697,0.691,-4.757,1,0.146,0.214,0,0.185,0.305,137.853,4
 2024-09-080,2262bWmqomIaJXwCRHr13j,sailor song,gigi perez,2024-07-26,211978,false,,0.494,0.413,-10.432,1,0.0254,0.682,0.0000672,0.193,0.273,94.938,4
-2024-09-094,36wAwEkSDpNQ4oQeRLYC3L,am i okay?,megan moroney,2024-07-12,235002,false,country,0.593,0.734,-5.416,1,0.0514,0.02,0,0.138,0.518,125.937,4
-2024-10-093,4t4rGgiVX7woTmlnW9SHJ7,residuals,chris brown,2024-04-11,215178,false,r&b,0.58,0.645,-7.793,0,0.0821,0.342,0,0.108,0.171,114.905,4
-2024-11-001,5mAGsieQbw180sYdL3RMKk,love somebody,morgan wallen,2025-05-16,204828,false,country,0.622,0.852,-5.182,0,0.0281,0.00912,0.000118,0.145,0.719,122.038,4
-2024-11-023,1cOboCuWYI2osTOfolMRS6,tu boda,oscar maydon;fuerza regida,2024-09-26,225880,true,"corrido,corridos tumbados,corridos bélicos,electro corridos,sierreño,dembow belico,sad sierreño,música mexicana,banda",0.694,0.651,-6.968,1,0.0784,0.496,0.0000136,0.0787,0.471,112.648,3
-2024-11-068,3t6gUcGYLrUuqwpXjOFWQc,i never lie,zach top,2024-04-05,224906,false,"country,honky tonk",0.782,0.641,-6.431,1,0.0275,0.332,0.00923,0.108,0.522,107.997,4
-2024-11-074,6dayCflQl0ISXwZs6GBygC,i'm gonna love you,cody johnson;carrie underwood,2024-09-27,188106,false,"texas country,country,red dirt",0.552,0.494,-6.262,0,0.0318,0.358,0.0000294,0.108,0.312,133.91,4
-2024-11-075,3siwsiaEoU4Kuuc9WKMUy5,no one noticed,the marías,2024-05-31,236906,false,bedroom pop,0.705,0.339,-10.612,1,0.0278,0.552,0.0814,0.12,0.457,97.989,4
-2024-11-087,0llPOBVoJYDAtdmVlNE41A,liar,jelly roll,2024-10-10,204933,false,"country hip hop,country",0.645,0.767,-5.202,1,0.0299,0.0405,0,0.092,0.613,114.011,4
-2024-11-091,4u2pk0zATUkEeMtuuMtu46,worst way,riley green,2024-03-29,220558,false,country,0.366,0.492,-7.9,1,0.0324,0.0899,0.000994,0.132,0.349,197.768,3
-2024-12-001,0nj9Bq5sHDiTxSHunhgkFb,squabble up,kendrick lamar,2024-11-22,157992,true,"hip hop,west coast hip hop",0.874,0.672,-5.568,1,0.198,0.0206,0,0.0783,0.711,103.921,4
+2024-10-051,1e1JKLEDKP7hEQzJfNAgPl,magnolia,playboi carti,2017-04-14,181812,true,rage rap,0.791,0.582,-7.323,0,0.286,0.0114,0,0.35,0.443,162.991,4
+2024-10-052,60a0Rd6pjrkxjPbaKzXjfq,in the end,linkin park,2000-10-24,216880,false,"nu metal,rap metal,rock,alternative metal",0.556,0.864,-5.87,0,0.0584,0.00958,0,0.209,0.4,105.143,4
+2024-10-076,4sK96UnGx3NjBaqvfTG2dm,too close,alex clare,2011,256560,false,,0.584,0.712,-4.311,0,0.0395,0.0112,0.00000105,0.114,0.286,126.043,4
+2024-11-008,2scbGWVjIYsfieovyRyfv1,come on-a my house,rosemary clooney,2006-01-01,117266,false,"vocal jazz,big band",0.531,0.676,-7.168,0,0.125,0.84,0,0.4,0.957,183.208,4
+2024-11-043,3tFed7YsjGnIfxeLEQwx3R,"sticky (feat. glorilla, sexyy red & lil wayne)","tyler, the creator;glorilla;sexyy red;lil wayne",2024-10-28,255915,true,"rap,hip hop",0.505,0.812,-3.986,1,0.461,0.285,0,0.444,0.664,80.09,4
+2024-11-061,4dAMdQ6g4kGmnc1MDHsg77,shotta flow,nle choppa,2019-01-17,160013,true,,0.888,0.43,-6.728,1,0.588,0.0786,0.00000158,0.132,0.45,120.088,4
+2024-11-084,2SSMbMqXcv8mECBoSSYRPV,the pied piper,crispian st. peters,2012-01-01,150933,false,,0.823,0.406,-16.694,1,0.0568,0.703,0,0.154,0.972,125.465,4
+2024-12-060,4fSIb4hdOQ151TILNsSEaF,todo de ti,rauw alejandro,2021-05-20,199604,true,"reggaeton,trap latino,urbano latino,latin",0.78,0.718,-3.605,0,0.0506,0.31,0.000163,0.0932,0.342,127.949,4
 2024-12-062,2oVVaVY0LkzwAYYcyzon6Z,heart of a woman,summer walker,2024-10-25,171000,true,r&b,0.716,0.43,-8.28,0,0.112,0.482,0,0.146,0.472,129.93,4
-2024-12-084,4izQNhcqRT0tuqh9dWTKvi,good news,shaboozey,2025-04-25,199209,false,,0.603,0.48,-8.567,1,0.0295,0.491,0.0000224,0.113,0.383,80.974,4
-2024-12-088,3nHuKdFJZm78CoeBnDcFKe,bad dreams,teddy swims,2024-09-13,184577,false,,0.707,0.68,-6.203,1,0.0884,0.274,0,0.0932,0.62,125.058,4
-2024-12-097,0eaVIYo2zeOaGJeqZ5TwYz,no pole,don toliver,2023-02-28,187613,true,,0.328,0.631,-5.169,0,0.0465,0.0714,0,0.567,0.382,85.262,4
+2024-12-090,0eFndjUBaTQdO81uRO9lBL,sunshine,jonathan edwards,1971-01-01,138733,false,,0.709,0.347,-15.387,1,0.0697,0.371,0,0.107,0.832,125.268,4
+2024-01-008,6o5RmKNHq4mxrAbe7nniyB,Feliz Navidad,Jose Feliciano,2007,217506,false,"christmas,bolero,villancicos",0.489,0.347,-13.479,0,0.0369,0.84,0.00209,0.661,0.741,108.265,4
+2024-03-001,5IVuqXILoxVWvWEPm82Jxr,Texas Hold 'Em,Beyonce,2003-06-24,236133,false,"hip hop,east coast hip hop,rap",0.646,0.77,-6.596,0,0.226,0.00249,0,0.0715,0.681,99.165,4
+2024-02-074,24fQpRwKFkC3Fe8QtvvrNw,02.02.99,That Mexican OT,1995,242266,false,,0.601,0.504,-9.761,1,0.0284,0.31,0,0.137,0.564,78.986,4
+2024-02-086,7BkAlVpGwXXl3sYNn5OoJ7,Coal,Dylan Gossett,1966-06-20,277383,false,"folk rock,folk,singer-songwriter,roots rock",0.556,0.592,-7.378,1,0.0337,0.458,0,0.0637,0.587,94.887,4
+2024-03-042,2YSzYUF3jWqb9YP9VXmpjE,Breathe,Yeat,2023-10-06,260111,true,"rap,rage rap",0.673,0.672,-8.577,1,0.224,0.0466,0.000284,0.193,0.14,136.902,4
+2024-03-084,2G597vEgxsvckPwocEHY9Y,Home,Good Neighbours,2007-03-01,175693,false,"big band,ragtime,orchestral,easy listening,jazz",0.283,0.219,-13.386,1,0.0373,0.943,0.91,0.147,0.308,100.861,4
+2024-05-066,2HgyHjIYqPbnxkha7vM3de,Tell Ur Girlfriend,Lay Bankz,2009-01-30,151040,false,doo-wop,0.549,0.364,-11.844,1,0.386,0.528,0,0.286,0.848,166.587,4
+2024-08-061,3a1lNhkSLSkpJE4MSHpDu9,Tough,Quavo & Lana Del Rey,2016-12-09,220293,true,,0.63,0.804,-4.183,1,0.0364,0.215,0,0.253,0.492,123.146,4
+2024-09-098,18OOWYpby2ZvjBGokvInzp,She's Somebody's Daughter (Reimagined),Drew Baldridge,2015,159493,false,"christmas,big band,swing music",0.253,0.199,-9.302,1,0.0329,0.913,0,0.117,0.253,179.15,4
