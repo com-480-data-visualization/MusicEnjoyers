@@ -38,7 +38,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-01-037,R. City Featuring Adam Levine,Locked Away (feat. Adam Levine),Locked Away,227000,false
 2016-01-038,Brenda Lee,Christmas Cookies,Rockin' Around The Christmas Tree,126000,false
 2016-01-039,Skrillex & Diplo With Justin Bieber,Skrillex and Diplo present Jack Ü,Where Are U Now,250000,false
-2016-01-040,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-01-040,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-01-041,Daya,Hide Away,Hide Away,191000,false
 2016-01-042,Wiz Khalifa Featuring Charlie Puth,See You Again (feat. Charlie Puth),See You Again,229000,false
 2016-01-043,Selena Gomez Featuring A$AP Rocky,Revival (Deluxe),Good For You,221000,false
@@ -114,7 +114,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-02-013,The Weeknd,Beauty Behind The Madness,In The Night,236000,true
 2016-02-014,Drake & Future,What A Time To Be Alive,Jumpman,205000,true
 2016-02-015,Bryson Tiller,T R A P S O U L,Don't,200000,true
-2016-02-016,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-02-016,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-02-017,Post Malone,Stoney (Deluxe),White Iverson,254000,true
 2016-02-018,The Weeknd,Beauty Behind The Madness,The Hills,242000,true
 2016-02-019,Travis Scott,Rodeo,Antidote,262000,true
@@ -206,7 +206,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-03-005,Flo Rida,My House,My House,192000,false
 2016-03-006,Zayn,PILLOWTALK,Pillowtalk,203000,true
 2016-03-007,Adele,25,Hello,295000,false
-2016-03-008,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-03-008,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-03-009,The Chainsmokers Featuring Rozes,Roses (feat. ROZES),Roses,226000,false
 2016-03-010,DNCE,DNCE,Cake By The Ocean,218000,true
 2016-03-011,Selena Gomez,Revival (Deluxe),Hands To Myself,202000,false
@@ -305,7 +305,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-04-004,twenty one pilots,Blurryface,Stressed Out,202000,false
 2016-04-005,Flo Rida,My House,My House,192000,false
 2016-04-006,Zayn,PILLOWTALK,Pillowtalk,203000,true
-2016-04-007,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-04-007,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-04-008,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
 2016-04-009,DNCE,DNCE,Cake By The Ocean,218000,true
 2016-04-010,Ariana Grande,Dangerous Woman,Dangerous Woman,235000,false
@@ -408,7 +408,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-05-007,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
 2016-05-008,Zayn,PILLOWTALK,Pillowtalk,203000,true
 2016-05-009,Justin Bieber,Purpose (Deluxe),Love Yourself,234000,false
-2016-05-010,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-05-010,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-05-011,DNCE,DNCE,Cake By The Ocean,218000,true
 2016-05-012,Flo Rida,My House,My House,192000,false
 2016-05-013,twenty one pilots,Blurryface,Stressed Out,202000,false
@@ -516,7 +516,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-06-015,twenty one pilots,Blurryface,Stressed Out,202000,false
 2016-06-016,Flo Rida,My House,My House,192000,false
 2016-06-017,DNCE,DNCE,Cake By The Ocean,218000,true
-2016-06-018,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-06-018,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-06-019,Meghan Trainor,Thank You (Deluxe Version),No,214000,false
 2016-06-020,Future Featuring The Weeknd,EVOL,Low Life,315000,true
 2016-06-021,Florida Georgia Line,Dig Your Roots,H.O.L.Y.,194000,false
@@ -630,7 +630,7 @@ track_id,artists,album_name,track_name,duration_ms,explicit
 2016-07-029,Drake Featuring Rihanna,Views,Too Good,263000,true
 2016-07-030,Future Featuring The Weeknd,EVOL,Low Life,315000,true
 2016-07-031,"Fat Joe, Remy Ma & Jay Z Featuring French Montana & Infared",All The Way Up (feat. Infared) - Single,All The Way Up,191000,true
-2016-07-032,G-Eazy x Bebe Rexha,"g-eazy x bebe rexha me, myself & i - Slowed + Reverb","Me, Myself & I",309000,false
+2016-07-032,G-Eazy x Bebe Rexha,"me, myself & i","Me, Myself & I",309000,false
 2016-07-033,Justin Bieber,Purpose (Deluxe),Sorry,201000,false
 2016-07-034,Jeremih,Late Nights: The Album,Oui,238000,false
 2016-07-035,O.T. Genasis Featuring Young Dolph,Cut It (feat. Young Dolph),Cut It,222000,true

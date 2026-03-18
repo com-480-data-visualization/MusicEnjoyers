@@ -1,0 +1,452 @@
+billboard_id,track_id,Track Name,Artist Name(s),Release Date,Duration (ms),Explicit,Genres,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+2023-01-001,0bYg9bo50gSsH3LtXe2SQn,all i want for christmas is you,mariah carey,1994-10-28,241562,false,christmas,0.336,0.627,-7.463,1,0.0384,0.164,0,0.0708,0.35,150.273,4
+2023-01-002,2EjXfH91m7f8HiJN1yQg97,rockin' around the christmas tree,brenda lee,1964-10-19,126266,false,christmas,0.598,0.47,-8.744,1,0.0496,0.617,0,0.505,0.879,67.086,4
+2023-01-003,7vQbuQcyTflfCIOu3Uzzya,jingle bell rock,bobby helms,1957-12-02,130973,false,christmas,0.754,0.424,-8.463,1,0.0363,0.643,0,0.0652,0.806,119.705,4
+2023-01-004,2FRnf9qhLbvw8fu4IBXx78,last christmas,wham!,1984-11-29,262960,false,christmas,0.735,0.478,-12.472,1,0.0293,0.189,0.00000248,0.355,0.947,107.682,4
+2023-01-005,77khP2fIVhSW23NwxrRluh,a holly jolly christmas,burl ives,1965-10-01,135533,false,christmas,0.682,0.375,-13.056,1,0.0303,0.579,0,0.076,0.888,140.453,4
+2023-01-008,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-01-011,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-01-019,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-01-021,1bDbXMyjaUIooNwFE9wn0N,rich flex,drake;21 savage,2022-11-04,239359,true,rap,0.549,0.518,-9.39,0,0.257,0.0517,0.00000121,0.378,0.418,160.07,4
+2023-01-030,1R7TwnwF1RuYNf5vXlpQUT,bad habit,steve lacy,2022-07-14,232114,false,,0.683,0.505,-6.624,1,0.0395,0.601,0.000035,0.546,0.733,169.057,4
+2023-01-031,4LRPiXqCikLlN15c3yImP7,as it was,harry styles,2022-03-31,167303,false,,0.52,0.731,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4
+2023-01-039,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-01-042,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-01-045,0QHEIqNKsMoOY5urbzN48u,made you look,meghan trainor,2022-10-21,134256,false,,0.834,0.522,-3.574,1,0.0703,0.34,0.00000159,0.0783,0.854,145.035,4
+2023-01-046,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-01-049,5odlY52u43F5BjByhxg7wg,golden hour,jvke,2022-09-23,209259,false,,0.515,0.593,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3
+2023-01-051,5ihZarJQzsvrLE7R9zjwTq,super freaky girl,nicki minaj,2022-08-12,170977,false,,0.952,0.882,-2.634,1,0.217,0.0537,0.0000182,0.314,0.9,133.051,4
+2023-01-052,2wSTnntOPRi7aQneobFtU4,shirt,sza,2022-12-09,181840,true,r&b,0.848,0.512,-7.72,0,0.102,0.228,0.00232,0.0879,0.572,120.009,4
+2023-01-053,4Ls53fBNVfaXTROBi6X8Hw,just wanna rock,lil uzi vert,2023-06-30,123890,true,"melodic rap,rage rap",0.485,0.545,-7.924,1,0.0336,0.0651,0.00547,0.0642,0.0385,150.185,4
+2023-01-056,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-01-058,0T5iIrXA4p5GsubkhuBIKV,until i found you,stephen sanchez,2021-09-01,177720,false,,0.539,0.508,-6.05,1,0.0288,0.727,0,0.174,0.227,101.358,3
+2023-01-059,5Y35SjAfXjjG0sFQ3KOxmm,nobody gets me,sza,2022-12-09,180853,true,r&b,0.358,0.284,-8.285,1,0.0285,0.805,0,0.183,0.276,99.796,3
+2023-01-061,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-01-064,5jQI2r1RdgtuT8S3iG8zFC,lavender haze,taylor swift,2022-10-21,202395,true,,0.735,0.449,-10.56,0,0.0883,0.23,0.00126,0.132,0.0955,97.05,4
+2023-01-068,6vjZxvzdAeHp7jv3R398Xm,what my world spins around,jordan davis,2023-02-17,186800,false,"country,pop country",0.686,0.733,-6.483,1,0.0401,0.111,0,0.153,0.7,124.882,4
+2023-01-069,49GYvCcvMQq1SY3f7Y347h,wait in the truck,hardy;lainey wilson,2023-01-20,277659,false,"country,country rock",0.534,0.466,-6.98,1,0.0272,0.277,0,0.0979,0.23,140,4
+2023-01-070,67AdiJcurlf6gocGobfaXs,"going, going, gone",luke combs,2022-06-24,177244,false,country,0.565,0.56,-6.034,1,0.0275,0.538,0,0.0961,0.325,159.931,4
+2023-01-071,5DIBVDJOHh7djepAjKHWCO,heart like a truck,lainey wilson,2022-11-28,199040,false,country,0.587,0.632,-5.416,1,0.0311,0.148,0.0000101,0.158,0.392,139.974,4
+2023-01-074,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-01-085,2ZL7WZcjuYKi1KUDtp4kCC,spin bout u,drake;21 savage,2022-11-04,214588,true,rap,0.763,0.72,-6.383,1,0.0447,0.00961,0,0.165,0.229,129.971,4
+2023-01-091,0IKeDy5bT9G0bA7ZixRT4A,bebe dame,fuerza regida;grupo frontera,2022-12-28,271861,false,"corrido,corridos tumbados,corridos bélicos,sierreño,música mexicana,banda,sad sierreño,electro corridos,cumbia norteña,norteño,grupera,tejano,ranchera",0.529,0.602,-4.629,1,0.0458,0.299,0,0.0716,0.756,157.643,4
+2023-01-095,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-02-001,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-02-002,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-02-003,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-02-006,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-02-008,1bDbXMyjaUIooNwFE9wn0N,rich flex,drake;21 savage,2022-11-04,239359,true,rap,0.549,0.518,-9.39,0,0.257,0.0517,0.00000121,0.378,0.418,160.07,4
+2023-02-009,4LRPiXqCikLlN15c3yImP7,as it was,harry styles,2022-03-31,167303,false,,0.52,0.731,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4
+2023-02-010,5odlY52u43F5BjByhxg7wg,golden hour,jvke,2022-09-23,209259,false,,0.515,0.593,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3
+2023-02-011,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-02-012,4Ls53fBNVfaXTROBi6X8Hw,just wanna rock,lil uzi vert,2023-06-30,123890,true,"melodic rap,rage rap",0.485,0.545,-7.924,1,0.0336,0.0651,0.00547,0.0642,0.0385,150.185,4
+2023-02-014,0QHEIqNKsMoOY5urbzN48u,made you look,meghan trainor,2022-10-21,134256,false,,0.834,0.522,-3.574,1,0.0703,0.34,0.00000159,0.0783,0.854,145.035,4
+2023-02-016,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-02-017,1R7TwnwF1RuYNf5vXlpQUT,bad habit,steve lacy,2022-07-14,232114,false,,0.683,0.505,-6.624,1,0.0395,0.601,0.000035,0.546,0.733,169.057,4
+2023-02-018,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-02-019,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-02-020,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-02-023,49GYvCcvMQq1SY3f7Y347h,wait in the truck,hardy;lainey wilson,2023-01-20,277659,false,"country,country rock",0.534,0.466,-6.98,1,0.0272,0.277,0,0.0979,0.23,140,4
+2023-02-025,67AdiJcurlf6gocGobfaXs,"going, going, gone",luke combs,2022-06-24,177244,false,country,0.565,0.56,-6.034,1,0.0275,0.538,0,0.0961,0.325,159.931,4
+2023-02-026,2wSTnntOPRi7aQneobFtU4,shirt,sza,2022-12-09,181840,true,r&b,0.848,0.512,-7.72,0,0.102,0.228,0.00232,0.0879,0.572,120.009,4
+2023-02-027,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-02-029,0T5iIrXA4p5GsubkhuBIKV,until i found you,stephen sanchez,2021-09-01,177720,false,,0.539,0.508,-6.05,1,0.0288,0.727,0,0.174,0.227,101.358,3
+2023-02-030,5jQI2r1RdgtuT8S3iG8zFC,lavender haze,taylor swift,2022-10-21,202395,true,,0.735,0.449,-10.56,0,0.0883,0.23,0.00126,0.132,0.0955,97.05,4
+2023-02-031,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-02-032,0IKeDy5bT9G0bA7ZixRT4A,bebe dame,fuerza regida;grupo frontera,2022-12-28,271861,false,"corrido,corridos tumbados,corridos bélicos,sierreño,música mexicana,banda,sad sierreño,electro corridos,cumbia norteña,norteño,grupera,tejano,ranchera",0.529,0.602,-4.629,1,0.0458,0.299,0,0.0716,0.756,157.643,4
+2023-02-033,5DIBVDJOHh7djepAjKHWCO,heart like a truck,lainey wilson,2022-11-28,199040,false,country,0.587,0.632,-5.416,1,0.0311,0.148,0.0000101,0.158,0.392,139.974,4
+2023-02-035,28n8z9IQKyjMPxmvYMBqZa,the kind of love we make,luke combs,2022-06-17,224435,false,country,0.608,0.745,-4.13,1,0.0277,0.0226,0.00000647,0.0942,0.464,102.025,4
+2023-02-036,5ihZarJQzsvrLE7R9zjwTq,super freaky girl,nicki minaj,2022-08-12,170977,false,,0.952,0.882,-2.634,1,0.217,0.0537,0.0000182,0.314,0.9,133.051,4
+2023-02-038,5Y35SjAfXjjG0sFQ3KOxmm,nobody gets me,sza,2022-12-09,180853,true,r&b,0.358,0.284,-8.285,1,0.0285,0.805,0,0.183,0.276,99.796,3
+2023-02-039,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-02-040,6vjZxvzdAeHp7jv3R398Xm,what my world spins around,jordan davis,2023-02-17,186800,false,"country,pop country",0.686,0.733,-6.483,1,0.0401,0.111,0,0.153,0.7,124.882,4
+2023-02-041,200x8ONbPfFzByUr3fVz46,she had me at heads carolina,cole swindell,2022-04-08,206106,false,"country,acoustic country",0.607,0.912,-3.449,1,0.0611,0.124,0,0.332,0.722,134.944,4
+2023-02-042,4h4QlmocP3IuwYEj2j14p8,sunroof,nicky youre;hey daisy,2021-12-03,163025,false,,0.768,0.714,-5.11,1,0.0401,0.352,0,0.15,0.842,131.443,4
+2023-02-045,4h9wh7iOZ0GGn8QVp4RAOB,i ain't worried,onerepublic,2022-05-13,148485,false,soft pop,0.704,0.797,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4
+2023-02-048,4a3D8glGZxhlJfOs1Czc3c,about damn time,lizzo,2022-07-14,191937,false,,0.835,0.747,-6.328,0,0.0622,0.101,0,0.355,0.713,108.974,4
+2023-02-049,755xVrgyHyUpl9EP5e4ICf,players,coi leray,2023-06-23,138760,true,,0.949,0.516,-5.823,0,0.148,0.0247,0.00000981,0.053,0.632,104.989,4
+2023-02-053,6DLbBlGIOjjEj0dNN25zhZ,tennessee orange,megan moroney,2023-05-05,223119,false,country,0.38,0.488,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031,3
+2023-02-054,11BKm0j4eYoCPPpCONAVwA,bloody mary,lady gaga,2011-01-01,244760,false,"art pop,pop",0.591,0.634,-6.365,0,0.0291,0.0107,0.00000195,0.113,0.44,99.998,4
+2023-02-059,4reXo2zg1uhEIpUAacDb9C,handle on you,parker mccollum,2023-05-12,219967,false,"texas country,red dirt,country",0.591,0.928,-3.925,1,0.0316,0.00441,0,0.291,0.619,105.025,4
+2023-02-061,3kXH9BQq0TyNliiP1MIE6N,wild as her,corey kent,2023-06-02,200200,false,"country,texas country",0.5,0.748,-5.927,1,0.0364,0.00291,0,0.112,0.448,148.009,4
+2023-02-066,2ZL7WZcjuYKi1KUDtp4kCC,spin bout u,drake;21 savage,2022-11-04,214588,true,rap,0.763,0.72,-6.383,1,0.0447,0.00961,0,0.165,0.229,129.971,4
+2023-02-073,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-02-091,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-03-001,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-03-002,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-03-005,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-03-008,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-03-010,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-03-011,4Ls53fBNVfaXTROBi6X8Hw,just wanna rock,lil uzi vert,2023-06-30,123890,true,"melodic rap,rage rap",0.485,0.545,-7.924,1,0.0336,0.0651,0.00547,0.0642,0.0385,150.185,4
+2023-03-012,4LRPiXqCikLlN15c3yImP7,as it was,harry styles,2022-03-31,167303,false,,0.52,0.731,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4
+2023-03-013,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-03-014,1bDbXMyjaUIooNwFE9wn0N,rich flex,drake;21 savage,2022-11-04,239359,true,rap,0.549,0.518,-9.39,0,0.257,0.0517,0.00000121,0.378,0.418,160.07,4
+2023-03-015,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-03-016,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-03-017,755xVrgyHyUpl9EP5e4ICf,players,coi leray,2023-06-23,138760,true,,0.949,0.516,-5.823,0,0.148,0.0247,0.00000981,0.053,0.632,104.989,4
+2023-03-018,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-03-020,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-03-021,0QHEIqNKsMoOY5urbzN48u,made you look,meghan trainor,2022-10-21,134256,false,,0.834,0.522,-3.574,1,0.0703,0.34,0.00000159,0.0783,0.854,145.035,4
+2023-03-022,5jQI2r1RdgtuT8S3iG8zFC,lavender haze,taylor swift,2022-10-21,202395,true,,0.735,0.449,-10.56,0,0.0883,0.23,0.00126,0.132,0.0955,97.05,4
+2023-03-024,67AdiJcurlf6gocGobfaXs,"going, going, gone",luke combs,2022-06-24,177244,false,country,0.565,0.56,-6.034,1,0.0275,0.538,0,0.0961,0.325,159.931,4
+2023-03-026,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-03-027,5odlY52u43F5BjByhxg7wg,golden hour,jvke,2022-09-23,209259,false,,0.515,0.593,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3
+2023-03-028,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-03-029,5DIBVDJOHh7djepAjKHWCO,heart like a truck,lainey wilson,2022-11-28,199040,false,country,0.587,0.632,-5.416,1,0.0311,0.148,0.0000101,0.158,0.392,139.974,4
+2023-03-030,1R7TwnwF1RuYNf5vXlpQUT,bad habit,steve lacy,2022-07-14,232114,false,,0.683,0.505,-6.624,1,0.0395,0.601,0.000035,0.546,0.733,169.057,4
+2023-03-031,0T5iIrXA4p5GsubkhuBIKV,until i found you,stephen sanchez,2021-09-01,177720,false,,0.539,0.508,-6.05,1,0.0288,0.727,0,0.174,0.227,101.358,3
+2023-03-032,2wSTnntOPRi7aQneobFtU4,shirt,sza,2022-12-09,181840,true,r&b,0.848,0.512,-7.72,0,0.102,0.228,0.00232,0.0879,0.572,120.009,4
+2023-03-033,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-03-036,28n8z9IQKyjMPxmvYMBqZa,the kind of love we make,luke combs,2022-06-17,224435,false,country,0.608,0.745,-4.13,1,0.0277,0.0226,0.00000647,0.0942,0.464,102.025,4
+2023-03-038,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-03-039,0IKeDy5bT9G0bA7ZixRT4A,bebe dame,fuerza regida;grupo frontera,2022-12-28,271861,false,"corrido,corridos tumbados,corridos bélicos,sierreño,música mexicana,banda,sad sierreño,electro corridos,cumbia norteña,norteño,grupera,tejano,ranchera",0.529,0.602,-4.629,1,0.0458,0.299,0,0.0716,0.756,157.643,4
+2023-03-041,49GYvCcvMQq1SY3f7Y347h,wait in the truck,hardy;lainey wilson,2023-01-20,277659,false,"country,country rock",0.534,0.466,-6.98,1,0.0272,0.277,0,0.0979,0.23,140,4
+2023-03-042,200x8ONbPfFzByUr3fVz46,she had me at heads carolina,cole swindell,2022-04-08,206106,false,"country,acoustic country",0.607,0.912,-3.449,1,0.0611,0.124,0,0.332,0.722,134.944,4
+2023-03-044,6vjZxvzdAeHp7jv3R398Xm,what my world spins around,jordan davis,2023-02-17,186800,false,"country,pop country",0.686,0.733,-6.483,1,0.0401,0.111,0,0.153,0.7,124.882,4
+2023-03-045,4a3D8glGZxhlJfOs1Czc3c,about damn time,lizzo,2022-07-14,191937,false,,0.835,0.747,-6.328,0,0.0622,0.101,0,0.355,0.713,108.974,4
+2023-03-047,11BKm0j4eYoCPPpCONAVwA,bloody mary,lady gaga,2011-01-01,244760,false,"art pop,pop",0.591,0.634,-6.365,0,0.0291,0.0107,0.00000195,0.113,0.44,99.998,4
+2023-03-048,5Y35SjAfXjjG0sFQ3KOxmm,nobody gets me,sza,2022-12-09,180853,true,r&b,0.358,0.284,-8.285,1,0.0285,0.805,0,0.183,0.276,99.796,3
+2023-03-051,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-03-057,2ZL7WZcjuYKi1KUDtp4kCC,spin bout u,drake;21 savage,2022-11-04,214588,true,rap,0.763,0.72,-6.383,1,0.0447,0.00961,0,0.165,0.229,129.971,4
+2023-03-058,4reXo2zg1uhEIpUAacDb9C,handle on you,parker mccollum,2023-05-12,219967,false,"texas country,red dirt,country",0.591,0.928,-3.925,1,0.0316,0.00441,0,0.291,0.619,105.025,4
+2023-03-059,3kXH9BQq0TyNliiP1MIE6N,wild as her,corey kent,2023-06-02,200200,false,"country,texas country",0.5,0.748,-5.927,1,0.0364,0.00291,0,0.112,0.448,148.009,4
+2023-03-060,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-03-061,7phmBo7bB9I9YifAXqnlqV,i wrote the book,morgan wallen,2023-03-03,181766,false,country,0.686,0.833,-3.768,1,0.0381,0.0619,0.0000376,0.0657,0.833,143.965,4
+2023-03-066,6DLbBlGIOjjEj0dNN25zhZ,tennessee orange,megan moroney,2023-05-05,223119,false,country,0.38,0.488,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031,3
+2023-03-067,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-03-079,0cNSq9T5l8gZnpY14rsTR2,prc,peso pluma;natanael cano,2023-06-29,184066,true,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda,electro corridos",0.784,0.826,-6.34,0,0.0538,0.0965,0.0000709,0.123,0.893,138.078,3
+2023-03-080,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-03-081,3qjKqmA2YeH0a8DRoKj8iy,forever,drake;kanye west;lil wayne;eminem,2009-01-01,357920,true,"rap,hip hop",0.471,0.918,-1.422,0,0.349,0.254,0,0.201,0.552,108.397,5
+2023-04-001,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-04-002,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-04-003,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-04-007,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-04-009,755xVrgyHyUpl9EP5e4ICf,players,coi leray,2023-06-23,138760,true,,0.949,0.516,-5.823,0,0.148,0.0247,0.00000981,0.053,0.632,104.989,4
+2023-04-010,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-04-011,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-04-013,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-04-014,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-04-015,4LRPiXqCikLlN15c3yImP7,as it was,harry styles,2022-03-31,167303,false,,0.52,0.731,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4
+2023-04-016,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-04-017,5jQI2r1RdgtuT8S3iG8zFC,lavender haze,taylor swift,2022-10-21,202395,true,,0.735,0.449,-10.56,0,0.0883,0.23,0.00126,0.132,0.0955,97.05,4
+2023-04-019,4Ls53fBNVfaXTROBi6X8Hw,just wanna rock,lil uzi vert,2023-06-30,123890,true,"melodic rap,rage rap",0.485,0.545,-7.924,1,0.0336,0.0651,0.00547,0.0642,0.0385,150.185,4
+2023-04-021,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-04-022,0DWdj2oZMBFSzRsi2Cvfzf,tqg,karol g;shakira,2023-02-24,197933,true,"reggaeton,latin,urbano latino,latin pop",0.587,0.647,-3.385,0,0.327,0.619,0,0.106,0.686,90.123,4
+2023-04-023,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-04-025,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-04-026,3qQbCzHBycnDpGskqOWY0E,ella baila sola,eslabon armado;peso pluma,2023-04-28,165671,false,"corridos tumbados,sad sierreño,corrido,sierreño,música mexicana,corridos bélicos,banda",0.668,0.758,-5.176,0,0.0332,0.483,0.0000189,0.0837,0.834,147.989,3
+2023-04-027,1bDbXMyjaUIooNwFE9wn0N,rich flex,drake;21 savage,2022-11-04,239359,true,rap,0.549,0.518,-9.39,0,0.257,0.0517,0.00000121,0.378,0.418,160.07,4
+2023-04-028,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-04-029,0T5iIrXA4p5GsubkhuBIKV,until i found you,stephen sanchez,2021-09-01,177720,false,,0.539,0.508,-6.05,1,0.0288,0.727,0,0.174,0.227,101.358,3
+2023-04-032,67AdiJcurlf6gocGobfaXs,"going, going, gone",luke combs,2022-06-24,177244,false,country,0.565,0.56,-6.034,1,0.0275,0.538,0,0.0961,0.325,159.931,4
+2023-04-033,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-04-035,5DIBVDJOHh7djepAjKHWCO,heart like a truck,lainey wilson,2022-11-28,199040,false,country,0.587,0.632,-5.416,1,0.0311,0.148,0.0000101,0.158,0.392,139.974,4
+2023-04-036,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-04-038,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-04-040,2ZL7WZcjuYKi1KUDtp4kCC,spin bout u,drake;21 savage,2022-11-04,214588,true,rap,0.763,0.72,-6.383,1,0.0447,0.00961,0,0.165,0.229,129.971,4
+2023-04-041,11BKm0j4eYoCPPpCONAVwA,bloody mary,lady gaga,2011-01-01,244760,false,"art pop,pop",0.591,0.634,-6.365,0,0.0291,0.0107,0.00000195,0.113,0.44,99.998,4
+2023-04-042,5odlY52u43F5BjByhxg7wg,golden hour,jvke,2022-09-23,209259,false,,0.515,0.593,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3
+2023-04-043,49GYvCcvMQq1SY3f7Y347h,wait in the truck,hardy;lainey wilson,2023-01-20,277659,false,"country,country rock",0.534,0.466,-6.98,1,0.0272,0.277,0,0.0979,0.23,140,4
+2023-04-044,2wSTnntOPRi7aQneobFtU4,shirt,sza,2022-12-09,181840,true,r&b,0.848,0.512,-7.72,0,0.102,0.228,0.00232,0.0879,0.572,120.009,4
+2023-04-046,7phmBo7bB9I9YifAXqnlqV,i wrote the book,morgan wallen,2023-03-03,181766,false,country,0.686,0.833,-3.768,1,0.0381,0.0619,0.0000376,0.0657,0.833,143.965,4
+2023-04-049,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-04-050,0IKeDy5bT9G0bA7ZixRT4A,bebe dame,fuerza regida;grupo frontera,2022-12-28,271861,false,"corrido,corridos tumbados,corridos bélicos,sierreño,música mexicana,banda,sad sierreño,electro corridos,cumbia norteña,norteño,grupera,tejano,ranchera",0.529,0.602,-4.629,1,0.0458,0.299,0,0.0716,0.756,157.643,4
+2023-04-052,5Y35SjAfXjjG0sFQ3KOxmm,nobody gets me,sza,2022-12-09,180853,true,r&b,0.358,0.284,-8.285,1,0.0285,0.805,0,0.183,0.276,99.796,3
+2023-04-055,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-04-057,3kXH9BQq0TyNliiP1MIE6N,wild as her,corey kent,2023-06-02,200200,false,"country,texas country",0.5,0.748,-5.927,1,0.0364,0.00291,0,0.112,0.448,148.009,4
+2023-04-058,4reXo2zg1uhEIpUAacDb9C,handle on you,parker mccollum,2023-05-12,219967,false,"texas country,red dirt,country",0.591,0.928,-3.925,1,0.0316,0.00441,0,0.291,0.619,105.025,4
+2023-04-068,6DLbBlGIOjjEj0dNN25zhZ,tennessee orange,megan moroney,2023-05-05,223119,false,country,0.38,0.488,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031,3
+2023-04-072,2VzCjpKvPB1l1tqLndtAQa,por las noches,peso pluma,2021-06-11,239845,false,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda",0.807,0.595,-7.19,1,0.0325,0.31,0.0000244,0.0735,0.392,92.491,4
+2023-04-073,0cNSq9T5l8gZnpY14rsTR2,prc,peso pluma;natanael cano,2023-06-29,184066,true,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda,electro corridos",0.784,0.826,-6.34,0,0.0538,0.0965,0.0000709,0.123,0.893,138.078,3
+2023-04-074,3qjKqmA2YeH0a8DRoKj8iy,forever,drake;kanye west;lil wayne;eminem,2009-01-01,357920,true,"rap,hip hop",0.471,0.918,-1.422,0,0.349,0.254,0,0.201,0.552,108.397,5
+2023-05-001,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-05-002,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-05-003,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-05-004,3qQbCzHBycnDpGskqOWY0E,ella baila sola,eslabon armado;peso pluma,2023-04-28,165671,false,"corridos tumbados,sad sierreño,corrido,sierreño,música mexicana,corridos bélicos,banda",0.668,0.758,-5.176,0,0.0332,0.483,0.0000189,0.0837,0.834,147.989,3
+2023-05-005,2yzshFeBIwH8tWIqHEFLeD,un x100to,grupo frontera;bad bunny,2023-08-25,194563,false,"cumbia norteña,banda,norteño,música mexicana,corrido,corridos tumbados,grupera,tejano,ranchera,reggaeton,trap latino,latin,urbano latino",0.571,0.72,-4.089,1,0.0458,0.213,0,0.271,0.542,83.827,4
+2023-05-010,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-05-012,7aRCf5cLOFN1U7kvtChY1G,search & rescue,drake,2023-04-07,272112,true,rap,0.828,0.441,-8.562,0,0.0685,0.0757,0.00000868,0.295,0.533,140.009,4
+2023-05-013,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-05-014,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-05-015,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-05-016,755xVrgyHyUpl9EP5e4ICf,players,coi leray,2023-06-23,138760,true,,0.949,0.516,-5.823,0,0.148,0.0247,0.00000981,0.053,0.632,104.989,4
+2023-05-017,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-05-019,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-05-020,4LRPiXqCikLlN15c3yImP7,as it was,harry styles,2022-03-31,167303,false,,0.52,0.731,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4
+2023-05-021,7jvtmQ3onpWeUm7dyFSSSc,chemical,post malone,2023-07-28,183410,true,,0.493,0.907,-4.698,1,0.0476,0.00108,0,0.109,0.386,169.948,4
+2023-05-022,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-05-024,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-05-025,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-05-026,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-05-027,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-05-028,2VzCjpKvPB1l1tqLndtAQa,por las noches,peso pluma,2021-06-11,239845,false,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda",0.807,0.595,-7.19,1,0.0325,0.31,0.0000244,0.0735,0.392,92.491,4
+2023-05-031,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-05-033,0cNSq9T5l8gZnpY14rsTR2,prc,peso pluma;natanael cano,2023-06-29,184066,true,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda,electro corridos",0.784,0.826,-6.34,0,0.0538,0.0965,0.0000709,0.123,0.893,138.078,3
+2023-05-035,5jQI2r1RdgtuT8S3iG8zFC,lavender haze,taylor swift,2022-10-21,202395,true,,0.735,0.449,-10.56,0,0.0883,0.23,0.00126,0.132,0.0955,97.05,4
+2023-05-036,4reXo2zg1uhEIpUAacDb9C,handle on you,parker mccollum,2023-05-12,219967,false,"texas country,red dirt,country",0.591,0.928,-3.925,1,0.0316,0.00441,0,0.291,0.619,105.025,4
+2023-05-038,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-05-039,4Ls53fBNVfaXTROBi6X8Hw,just wanna rock,lil uzi vert,2023-06-30,123890,true,"melodic rap,rage rap",0.485,0.545,-7.924,1,0.0336,0.0651,0.00547,0.0642,0.0385,150.185,4
+2023-05-043,0DWdj2oZMBFSzRsi2Cvfzf,tqg,karol g;shakira,2023-02-24,197933,true,"reggaeton,latin,urbano latino,latin pop",0.587,0.647,-3.385,0,0.327,0.619,0,0.106,0.686,90.123,4
+2023-05-044,49GYvCcvMQq1SY3f7Y347h,wait in the truck,hardy;lainey wilson,2023-01-20,277659,false,"country,country rock",0.534,0.466,-6.98,1,0.0272,0.277,0,0.0979,0.23,140,4
+2023-05-045,3p7XQpdt8Dr6oMXSvRZ9bg,eyes closed,ed sheeran,2023-05-05,194848,false,soft pop,0.777,0.526,-6.221,1,0.0645,0.302,0,0.105,0.389,107.071,4
+2023-05-046,2ZL7WZcjuYKi1KUDtp4kCC,spin bout u,drake;21 savage,2022-11-04,214588,true,rap,0.763,0.72,-6.383,1,0.0447,0.00961,0,0.165,0.229,129.971,4
+2023-05-047,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-05-048,1bDbXMyjaUIooNwFE9wn0N,rich flex,drake;21 savage,2022-11-04,239359,true,rap,0.549,0.518,-9.39,0,0.257,0.0517,0.00000121,0.378,0.418,160.07,4
+2023-05-049,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-05-050,0IKeDy5bT9G0bA7ZixRT4A,bebe dame,fuerza regida;grupo frontera,2022-12-28,271861,false,"corrido,corridos tumbados,corridos bélicos,sierreño,música mexicana,banda,sad sierreño,electro corridos,cumbia norteña,norteño,grupera,tejano,ranchera",0.529,0.602,-4.629,1,0.0458,0.299,0,0.0716,0.756,157.643,4
+2023-05-051,3kXH9BQq0TyNliiP1MIE6N,wild as her,corey kent,2023-06-02,200200,false,"country,texas country",0.5,0.748,-5.927,1,0.0364,0.00291,0,0.112,0.448,148.009,4
+2023-05-053,6DLbBlGIOjjEj0dNN25zhZ,tennessee orange,megan moroney,2023-05-05,223119,false,country,0.38,0.488,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031,3
+2023-05-054,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-05-060,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-05-061,11BKm0j4eYoCPPpCONAVwA,bloody mary,lady gaga,2011-01-01,244760,false,"art pop,pop",0.591,0.634,-6.365,0,0.0291,0.0107,0.00000195,0.113,0.44,99.998,4
+2023-05-070,7phmBo7bB9I9YifAXqnlqV,i wrote the book,morgan wallen,2023-03-03,181766,false,country,0.686,0.833,-3.768,1,0.0381,0.0619,0.0000376,0.0657,0.833,143.965,4
+2023-05-074,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-05-088,5kB6WithhB8Iv08EMNmAbt,memory lane,old dominion,2023-01-05,172480,false,country,0.645,0.8,-4.272,1,0.0363,0.0189,0.0000112,0.0858,0.375,118.977,4
+2023-05-092,3qjKqmA2YeH0a8DRoKj8iy,forever,drake;kanye west;lil wayne;eminem,2009-01-01,357920,true,"rap,hip hop",0.471,0.918,-1.422,0,0.349,0.254,0,0.201,0.552,108.397,5
+2023-06-001,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-06-002,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-06-003,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-06-005,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-06-006,3qQbCzHBycnDpGskqOWY0E,ella baila sola,eslabon armado;peso pluma,2023-04-28,165671,false,"corridos tumbados,sad sierreño,corrido,sierreño,música mexicana,corridos bélicos,banda",0.668,0.758,-5.176,0,0.0332,0.483,0.0000189,0.0837,0.834,147.989,3
+2023-06-008,2sTDlCxmuZCTDKKk9f1qus,where she goes,bad bunny,2023-10-13,231704,true,"reggaeton,trap latino,latin,urbano latino",0.651,0.799,-4.02,0,0.0611,0.143,0.634,0.112,0.223,143.992,4
+2023-06-010,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-06-012,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-06-013,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-06-014,2yzshFeBIwH8tWIqHEFLeD,un x100to,grupo frontera;bad bunny,2023-08-25,194563,false,"cumbia norteña,banda,norteño,música mexicana,corrido,corridos tumbados,grupera,tejano,ranchera,reggaeton,trap latino,latin,urbano latino",0.571,0.72,-4.089,1,0.0458,0.213,0,0.271,0.542,83.827,4
+2023-06-016,7aRCf5cLOFN1U7kvtChY1G,search & rescue,drake,2023-04-07,272112,true,rap,0.828,0.441,-8.562,0,0.0685,0.0757,0.00000868,0.295,0.533,140.009,4
+2023-06-017,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-06-019,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-06-021,7jvtmQ3onpWeUm7dyFSSSc,chemical,post malone,2023-07-28,183410,true,,0.493,0.907,-4.698,1,0.0476,0.00108,0,0.109,0.386,169.948,4
+2023-06-022,4LRPiXqCikLlN15c3yImP7,as it was,harry styles,2022-03-31,167303,false,,0.52,0.731,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4
+2023-06-023,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-06-026,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-06-028,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-06-029,755xVrgyHyUpl9EP5e4ICf,players,coi leray,2023-06-23,138760,true,,0.949,0.516,-5.823,0,0.148,0.0247,0.00000981,0.053,0.632,104.989,4
+2023-06-030,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-06-031,3p7XQpdt8Dr6oMXSvRZ9bg,eyes closed,ed sheeran,2023-05-05,194848,false,soft pop,0.777,0.526,-6.221,1,0.0645,0.302,0,0.105,0.389,107.071,4
+2023-06-032,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-06-033,7sliFe6W30tPBPh6dvZsIH,area codes,kaliii,2023-03-17,139325,true,,0.823,0.388,-10.867,1,0.491,0.0187,0,0.0876,0.507,154.569,4
+2023-06-034,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-06-037,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-06-039,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-06-040,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-06-041,6DLbBlGIOjjEj0dNN25zhZ,tennessee orange,megan moroney,2023-05-05,223119,false,country,0.38,0.488,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031,3
+2023-06-042,2VzCjpKvPB1l1tqLndtAQa,por las noches,peso pluma,2021-06-11,239845,false,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda",0.807,0.595,-7.19,1,0.0325,0.31,0.0000244,0.0735,0.392,92.491,4
+2023-06-044,0cNSq9T5l8gZnpY14rsTR2,prc,peso pluma;natanael cano,2023-06-29,184066,true,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda,electro corridos",0.784,0.826,-6.34,0,0.0538,0.0965,0.0000709,0.123,0.893,138.078,3
+2023-06-045,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-06-046,2ZL7WZcjuYKi1KUDtp4kCC,spin bout u,drake;21 savage,2022-11-04,214588,true,rap,0.763,0.72,-6.383,1,0.0447,0.00961,0,0.165,0.229,129.971,4
+2023-06-048,0bILU0UiNDmA5Ff6whhb2R,religiously,bailey zimmerman,2023-01-11,178723,false,country,0.57,0.67,-6.519,1,0.0274,0.426,0,0.108,0.593,140.924,4
+2023-06-049,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-06-050,4Ls53fBNVfaXTROBi6X8Hw,just wanna rock,lil uzi vert,2023-06-30,123890,true,"melodic rap,rage rap",0.485,0.545,-7.924,1,0.0336,0.0651,0.00547,0.0642,0.0385,150.185,4
+2023-06-051,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-06-053,0DWdj2oZMBFSzRsi2Cvfzf,tqg,karol g;shakira,2023-02-24,197933,true,"reggaeton,latin,urbano latino,latin pop",0.587,0.647,-3.385,0,0.327,0.619,0,0.106,0.686,90.123,4
+2023-06-057,5kB6WithhB8Iv08EMNmAbt,memory lane,old dominion,2023-01-05,172480,false,country,0.645,0.8,-4.272,1,0.0363,0.0189,0.0000112,0.0858,0.375,118.977,4
+2023-06-084,7phmBo7bB9I9YifAXqnlqV,i wrote the book,morgan wallen,2023-03-03,181766,false,country,0.686,0.833,-3.768,1,0.0381,0.0619,0.0000376,0.0657,0.833,143.965,4
+2023-06-091,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-06-094,4EKH0ajMHXTkq4ztWuztVH,bury me in georgia,kane brown,2022-09-09,241480,false,"country,pop country",0.376,0.835,-5.824,0,0.0655,0.0118,0.00000371,0.471,0.511,160.069,4
+2023-06-100,3qjKqmA2YeH0a8DRoKj8iy,forever,drake;kanye west;lil wayne;eminem,2009-01-01,357920,true,"rap,hip hop",0.471,0.918,-1.422,0,0.349,0.254,0,0.201,0.552,108.397,5
+2023-07-001,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-07-002,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-07-004,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-07-006,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-07-008,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-07-010,3qQbCzHBycnDpGskqOWY0E,ella baila sola,eslabon armado;peso pluma,2023-04-28,165671,false,"corridos tumbados,sad sierreño,corrido,sierreño,música mexicana,corridos bélicos,banda",0.668,0.758,-5.176,0,0.0332,0.483,0.0000189,0.0837,0.834,147.989,3
+2023-07-011,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-07-012,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-07-013,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-07-014,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-07-016,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2023-07-017,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-07-018,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-07-020,5uU1uuyaUIBOiiUSQG7Wl3,you proof,morgan wallen,2022-05-13,157477,false,country,0.731,0.85,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+2023-07-021,2yzshFeBIwH8tWIqHEFLeD,un x100to,grupo frontera;bad bunny,2023-08-25,194563,false,"cumbia norteña,banda,norteño,música mexicana,corrido,corridos tumbados,grupera,tejano,ranchera,reggaeton,trap latino,latin,urbano latino",0.571,0.72,-4.089,1,0.0458,0.213,0,0.271,0.542,83.827,4
+2023-07-023,4686eQ81DEswHa90bcdlC9,rock and a hard place,bailey zimmerman,2022-06-10,207540,false,country,0.582,0.568,-7.3,1,0.0275,0.577,0,0.105,0.394,121.991,3
+2023-07-025,7aRCf5cLOFN1U7kvtChY1G,search & rescue,drake,2023-04-07,272112,true,rap,0.828,0.441,-8.562,0,0.0685,0.0757,0.00000868,0.295,0.533,140.009,4
+2023-07-026,7jvtmQ3onpWeUm7dyFSSSc,chemical,post malone,2023-07-28,183410,true,,0.493,0.907,-4.698,1,0.0476,0.00108,0,0.109,0.386,169.948,4
+2023-07-027,3p7XQpdt8Dr6oMXSvRZ9bg,eyes closed,ed sheeran,2023-05-05,194848,false,soft pop,0.777,0.526,-6.221,1,0.0645,0.302,0,0.105,0.389,107.071,4
+2023-07-028,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-07-030,2sTDlCxmuZCTDKKk9f1qus,where she goes,bad bunny,2023-10-13,231704,true,"reggaeton,trap latino,latin,urbano latino",0.651,0.799,-4.02,0,0.0611,0.143,0.634,0.112,0.223,143.992,4
+2023-07-032,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-07-033,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-07-034,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
+2023-07-036,0bILU0UiNDmA5Ff6whhb2R,religiously,bailey zimmerman,2023-01-11,178723,false,country,0.57,0.67,-6.519,1,0.0274,0.426,0,0.108,0.593,140.924,4
+2023-07-038,5kB6WithhB8Iv08EMNmAbt,memory lane,old dominion,2023-01-05,172480,false,country,0.645,0.8,-4.272,1,0.0363,0.0189,0.0000112,0.0858,0.375,118.977,4
+2023-07-040,7sliFe6W30tPBPh6dvZsIH,area codes,kaliii,2023-03-17,139325,true,,0.823,0.388,-10.867,1,0.491,0.0187,0,0.0876,0.507,154.569,4
+2023-07-043,6DLbBlGIOjjEj0dNN25zhZ,tennessee orange,megan moroney,2023-05-05,223119,false,country,0.38,0.488,-6.637,1,0.029,0.126,0.00000723,0.115,0.268,156.031,3
+2023-07-045,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-07-046,1rXq0uoV4KTgRN64jXzIxo,one thing at a time,morgan wallen,2023-03-03,206864,false,country,0.613,0.923,-5.187,1,0.0307,0.00413,0.00000197,0.284,0.893,141.982,4
+2023-07-048,755xVrgyHyUpl9EP5e4ICf,players,coi leray,2023-06-23,138760,true,,0.949,0.516,-5.823,0,0.148,0.0247,0.00000981,0.053,0.632,104.989,4
+2023-07-049,5IgjP7X4th6nMNDh4akUHb,under the influence,chris brown,2019-10-04,184203,true,r&b,0.755,0.562,-8.947,0,0.0355,0.0186,0.000231,0.18,0.368,116.931,4
+2023-07-050,1brnLTvarI9D1hLP6z2Ar8,thank god,kane brown;katelyn brown,2022-09-09,174560,false,"country,pop country",0.738,0.455,-8.735,1,0.0352,0.695,0,0.107,0.441,99.945,4
+2023-07-056,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-07-059,4EKH0ajMHXTkq4ztWuztVH,bury me in georgia,kane brown,2022-09-09,241480,false,"country,pop country",0.376,0.835,-5.824,0,0.0655,0.0118,0.00000371,0.471,0.511,160.069,4
+2023-07-065,0cNSq9T5l8gZnpY14rsTR2,prc,peso pluma;natanael cano,2023-06-29,184066,true,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda,electro corridos",0.784,0.826,-6.34,0,0.0538,0.0965,0.0000709,0.123,0.893,138.078,3
+2023-07-066,2VzCjpKvPB1l1tqLndtAQa,por las noches,peso pluma,2021-06-11,239845,false,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda",0.807,0.595,-7.19,1,0.0325,0.31,0.0000244,0.0735,0.392,92.491,4
+2023-07-071,0DWdj2oZMBFSzRsi2Cvfzf,tqg,karol g;shakira,2023-02-24,197933,true,"reggaeton,latin,urbano latino,latin pop",0.587,0.647,-3.385,0,0.327,0.619,0,0.106,0.686,90.123,4
+2023-07-089,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
+2023-08-001,5BqI4ugJL5WaPRQ6MlC8Ho,try that in a small town,jason aldean,2023-11-03,181600,true,"country,acoustic country",0.457,0.861,-3.771,0,0.0529,0.0583,0.0000128,0.106,0.376,145.989,4
+2023-08-002,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-08-003,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-08-004,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2023-08-006,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-08-010,1kuGVB7EU95pJObxwvfwKS,vampire,olivia rodrigo,2023-09-08,219724,true,,0.484,0.53,-5.821,1,0.0538,0.154,0,0.263,0.323,136.848,4
+2023-08-011,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-08-012,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
+2023-08-014,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-08-016,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-08-017,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-08-019,0JXXNGljqupsJaZsgSbMZV,sure thing,miguel,2010-11-30,195373,false,r&b,0.684,0.607,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,4
+2023-08-021,3WMj8moIAXJhHsyLaqIIHI,something in the orange,zach bryan,2022-04-22,228013,false,"country,red dirt",0.369,0.192,-12.151,0,0.04,0.555,0.00000835,0.0954,0.148,175.212,3
+2023-08-022,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-08-023,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-08-024,0bILU0UiNDmA5Ff6whhb2R,religiously,bailey zimmerman,2023-01-11,178723,false,country,0.57,0.67,-6.519,1,0.0274,0.426,0,0.108,0.593,140.924,4
+2023-08-028,3qQbCzHBycnDpGskqOWY0E,ella baila sola,eslabon armado;peso pluma,2023-04-28,165671,false,"corridos tumbados,sad sierreño,corrido,sierreño,música mexicana,corridos bélicos,banda",0.668,0.758,-5.176,0,0.0332,0.483,0.0000189,0.0837,0.834,147.989,3
+2023-08-030,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-08-031,7MSWxMumjz6lHj7oRApNbg,white horse,chris stapleton,2023-07-21,267893,false,"country,outlaw country",0.353,0.77,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225,4
+2023-08-033,2qrbWN43itLlX3eSdKzXVL,i'm good (blue),david guetta;bebe rexha,2023-04-28,175238,true,edm,0.561,0.965,-3.673,0,0.0343,0.00383,0.00000707,0.371,0.304,128.04,4
+2023-08-034,3Qu3Zh4WTKhP9GEXo0aDnb,thought you should know,morgan wallen,2023-03-03,215571,true,country,0.537,0.701,-6.214,1,0.0264,0.48,0.00000665,0.145,0.552,139.995,4
+2023-08-035,7aRCf5cLOFN1U7kvtChY1G,search & rescue,drake,2023-04-07,272112,true,rap,0.828,0.441,-8.562,0,0.0685,0.0757,0.00000868,0.295,0.533,140.009,4
+2023-08-036,2yzshFeBIwH8tWIqHEFLeD,un x100to,grupo frontera;bad bunny,2023-08-25,194563,false,"cumbia norteña,banda,norteño,música mexicana,corrido,corridos tumbados,grupera,tejano,ranchera,reggaeton,trap latino,latin,urbano latino",0.571,0.72,-4.089,1,0.0458,0.213,0,0.271,0.542,83.827,4
+2023-08-037,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-08-039,4EKH0ajMHXTkq4ztWuztVH,bury me in georgia,kane brown,2022-09-09,241480,false,"country,pop country",0.376,0.835,-5.824,0,0.0655,0.0118,0.00000371,0.471,0.511,160.069,4
+2023-08-043,2sTDlCxmuZCTDKKk9f1qus,where she goes,bad bunny,2023-10-13,231704,true,"reggaeton,trap latino,latin,urbano latino",0.651,0.799,-4.02,0,0.0611,0.143,0.634,0.112,0.223,143.992,4
+2023-08-044,3p7XQpdt8Dr6oMXSvRZ9bg,eyes closed,ed sheeran,2023-05-05,194848,false,soft pop,0.777,0.526,-6.221,1,0.0645,0.302,0,0.105,0.389,107.071,4
+2023-08-046,7jvtmQ3onpWeUm7dyFSSSc,chemical,post malone,2023-07-28,183410,true,,0.493,0.907,-4.698,1,0.0476,0.00108,0,0.109,0.386,169.948,4
+2023-08-047,5kB6WithhB8Iv08EMNmAbt,memory lane,old dominion,2023-01-05,172480,false,country,0.645,0.8,-4.272,1,0.0363,0.0189,0.0000112,0.0858,0.375,118.977,4
+2023-08-053,7sliFe6W30tPBPh6dvZsIH,area codes,kaliii,2023-03-17,139325,true,,0.823,0.388,-10.867,1,0.491,0.0187,0,0.0876,0.507,154.569,4
+2023-08-059,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-08-061,3sYBFUXTv0STUoUINx9Qe8,watermelon moonshine,lainey wilson,2022-11-28,208853,false,country,0.739,0.413,-6.709,1,0.0282,0.47,0.0000251,0.131,0.649,139.921,4
+2023-08-067,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-08-069,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
+2023-08-076,2VzCjpKvPB1l1tqLndtAQa,por las noches,peso pluma,2021-06-11,239845,false,"corrido,corridos tumbados,corridos bélicos,música mexicana,sierreño,sad sierreño,banda",0.807,0.595,-7.19,1,0.0325,0.31,0.0000244,0.0735,0.392,92.491,4
+2023-09-001,78Du4CMFgnhdlG33gblkiP,rich men north of richmond,oliver anthony music,2023-08-11,187244,false,country,0.678,0.264,-12.384,1,0.0622,0.753,0,0.302,0.528,121.722,4
+2023-09-002,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-09-003,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-09-004,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-09-005,7DlZH8EiVDgQXNoj3dnyZC,paint the town red,doja cat,2023-09-22,230466,true,,0.864,0.556,-7.683,0,0.194,0.255,0.00000385,0.112,0.726,99.974,4
+2023-09-007,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2023-09-008,1kuGVB7EU95pJObxwvfwKS,vampire,olivia rodrigo,2023-09-08,219724,true,,0.484,0.53,-5.821,1,0.0538,0.154,0,0.263,0.323,136.848,4
+2023-09-009,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
+2023-09-011,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-09-013,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-09-014,0bILU0UiNDmA5Ff6whhb2R,religiously,bailey zimmerman,2023-01-11,178723,false,country,0.57,0.67,-6.519,1,0.0274,0.426,0,0.108,0.593,140.924,4
+2023-09-016,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-09-018,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-09-019,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-09-023,3IX0yuEVvDbnqUwMBB3ouC,bad idea right?,olivia rodrigo,2023-09-08,184783,true,,0.631,0.881,-3.545,1,0.0995,0.00177,0.0000045,0.0639,0.808,129.981,4
+2023-09-024,5BqI4ugJL5WaPRQ6MlC8Ho,try that in a small town,jason aldean,2023-11-03,181600,true,"country,acoustic country",0.457,0.861,-3.771,0,0.0529,0.0583,0.0000128,0.106,0.376,145.989,4
+2023-09-029,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-09-033,1SRw5p2lVAi7RGlHEmZg66,favorite song,toosii,2023-02-17,208630,false,,0.813,0.381,-9.339,1,0.0494,0.276,0,0.0985,0.434,116.028,4
+2023-09-034,3sYBFUXTv0STUoUINx9Qe8,watermelon moonshine,lainey wilson,2022-11-28,208853,false,country,0.739,0.413,-6.709,1,0.0282,0.47,0.0000251,0.131,0.649,139.921,4
+2023-09-035,4EKH0ajMHXTkq4ztWuztVH,bury me in georgia,kane brown,2022-09-09,241480,false,"country,pop country",0.376,0.835,-5.824,0,0.0655,0.0118,0.00000371,0.471,0.511,160.069,4
+2023-09-036,3qQbCzHBycnDpGskqOWY0E,ella baila sola,eslabon armado;peso pluma,2023-04-28,165671,false,"corridos tumbados,sad sierreño,corrido,sierreño,música mexicana,corridos bélicos,banda",0.668,0.758,-5.176,0,0.0332,0.483,0.0000189,0.0837,0.834,147.989,3
+2023-09-037,39OclE5hZematADrdfaWvE,next thing you know,jordan davis,2023-02-17,175226,false,"country,pop country",0.549,0.608,-8.253,1,0.0481,0.682,0,0.0966,0.399,78.534,4
+2023-09-038,7aRCf5cLOFN1U7kvtChY1G,search & rescue,drake,2023-04-07,272112,true,rap,0.828,0.441,-8.562,0,0.0685,0.0757,0.00000868,0.295,0.533,140.009,4
+2023-09-040,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-09-046,7jvtmQ3onpWeUm7dyFSSSc,chemical,post malone,2023-07-28,183410,true,,0.493,0.907,-4.698,1,0.0476,0.00108,0,0.109,0.386,169.948,4
+2023-09-051,2yzshFeBIwH8tWIqHEFLeD,un x100to,grupo frontera;bad bunny,2023-08-25,194563,false,"cumbia norteña,banda,norteño,música mexicana,corrido,corridos tumbados,grupera,tejano,ranchera,reggaeton,trap latino,latin,urbano latino",0.571,0.72,-4.089,1,0.0458,0.213,0,0.271,0.542,83.827,4
+2023-09-052,2sTDlCxmuZCTDKKk9f1qus,where she goes,bad bunny,2023-10-13,231704,true,"reggaeton,trap latino,latin,urbano latino",0.651,0.799,-4.02,0,0.0611,0.143,0.634,0.112,0.223,143.992,4
+2023-09-054,7MSWxMumjz6lHj7oRApNbg,white horse,chris stapleton,2023-07-21,267893,false,"country,outlaw country",0.353,0.77,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225,4
+2023-09-055,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
+2023-09-059,2gT2iF1YK5r54A2PDEXVv8,pretty little poison,warren zeiders,2023-03-17,218160,false,country,0.518,0.557,-4.839,1,0.0332,0.0258,0.00000246,0.156,0.216,111.865,3
+2023-09-060,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-09-063,7sliFe6W30tPBPh6dvZsIH,area codes,kaliii,2023-03-17,139325,true,,0.823,0.388,-10.867,1,0.491,0.0187,0,0.0876,0.507,154.569,4
+2023-09-092,6usohdchdzW9oML7VC4Uhk,lose control,teddy swims,2023-06-23,210688,false,,0.561,0.604,-4.409,1,0.0337,0.199,0.000019,0.104,0.242,159.92,3
+2023-09-094,6UoKX6uLJwhsnyTp5k5StP,the painter,cody johnson,2023-08-11,211413,false,"texas country,country,red dirt",0.512,0.709,-5.766,1,0.0329,0.0415,0.00000425,0.107,0.261,97.981,4
+2023-10-001,7DlZH8EiVDgQXNoj3dnyZC,paint the town red,doja cat,2023-09-22,230466,true,,0.864,0.556,-7.683,0,0.194,0.255,0.00000385,0.112,0.726,99.974,4
+2023-10-002,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-10-003,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-10-004,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-10-006,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-10-007,1kuGVB7EU95pJObxwvfwKS,vampire,olivia rodrigo,2023-09-08,219724,true,,0.484,0.53,-5.821,1,0.0538,0.154,0,0.263,0.323,136.848,4
+2023-10-008,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2023-10-010,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
+2023-10-013,0bILU0UiNDmA5Ff6whhb2R,religiously,bailey zimmerman,2023-01-11,178723,false,country,0.57,0.67,-6.519,1,0.0274,0.426,0,0.108,0.593,140.924,4
+2023-10-015,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-10-016,3IX0yuEVvDbnqUwMBB3ouC,bad idea right?,olivia rodrigo,2023-09-08,184783,true,,0.631,0.881,-3.545,1,0.0995,0.00177,0.0000045,0.0639,0.808,129.981,4
+2023-10-018,7dJYggqjKo71KI9sLzqCs8,agora hills,doja cat,2023-09-22,265360,true,,0.75,0.674,-6.128,0,0.097,0.228,0.0000891,0.122,0.392,123.026,4
+2023-10-020,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-10-021,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-10-023,78Du4CMFgnhdlG33gblkiP,rich men north of richmond,oliver anthony music,2023-08-11,187244,false,country,0.678,0.264,-12.384,1,0.0622,0.753,0,0.302,0.528,121.722,4
+2023-10-024,3rUGC1vUpkDG9CZFHMur1t,greedy,tate mcrae,2023-09-15,131872,true,,0.749,0.729,-3.19,0,0.0321,0.261,0,0.113,0.816,111.004,1
+2023-10-025,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-10-029,3sYBFUXTv0STUoUINx9Qe8,watermelon moonshine,lainey wilson,2022-11-28,208853,false,country,0.739,0.413,-6.709,1,0.0282,0.47,0.0000251,0.131,0.649,139.921,4
+2023-10-037,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-10-039,5BqI4ugJL5WaPRQ6MlC8Ho,try that in a small town,jason aldean,2023-11-03,181600,true,"country,acoustic country",0.457,0.861,-3.771,0,0.0529,0.0583,0.0000128,0.106,0.376,145.989,4
+2023-10-043,2kYevr8cbIAH2ha8210Bnz,love you anyway,luke combs,2023-03-24,229424,false,country,0.532,0.489,-7.419,1,0.0311,0.149,0,0.237,0.32,139.807,4
+2023-10-057,7MSWxMumjz6lHj7oRApNbg,white horse,chris stapleton,2023-07-21,267893,false,"country,outlaw country",0.353,0.77,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225,4
+2023-10-067,6usohdchdzW9oML7VC4Uhk,lose control,teddy swims,2023-06-23,210688,false,,0.561,0.604,-4.409,1,0.0337,0.199,0.000019,0.104,0.242,159.92,3
+2023-10-069,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-10-073,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
+2023-10-074,0cVyQfDyRnMJ0V3rjjdlU3,lil boo thang,paul russell,2023-08-18,114233,false,,0.85,0.699,-3.292,1,0.0776,0.152,0,0.32,0.915,114.481,4
+2023-10-099,1o8Z7GD1CeOaVBEyuzu4HO,on my mama,victoria monét,2023-06-16,186678,true,alternative r&b,0.481,0.539,-7.865,0,0.108,0.551,0.00539,0.12,0.621,153.277,4
+2023-11-001,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-11-002,7DlZH8EiVDgQXNoj3dnyZC,paint the town red,doja cat,2023-09-22,230466,true,,0.864,0.556,-7.683,0,0.194,0.255,0.00000385,0.112,0.726,99.974,4
+2023-11-003,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-11-005,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-11-006,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-11-009,4MjDJD8cW7iVeWInc2Bdyj,monaco,bad bunny,2023-10-13,267194,true,"reggaeton,trap latino,latin,urbano latino",0.787,0.621,-5.009,0,0.068,0.15,0.000402,0.58,0.13,139.056,4
+2023-11-010,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2023-11-011,1kuGVB7EU95pJObxwvfwKS,vampire,olivia rodrigo,2023-09-08,219724,true,,0.484,0.53,-5.821,1,0.0538,0.154,0,0.263,0.323,136.848,4
+2023-11-012,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
+2023-11-014,3rUGC1vUpkDG9CZFHMur1t,greedy,tate mcrae,2023-09-15,131872,true,,0.749,0.729,-3.19,0,0.0321,0.261,0,0.113,0.816,111.004,1
+2023-11-016,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-11-017,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-11-020,0V3wPSX9ygBnCm8psDIegu,anti-hero,taylor swift,2022-10-21,200690,false,,0.633,0.648,-6.645,1,0.062,0.121,0.00000262,0.161,0.49,96.888,4
+2023-11-021,5aIVCx5tnk0ntmdiinnYvw,water,tyla,2023-07-28,200255,false,afrobeats,0.673,0.722,-3.495,0,0.0755,0.0856,0,0.137,0.519,117.187,4
+2023-11-023,0bILU0UiNDmA5Ff6whhb2R,religiously,bailey zimmerman,2023-01-11,178723,false,country,0.57,0.67,-6.519,1,0.0274,0.426,0,0.108,0.593,140.924,4
+2023-11-028,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-11-031,7dJYggqjKo71KI9sLzqCs8,agora hills,doja cat,2023-09-22,265360,true,,0.75,0.674,-6.128,0,0.097,0.228,0.0000891,0.122,0.392,123.026,4
+2023-11-033,1odExI7RdWc4BT515LTAwj,daylight,david kushner,2023-04-14,212953,false,,0.508,0.43,-9.475,0,0.0335,0.83,0.000441,0.093,0.324,130.09,4
+2023-11-034,3IX0yuEVvDbnqUwMBB3ouC,bad idea right?,olivia rodrigo,2023-09-08,184783,true,,0.631,0.881,-3.545,1,0.0995,0.00177,0.0000045,0.0639,0.808,129.981,4
+2023-11-035,0cVyQfDyRnMJ0V3rjjdlU3,lil boo thang,paul russell,2023-08-18,114233,false,,0.85,0.699,-3.292,1,0.0776,0.152,0,0.32,0.915,114.481,4
+2023-11-036,7MSWxMumjz6lHj7oRApNbg,white horse,chris stapleton,2023-07-21,267893,false,"country,outlaw country",0.353,0.77,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225,4
+2023-11-041,5BqI4ugJL5WaPRQ6MlC8Ho,try that in a small town,jason aldean,2023-11-03,181600,true,"country,acoustic country",0.457,0.861,-3.771,0,0.0529,0.0583,0.0000128,0.106,0.376,145.989,4
+2023-11-043,0mflMxspEfB0VbI1kyLiAv,stick season,noah kahan,2022-10-14,182346,false,,0.664,0.5,-6.935,1,0.0651,0.799,0,0.0966,0.801,117.896,4
+2023-11-045,3sYBFUXTv0STUoUINx9Qe8,watermelon moonshine,lainey wilson,2022-11-28,208853,false,country,0.739,0.413,-6.709,1,0.0282,0.47,0.0000251,0.131,0.649,139.921,4
+2023-11-046,2gT2iF1YK5r54A2PDEXVv8,pretty little poison,warren zeiders,2023-03-17,218160,false,country,0.518,0.557,-4.839,1,0.0332,0.0258,0.00000246,0.156,0.216,111.865,3
+2023-11-049,6usohdchdzW9oML7VC4Uhk,lose control,teddy swims,2023-06-23,210688,false,,0.561,0.604,-4.409,1,0.0337,0.199,0.000019,0.104,0.242,159.92,3
+2023-11-054,78Du4CMFgnhdlG33gblkiP,rich men north of richmond,oliver anthony music,2023-08-11,187244,false,country,0.678,0.264,-12.384,1,0.0622,0.753,0,0.302,0.528,121.722,4
+2023-11-058,1o8Z7GD1CeOaVBEyuzu4HO,on my mama,victoria monét,2023-06-16,186678,true,alternative r&b,0.481,0.539,-7.865,0,0.108,0.551,0.00539,0.12,0.621,153.277,4
+2023-11-060,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-11-067,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
+2023-11-077,09hVlIVHtEE1nLUv6YGZiW,burn it down,parker mccollum,2023-05-12,233869,false,"texas country,red dirt,country",0.461,0.718,-5.627,1,0.0666,0.139,0.0000166,0.0968,0.334,162.187,4
+2023-11-097,6UoKX6uLJwhsnyTp5k5StP,the painter,cody johnson,2023-08-11,211413,false,"texas country,country,red dirt",0.512,0.709,-5.766,1,0.0329,0.0415,0.00000425,0.107,0.261,97.981,4
+2023-12-001,4xhsWYTOGcal8zt0J161CU,lovin on me,jack harlow,2023-11-10,138411,true,,0.943,0.558,-4.911,1,0.0568,0.0026,0.00000219,0.0937,0.606,104.983,4
+2023-12-002,1BxfuPKGuaTgP7aM0Bbdwr,cruel summer,taylor swift,2019-08-23,178426,false,,0.552,0.702,-5.707,1,0.157,0.117,0.0000206,0.105,0.564,169.994,4
+2023-12-003,7DlZH8EiVDgQXNoj3dnyZC,paint the town red,doja cat,2023-09-22,230466,true,,0.864,0.556,-7.683,0,0.194,0.255,0.00000385,0.112,0.726,99.974,4
+2023-12-004,0bYg9bo50gSsH3LtXe2SQn,all i want for christmas is you,mariah carey,1994-10-28,241562,false,christmas,0.336,0.627,-7.463,1,0.0384,0.164,0,0.0708,0.35,150.273,4
+2023-12-005,4iZ4pt7kvcaH6Yo8UoZ4s2,snooze,sza,2022-12-09,201800,true,r&b,0.559,0.551,-7.231,1,0.132,0.141,0,0.11,0.392,143.008,4
+2023-12-007,3rUGC1vUpkDG9CZFHMur1t,greedy,tate mcrae,2023-09-15,131872,true,,0.749,0.729,-3.19,0,0.0321,0.261,0,0.113,0.816,111.004,1
+2023-12-008,2EjXfH91m7f8HiJN1yQg97,rockin' around the christmas tree,brenda lee,1964-10-19,126266,false,christmas,0.598,0.47,-8.744,1,0.0496,0.617,0,0.505,0.879,67.086,4
+2023-12-010,5aIVCx5tnk0ntmdiinnYvw,water,tyla,2023-07-28,200255,false,afrobeats,0.673,0.722,-3.495,0,0.0755,0.0856,0,0.137,0.519,117.187,4
+2023-12-012,7vQbuQcyTflfCIOu3Uzzya,jingle bell rock,bobby helms,1957-12-02,130973,false,christmas,0.754,0.424,-8.463,1,0.0363,0.643,0,0.0652,0.806,119.705,4
+2023-12-013,2FRnf9qhLbvw8fu4IBXx78,last christmas,wham!,1984-11-29,262960,false,christmas,0.735,0.478,-12.472,1,0.0293,0.189,0.00000248,0.355,0.947,107.682,4
+2023-12-014,7K3BhSpAxZBznislvUMVtn,last night,morgan wallen,2023-03-03,163854,true,country,0.492,0.673,-5.431,1,0.0347,0.413,0,0.137,0.488,203.812,4
+2023-12-016,77khP2fIVhSW23NwxrRluh,a holly jolly christmas,burl ives,1965-10-01,135533,false,christmas,0.682,0.375,-13.056,1,0.0303,0.579,0,0.076,0.888,140.453,4
+2023-12-018,1Lo0QY9cvc8sUB2vnIOxDT,fast car,luke combs,2023-03-24,265284,false,country,0.712,0.603,-5.52,1,0.0262,0.186,0,0.115,0.67,97.994,4
+2023-12-019,7dJYggqjKo71KI9sLzqCs8,agora hills,doja cat,2023-09-22,265360,true,,0.75,0.674,-6.128,0,0.097,0.228,0.0000891,0.122,0.392,123.026,4
+2023-12-021,07on0OB2cdPt79IFsgdRUy,need a favor,jelly roll,2023-06-02,197400,false,"country hip hop,country",0.502,0.771,-4.246,1,0.032,0.0123,0.0000182,0.0801,0.557,157.978,4
+2023-12-023,1kuGVB7EU95pJObxwvfwKS,vampire,olivia rodrigo,2023-09-08,219724,true,,0.484,0.53,-5.821,1,0.0538,0.154,0,0.263,0.323,136.848,4
+2023-12-024,0cVyQfDyRnMJ0V3rjjdlU3,lil boo thang,paul russell,2023-08-18,114233,false,,0.85,0.699,-3.292,1,0.0776,0.152,0,0.32,0.915,114.481,4
+2023-12-025,4rXLjWdF2ZZpXCVTfWcshS,fukumean,gunna,2023-06-16,125040,true,melodic rap,0.847,0.622,-6.747,0,0.0903,0.119,0,0.285,0.22,130.001,4
+2023-12-027,7MSWxMumjz6lHj7oRApNbg,white horse,chris stapleton,2023-07-21,267893,false,"country,outlaw country",0.353,0.77,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225,4
+2023-12-031,11C4y2Yz1XbHmaQwO06s9f,dance the night,dua lipa,2023-07-21,176579,false,pop,0.671,0.845,-4.93,0,0.048,0.0207,0,0.329,0.775,110.056,4
+2023-12-033,6D8y7Bck8h11byRY88Pt2z,houdini,dua lipa,2024-05-03,185917,false,pop,0.744,0.789,-4.876,0,0.059,0.0036,0.00144,0.0947,0.866,116.985,4
+2023-12-034,4E63weMCaNZuGPEFMnuEi8,exes,tate mcrae,2023-12-08,159400,true,,0.821,0.575,-6.57,0,0.0589,0.173,0.000242,0.114,0.611,136.962,4
+2023-12-037,0mflMxspEfB0VbI1kyLiAv,stick season,noah kahan,2022-10-14,182346,false,,0.664,0.5,-6.935,1,0.0651,0.799,0,0.0966,0.801,117.896,4
+2023-12-038,4MjDJD8cW7iVeWInc2Bdyj,monaco,bad bunny,2023-10-13,267194,true,"reggaeton,trap latino,latin,urbano latino",0.787,0.621,-5.009,0,0.068,0.15,0.000402,0.58,0.13,139.056,4
+2023-12-040,6usohdchdzW9oML7VC4Uhk,lose control,teddy swims,2023-06-23,210688,false,,0.561,0.604,-4.409,1,0.0337,0.199,0.000019,0.104,0.242,159.92,3
+2023-12-047,7DSAEUvxU8FajXtRloy8M0,flowers,miley cyrus,2023-08-18,200600,false,,0.706,0.691,-4.775,1,0.0633,0.0584,0.0000699,0.0232,0.632,118.048,4
+2023-12-049,3OHfY25tqY28d16oZczHc8,kill bill,sza,2022-12-09,153946,false,r&b,0.644,0.728,-5.75,1,0.0351,0.0543,0.169,0.161,0.43,88.993,4
+2023-12-053,2gT2iF1YK5r54A2PDEXVv8,pretty little poison,warren zeiders,2023-03-17,218160,false,country,0.518,0.557,-4.839,1,0.0332,0.0258,0.00000246,0.156,0.216,111.865,3
+2023-12-055,5ya0TmUQw2wHMkq36rPsnd,world on fire,nate smith,2023-04-28,189986,false,country,0.461,0.887,-4.871,0,0.0429,0.000219,0,0.104,0.411,95.964,4
+2023-12-059,1o8Z7GD1CeOaVBEyuzu4HO,on my mama,victoria monét,2023-06-16,186678,true,alternative r&b,0.481,0.539,-7.865,0,0.108,0.551,0.00539,0.12,0.621,153.277,4
+2023-12-066,6CThut6kPrjot0pTJOTEer,truck bed,hardy,2023-01-20,167534,true,"country,country rock",0.663,0.77,-4.88,1,0.0371,0.0876,0,0.352,0.772,132.058,4
+2023-12-068,5BqI4ugJL5WaPRQ6MlC8Ho,try that in a small town,jason aldean,2023-11-03,181600,true,"country,acoustic country",0.457,0.861,-3.771,0,0.0529,0.0583,0.0000128,0.106,0.376,145.989,4
+2023-12-069,03fs6oV5JAlbytRYf3371S,everything i love,morgan wallen,2023-03-03,187047,false,country,0.567,0.841,-3.933,1,0.0263,0.00543,0.000922,0.137,0.712,103.982,4
+2023-12-070,6UoKX6uLJwhsnyTp5k5StP,the painter,cody johnson,2023-08-11,211413,false,"texas country,country,red dirt",0.512,0.709,-5.766,1,0.0329,0.0415,0.00000425,0.107,0.261,97.981,4
+2023-12-075,3IX0yuEVvDbnqUwMBB3ouC,bad idea right?,olivia rodrigo,2023-09-08,184783,true,,0.631,0.881,-3.545,1,0.0995,0.00177,0.0000045,0.0639,0.808,129.981,4
+2023-12-080,09hVlIVHtEE1nLUv6YGZiW,burn it down,parker mccollum,2023-05-12,233869,false,"texas country,red dirt,country",0.461,0.718,-5.627,1,0.0666,0.139,0.0000166,0.0968,0.334,162.187,4
+2023-12-084,0eBFgRxyVSeuT4iyrbukdn,where the wild things are,luke combs,2023-03-24,239544,false,country,0.708,0.731,-4.872,1,0.0345,0.0189,0.00000447,0.129,0.379,116.975,4
+2023-12-085,78Du4CMFgnhdlG33gblkiP,rich men north of richmond,oliver anthony music,2023-08-11,187244,false,country,0.678,0.264,-12.384,1,0.0622,0.753,0,0.302,0.528,121.722,4

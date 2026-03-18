@@ -1,0 +1,95 @@
+billboard_id,track_id,Track Name,Artist Name(s),Release Date,Duration (ms),Explicit,Genres,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+2021-01-001,0bYg9bo50gSsH3LtXe2SQn,all i want for christmas is you,mariah carey,1994-10-28,241562,false,christmas,0.336,0.627,-7.463,1,0.0384,0.164,0,0.0708,0.35,150.273,4
+2021-01-002,2EjXfH91m7f8HiJN1yQg97,rockin' around the christmas tree,brenda lee,1964-10-19,126266,false,christmas,0.598,0.47,-8.744,1,0.0496,0.617,0,0.505,0.879,67.086,4
+2021-01-003,7vQbuQcyTflfCIOu3Uzzya,jingle bell rock,bobby helms,1957-12-02,130973,false,christmas,0.754,0.424,-8.463,1,0.0363,0.643,0,0.0652,0.806,119.705,4
+2021-01-004,77khP2fIVhSW23NwxrRluh,a holly jolly christmas,burl ives,1965-10-01,135533,false,christmas,0.682,0.375,-13.056,1,0.0303,0.579,0,0.076,0.888,140.453,4
+2021-01-009,2FRnf9qhLbvw8fu4IBXx78,last christmas,wham!,1984-11-29,262960,false,christmas,0.735,0.478,-12.472,1,0.0293,0.189,0.00000248,0.355,0.947,107.682,4
+2021-01-014,35mvY5S1H3J2QZyna3TFe0,positions,ariana grande,2020-10-30,172324,true,pop,0.737,0.802,-4.771,1,0.0878,0.468,0,0.0931,0.682,144.015,4
+2021-01-024,1IIKrJVP1C9N7iPtG6eOsK,go crazy,chris brown;young thug,2020-05-08,176960,true,"r&b,rap,melodic rap,trap",0.755,0.578,-8.932,0,0.145,0.316,0,0.25,0.581,94.148,4
+2021-01-027,39LLxExYz6ewLAcYrzQQyP,levitating,dua lipa,2020-03-27,203807,false,pop,0.695,0.884,-2.278,0,0.0753,0.0561,0,0.213,0.914,103.014,4
+2021-01-030,23T0OX7QOiIUFShSzbJ5Uo,i hope,gabby barrett,2020-06-19,210772,false,country,0.466,0.536,-6.227,1,0.0429,0.0951,0,0.114,0.377,75.998,4
+2021-01-031,02kDW379Yfd5PzW5A6vuGt,lemonade,internet money;gunna;don toliver;nav,2020-08-14,195428,true,melodic rap,0.799,0.66,-6.153,0,0.079,0.256,0,0.111,0.471,140.04,4
+2021-01-035,0A1hoCfMLkiAgvhWkkucJa,body,megan thee stallion,2020-11-20,171067,true,,0.914,0.732,-6.1,0,0.241,0.0166,0,0.107,0.469,94.066,4
+2021-01-037,53BHUFdQphHiZUUG3nx9zn,bang!,ajr,2020-02-12,170858,false,,0.74,0.516,-6.233,0,0.0507,0.0183,0,0.0558,0.698,139.918,4
+2021-01-038,0lx2cLdOt3piJbcaXIV74f,willow,taylor swift,2020-12-11,214706,false,,0.392,0.574,-9.195,1,0.17,0.833,0.00179,0.145,0.529,81.112,4
+2021-01-041,7a53HqqArd4b9NF4XAmlbI,kings & queens,ava max,2020-09-18,162398,false,,0.637,0.69,-4.057,0,0.0405,0.00786,0,0.124,0.457,129.857,4
+2021-01-042,54bFM56PmE4YLRnqpW6Tha,therefore i am,billie eilish,2020-11-12,174321,false,,0.889,0.34,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,4
+2021-01-044,0t1kP63rueHleOhQkYSXFY,dynamite,bts,2020-08-28,199053,false,k-pop,0.746,0.765,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,4
+2021-01-051,1tkg4EHVoqnhR6iFEXb60y,what you know bout love,pop smoke,2020-07-03,160000,true,"brooklyn drill,new york drill,drill",0.709,0.548,-8.493,1,0.353,0.65,0.00000159,0.133,0.543,83.995,4
+2021-01-052,5vGLcdRuSbUhD8ScwsGSdA,whoopty,cj,2020-08-20,123262,true,dembow,0.719,0.648,-7.6,0,0.125,0.2,0,0.127,0.66,140.201,4
+2021-01-057,6gdLyYNuhWBzqwlOFSsXC7,better together,luke combs,2019-11-08,217573,false,country,0.552,0.225,-11.501,1,0.0477,0.827,0,0.111,0.67,138.002,4
+2021-01-058,4Iedi94TIaB2GGb1nMB68v,on me,lil baby,2020-12-04,135959,true,,0.856,0.564,-6.295,0,0.392,0.00327,0,0.134,0.483,77.972,4
+2021-01-066,3TNSVsiFngfe68UJpMq1oS,starting over,chris stapleton,2020-08-27,240413,false,"country,outlaw country",0.638,0.538,-8.445,1,0.0315,0.452,0.000415,0.0695,0.318,89.124,4
+2021-01-070,27OeeYzk6klgBh83TSvGMA,without you,the kid laroi,2020-11-06,161384,true,,0.662,0.413,-7.357,1,0.0299,0.213,0,0.134,0.467,93.005,4
+2021-01-073,6IBcOGPsniK3Pso1wHIhew,forever after all,luke combs,2020-10-23,232489,false,country,0.487,0.65,-5.195,1,0.0253,0.191,0,0.0933,0.456,151.964,4
+2021-01-074,31iqpzg1ZXLLgq0L5iIwLe,throat baby (go baby),brs kash,2020-07-24,218181,true,,0.9,0.521,-7.286,0,0.147,0.0135,0,0.0951,0.213,132.007,4
+2021-01-082,2S8UMuLJ0z8agFgFGJ6Ztt,good time,niko moon,2021-08-27,214720,false,country,0.802,0.59,-7.189,1,0.0493,0.0874,0,0.275,0.687,138.084,4
+2021-01-100,6AGOKlMZWLCaEJGnaROtF9,put your records on,ritt momney,2020-04-24,210463,false,bedroom pop,0.399,0.491,-10.778,0,0.0538,0.0563,0.00089,0.11,0.151,91.066,4
+2021-02-001,5wANPM4fQCJwkGd4rN57mH,drivers license,olivia rodrigo,2021-05-21,242013,true,,0.561,0.431,-8.81,1,0.0578,0.768,0.0000142,0.106,0.137,143.875,4
+2021-02-003,0VjIjW4GlUZAMYd2vXMi3b,blinding lights,the weeknd,2020-03-20,200040,false,,0.513,0.73,-5.94,1,0.0598,0.00143,0.0000954,0.0897,0.334,171.001,4
+2021-02-009,3YJJjQPAbDT7mGpX3WtQ9A,good days,sza,2020-12-25,279203,true,r&b,0.436,0.655,-8.37,0,0.0583,0.499,0.0000081,0.688,0.412,121.002,4
+2021-02-025,60ynsPSSKe6O3sfwRnIBRf,streets,doja cat,2019-11-07,226978,true,,0.749,0.463,-8.433,1,0.0842,0.21,0.0382,0.338,0.189,90.035,4
+2021-02-026,2WnAKZefdRHxtBEkRjFOHC,anyone,justin bieber,2021-03-19,190779,false,,0.685,0.521,-8.285,1,0.0345,0.185,0.00000359,0.111,0.578,115.885,4
+2021-02-030,5vmzeIe5dkitayXhuynEjR,more than my hometown,morgan wallen,2020-10-30,216573,false,country,0.621,0.882,-5.01,1,0.0459,0.601,0,0.132,0.574,126.014,4
+2021-02-031,3cBsEDNhFI9E82vPj3kvi3,wasted on you,morgan wallen,2021-01-08,178520,false,country,0.505,0.657,-5.24,0,0.0318,0.373,0.00107,0.126,0.252,196,3
+2021-02-033,6XSbSBzCrJv0C99guObcy6,before you go,lewis capaldi,2020-01-24,215106,false,soft pop,0.459,0.575,-4.858,1,0.0573,0.604,0,0.0885,0.183,111.881,4
+2021-02-038,0uRrG2jRR5tuifsYIJHEao,sand in my boots,morgan wallen,2021-01-08,202133,false,country,0.403,0.537,-6.628,1,0.031,0.59,0,0.112,0.414,69.877,4
+2021-02-044,1jaTQ3nqY3oAAYyCTbIvnM,whats poppin,jack harlow,2020-03-13,139741,true,,0.923,0.604,-6.671,0,0.245,0.017,0,0.272,0.826,145.062,4
+2021-02-051,1xQ6trAsedVPCdbtDAmk0c,savage love (laxed - siren beat),jawsh 685;jason derulo,2020-06-11,171374,true,,0.767,0.481,-8.52,0,0.0803,0.234,0,0.269,0.761,150.076,4
+2021-02-056,5PAvFGse5jjDH9ke8Mae7D,just the way,parmalee;blanco brown,2019-12-13,193880,false,"country,country hip hop",0.544,0.829,-2.84,1,0.0404,0.107,0,0.317,0.815,90.048,4
+2021-02-064,3hLuHKzG1cmlRpq53ZVWd8,the good ones,gabby barrett,2020-06-19,215140,false,country,0.519,0.552,-5.023,1,0.0259,0.18,0,0.149,0.331,89.957,4
+2021-02-073,6gBFPUFcJLzWGx4lenP6h2,goosebumps,travis scott,2016-09-16,243836,true,rap,0.841,0.728,-3.37,1,0.0484,0.0847,0,0.149,0.43,130.049,4
+2021-02-090,1kBx9VGumfuvlfqdlAGorE,hell of a view,eric church,2020-10-02,175280,false,"country,acoustic country",0.689,0.582,-6.778,1,0.0236,0.119,0.00464,0.101,0.883,99.021,4
+2021-02-091,3USxtqRwSYz57Ewm6wWRMp,heat waves,glass animals,2020-08-07,238805,false,,0.761,0.525,-6.9,1,0.0944,0.44,0.0000067,0.0921,0.531,80.87,4
+2021-02-096,5NUXE8W12lWcUXgJRCjeEw,one too many,keith urban;p!nk,2020-09-16,203893,false,country,0.697,0.535,-6.504,1,0.068,0.247,0,0.569,0.594,82.959,4
+2021-03-002,1XXimziG1uhM0eDNCZCrUl,up,cardi b,2021-02-05,156946,true,,0.868,0.795,-6.044,1,0.269,0.0012,0.0193,0.0461,0.819,166,4
+2021-03-008,3J8EOeKLTLXORtWPpOU5bE,calling my phone,lil tjay;6lack,2021-04-02,205458,true,"brooklyn drill,melodic rap",0.907,0.393,-7.636,0,0.0539,0.451,0.00000135,0.135,0.202,104.949,4
+2021-03-032,3R6wLBD4oU6op8L4YfMho9,no more parties,coi leray,2021-01-22,140920,true,,0.847,0.405,-10.901,1,0.584,0.232,0.00000537,0.0944,0.588,156.999,4
+2021-03-043,0YrKSfpvflYnLSBd4Jtu6J,time today,moneybagg yo,2021-04-23,136899,true,,0.912,0.608,-7.686,1,0.397,0.0458,0,0.248,0.327,136.994,4
+2021-03-049,1diS6nkxMQc3wwC4G1j0bh,we're good,dua lipa,2021-02-11,165506,false,pop,0.722,0.588,-5.932,1,0.0544,0.0319,0,0.183,0.59,134.01,4
+2021-03-062,3Ofmpyhv5UAQ70mENzB277,astronaut in the ocean,masked wolf,2021-01-06,132780,true,,0.778,0.695,-6.865,0,0.0913,0.175,0,0.15,0.472,149.996,4
+2021-03-093,472vIK1ldetTxRxG3ovaiY,glad you exist,dan + shay,2021-02-05,144533,false,country,0.748,0.551,-6.12,1,0.0349,0.235,0,0.119,0.66,103.953,4
+2021-03-099,5hChuUMe5iHfjkXgzj1D4b,track star,mooski,2021-02-09,199706,true,,0.641,0.598,-5.7,0,0.324,0.381,0,0.0921,0.285,131.459,5
+2021-04-003,7MAibcTli4IisCtbHKrGMh,leave the door open,bruno mars;anderson .paak;silk sonic,2021-03-05,242096,false,,0.586,0.616,-7.964,1,0.0324,0.182,0,0.0927,0.719,148.088,4
+2021-04-066,5dPz35akJjPqb17yeqNwqH,ghost,justin bieber,2021-03-19,153190,false,,0.604,0.741,-5.571,1,0.0475,0.178,0.0000349,0.409,0.473,153.947,4
+2021-04-082,3zc8VZEpM1onYV4FWGdFvm,tombstone,rod wave,2021-03-26,160078,true,,0.55,0.637,-5.212,1,0.163,0.597,0,0.129,0.535,84.448,4
+2021-04-094,4iXDn9pu5Q9sxv45vE8Lak,famous friends,chris young;kane brown,2020-11-20,165569,false,"country,acoustic country,pop country",0.533,0.855,-2.901,1,0.0356,0.0553,0,0.335,0.64,102.017,4
+2021-05-001,43PGPuHIlVOc04jrZVh9L6,rapstar,polo g,2021-04-09,165925,true,,0.789,0.536,-6.862,1,0.242,0.41,0,0.129,0.437,81.039,4
+2021-05-004,1SC5rEoYDGUK4NfG82494W,montero (call me by your name),lil nas x,2021-09-17,137704,true,,0.593,0.503,-6.725,0,0.22,0.293,0,0.405,0.71,178.781,4
+2021-05-011,6HU7h9RYOaPRFeh0R3UeAr,deja vu,olivia rodrigo,2021-05-21,215506,true,,0.442,0.612,-7.222,1,0.112,0.584,0.0000057,0.37,0.178,180.917,4
+2021-05-081,3UoULw70kMsiVXxW0L3A33,pov,ariana grande,2020-10-30,201882,false,pop,0.487,0.534,-5.664,0,0.0555,0.36,0,0.1,0.173,131.798,4
+2021-05-089,0NmuYnjETG3u3qx0OmEJev,lil bit,nelly;florida georgia line,2020-10-23,195962,true,"country,pop country,acoustic country",0.707,0.689,-7.097,0,0.0387,0.0255,0,0.383,0.41,119.987,4
+2021-05-094,1Xi84slp6FryDSCbzq4UCD,arcade,duncan laurence,2019-03-07,183624,false,,0.459,0.331,-12.603,0,0.0421,0.817,0.00104,0.135,0.271,72.023,3
+2021-06-001,2bgTY4UwhfBYhGT4HUYStN,butter,bts,2021-06-04,164441,false,k-pop,0.759,0.459,-5.187,1,0.0948,0.00323,0,0.0906,0.695,109.997,4
+2021-06-002,4ZtFanR9U6ndgddUvNcjcG,good 4 u,olivia rodrigo,2021-05-21,178146,true,,0.563,0.664,-5.044,1,0.154,0.335,0,0.0849,0.688,166.928,4
+2021-06-009,5CZ40GBx1sQ9agT82CLQCT,traitor,olivia rodrigo,2021-05-21,229226,false,,0.38,0.339,-7.885,1,0.0338,0.691,0,0.12,0.0849,100.607,4
+2021-06-036,0nqhKXDjsyBMvbeWmgijD0,wockesha,moneybagg yo,2021-04-23,180930,true,,0.582,0.537,-9.229,1,0.619,0.129,0,0.0749,0.771,82.103,4
+2021-06-078,1irAliF0T8sLIOPJp6n7rU,single saturday night,cole swindell,2020-05-22,187683,false,"country,acoustic country",0.623,0.79,-5.07,1,0.0473,0.118,0,0.226,0.694,81.949,4
+2021-06-100,5QS8PNEWbqTEZyQ6e9ZbJf,things a man oughta know,lainey wilson,2021-02-19,203373,false,country,0.659,0.683,-5.623,1,0.0312,0.513,0.00000493,0.133,0.397,139.931,4
+2021-07-017,5zNW5ARjYhJQJz1AChP33n,thot shit,megan thee stallion,2021-06-11,184634,true,,0.95,0.693,-3.424,1,0.0898,0.0133,0,0.173,0.891,130.02,4
+2021-07-022,2JPLbjOn0wPCngEot2STUS,yonaguni,bad bunny,2021-06-04,206710,true,"reggaeton,trap latino,latin,urbano latino",0.644,0.648,-4.601,1,0.118,0.276,0,0.135,0.44,179.951,4
+2021-07-032,1fxYz1s15pyZLsJT0Hdh1m,late at night,roddy ricch,2021-06-04,174682,true,melodic rap,0.643,0.403,-11.254,0,0.41,0.343,0,0.138,0.111,98.54,4
+2021-07-036,4fSIb4hdOQ151TILNsSEaF,todo de ti,rauw alejandro,2021-05-20,199604,true,"reggaeton,trap latino,urbano latino,latin",0.78,0.718,-3.605,0,0.0506,0.31,0.000163,0.0932,0.342,127.949,4
+2021-07-051,3ZozFqJJlDBNIm4xqxn2ZD,fancy like,walker hayes,2021-06-04,161853,false,country,0.649,0.76,-6.487,1,0.0574,0.114,0,0.317,0.843,80.018,4
+2021-07-066,3Vi5XqYrmQgOYBajMWSvCi,need to know,doja cat,2021-06-25,210560,true,,0.664,0.609,-6.509,1,0.0707,0.304,0,0.0926,0.194,130.041,4
+2021-08-007,6PQ88X9TkUIAUIZJHW2upE,bad habits,ed sheeran,2021-06-25,231041,false,soft pop,0.808,0.897,-3.712,0,0.0348,0.0469,0.0000314,0.364,0.591,126.026,4
+2021-08-015,5f3MXmTmstozFg0BH1yPUk,if i didn't love you,jason aldean;carrie underwood,2021-07-23,212030,false,"country,acoustic country",0.456,0.679,-4.802,1,0.0324,0.176,0,0.103,0.483,184.075,4
+2021-08-019,0k4d5YPDr1r7FX77VdqWez,you right,doja cat;the weeknd,2021-06-25,186173,true,,0.828,0.621,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,4
+2021-08-079,2UikqkwBv7aIvlixeVXHWt,you should probably leave,chris stapleton,2020-11-13,213493,false,"country,outlaw country",0.602,0.477,-8.425,1,0.032,0.268,0.000031,0.173,0.552,183.89,4
+2021-09-016,6OGogr19zPTM4BALXuMQpF,take my breath,the weeknd,2021-08-06,220196,false,,0.748,0.74,-6.01,1,0.0484,0.0107,0.0000218,0.101,0.518,121.004,4
+2021-09-022,4RVwu0g32PAqgUiJoXsdF8,happier than ever,billie eilish,2021-07-30,298899,true,,0.332,0.225,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,3
+2021-09-068,4V5siYO9zHpLX5qf2F0qBV,get into it (yuh),doja cat,2021-06-24,138293,false,,0.92,0.639,-6.095,0,0.204,0.267,0.00012,0.0847,0.732,91.92,4
+2021-09-070,2ds0pWAKDaq9yz3o6rexbk,woman,doja cat,2021-06-24,172626,false,,0.825,0.761,-4.188,0,0.0895,0.109,0.00339,0.119,0.881,107.983,4
+2021-09-073,4FdPnT2cFrpWCmWZd7GXc3,one mississippi,kane brown,2021-08-20,213718,false,"country,pop country",0.471,0.846,-5.269,1,0.0389,0.00279,0.00000286,0.145,0.539,100.089,4
+2021-09-084,69AIpwGNLxr4qS1X5ynx60,buy dirt,jordan davis;luke bryan,2021-05-21,167480,false,"country,pop country,acoustic country",0.586,0.559,-6.725,1,0.05,0.639,0,0.0872,0.437,177.945,4
+2021-10-010,3egamOji0THEWgIOnAN2LX,thats what i want,lil nas x,2021-09-17,143901,false,,0.654,0.871,-4.547,0,0.348,0.00765,0,0.052,0.608,176.17,4
+2021-10-017,50nfwKoDiSYg8zOCREWAm5,shivers,ed sheeran,2021-10-25,207853,false,soft pop,0.788,0.859,-2.724,1,0.0856,0.281,0,0.0424,0.822,141.02,4
+2021-10-044,374MrggHI4Ip6UwJkaQUBn,meet me at our spot,the anxiety;willow;tyler cole,2020-03-13,162680,false,,0.769,0.465,-8.06,1,0.0327,0.0161,0.000596,0.0854,0.396,94.997,4
+2021-10-080,2Xr1dTzJee307rmrkt8c0g,love nwantiti (ah ah ah),ckay,2019-08-30,145800,true,"afrobeats,afrobeat,afro r&b,afropop",0.727,0.739,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,4
+2021-11-001,0gplL1WMoJ6iYaPgMCL0gX,easy on me,adele,2021-10-14,224694,false,soft pop,0.604,0.366,-7.519,1,0.0282,0.578,0,0.133,0.13,141.981,4
+2021-11-065,13rC4iKtfQocWIfzPOJxaT,'til you can't,cody johnson,2021-06-11,224773,false,"texas country,country,red dirt",0.505,0.814,-4.905,1,0.0439,0.0566,0,0.106,0.503,160.085,4
+2021-11-088,5lHxARJJrZc3ss4ZVmGWfz,big energy,latto,2021-09-24,173182,false,,0.935,0.81,-3.838,0,0.117,0.0401,0,0.349,0.787,106.028,4
+2021-12-005,3Kkjo3cT83cw09VJyrLNwX,oh my god,adele,2021-11-19,225148,false,soft pop,0.534,0.725,-3.906,1,0.046,0.091,0,0.0264,0.55,88.098,4
+2021-12-010,3xVZYkcuWalGudeKl861wb,smokin out the window,bruno mars;anderson .paak;silk sonic,2021-11-11,197442,false,,0.627,0.618,-8.529,1,0.0437,0.0558,0,0.351,0.848,82.03,4
+2021-12-063,40G7ZcF9YkTppG7cFjCqnK,super gremlin,kodak black,2022-02-24,200547,false,,0.814,0.462,-4.963,1,0.0946,0.00651,0,0.349,0.102,72.98,4
+2021-12-082,4GyD3o5hWoyCuYpdlzZlRL,doin' this,luke combs,2021-11-10,254181,false,country,0.593,0.552,-5.838,1,0.028,0.18,0.0000171,0.11,0.39,115,4
