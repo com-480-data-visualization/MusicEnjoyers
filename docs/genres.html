@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Genre Evolution</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+</head>
+
+<body>
+
+<header class="top-nav">
+    <a href="index.html" class="title-link">
+        <h2>Pop Music Evolution</h2>
+    </a>
+    <nav>
+        <a href="duration.html" class="nav-link">Duration</a>
+        <a href="genres.html" class="nav-link active">Genres</a>
+        <a href="dashboard.html" class="nav-link">Dashboard</a>
+    </nav>
+</header>
+
+<!-- SECTION 2 -->
+<section class="section">
+    <div class="text">
+        <h1>Genres become more similar</h1>
+        <p>
+            Over time, genres blend together and share 
+            more musical characteristics.
+        </p>
+    </div>
+
+    <div class="viz-container">
+        <div id="genreChart"></div>
+        <div id="cluster"></div>
+    </div>
+</section>
+
+<script src="scripts/genres.js"></script>
+
+<!-- Loading bar for page transition -->
+<div class="loading-bar-container" id="loadingBar">
+    <div class="loading-bar" id="loadingProgress"></div>
+</div>
+<script src="scripts/nextPageLoading.js"></script>
+<script>
+// Auto-hide header on scroll
+let lastScrollTop = 0;
+const header = document.querySelector('.top-nav');
+
+window.addEventListener('scroll', () => {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    
+    if (scrollTop > lastScrollTop && scrollTop > 100) {
+        // Scrolling down
+        header.classList.add('hidden');
+    } else {
+        // Scrolling up
+        header.classList.remove('hidden');
+    }
+    
+    lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
+});
+
+// Bottom scroll to next page
+let bottomScrollTimer;
+let isAtBottom = false;
+const loadingBar = document.getElementById('loadingBar');
+const loadingProgress = document.getElementById('loadingProgress');
+
+function checkBottomScroll() {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    const windowHeight = window.innerHeight;
+    const documentHeight = document.documentElement.scrollHeight;
+    
+    if (scrollTop + windowHeight >= documentHeight - 10) {
+        if (!isAtBottom) {
+            isAtBottom = true;
+            startLoadingBar();
+        }
+    } else {
+        if (isAtBottom) {
+            isAtBottom = false;
+            stopLoadingBar();
+        }
+    }
+}
+
+function startLoadingBar() {
+    loadingBar.classList.add('visible');
+    loadingProgress.classList.add('fill');
+    
+    bottomScrollTimer = setTimeout(() => {
+        // Navigate to next page (dashboard.html)
+        window.location.href = 'dashboard.html';
+    }, 3000);
+}
+
+function stopLoadingBar() {
+    loadingBar.classList.remove('visible');
+    loadingProgress.classList.remove('fill');
+    clearTimeout(bottomScrollTimer);
+}
+
+window.addEventListener('scroll', checkBottomScroll);
+</script>
+
+</body>
+</html>
