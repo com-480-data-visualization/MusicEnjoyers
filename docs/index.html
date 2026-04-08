@@ -7,11 +7,15 @@
 <title>Pop Music Evolution</title>
 
 <link rel="stylesheet" href="style.css">
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
 </head>
 
-<body class="landing">
+<body>
 
-<div class="cover">
+<!-- LANDING COVER -->
+<div class="cover" id="top">
     <div class="music-icon">♪</div>
     <h1 class="title">POP MUSIC IS EVOLVING</h1>
     <p class="subtitle">
@@ -19,11 +23,67 @@
         Genres are blending.<br/>
         Explore how music changed over time.<br/>
     </p>
-
-    <a href="duration.html" class="enter-btn">
-        Enter Visualization ➔
-    </a>
 </div>
+
+<header class="top-nav">
+    <a href="#top" class="title-link">
+        <h2>Pop Music Evolution</h2>
+    </a>
+    <nav>
+        <a href="#duration" class="nav-link active">Duration</a>
+        <a href="#genres" class="nav-link">Genres</a>
+        <a href="#dashboard" class="nav-link">Dashboard</a>
+    </nav>
+</header>
+
+<!-- SECTION 1: Duration -->
+<section class="section" id="duration">
+    <div class="text reveal">
+        <h1>The song duration is shorter</h1>
+        <p>
+            Modern pop songs are becoming shorter to adapt
+            to streaming platforms and listener attention span.
+        </p>
+    </div>
+
+    <div class="viz-container reveal">
+        <div id="duration-bar"></div>
+        <div id="duration-line"></div>
+    </div>
+</section>
+
+<!-- SECTION 2: Genres -->
+<section class="section" id="genres">
+    <div class="text reveal">
+        <h1>Genres become more similar</h1>
+        <p>
+            Over time, genres blend together and share
+            more musical characteristics.
+        </p>
+    </div>
+
+    <div class="viz-container reveal">
+        <div id="genreChart"></div>
+        <div id="cluster"></div>
+    </div>
+</section>
+
+<!-- SECTION 3: Dashboard -->
+<section class="section" id="dashboard-section">
+    <div class="text reveal">
+        <h1>Interact with the data</h1>
+        <p>
+            Explore all audio features across time.
+        </p>
+    </div>
+
+    <div id="dashboard" class="reveal"></div>
+</section>
+
+<script src="scripts/duration.js"></script>
+<script src="scripts/genres.js"></script>
+<script src="scripts/dashboard.js"></script>
+<script src="scripts/scroll.js"></script>
 
 </body>
 </html>

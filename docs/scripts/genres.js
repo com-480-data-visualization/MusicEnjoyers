@@ -1,3 +1,4 @@
+(function() {
 const genreData = [
     { year: 2016, country: 15, christmas: 4, "adult standards": 7, rap: 8, rockabilly: 5, "r&b": 6, "doo-wop": 8, "acoustic country": 6, "hip hop": 4, "melodic rap": 2 },
     { year: 2017, country: 21, christmas: 8, "adult standards": 11, rap: 11, rockabilly: 4, "r&b": 7, "doo-wop": 5, "acoustic country": 7, "hip hop": 6, "melodic rap": 5 },
@@ -119,3 +120,4 @@ keys.forEach((key, index) => {
         .style("font-size", "11px")
         .text(key);
 });
+})();

@@ -1,3 +1,4 @@
+(function() {
 // Dummy data for song duration from 2015 to 2025
 const durationData = [
     { year: 2015, duration: 10 },
@@ -84,3 +85,4 @@ svg.append("text")
     .style("fill", "#B3B3B3")
     .style("font-size", "14px")
     .text("Year");
+})();
