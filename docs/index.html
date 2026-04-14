@@ -6,6 +6,10 @@
 
 <title>Pop Music Evolution</title>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+
 <link rel="stylesheet" href="style.css">
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
@@ -39,15 +43,18 @@
 <!-- SECTION 1: Duration -->
 <section class="section" id="duration">
     <div class="text reveal">
-        <h1>The song duration is shorter</h1>
+        <h1>Songs are getting shorter. And it is not a coincidence.</h1>
         <p>
-            Modern pop songs are becoming shorter to adapt
-            to streaming platforms and listener attention span.
+            Since TikTok launched in September 2016, the average Billboard Hot&nbsp;100 hit
+            has shed nearly half a minute. Instagram Reels and YouTube Shorts
+            followed, rewarding brevity and punishing anything over three minutes.
+            The attention economy reshaped pop music.
         </p>
     </div>
 
+    <div class="duration-stat reveal" id="duration-stat"></div>
+
     <div class="viz-container reveal">
-        <div id="duration-bar"></div>
         <div id="duration-line"></div>
     </div>
 </section>

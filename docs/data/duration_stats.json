@@ -1,0 +1,112 @@
+[
+  {
+    "year": 2016,
+    "avg_seconds": 219.6,
+    "count": 1196,
+    "min_seconds": 124.0,
+    "min_track": "Ex's & Oh's",
+    "min_artist": "Elle King",
+    "max_seconds": 1134.0,
+    "max_track": "Purple Rain",
+    "max_artist": "Prince And The Revolution"
+  },
+  {
+    "year": 2017,
+    "avg_seconds": 216.4,
+    "count": 1200,
+    "min_seconds": 95.0,
+    "min_track": "Everybody Dies In Their Nightmares",
+    "min_artist": "XXXTENTACION",
+    "max_seconds": 500.0,
+    "max_track": "God.",
+    "max_artist": "Kendrick Lamar"
+  },
+  {
+    "year": 2018,
+    "avg_seconds": 208.1,
+    "count": 1200,
+    "min_seconds": 73.0,
+    "min_track": "Pete Davidson",
+    "min_artist": "Ariana Grande",
+    "max_seconds": 417.0,
+    "max_track": "Te Bote",
+    "max_artist": "Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny"
+  },
+  {
+    "year": 2019,
+    "avg_seconds": 196.4,
+    "count": 1200,
+    "min_seconds": 94.0,
+    "min_track": "BAD!",
+    "min_artist": "XXXTENTACION",
+    "max_seconds": 313.0,
+    "max_track": "Sicko Mode",
+    "max_artist": "Travis Scott"
+  },
+  {
+    "year": 2020,
+    "avg_seconds": 192.6,
+    "count": 1200,
+    "min_seconds": 111.0,
+    "min_track": "LIGHTSKIN SH*T",
+    "min_artist": "DaBaby Featuring Future & jetsonmade",
+    "max_seconds": 362.0,
+    "max_track": "After Hours",
+    "max_artist": "The Weeknd"
+  },
+  {
+    "year": 2021,
+    "avg_seconds": 195.0,
+    "count": 1199,
+    "min_seconds": 64.0,
+    "min_track": "Deck The Halls",
+    "min_artist": "Nat King Cole",
+    "max_seconds": 403.0,
+    "max_track": "To Be Loved",
+    "max_artist": "Adele"
+  },
+  {
+    "year": 2022,
+    "avg_seconds": 195.3,
+    "count": 1200,
+    "min_seconds": 64.0,
+    "min_track": "Deck The Halls",
+    "min_artist": "Nat King Cole",
+    "max_seconds": 399.0,
+    "max_track": "Hours In Silence",
+    "max_artist": "Drake & 21 Savage"
+  },
+  {
+    "year": 2023,
+    "avg_seconds": 194.1,
+    "count": 1200,
+    "min_seconds": 64.0,
+    "min_track": "Deck The Halls",
+    "min_artist": "Nat King Cole",
+    "max_seconds": 740.0,
+    "max_track": "I Swear, I Really Wanted To Make A \"Rap\" Album But...",
+    "max_artist": "Andre 3000"
+  },
+  {
+    "year": 2024,
+    "avg_seconds": 196.7,
+    "count": 1200,
+    "min_seconds": 64.0,
+    "min_track": "Deck The Halls",
+    "min_artist": "Nat King Cole",
+    "max_seconds": 587.0,
+    "max_track": "Dancing Through Life",
+    "max_artist": "Jonathan Bailey Featuring Ariana Grande, Ethan Slater, Marissa Bode & Cynthia Erivo"
+  },
+  {
+    "year": 2025,
+    "avg_seconds": 196.7,
+    "count": 1199,
+    "min_seconds": 34.0,
+    "min_track": "Steve's Lava Chicken",
+    "min_artist": "Jack Black",
+    "max_seconds": 457.0,
+    "max_track": "Defying Gravity",
+    "max_artist": "Cynthia Erivo Featuring Ariana Grande"
+  }
+]
