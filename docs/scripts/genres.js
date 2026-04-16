@@ -99,7 +99,7 @@ svg.append("text")
     .style("fill", "#FFFFFF")
     .style("font-size", "18px")
     .style("font-weight", "700")
-    .text("Genre Share by Year (100% stacked)");
+    .text("work in progress...");
 
 const legend = svg.append("g")
     .attr("transform", `translate(${width + 20}, 30)`);
