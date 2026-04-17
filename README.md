@@ -113,11 +113,13 @@ Our work differs in two main ways. First, we collect the most up-to-date data on
 
 **10% of the final grade**
 
+[Our website (initial version)](https://com-480-data-visualization.github.io/MusicEnjoyers/)
+
+[Milestone 2 report](./Milestone2_MusicEnjoyers.pdf)
 
 ## Milestone 3 (29th May, 5pm)
 
 **80% of the final grade**
-
 
 ## Late policy
 
