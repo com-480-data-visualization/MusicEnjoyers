@@ -1,0 +1,79 @@
+.genre-main{
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+/* ---------------- Tabs ---------------- */
+
+.genre-tabs{
+    display: flex;
+    gap: 10px;
+    margin-bottom: -1px;
+}
+
+.genre-tab{
+    background: #181818;
+    color: #9a9a9a;
+    border: 1px solid #2d2d2d;
+    border-bottom: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 14px 14px 0 0;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    transform: translateY(-4px);
+}
+
+.genre-tab:hover{
+    background: #181818;
+    color: white;
+}
+
+.genre-tab.active{
+    /* background: #181818; */
+    color: #1DB954;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+    position: relative;
+    z-index: 2;
+    transform: translateY(0px);
+}
+
+/* ---------------- Panel ---------------- */
+
+.genre-panel{
+    display:none;
+    width: 1180px;
+    background:#181818;
+    border:1px solid #2d2d2d;
+    border-radius:0 20px 20px 20px;
+    padding: 5px 28px 0px;
+    box-sizing:border-box;
+    overflow:hidden;
+    animation:fadeUp .35s ease;
+}
+
+.genre-panel.active{
+    display:block;
+}
+
+@keyframes fadeUp{
+    from{
+        opacity:0;
+        transform:translateY(10px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+/* chart fixed */
+.genre-panel svg{
+    width:100%;
+    max-width:1120px;
+    height:auto;
+    display:block;
+    margin:0 auto;
+}

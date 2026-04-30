@@ -11,6 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="genres.css">
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 
@@ -62,17 +63,43 @@
 <!-- SECTION 2: Genres -->
 <section class="section" id="genres">
     <div class="text reveal">
-        <h1>Shifting Genres and Popularity Trends</h1>
+        <h1>Genres are shifting.</h1>
         <p>
-            Work in progress...
+            Pop music no longer belongs to fixed categories.
+            Styles overlap, blend, and evolve faster than ever.
         </p>
     </div>
+    <div class="genre-layout">
+        <div class="genre-main">
+            <div class="genre-tabs">
+                <button class="genre-tab active" data-chart="share">Genre Share</button>    
+                <button class="genre-tab" data-chart="count">Track Counts</button>
+                <button class="genre-tab" data-chart="cluster">Similarity</button>
+            </div>
 
-    <div class="viz-container reveal">
-        <div id="genreChart"></div>
-        <div id="cluster"></div>
+        <div class="genre-panel active" id="share-panel">
+            <p>Need some description here...</p>
+            <div id="genreChart"></div>
+        </div>
+
+        <div class="genre-panel" id="count-panel">
+            <p>Need some description here...</p>
+            <div id="genreLineChart"></div>
+        </div>
+
+        <div class="genre-panel" id="cluster-panel">
+            <p>Need some description here...</p>
+            <div id="clusterChart"></div>
+        </div>
+
+        </div>
+
     </div>
+
 </section>
+
+
+
 
 <!-- SECTION 3: Dashboard -->
 <section class="section" id="dashboard-section">

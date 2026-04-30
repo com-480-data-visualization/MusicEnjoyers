@@ -215,6 +215,10 @@ body {
     margin: 0;
 }
 
+.intro {
+    height: 100vh;
+}
+
 .viz-container {
     display: flex;
     gap: 32px;
