@@ -1,9 +1,390 @@
-const svg3 = d3.select("#dashboard")
-    .append("svg")
-    .attr("width", 900)
-    .attr("height", 500)
 
-svg3.append("text")
-    .attr("x", 50)
-    .attr("y", 50)
-    .text("Interactive dashboard placeholder")
+(function () {
+    // --- Constants ---
+    var margin = { top: 40, right: 90, bottom: 50, left: 65 };
+    var width = 760;
+    var height = 400;
+    var innerW = width - margin.left - margin.right;
+    var innerH = height - margin.top - margin.bottom;
+ 
+    // --- Metric definitions ---
+    var metrics = {
+        duration: {
+            label: "Duration",
+            field: "avg_duration",
+            yPad: 5,
+            axisFormat: function (d) { return Math.round(d) + "s"; },
+            format: function (d) {
+                var m = Math.floor(d / 60);
+                var s = Math.round(d % 60);
+                return m + "m " + (s < 10 ? "0" : "") + s + "s";
+            },
+            tooltipHtml: function (d) {
+                var mins = Math.floor(d.avg_duration / 60);
+                var secs = Math.round(d.avg_duration % 60);
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg: " + mins + "m " + (secs < 10 ? "0" : "") + secs + "s (" + d.avg_duration + "s)<br>" +
+                    "Songs: " + d.count + "<br>" +
+                    "Longest: " + d.max_track + " (" + Math.round(d.max_seconds) + "s)<br>" +
+                    "Shortest: " + d.min_track + " (" + Math.round(d.min_seconds) + "s)";
+            }
+        },
+        bpm: {
+            label: "BPM",
+            field: "avg_bpm",
+            yPad: 2,
+            axisFormat: function (d) { return Math.round(d); },
+            format: function (d) { return Math.round(d) + " bpm"; },
+            tooltipHtml: function (d) {
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg BPM: " + Math.round(d.avg_bpm) + "<br>" +
+                    "Songs: " + d.count;
+            }
+        },
+        loudness: {
+            label: "Loudness",
+            field: "avg_loudness",
+            yPad: 0.5,
+            axisFormat: function (d) { return d.toFixed(1) + " dB"; },
+            format: function (d) { return d.toFixed(1) + " dB"; },
+            tooltipHtml: function (d) {
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg loudness: " + d.avg_loudness.toFixed(2) + " dB<br>" +
+                    "Songs: " + d.count;
+            }
+        },
+        danceability: {
+            label: "Danceability",
+            field: "avg_danceability",
+            yPad: 0.02,
+            axisFormat: function (d) { return (d * 100).toFixed(0) + "%"; },
+            format: function (d) { return (d * 100).toFixed(1) + "%"; },
+            tooltipHtml: function (d) {
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg danceability: " + (d.avg_danceability * 100).toFixed(1) + "%<br>" +
+                    "Songs: " + d.count;
+            }
+        },
+        speechiness: {
+            label: "Speechiness",
+            field: "avg_speechiness",
+            yPad: 0.005,
+            axisFormat: function (d) { return (d * 100).toFixed(1) + "%"; },
+            format: function (d) { return (d * 100).toFixed(1) + "%"; },
+            tooltipHtml: function (d) {
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg speechiness: " + (d.avg_speechiness * 100).toFixed(1) + "%<br>" +
+                    "Songs: " + d.count;
+            }
+        },
+        acousticness: {
+            label: "Acousticness",
+            field: "avg_acousticness",
+            yPad: 0.02,
+            axisFormat: function (d) { return (d * 100).toFixed(0) + "%"; },
+            format: function (d) { return (d * 100).toFixed(1) + "%"; },
+            tooltipHtml: function (d) {
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg acousticness: " + (d.avg_acousticness * 100).toFixed(1) + "%<br>" +
+                    "Songs: " + d.count;
+            }
+        },
+        energy: {
+            label: "Energy",
+            field: "avg_energy",
+            yPad: 0.02,
+            axisFormat: function (d) { return (d * 100).toFixed(0) + "%"; },
+            format: function (d) { return (d * 100).toFixed(1) + "%"; },
+            tooltipHtml: function (d) {
+                return "<strong>" + d.year + "</strong><br>" +
+                    "Avg energy: " + (d.avg_energy * 100).toFixed(1) + "%<br>" +
+                    "Songs: " + d.count;
+            }
+        }
+    };
+ 
+    var activeMetric = "duration";
+ 
+    // --- Tooltip (shared HTML element) ---
+    var tooltip = d3.select("body")
+        .append("div")
+        .attr("class", "duration-tooltip");
+ 
+    // --- Load data ---
+    d3.json("data/general_stats.json").then(function (data) {
+        data.forEach(function (d) {
+            d.year              = +d.year;
+            d.avg_duration      = +d.avg_duration;
+            d.avg_loudness      = +d.avg_loudness;
+            d.avg_bpm           = +d.avg_bpm;
+            d.avg_energy        = +d.avg_energy;
+            d.avg_danceability  = +d.avg_danceability;
+            d.avg_speechiness   = +d.avg_speechiness;
+            d.avg_acousticness  = +d.avg_acousticness;
+        });
+        data.forEach(function(d) {
+            console.log(d.year, "energy:", d.avg_energy, typeof d.avg_energy);
+        });
+        // --- Big stat (initial render) ---
+        updateStat(data, activeMetric);
+ 
+        // --- SVG ---
+        var svg = d3.select("#dashboard")
+            .append("svg")
+            .attr("viewBox", "0 0 " + width + " " + height)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+ 
+        // --- Scales ---
+        var x = d3.scaleLinear()
+            .domain([2016, 2025])
+            .range([0, innerW]);
+ 
+        var y = d3.scaleLinear()
+            .range([innerH, 0]);
+ 
+        // --- Axes (groups created once, updated on metric change) ---
+        svg.append("g")
+            .attr("transform", "translate(0," + innerH + ")")
+            .call(
+                d3.axisBottom(x)
+                    .ticks(10)
+                    .tickFormat(d3.format("d"))
+            )
+            .call(function (g) { g.select(".domain").remove(); })
+            .selectAll("text")
+            .style("fill", "#B3B3B3")
+            .style("font-size", "12px");
+ 
+        var yAxisG = svg.append("g");
+ 
+        // --- Annotations (vertical dashed lines + labels) ---
+        // Only meaningful for duration; hidden for other metrics
+        // var annotations = [
+        //     { year: 2016, label: "TikTok launches", dy: -20 },
+        //     { year: 2020, label: "Instagram Reels", dy: -28 },
+        //     { year: 2020, label: "YouTube Shorts",  dy:  28 }
+        // ];
+ 
+        // var annotGroup = svg.append("g").attr("class", "annotations");
+ 
+        // --- Line path ---
+        var linePath = svg.append("path")
+            .attr("fill", "none")
+            .attr("stroke", "#1DB954")
+            .attr("stroke-width", 3);
+ 
+        // --- Animation state ---
+        var hasAnimated = false;
+ 
+        // --- Data point circles ---
+        var circles = svg.selectAll(".dot")
+            .data(data)
+            .enter()
+            .append("circle")
+            .attr("class", "dot")
+            .attr("cx", function (d) { return x(d.year); })
+            .attr("r", 5)
+            .attr("fill", "#1DB954")
+            .attr("stroke", "#121212")
+            .attr("stroke-width", 2)
+            .style("opacity", 0);
+ 
+        // --- Endpoint labels group ---
+        var labelsGroup = svg.append("g").attr("class", "endpoint-labels");
+ 
+        // --- Tooltip overlay rect ---
+        svg.append("rect")
+            .attr("width", innerW)
+            .attr("height", innerH)
+            .attr("fill", "none")
+            .attr("pointer-events", "all")
+            .on("mousemove", function (event) {
+                var pointer = d3.pointer(event);
+                var xVal = x.invert(pointer[0]);
+                var nearest = data.reduce(function (prev, curr) {
+                    return Math.abs(curr.year - xVal) < Math.abs(prev.year - xVal) ? curr : prev;
+                });
+ 
+                circles
+                    .attr("r", function (d) { return d.year === nearest.year ? 8 : 5; })
+                    .style("opacity", function (d) {
+                        return d.year === nearest.year ? 1 : (hasAnimated ? 0.7 : 0);
+                    });
+ 
+                tooltip
+                    .html(metrics[activeMetric].tooltipHtml(nearest))
+                    .classed("visible", true);
+ 
+                var ttNode = tooltip.node();
+                var ttW = ttNode.offsetWidth;
+                var px = event.pageX + 15;
+                if (px + ttW > window.innerWidth - 20) {
+                    px = event.pageX - ttW - 15;
+                }
+                tooltip
+                    .style("left", px + "px")
+                    .style("top", (event.pageY - 20) + "px");
+            })
+            .on("mouseleave", function () {
+                tooltip.classed("visible", false);
+                circles
+                    .attr("r", 5)
+                    .style("opacity", hasAnimated ? 0.7 : 0);
+            });
+ 
+        // --- Render function ---
+        function updateChart(metricKey, animate) {
+            var m = metrics[metricKey];
+            var field = m.field;
+ 
+            var yMin = d3.min(data, function (d) { return d[field]; });
+            var yMax = d3.max(data, function (d) { return d[field]; });
+            y.domain([yMin - m.yPad, yMax + m.yPad]);
+ 
+            // Y axis
+            yAxisG
+                .call(
+                    d3.axisLeft(y)
+                        .ticks(5)
+                        .tickFormat(m.axisFormat)
+                )
+                .call(function (g) { g.select(".domain").remove(); })
+                .selectAll("text")
+                .style("fill", "#B3B3B3")
+                .style("font-size", "12px");
+ 
+            svg.selectAll(".tick line").style("stroke", "#444");
+ 
+ 
+            // Line
+            var lineGen_db = d3.line()
+                .defined(function(d) { return d[field] != null && !isNaN(d[field]); })
+                .x(function (d) { return x(d.year); })
+                .y(function (d) { return y(d[field]); })
+                .curve(d3.curveMonotoneX);
+ 
+            if (animate) {
+                // Scroll-triggered first draw: use dash animation
+                linePath.datum(data).attr("d", lineGen_db);
+                var totalLength = linePath.node().getTotalLength();
+                linePath
+                    .attr("stroke-dasharray", totalLength)
+                    .attr("stroke-dashoffset", totalLength)
+                    .transition()
+                    .duration(2000)
+                    .ease(d3.easeCubicInOut)
+                    .attr("stroke-dashoffset", 0);
+            // } else {
+            //     // Metric switch: smooth path tween
+            //     linePath.datum(data)
+            //         .transition()
+            //         .duration(600)
+            //         .ease(d3.easeCubicInOut)
+            //         .attr("d", lineGen_db);
+            // }
+            } else {
+                // Metric switch: clear dash animation first, then tween path
+                linePath
+                    .attr("stroke-dasharray", null)
+                    .attr("stroke-dashoffset", null);
+                linePath.datum(data)
+                    .transition()
+                    .duration(600)
+                    .ease(d3.easeCubicInOut)
+                    .attr("d", lineGen_db);
+            }
+            // Circles
+            circles
+                .transition()
+                .duration(600)
+                .attr("cy", function (d) { return y(d[field]); });
+ 
+            // Endpoint labels
+            labelsGroup.selectAll("*").remove();
+            labelsGroup.append("text")
+                .attr("x", x(data[0].year) + 10)
+                .attr("y", y(data[0][field]))
+                .attr("text-anchor", "start")
+                .attr("dy", "0.0em")
+                .attr("fill", "#FFFFFF")
+                .attr("font-size", "13px")
+                .attr("font-weight", 700)
+                .text(m.format(data[0][field]));
+            labelsGroup.append("text")
+                .attr("x", x(data[data.length - 1].year) + 12)
+                .attr("y", y(data[data.length - 1][field]))
+                .attr("text-anchor", "start")
+                .attr("dy", "0.35em")
+                .attr("fill", "#FFFFFF")
+                .attr("font-size", "13px")
+                .attr("font-weight", 700)
+                .text(m.format(data[data.length - 1][field]));
+ 
+            // Big stat
+            updateStat(data, metricKey);
+        }
+ 
+
+        var chartReady = false;
+        document.getElementById('chart-knob-container').addEventListener('metric-change', function(e) {
+            if (!chartReady) return;
+            var key_db = e.detail.metric;
+            if (key_db === activeMetric) return;
+            activeMetric = key_db;
+            updateChart(activeMetric, false);
+        });
+        // --- Initial render (no animation yet — wait for scroll) ---
+        updateChart(activeMetric, false);
+        chartReady = true; 
+ 
+        // Set up line for scroll animation
+        var lineGen0_db = d3.line()
+            .x(function (d) { return x(d.year); })
+            .y(function (d) { return y(d[metrics[activeMetric].field]); })
+            .curve(d3.curveMonotoneX);
+        linePath.datum(data).attr("d", lineGen0_db);
+        var totalLength0_db = linePath.node().getTotalLength();
+        linePath
+            .attr("stroke-dasharray", totalLength0_db)
+            .attr("stroke-dashoffset", totalLength0_db);
+ 
+        // --- Scroll-triggered draw animation ---
+        var observer_db = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+                if (entry.isIntersecting && !hasAnimated) {
+                    hasAnimated = true;
+ 
+                    // Draw the line
+                    linePath.transition()
+                        .duration(2000)
+                        .ease(d3.easeCubicInOut)
+                        .attr("stroke-dashoffset", 0);
+ 
+                    // Stagger circles in
+                    circles.transition()
+                        .delay(function (_d, i) { return 200 + i * 150; })
+                        .duration(400)
+                        .style("opacity", 0.7);
+                }
+            });
+        }, { threshold: 0.3 });
+ 
+        observer_db.observe(document.getElementById("duration-line"));
+    });
+ 
+    // --- Big stat helper ---
+    function updateStat(data, metricKey) {
+        var m = metrics[metricKey];
+        var field = m.field;
+        var first = data[0][field];
+        var last  = data[data.length - 1][field];
+        var diff  = first - last;
+        var sign  = diff > 0 ? "\u2212" : "+";
+        var statEl = document.getElementById("dashboard-stat");
+        if (!statEl) return;
+        statEl.innerHTML =
+            "<span>" + sign + m.format(Math.abs(diff)) + "</span>" +
+            '<span class="stat-label">' + m.label.toLowerCase() + " change since " + data[0].year + "</span>";
+    }
+})();
