@@ -56,19 +56,28 @@
         navObserver.observe(this);
     });
 
-    // --- Auto-hide header on scroll ---
-    var lastScrollTop = 0;
+    // --- Header: hidden on cover; show on scroll-up, hide on scroll-down ---
     var header = d3.select('.top-nav');
+    header.classed('hidden', true);
+
+    var pastCover = false;
+    var lastScrollTop = 0;
+
+    var coverEl = document.getElementById('top');
+    if (coverEl) {
+        var coverObserver = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+                pastCover = !entry.isIntersecting;
+                if (!pastCover) header.classed('hidden', true);
+            });
+        }, { threshold: 0 });
+        coverObserver.observe(coverEl);
+    }
 
     window.addEventListener('scroll', function() {
+        if (!pastCover) return;
         var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
-        if (scrollTop > lastScrollTop && scrollTop > 100) {
-            header.classed('hidden', true);
-        } else {
-            header.classed('hidden', false);
-        }
-
+        header.classed('hidden', scrollTop > lastScrollTop);
         lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
     });
 

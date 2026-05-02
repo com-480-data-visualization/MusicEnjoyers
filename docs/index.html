@@ -12,6 +12,7 @@
 
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="genres.css">
+<link rel="stylesheet" href="cover.css">
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 
@@ -21,13 +22,48 @@
 
 <!-- LANDING COVER -->
 <div class="cover" id="top">
-    <div class="music-icon">♪</div>
-    <h1 class="title">POP MUSIC IS EVOLVING</h1>
-    <p class="subtitle">
-        Songs are shorter.<br/>
-        Genres are blending.<br/>
-        Explore how music changed over time.<br/>
+  <!-- Background stripes -->
+  <div class="cover-stripes">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
+
+  <!-- CD -->
+  <div class="vinyl-wrap">
+    <div class="vinyl">
+      <div class="vinyl-label">
+        <span class="vinyl-label-title">POP MUSIC</span>
+        <span class="vinyl-label-sub">EVOLUTION</span>
+        <span class="vinyl-label-year">2016 – 2025</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating notes + waves (drift right → left) -->
+  <div class="cover-notes" aria-hidden="true">
+    <span>♩</span>
+    <span>♪</span>
+    <span>♫</span>
+    <span>♬</span>
+    <span>♩</span>
+    <span>♪</span>
+    <span>♫</span>
+    <span>♬</span>
+  </div>
+
+  <!-- Title Text -->
+  <div class="cover-text">
+    <p class="cover-eyebrow">The sound of a decade</p>
+    <h1 class="cover-title">
+      <span>POP MUSIC</span>
+      <span class="cover-title-outline">EVOLUTION</span>
+    </h1>
+    <p class="cover-sub">
+      Songs are shorter. Genres are blending. Explore how music changed.
     </p>
+    <a href="#duration" class="cover-cta">Explore ↓</a>
+  </div>
+
 </div>
 
 <header class="top-nav">

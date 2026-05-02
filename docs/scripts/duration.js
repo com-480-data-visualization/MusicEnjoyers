@@ -1,8 +1,8 @@
 (function () {
     // --- Constants ---
-    var margin = { top: 40, right: 90, bottom: 50, left: 65 };
-    var width = 760;
-    var height = 400;
+    var margin = { top: 36, right: 88, bottom: 36, left: 88 };
+    var width = 800;
+    var height = 350;
     var innerW = width - margin.left - margin.right;
     var innerH = height - margin.top - margin.bottom;
 
@@ -35,14 +35,12 @@
         // --- Scales ---
         var yMin = d3.min(data, function (d) { return d.avg_seconds; });
         var yMax = d3.max(data, function (d) { return d.avg_seconds; });
-        var yPad = 5;
-
         var x = d3.scaleLinear()
             .domain([2016, 2025])
             .range([0, innerW]);
 
         var y = d3.scaleLinear()
-            .domain([yMin - yPad, yMax + yPad])
+            .domain([yMin - 5, yMax + 1])
             .range([innerH, 0]);
 
         // --- Axes ---
@@ -56,7 +54,7 @@
             .call(function (g) { g.select(".domain").remove(); })
             .selectAll("text")
             .style("fill", "#B3B3B3")
-            .style("font-size", "12px");
+            .style("font-size", "16px");
 
         svg.append("g")
             .call(
@@ -67,7 +65,7 @@
             .call(function (g) { g.select(".domain").remove(); })
             .selectAll("text")
             .style("fill", "#B3B3B3")
-            .style("font-size", "12px");
+            .style("font-size", "16px");
 
         // Style tick lines
         svg.selectAll(".tick line").style("stroke", "#444");
@@ -102,7 +100,7 @@
                 .attr("y", cy + a.dy)
                 .attr("text-anchor", "middle")
                 .attr("fill", "#B3B3B3")
-                .attr("font-size", "11px")
+                .attr("font-size", "15px")
                 .text(a.label);
         });
 
@@ -147,14 +145,14 @@
             return m + "m " + (s < 10 ? "0" : "") + s + "s";
         }
 
-        // First point label (right of dot, vertically centered)
+        // First point label (below dot, clear of descending line)
         svg.append("text")
-            .attr("x", x(data[0].year) + 10)
+            .attr("x", x(data[0].year))
             .attr("y", y(data[0].avg_seconds))
-            .attr("text-anchor", "start")
-            .attr("dy", "0.0em")
+            .attr("text-anchor", "middle")
+            .attr("dy", "1.5em")
             .attr("fill", "#FFFFFF")
-            .attr("font-size", "13px")
+            .attr("font-size", "17px")
             .attr("font-weight", 700)
             .text(formatDuration(data[0].avg_seconds));
 
@@ -165,7 +163,7 @@
             .attr("text-anchor", "start")
             .attr("dy", "0.35em")
             .attr("fill", "#FFFFFF")
-            .attr("font-size", "13px")
+            .attr("font-size", "17px")
             .attr("font-weight", 700)
             .text(formatDuration(data[data.length - 1].avg_seconds));
 
