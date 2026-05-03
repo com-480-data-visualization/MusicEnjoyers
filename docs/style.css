@@ -319,6 +319,32 @@ body {
 /* ================================================================
    TOOLTIP
    ================================================================ */
+.hm-caption {
+    max-width: 720px;
+    margin: 18px auto 0;
+    padding: 14px 18px;
+    background: var(--spotify-dark-gray);
+    border-left: 3px solid var(--spotify-green);
+    border-radius: 4px;
+    color: var(--spotify-light-gray);
+    font-size: 13px;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+}
+.hm-caption strong {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.hm-caption .hm-caption-label {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--spotify-green);
+    margin-right: 8px;
+}
+
 .heatmap-tooltip {
     position: fixed;
     pointer-events: none;
