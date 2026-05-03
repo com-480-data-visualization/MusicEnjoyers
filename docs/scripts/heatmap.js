@@ -143,10 +143,9 @@
         // --- Cells group (rebuilt per metric) ---
         var cellsG = g.append("g").attr("class", "hm-cells");
 
-        // --- Trend line group (drawn on top of cells, ignores pointer events) ---
-        var trendG = g.append("g")
-            .attr("class", "hm-trend")
-            .style("pointer-events", "none");
+        // --- Trend line group (drawn on top of cells; dots stay interactive,
+        //     line + label opt out of pointer events to keep cells hoverable) ---
+        var trendG = g.append("g").attr("class", "hm-trend");
 
         // --- Chart title (top, centered on full svg) ---
         var chartTitle = svg.append("text")
@@ -331,6 +330,36 @@
         // row[b] = count in bin b; bins[b]/bins[b+1] = numeric bin edges.
         // Returns { f, value } where f is the position in [0,1] from low edge to
         // high edge across the full bin range, and value is in raw metric units.
+        // Format an absolute median value with the metric's natural unit.
+        function fmtMedianValue(m, v) {
+            if (m.key === "duration") {
+                var s  = Math.round(v);
+                var mm = Math.floor(s / 60);
+                var ss = s % 60;
+                return mm + ":" + (ss < 10 ? "0" : "") + ss;
+            }
+            if (m.key === "loudness") return v.toFixed(1) + " dB";
+            if (m.key === "bpm")      return Math.round(v) + " BPM";
+            return Math.round(v * 100) + "%";   // 0–1 features
+        }
+
+        // Format a signed delta (curr − baseline) with the metric's unit.
+        function fmtMedianDelta(m, deltaVal) {
+            if (deltaVal === 0) return "no change";
+            var sign = deltaVal > 0 ? "+" : "−";
+            var abs  = Math.abs(deltaVal);
+            if (m.key === "duration") {
+                var s  = Math.round(abs);
+                if (s < 60) return sign + s + "s";
+                var mm = Math.floor(s / 60);
+                var ss = s % 60;
+                return sign + mm + ":" + (ss < 10 ? "0" : "") + ss;
+            }
+            if (m.key === "loudness") return sign + abs.toFixed(1) + " dB";
+            if (m.key === "bpm")      return sign + abs.toFixed(1) + " BPM";
+            return sign + (abs * 100).toFixed(1) + " pp";  // percentage points
+        }
+
         function computeWeightedMedian(row, bins, nBins) {
             var total = 0;
             for (var i = 0; i < nBins; i++) total += (row[i] || 0);
@@ -518,6 +547,7 @@
                     .attr("stroke-opacity", 0.95)
                     .attr("stroke-linecap", "round")
                     .attr("stroke-linejoin", "round")
+                    .style("pointer-events", "none")
                     .attr("d", lineGen);
 
                 var trendDots = trendG.selectAll(".hm-median-dot")
@@ -530,7 +560,8 @@
                     .attr("r", 3)
                     .attr("fill", "#FFFFFF")
                     .attr("stroke", "#121212")
-                    .attr("stroke-width", 1);
+                    .attr("stroke-width", 1)
+                    .style("pointer-events", "none");
 
                 // "median" label at the right end
                 var lastPt = medianPts[medianPts.length - 1];
@@ -542,7 +573,40 @@
                     .style("font-size", "10px")
                     .style("font-weight", "700")
                     .style("letter-spacing", "0.05em")
+                    .style("pointer-events", "none")
                     .text("median");
+
+                // Invisible larger hit-targets so the small dots are easy to hover.
+                var baseline = medianPts[0];
+                var trendDotNodes = trendDots.nodes();
+                trendG.selectAll(".hm-median-hit")
+                    .data(medianPts)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "hm-median-hit")
+                    .attr("cx", function (d) { return d.x; })
+                    .attr("cy", function (d) { return d.y; })
+                    .attr("r", 10)
+                    .attr("fill", "transparent")
+                    .style("cursor", "help")
+                    .each(function (d, i) {
+                        var hitNode    = this;
+                        var visibleDot = trendDotNodes[i];
+                        var metricMeta = m;
+                        hitNode.addEventListener("mouseover", function (event) {
+                            d3.select(visibleDot).attr("r", 5);
+                            tooltip.html(buildMedianTooltip(metricMeta, d, baseline))
+                                   .classed("visible", true);
+                            positionTooltip(event);
+                        });
+                        hitNode.addEventListener("mousemove", function (event) {
+                            positionTooltip(event);
+                        });
+                        hitNode.addEventListener("mouseout", function () {
+                            d3.select(visibleDot).attr("r", 3);
+                            tooltip.classed("visible", false);
+                        });
+                    });
 
                 if (animate) {
                     var totalLen = trendPath.node().getTotalLength();
@@ -585,6 +649,23 @@
             tooltip
                 .style("left", px + "px")
                 .style("top",  py + "px");
+        }
+
+        function buildMedianTooltip(m, d, baseline) {
+            var valueStr = fmtMedianValue(m, d.value);
+            var deltaLine = "";
+            if (baseline && baseline.year !== d.year) {
+                var deltaStr = fmtMedianDelta(m, d.value - baseline.value);
+                deltaLine =
+                    "<span class='tt-count'>" +
+                        "<span class='tt-count-pct'>" + deltaStr + "</span>" +
+                        "<span class='tt-count-abs'>vs " + baseline.year + "</span>" +
+                    "</span>";
+            }
+            return "<span class='tt-year'>"   + d.year + "</span>" +
+                   "<span class='tt-metric'>Median " + m.label + "</span>" +
+                   "<span class='tt-range'>"  + valueStr + "</span>" +
+                   deltaLine;
         }
 
         function buildTooltip(m, d) {
