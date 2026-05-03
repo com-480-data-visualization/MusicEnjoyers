@@ -1,4 +1,3 @@
-
 (function () {
     // --- Constants ---
     var margin = { top: 40, right: 90, bottom: 50, left: 65 };
@@ -20,13 +19,17 @@
                 return m + "m " + (s < 10 ? "0" : "") + s + "s";
             },
             tooltipHtml: function (d) {
+                var fmtSec = function (s) {
+                    var m = Math.floor(s / 60), sec = Math.round(s % 60);
+                    return m + "m " + (sec < 10 ? "0" : "") + sec + "s";
+                };
                 var mins = Math.floor(d.avg_duration / 60);
                 var secs = Math.round(d.avg_duration % 60);
                 return "<strong>" + d.year + "</strong><br>" +
-                    "Avg: " + mins + "m " + (secs < 10 ? "0" : "") + secs + "s (" + d.avg_duration + "s)<br>" +
+                    "Avg: " + mins + "m " + (secs < 10 ? "0" : "") + secs + "s<br>" +
                     "Songs: " + d.count + "<br>" +
-                    "Longest: " + d.max_track + " (" + Math.round(d.max_seconds) + "s)<br>" +
-                    "Shortest: " + d.min_track + " (" + Math.round(d.min_seconds) + "s)";
+                    "Longest: " + d.max_track_duration  + " (" + fmtSec(d.max_duration) + ")<br>" +
+                    "Shortest: " + d.min_track_duration +  " (" + fmtSec(d.min_duration) + ")";
             }
         },
         bpm: {
@@ -38,7 +41,9 @@
             tooltipHtml: function (d) {
                 return "<strong>" + d.year + "</strong><br>" +
                     "Avg BPM: " + Math.round(d.avg_bpm) + "<br>" +
-                    "Songs: " + d.count;
+                    "Songs: " + d.count + "<br>" +
+                    "Highest: " + d.max_track_bpm +  " (" + Math.round(d.max_bpm) + " bpm)<br>" +
+                    "Lowest: " + d.min_track_bpm + " (" + Math.round(d.min_bpm) + " bpm)";
             }
         },
         loudness: {
@@ -50,7 +55,9 @@
             tooltipHtml: function (d) {
                 return "<strong>" + d.year + "</strong><br>" +
                     "Avg loudness: " + d.avg_loudness.toFixed(2) + " dB<br>" +
-                    "Songs: " + d.count;
+                    "Songs: " + d.count + "<br>" +
+                    "Loudest: " + d.max_track_loudness +  " (" + (+d.max_loudness).toFixed(1) + " dB)<br>" +
+                    "Quietest: " + d.min_track_loudness +  " (" + (+d.min_loudness).toFixed(1) + " dB)";
             }
         },
         danceability: {
@@ -62,7 +69,9 @@
             tooltipHtml: function (d) {
                 return "<strong>" + d.year + "</strong><br>" +
                     "Avg danceability: " + (d.avg_danceability * 100).toFixed(1) + "%<br>" +
-                    "Songs: " + d.count;
+                    "Songs: " + d.count + "<br>" +
+                    "Most danceable: " + d.max_track_danceability +  " (" + (d.max_danceability * 100).toFixed(1) + "%)<br>" +
+                    "Least danceable: " + d.min_track_danceability + " (" + (d.min_danceability * 100).toFixed(1) + "%)";
             }
         },
         speechiness: {
@@ -74,7 +83,9 @@
             tooltipHtml: function (d) {
                 return "<strong>" + d.year + "</strong><br>" +
                     "Avg speechiness: " + (d.avg_speechiness * 100).toFixed(1) + "%<br>" +
-                    "Songs: " + d.count;
+                    "Songs: " + d.count + "<br>" +
+                    "Most speech-like: " + d.max_track_speechiness + " (" + (d.max_speechiness * 100).toFixed(1) + "%)<br>" +
+                    "Least speech-like: " + d.min_track_speechiness + " (" + (d.min_speechiness * 100).toFixed(1) + "%)";
             }
         },
         acousticness: {
@@ -86,7 +97,9 @@
             tooltipHtml: function (d) {
                 return "<strong>" + d.year + "</strong><br>" +
                     "Avg acousticness: " + (d.avg_acousticness * 100).toFixed(1) + "%<br>" +
-                    "Songs: " + d.count;
+                    "Songs: " + d.count + "<br>" +
+                    "Most acoustic: " + d.max_track_acousticness + " (" + (d.max_acousticness * 100).toFixed(1) + "%)<br>" +
+                    "Least acoustic: " + d.min_track_acousticness +  " (" + (d.min_acousticness * 100).toFixed(1) + "%)";
             }
         },
         energy: {
@@ -98,7 +111,9 @@
             tooltipHtml: function (d) {
                 return "<strong>" + d.year + "</strong><br>" +
                     "Avg energy: " + (d.avg_energy * 100).toFixed(1) + "%<br>" +
-                    "Songs: " + d.count;
+                    "Songs: " + d.count + "<br>" +
+                    "Most energetic: " + d.max_track_energy + " (" + (d.max_energy * 100).toFixed(1) + "%)<br>" +
+                    "Least energetic: " + d.min_track_energy + " (" + (d.min_energy * 100).toFixed(1) + "%)";
             }
         }
     };
@@ -121,6 +136,20 @@
             d.avg_danceability  = +d.avg_danceability;
             d.avg_speechiness   = +d.avg_speechiness;
             d.avg_acousticness  = +d.avg_acousticness;
+            d.min_duration     = +d.min_duration;
+            d.max_duration     = +d.max_duration;
+            d.min_bpm          = +d.min_bpm;
+            d.max_bpm          = +d.max_bpm;
+            d.min_loudness     = +d.min_loudness;
+            d.max_loudness     = +d.max_loudness;
+            d.min_danceability = +d.min_danceability;
+            d.max_danceability = +d.max_danceability;
+            d.min_speechiness  = +d.min_speechiness;
+            d.max_speechiness  = +d.max_speechiness;
+            d.min_acousticness = +d.min_acousticness;
+            d.max_acousticness = +d.max_acousticness;
+            d.min_energy       = +d.min_energy;
+            d.max_energy       = +d.max_energy;
         });
         data.forEach(function(d) {
             console.log(d.year, "energy:", d.avg_energy, typeof d.avg_energy);

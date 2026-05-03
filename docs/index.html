@@ -109,35 +109,27 @@
             Explore all audio features across time.
             Work in progress...
         </p>
-    </div>
-
-    <div id="dashboard" class="reveal">
-
-
-    </div>
-            <div id="chart-knob-container">
-
-            <div id="chart-knob-container">
-                <div class="knob-wrap">
-                    <div class="knob-panel" id="knob">
-                        <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
-                        <div class="knob-body" id="knobBody">
-                            <div class="knob-line">
-                                <div class="knob-tip"></div>
-                            </div>
-                            <div class="knob-center"></div>
+        <div id="chart-knob-container">
+            <div class="knob-wrap">
+                <div class="knob-panel" id="knob">
+                    <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
+                    <div class="knob-body" id="knobBody">
+                        <div class="knob-line">
+                            <div class="knob-tip"></div>
                         </div>
+                        <div class="knob-center"></div>
                     </div>
-                    <div class="metric-display" id="metricDisplay">Duration</div>
                 </div>
+                <div class="metric-display" id="metricDisplay">Duration</div>
             </div>
+        </div>
+    </div>
+    <div id="dashboard" class="reveal"></div>
 
-            <!-- <div class="chart-controls">
-            <button class="chart-btn active" data-metric="duration">Duration</button>
-            <button class="chart-btn" data-metric="loudness">Loudness</button>
-            <button class="chart-btn" data-metric="bpm">BPM</button>
-            <button class="chart-btn" data-metric="energy">Energy</button>
-        </div> -->
+</section>
+<section id="heatmap-section">
+
+    <div id="heatmap"></div>
 </section>
 
 
@@ -146,6 +138,6 @@
 <script src="scripts/genres.js"></script>
 <script src="scripts/dashboard.js"></script>
 <script src="scripts/scroll.js"></script>
-
+<script src="scripts/heatmap.js"></script>
 </body>
 </html>
