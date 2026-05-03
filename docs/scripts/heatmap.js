@@ -588,7 +588,6 @@
                     .attr("cy", function (d) { return d.y; })
                     .attr("r", 10)
                     .attr("fill", "transparent")
-                    .style("cursor", "help")
                     .each(function (d, i) {
                         var hitNode    = this;
                         var visibleDot = trendDotNodes[i];
