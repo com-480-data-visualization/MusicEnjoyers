@@ -137,37 +137,53 @@
 
 
 
-<!-- SECTION 3: Dashboard -->
-<section class="section" id="dashboard-section">
-    <div class="text reveal">
-        <h1>Interact with the data</h1>
-        <p>
-            Explore all audio features across time.
-            Work in progress...
-        </p>
-        <div id="chart-knob-container">
-            <div class="knob-wrap">
-                <div class="knob-panel" id="knob">
-                    <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
-                    <div class="knob-body" id="knobBody">
-                        <div class="knob-line">
-                            <div class="knob-tip"></div>
+<!-- SECTIONS 3 + 4 share a sticky knob control on the left, visible the
+     whole time the user is in the dashboard or heatmap -->
+<div class="charts-shared-area">
+    <aside class="knob-rail">
+        <div id="metric-control" class="reveal">
+            <p class="metric-control-hint">
+                <span class="mc-arrow">↑</span>
+                Drag — both charts follow
+                <span class="mc-arrow">↓</span>
+            </p>
+            <div id="chart-knob-container">
+                <div class="knob-wrap">
+                    <div class="knob-panel" id="knob">
+                        <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
+                        <div class="knob-body" id="knobBody">
+                            <div class="knob-line">
+                                <div class="knob-tip"></div>
+                            </div>
+                            <div class="knob-center"></div>
                         </div>
-                        <div class="knob-center"></div>
                     </div>
+                    <div class="metric-display" id="metricDisplay">Duration</div>
                 </div>
-                <div class="metric-display" id="metricDisplay">Duration</div>
             </div>
         </div>
+    </aside>
+
+    <div class="charts-stack">
+        <!-- SECTION 3: Dashboard -->
+        <section class="section" id="dashboard-section">
+            <div class="text reveal">
+                <h1>Interact with the data</h1>
+                <p>
+                    Explore all audio features across time.
+                    Work in progress...
+                </p>
+            </div>
+            <div id="dashboard" class="reveal"></div>
+        </section>
+
+        <!-- SECTION 4: Heatmap -->
+        <section id="heatmap-section">
+            <div id="heatmap"></div>
+            <div id="heatmap-caption" class="hm-caption" hidden></div>
+        </section>
     </div>
-    <div id="dashboard" class="reveal"></div>
-
-</section>
-<section id="heatmap-section">
-
-    <div id="heatmap"></div>
-    <div id="heatmap-caption" class="hm-caption" hidden></div>
-</section>
+</div>
 
 
 <script src="scripts/dj_knob.js"></script>
