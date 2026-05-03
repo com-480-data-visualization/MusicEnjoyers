@@ -137,6 +137,25 @@
 
 
 
+<!-- Floating knob: fixed-positioned in the left gutter. Visibility toggled
+     by JS so it only appears when the dashboard or heatmap is in view. -->
+<div id="metric-control" aria-hidden="true">
+    <div id="chart-knob-container">
+        <div class="knob-wrap">
+            <div class="knob-panel" id="knob">
+                <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
+                <div class="knob-body" id="knobBody">
+                    <div class="knob-line">
+                        <div class="knob-tip"></div>
+                    </div>
+                    <div class="knob-center"></div>
+                </div>
+            </div>
+            <div class="metric-display" id="metricDisplay">Duration</div>
+        </div>
+    </div>
+</div>
+
 <!-- SECTION 3: Dashboard -->
 <section class="section" id="dashboard-section">
     <div class="text reveal">
@@ -145,27 +164,14 @@
             Explore all audio features across time.
             Work in progress...
         </p>
-        <div id="chart-knob-container">
-            <div class="knob-wrap">
-                <div class="knob-panel" id="knob">
-                    <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
-                    <div class="knob-body" id="knobBody">
-                        <div class="knob-line">
-                            <div class="knob-tip"></div>
-                        </div>
-                        <div class="knob-center"></div>
-                    </div>
-                </div>
-                <div class="metric-display" id="metricDisplay">Duration</div>
-            </div>
-        </div>
     </div>
     <div id="dashboard" class="reveal"></div>
-
 </section>
-<section id="heatmap-section">
 
+<!-- SECTION 4: Heatmap -->
+<section id="heatmap-section">
     <div id="heatmap"></div>
+    <div id="heatmap-caption" class="hm-caption" hidden></div>
 </section>
 
 

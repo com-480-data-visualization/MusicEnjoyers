@@ -268,6 +268,50 @@ body {
 }
 
 
+/* Floating knob, fixed in the left gutter, vertically centered. The horizontal
+   anchor sits at 1/4 of the way from the left edge to the page center, which
+   for a centered ~1000px-wide chart lands exactly midway between the page edge
+   and the chart's left edge. Clamped so it doesn't crush against the wall on
+   narrow screens. JS adds .visible when the dashboard or heatmap is on screen. */
+#metric-control {
+    position: fixed;
+    top: 50%;
+    left: clamp(24px, calc((100vw - 1000px) / 4), 220px);
+    transform: translate(-50%, -50%);
+    padding: 18px 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background: rgba(18, 18, 18, 0.85);
+    backdrop-filter: blur(10px);
+    border: 1px solid #1a1a1a;
+    border-radius: 14px;
+    z-index: 50;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.35s ease, visibility 0s linear 0.35s;
+    pointer-events: none;
+}
+#metric-control.visible {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transition: opacity 0.35s ease, visibility 0s linear 0s;
+}
+
+@media (max-width: 1100px) {
+    /* Not enough horizontal room to float — drop it inline above the dashboard. */
+    #metric-control {
+        position: static;
+        transform: none;
+        margin: 24px auto;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+    }
+}
+
 .knob-wrap { display:flex; flex-direction:column; align-items:center; gap:10px; padding:1.5rem 0; font-family:'Share Tech Mono',monospace; }
 .knob-panel { background:#1a1a1e; border-radius:50%; width:160px; height:160px; position:relative; box-shadow:0 0 0 6px #111,0 0 0 8px #333,0 0 0 10px #111; cursor:pointer; user-select:none; }
 .knob-body { position:absolute; inset:12px; border-radius:50%; background:#1e1e24; border:1.5px solid #444; transition:transform 0.3s cubic-bezier(0.34,1.56,0.64,1); }
@@ -319,6 +363,32 @@ body {
 /* ================================================================
    TOOLTIP
    ================================================================ */
+.hm-caption {
+    max-width: 720px;
+    margin: 18px auto 0;
+    padding: 14px 18px;
+    background: var(--spotify-dark-gray);
+    border-left: 3px solid var(--spotify-green);
+    border-radius: 4px;
+    color: var(--spotify-light-gray);
+    font-size: 13px;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+}
+.hm-caption strong {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.hm-caption .hm-caption-label {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--spotify-green);
+    margin-right: 8px;
+}
+
 .heatmap-tooltip {
     position: fixed;
     pointer-events: none;

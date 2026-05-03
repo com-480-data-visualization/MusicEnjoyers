@@ -399,7 +399,7 @@
             });
         }, { threshold: 0.3 });
  
-        observer_db.observe(document.getElementById("duration-line"));
+        observer_db.observe(document.getElementById("dashboard"));
     });
  
     // --- Big stat helper ---
