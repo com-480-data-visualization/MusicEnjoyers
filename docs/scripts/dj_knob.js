@@ -89,3 +89,23 @@ knob.addEventListener('touchmove', e => {
     if (next !== currentIndex) { currentIndex = next; updateKnob(next); }
     e.preventDefault();
 }, { passive: false });
+
+// --- Visibility: knob is only shown while the dashboard or heatmap is on screen.
+// Tracks each section's intersection state and toggles .visible accordingly. ---
+const metricControl = document.getElementById('metric-control');
+const knobTargets = ['dashboard-section', 'heatmap-section']
+    .map(id => document.getElementById(id))
+    .filter(Boolean);
+
+if (metricControl && knobTargets.length) {
+    const visibleSections = new Set();
+    const obs = new IntersectionObserver(entries => {
+        for (const entry of entries) {
+            if (entry.isIntersecting) visibleSections.add(entry.target);
+            else                      visibleSections.delete(entry.target);
+        }
+        metricControl.classList.toggle('visible', visibleSections.size > 0);
+        metricControl.setAttribute('aria-hidden', visibleSections.size === 0);
+    }, { threshold: 0 });
+    knobTargets.forEach(t => obs.observe(t));
+}

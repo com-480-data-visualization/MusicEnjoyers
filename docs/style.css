@@ -268,75 +268,47 @@ body {
 }
 
 
-/* Shared metric-control rail: sticky knob on the left, visible across both
-   the dashboard and the heatmap. Falls back to inline placement on narrow
-   viewports so mobile doesn't lose 220px of horizontal real estate. */
-.charts-shared-area {
-    display: flex;
-    align-items: stretch;
-    width: 100%;
-}
-.knob-rail {
-    flex: 0 0 220px;
-    pointer-events: none;       /* let clicks fall through empty rail */
-    position: relative;
-}
-.charts-stack {
-    flex: 1 1 0;
-    min-width: 0;               /* prevent flex child from overflowing */
-}
-
+/* Floating knob, fixed in the left gutter, vertically centered. The horizontal
+   anchor sits at 1/4 of the way from the left edge to the page center, which
+   for a centered ~1000px-wide chart lands exactly midway between the page edge
+   and the chart's left edge. Clamped so it doesn't crush against the wall on
+   narrow screens. JS adds .visible when the dashboard or heatmap is on screen. */
 #metric-control {
-    pointer-events: auto;
-    position: sticky;
-    top: 50vh;
-    transform: translateY(-50%);
-    margin: 0 auto;
-    padding: 18px 12px;
+    position: fixed;
+    top: 50%;
+    left: clamp(24px, calc((100vw - 1000px) / 4), 220px);
+    transform: translate(-50%, -50%);
+    padding: 18px 14px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
     background: rgba(18, 18, 18, 0.85);
     backdrop-filter: blur(10px);
     border: 1px solid #1a1a1a;
-    border-radius: 12px;
-    width: max-content;
+    border-radius: 14px;
     z-index: 50;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.35s ease, visibility 0s linear 0.35s;
+    pointer-events: none;
 }
-#metric-control .metric-control-hint {
-    margin: 0;
-    max-width: 180px;
-    font-size: 11px;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--spotify-light-gray);
-    font-weight: 600;
-    text-align: center;
-    line-height: 1.5;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-}
-#metric-control .mc-arrow {
-    color: var(--spotify-green);
-    font-size: 13px;
-    font-weight: 700;
+#metric-control.visible {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transition: opacity 0.35s ease, visibility 0s linear 0s;
 }
 
-@media (max-width: 900px) {
-    .charts-shared-area {
-        flex-direction: column;
-    }
-    .knob-rail {
-        flex: 0 0 auto;
-        width: 100%;
-    }
+@media (max-width: 1100px) {
+    /* Not enough horizontal room to float — drop it inline above the dashboard. */
     #metric-control {
         position: static;
         transform: none;
         margin: 24px auto;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
     }
 }
 
