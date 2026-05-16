@@ -1,10 +1,6 @@
-// Scroll-triggered animations using D3.js
-// Handles reveal animations and active nav link tracking
-
 (function() {
 
     // --- Reveal animations ---
-    // Initialize all .reveal elements as hidden
     d3.selectAll('.reveal')
         .style('opacity', 0)
         .style('transform', 'translateY(60px)');
@@ -31,54 +27,41 @@
         revealObserver.observe(this);
     });
 
-    // --- Active nav link tracking ---
-    const sections = d3.selectAll('section.section');
-    const navLinks = d3.selectAll('.nav-link');
+    // --- Side-nav dot tracking ---
+    var sideNav = document.getElementById('side-nav');
+    var sideItems = Array.from(document.querySelectorAll('.side-nav-item'));
 
-    const navObserver = new IntersectionObserver(function(entries) {
+    function setActive(href) {
+        sideItems.forEach(function(item) {
+            item.classList.toggle('active', item.getAttribute('href') === href);
+        });
+    }
+
+    // Show side nav once user leaves the cover
+    var coverEl = document.getElementById('top');
+    if (coverEl) {
+        new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry) {
+                sideNav.classList.toggle('visible', !entry.isIntersecting);
+                if (entry.isIntersecting) setActive('#top');
+            });
+        }, { threshold: 0 }).observe(coverEl);
+    }
+
+    // Track which section is most in view
+    var targets = [
+        { el: document.getElementById('duration'),         href: '#duration'          },
+        { el: document.getElementById('genres'),           href: '#genres'            },
+        { el: document.getElementById('dashboard-section'),href: '#dashboard-section' },
+        { el: document.getElementById('heatmap-section'),  href: '#heatmap-section'   },
+    ].filter(function(t) { return t.el; });
+
+    var sectionObserver = new IntersectionObserver(function(entries) {
         entries.forEach(function(entry) {
-            if (entry.isIntersecting) {
-                const sectionId = entry.target.id;
-                // Map section ids to nav href anchors
-                var anchor = '#' + sectionId;
-                // dashboard-section maps to #dashboard nav link
-                if (sectionId === 'dashboard-section') {
-                    anchor = '#dashboard';
-                }
-
-                navLinks.classed('active', false);
-                d3.select('a.nav-link[href="' + anchor + '"]').classed('active', true);
-            }
+            if (entry.isIntersecting) setActive('#' + entry.target.id);
         });
     }, { threshold: 0.4 });
 
-    sections.each(function() {
-        navObserver.observe(this);
-    });
-
-    // --- Header: hidden on cover; show on scroll-up, hide on scroll-down ---
-    var header = d3.select('.top-nav');
-    header.classed('hidden', true);
-
-    var pastCover = false;
-    var lastScrollTop = 0;
-
-    var coverEl = document.getElementById('top');
-    if (coverEl) {
-        var coverObserver = new IntersectionObserver(function(entries) {
-            entries.forEach(function(entry) {
-                pastCover = !entry.isIntersecting;
-                if (!pastCover) header.classed('hidden', true);
-            });
-        }, { threshold: 0 });
-        coverObserver.observe(coverEl);
-    }
-
-    window.addEventListener('scroll', function() {
-        if (!pastCover) return;
-        var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        header.classed('hidden', scrollTop > lastScrollTop);
-        lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
-    });
+    targets.forEach(function(t) { sectionObserver.observe(t.el); });
 
 })();

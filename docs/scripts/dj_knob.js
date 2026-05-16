@@ -106,6 +106,6 @@ if (metricControl && knobTargets.length) {
         }
         metricControl.classList.toggle('visible', visibleSections.size > 0);
         metricControl.setAttribute('aria-hidden', visibleSections.size === 0);
-    }, { threshold: 0 });
+    }, { threshold: 0.15 });
     knobTargets.forEach(t => obs.observe(t));
 }

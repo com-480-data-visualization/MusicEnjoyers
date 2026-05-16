@@ -21,7 +21,7 @@
 <body>
 
 <!-- LANDING COVER -->
-<div class="cover" id="top">
+<div class="cover" id="top" style="z-index: 100;">
   <!-- Background stripes -->
   <div class="cover-stripes">
     <span></span><span></span><span></span><span></span><span></span>
@@ -66,16 +66,12 @@
 
 </div>
 
-<header class="top-nav">
-    <a href="#top" class="title-link">
-        <h2>Pop Music Evolution</h2>
-    </a>
-    <nav>
-        <a href="#duration" class="nav-link active">Duration</a>
-        <a href="#genres" class="nav-link">Genres</a>
-        <a href="#dashboard" class="nav-link">Dashboard</a>
-    </nav>
-</header>
+<nav class="side-nav" id="side-nav" style="z-index: 1;">
+    <a class="side-nav-item" href="#top"              data-label="0. Home"></a>
+    <a class="side-nav-item" href="#duration"         data-label="1. Duration"></a>
+    <a class="side-nav-item" href="#genres"           data-label="2. Genres"></a>
+    <a class="side-nav-item" href="#dashboard-section" data-label="3. Dashboard"></a>
+</nav>
 
 <!-- SECTION 1: Duration -->
 <section class="section" id="duration">
@@ -94,6 +90,7 @@
     <div class="viz-container reveal">
         <div id="duration-line"></div>
     </div>
+    <a class="scroll-arrow" href="#genres" aria-label="Next section"></a>
 </section>
 
 <!-- SECTION 2: Genres -->
@@ -103,38 +100,61 @@
         <p>
             Pop music no longer belongs to fixed categories.
             Styles overlap, blend, and evolve faster than ever.
+            What used to be distinct scenes now share the same playlists.
         </p>
     </div>
-    <div class="genre-layout">
+
+    <div class="genre-layout reveal">
+        <div class="genre-tabs">
+            <button class="genre-tab active" data-chart="share">Genre Share</button>
+            <button class="genre-tab" data-chart="scatter">Feature Space</button>
+            <button class="genre-tab" data-chart="radar">Fingerprint</button>
+            <button class="genre-tab" data-chart="cluster">Similarity</button>
+        </div>
+
+        <div class="genre-spacer"></div>
+
+        <div class="genre-sidebar">
+            <h2>Genres are shifting.</h2>
+            <p>
+                Pop music no longer belongs to fixed categories.
+                Styles overlap, blend, and evolve faster than ever.
+                What used to be distinct scenes now share the same playlists.
+            </p>
+        </div>
+
         <div class="genre-main">
-            <div class="genre-tabs">
-                <button class="genre-tab active" data-chart="share">Genre Share</button>    
-                <button class="genre-tab" data-chart="count">Track Counts</button>
-                <button class="genre-tab" data-chart="cluster">Similarity</button>
+            <div class="genre-panel active" id="share-panel">
+                <div id="genreChart"></div>
             </div>
-
-        <div class="genre-panel active" id="share-panel">
-            <p>Need some description here...</p>
-            <div id="genreChart"></div>
-        </div>
-
-        <div class="genre-panel" id="count-panel">
-            <p>Need some description here...</p>
-            <div id="genreLineChart"></div>
-        </div>
-
-        <div class="genre-panel" id="cluster-panel">
-            <p>Need some description here...</p>
-            <div id="clusterChart"></div>
-        </div>
-
+            <div class="genre-panel" id="scatter-panel">
+                <div class="scatter-controls">
+                    <span id="scatter-year-display" class="scatter-year-badge">2016</span>
+                    <input type="range" id="year-slider" min="2016" max="2025" step="1" value="2016">
+                    <button id="play-btn" class="trends-play-btn">&#9654; Play</button>
+                </div>
+                <div class="scatter-body">
+                    <div id="scatter-plot"></div>
+                    <div class="scatter-right">
+                        <div id="sc-legend" class="trends-legend"></div>
+                        <div id="scatter-feat-picker"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="genre-panel" id="radar-panel">
+                <div class="radar-select-row">
+                    <select id="genre-select" class="trends-genre-select"></select>
+                </div>
+                <div id="radar-chart"></div>
+            </div>
+            <div class="genre-panel" id="cluster-panel">
+                <div id="clusterChart"></div>
+            </div>
         </div>
 
     </div>
-
+    <a class="scroll-arrow" href="#dashboard-section" aria-label="Next section"></a>
 </section>
-
-
 
 
 <!-- Floating knob: fixed-positioned in the left gutter. Visibility toggled
