@@ -33,7 +33,7 @@
         {
             key:   "bpm",
             label: "BPM",
-            unit:  "BPM",
+            unit:  "beats / min",
             description:
                 "<strong>BPM</strong> (beats per minute) is a track's tempo, the speed of its underlying pulse. Higher values feel faster and more urgent; lower values feel relaxed. Many recent hits cluster around danceable mid-tempos.",
             formatBinEdge: function (v) { return Math.round(v); },
@@ -51,7 +51,7 @@
         {
             key:   "danceability",
             label: "Danceability",
-            unit:  "0–100",
+            unit:  "0–100%",
             description:
                 "<strong>Danceability</strong> describes how suitable a track is for dancing, combining tempo, rhythm stability, beat strength and overall regularity into a single 0–100 score. Higher means a steadier, more body-moving groove.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
@@ -62,7 +62,7 @@
         {
             key:   "speechiness",
             label: "Speechiness",
-            unit:  "0–100",
+            unit:  "0–100%",
             description:
                 "<strong>Speechiness</strong> detects the presence of spoken words. Rap verses, spoken intros and talk-heavy tracks push the value up, while purely sung or instrumental music stays low. It's a good proxy for how rap-driven the charts are.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
@@ -73,7 +73,7 @@
         {
             key:   "acousticness",
             label: "Acousticness",
-            unit:  "0–100",
+            unit:  "0–100%",
             description:
                 "<strong>Acousticness</strong> is a 0–100 confidence that a track is acoustic, made with real instruments rather than electronic production. High values point to stripped-back, unplugged recordings; low values to heavily produced, electronic sound.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
@@ -84,7 +84,7 @@
         {
             key:   "energy",
             label: "Energy",
-            unit:  "0–100",
+            unit:  "0–100%",
             description:
                 "<strong>Energy</strong> is a 0–100 measure of intensity and activity. Fast, loud and noisy tracks (think hard rock or EDM) score high; calm, mellow acoustic ballads sit at the low end.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
