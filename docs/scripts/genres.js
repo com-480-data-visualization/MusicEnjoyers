@@ -66,29 +66,28 @@
     const sidebarDesc = {
         share: {
             h2: "Genres are shifting.",
-            p:  "Country dominates the decade, claiming 15-24% of Hot 100 hits every year. " +
-                "Christmas tracks spike every Q4. Rap peaked in 2022 then retreated, " +
-                "while adult standards climbed steadily. Hover any band to see its exact share."
-        },
-        scatter: {
-            h2: "Songs cluster by sound.",
-            p:  "Most hits crowd the high-danceability corridor (0.5-0.9). " +
-                "Country (amber) trades raw energy for warmth; rap and hip hop push both metrics higher. " +
-                "Press Play or drag the slider to watch the cloud drift across the decade."
+            p:  "Country music dominates this decade, showing that pop music remains deeply rooted in country. <br/>" +
+                "Rap peaked early and gradually faded, but its influence lived on — hip-hop, melodic rap, and R&B stepped in to fill the gap. <br/>" +
+                "The steady presence of adult standards and classic Christmas tracks suggests that listeners are increasingly drawn to older, more timeless sounds."
         },
         radar: {
             h2: "Every genre has a voice.",
-            p:  "The dashed outline shows a genre's 2016 profile; the solid shape is 2025. " +
-                "Most genres grew more acoustic and slightly less energetic over the decade. " +
-                "Rap's speechiness barely moved; country's valence dropped the most."
+            p:  "Most genres stayed to their core sound over the decade. However, a few notable shifts stand out. <br/>" +
+                "Hip-hop became darker and more introspective, melodic rap slowed down significantly, and R&B along with doo-wop drifted toward moodier, more stripped-back sounds.<br/>" +
+                "Rockabilly, on the other hand, moved toward a more electronic, danceable style."
+        },
+        scatter: {
+            h2: "Songs cluster by features.",
+            p:  "To examine pop music trends without relying on predefined genres, we plotted each song as a point in feature space — where the axes represent audio features like danceability, valence, energy, and more.<br/>" +
+                "By dragging the slider across years, you can watch the cloud shift, revealing how the overall sonic landscape of popular music has evolved over the decade."
         },
         cluster: {
             h2: "Sounds are converging.",
-            p:  "Songs are clustered each year by Danceability, Energy, Tempo, Valence, and Acousticness (k=5). " +
-                "Compactness (avg. distance to centroid) falls over time — songs within each cluster sound more alike. " +
-                "Separation (silhouette score) also drops — clusters grow harder to tell apart. " +
-                "Together, these trends show that pop music's sonic palette is converging: genres are blending into a shared sound. " +
-                "Click the chart to toggle between the two views."
+            p:  "Songs are clustered each year by Danceability, Energy, Tempo, Valence, and Acousticness (k=5). <br/>" +
+                "Compactness (avg. distance to centroid) falls over time — songs within each cluster sound more alike. <br/>" +
+                "Separation (silhouette score) also drops — clusters grow harder to tell apart. <br/>" +
+                "Together, these trends show that pop music's sonic palette is converging: genres are blending into a shared sound. <br/>" +
+                "(Click the chart to toggle between the two views.)"
         }
     };
 
@@ -98,7 +97,7 @@
         const h2 = document.querySelector(".genre-sidebar h2");
         const p  = document.querySelector(".genre-sidebar p");
         if (h2) h2.innerHTML  = desc.h2;
-        if (p)  p.textContent = desc.p;
+        if (p)  p.innerHTML = desc.p;
     }
 
     // =====================================================
@@ -106,6 +105,11 @@
     // =====================================================
     const tabs   = document.querySelectorAll(".genre-tab");
     const panels = document.querySelectorAll(".genre-panel");
+
+    function updateFeatPicker(target) {
+        const picker = document.getElementById("scatter-feat-picker");
+        if (picker) picker.classList.toggle("visible", target === "scatter");
+    }
 
     tabs.forEach(tab => {
         tab.addEventListener("click", () => {
@@ -115,10 +119,12 @@
             const target = tab.dataset.chart;
             document.getElementById(target + "-panel").classList.add("active");
             updateSidebar(target);
+            updateFeatPicker(target);
         });
     });
 
     updateSidebar("share");
+    updateFeatPicker("share");
 
     // =====================================================
     // DATA LOAD
@@ -314,7 +320,7 @@
         const svg = d3.select("#scatter-plot")
             .append("svg")
             .attr("viewBox", `0 0 ${W} ${H}`)
-            .attr("preserveAspectRatio", "xMidYMid meet");
+            .attr("preserveAspectRatio", "xMinYMid meet");
         const g = svg.append("g").attr("transform", `translate(${sm.left},${sm.top})`);
 
         const xSc = d3.scaleLinear().range([0, iW]);
@@ -502,7 +508,7 @@
     // CHART 3 : RADAR CHART (Fingerprint)
     // =====================================================
     function drawRadarChart(radarData) {
-        const W = CHART_W, H = 332;
+        const W = CHART_W, H = CHART_H;
         const cx = W / 2, cy = H / 2 - 8;
         const R  = 118;
 
@@ -523,7 +529,7 @@
         const svg = d3.select("#radar-chart")
             .append("svg")
             .attr("viewBox", `0 0 ${W} ${H}`)
-            .attr("preserveAspectRatio", "xMidYMid meet");
+            .attr("preserveAspectRatio", "xMinYMid meet");
 
         const g = svg.append("g").attr("transform", `translate(${cx},${cy})`);
 

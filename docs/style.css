@@ -180,10 +180,10 @@ body {
 .side-nav-item::after {
     content: attr(data-label);
     position: absolute;
-    left: 25px;
+    left: 20px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #fff;
