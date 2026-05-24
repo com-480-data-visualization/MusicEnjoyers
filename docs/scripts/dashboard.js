@@ -167,6 +167,9 @@
         var svg = svgRoot.append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+        // --- Background dot grid (created first so it sits behind the line) ---
+        var gridG = svg.append("g").attr("class", "dot-grid");
+
         // --- Chart title + subtitle (centered over the full svg) ---
         var chartTitle = svgRoot.append("text")
             .attr("x", width / 2)
@@ -332,6 +335,23 @@
                 .style("font-size", "12px");
  
             svg.selectAll(".tick line").style("stroke", "#444");
+
+            // Background dot grid: a dot at every (year × y-tick) intersection,
+            // aligned with the axis ticks. Rebuilt here because the y domain
+            // (and therefore the tick positions) changes with the metric.
+            var gridDots = [];
+            y.ticks(5).forEach(function (ty) {
+                data.forEach(function (d) {
+                    gridDots.push({ cx: x(d.year), cy: y(ty) });
+                });
+            });
+            gridG.selectAll("circle")
+                .data(gridDots)
+                .join("circle")
+                .attr("cx", function (p) { return p.cx; })
+                .attr("cy", function (p) { return p.cy; })
+                .attr("r", 1.4)
+                .attr("fill", "#3a3a3a");
  
  
             // Line
