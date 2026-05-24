@@ -32,6 +32,9 @@
             .append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+        // --- Background dot grid (created first so it sits behind the line) ---
+        var gridG = svg.append("g").attr("class", "dot-grid");
+
         // --- Scales ---
         var yMin = d3.min(data, function (d) { return d.avg_seconds; });
         var yMax = d3.max(data, function (d) { return d.avg_seconds; });
@@ -42,6 +45,21 @@
         var y = d3.scaleLinear()
             .domain([yMin - 5, yMax + 1])
             .range([innerH, 0]);
+
+        // --- Background dot grid: a dot at every (year × y-tick) intersection ---
+        var gridDots = [];
+        y.ticks(5).forEach(function (ty) {
+            data.forEach(function (d) {
+                gridDots.push({ cx: x(d.year), cy: y(ty) });
+            });
+        });
+        gridG.selectAll("circle")
+            .data(gridDots)
+            .enter().append("circle")
+            .attr("cx", function (p) { return p.cx; })
+            .attr("cy", function (p) { return p.cy; })
+            .attr("r", 1.6)
+            .attr("fill", "#3a3a3a");
 
         // --- Axes ---
         svg.append("g")
@@ -60,7 +78,7 @@
             .call(
                 d3.axisLeft(y)
                     .ticks(5)
-                    .tickFormat(function (d) { return Math.round(d) + "s"; })
+                    .tickFormat(function (d) { return formatDuration(d); })
             )
             .call(function (g) { g.select(".domain").remove(); })
             .selectAll("text")
@@ -142,7 +160,7 @@
         function formatDuration(sec) {
             var m = Math.floor(sec / 60);
             var s = Math.round(sec % 60);
-            return m + "m " + (s < 10 ? "0" : "") + s + "s";
+            return m + ":" + (s < 10 ? "0" : "") + s;
         }
 
         // First point label (below dot, clear of descending line)
@@ -188,14 +206,12 @@
                     .style("opacity", function (d) { return d.year === nearest.year ? 1 : (hasAnimated ? 0.7 : 0); });
 
                 // Tooltip content
-                var mins = Math.floor(nearest.avg_seconds / 60);
-                var secs = Math.round(nearest.avg_seconds % 60);
                 var html =
                     "<strong>" + nearest.year + "</strong><br>" +
-                    "Avg: " + mins + "m " + (secs < 10 ? "0" : "") + secs + "s (" + nearest.avg_seconds + "s)<br>" +
+                    "Avg: " + formatDuration(nearest.avg_seconds) + "<br>" +
                     "Songs: " + nearest.count + "<br>" +
-                    "Longest: " + nearest.max_track + " (" + Math.round(nearest.max_seconds) + "s)<br>" +
-                    "Shortest: " + nearest.min_track + " (" + Math.round(nearest.min_seconds) + "s)";
+                    "Longest: " + nearest.max_track + " (" + formatDuration(nearest.max_seconds) + ")<br>" +
+                    "Shortest: " + nearest.min_track + " (" + formatDuration(nearest.min_seconds) + ")";
 
                 tooltip.html(html).classed("visible", true);
 
