@@ -48,19 +48,27 @@
         }, { threshold: 0 }).observe(coverEl);
     }
 
-    // Track which section is most in view
+    // Track which section is in view. Sections are taller than the viewport, so a
+    // fixed intersection ratio (e.g. 40% visible) can never be reached for the big
+    // dashboard section. Instead, mark active the last section whose top edge has
+    // scrolled above a reference line ~40% down the viewport.
     var targets = [
-        { el: document.getElementById('duration'),         href: '#duration'          },
-        { el: document.getElementById('genres'),           href: '#genres'            },
-        { el: document.getElementById('dashboard-section'),href: '#dashboard-section' },
+        { el: document.getElementById('duration'),          href: '#duration'          },
+        { el: document.getElementById('genres'),            href: '#genres'            },
+        { el: document.getElementById('dashboard-section'), href: '#dashboard-section' },
     ].filter(function(t) { return t.el; });
 
-    var sectionObserver = new IntersectionObserver(function(entries) {
-        entries.forEach(function(entry) {
-            if (entry.isIntersecting) setActive('#' + entry.target.id);
+    function updateActiveSection() {
+        var line = window.innerHeight * 0.4;
+        var current = null;
+        targets.forEach(function(t) {
+            if (t.el.getBoundingClientRect().top <= line) current = t;
         });
-    }, { threshold: 0.4 });
+        if (current) setActive(current.href);
+    }
 
-    targets.forEach(function(t) { sectionObserver.observe(t.el); });
+    window.addEventListener('scroll', updateActiveSection, { passive: true });
+    window.addEventListener('resize', updateActiveSection);
+    updateActiveSection();
 
 })();
