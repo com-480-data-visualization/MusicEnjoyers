@@ -93,7 +93,7 @@ knob.addEventListener('touchmove', e => {
 // --- Visibility: knob is only shown while the dashboard or heatmap is on screen.
 // Tracks each section's intersection state and toggles .visible accordingly. ---
 const metricControl = document.getElementById('metric-control');
-const knobTargets = ['dashboard-section', 'heatmap-section']
+const knobTargets = ['dashboard-section']
     .map(id => document.getElementById(id))
     .filter(Boolean);
 

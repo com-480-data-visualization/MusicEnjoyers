@@ -326,14 +326,58 @@ body {
     justify-content: center;
 }
 
-#dashboard {
-    margin-top: 32px;
-    height: 600px;
-    background: var(--spotify-dark-gray);
-    border-radius: 12px;
-    border: 1px solid var(--spotify-gray);
+/* ── Section 3 dashboard frame ── */
+.dashboard-frame {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 28px;
+    background: var(--spotify-dark-gray);
+    border: 1px solid var(--spotify-gray);
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.dashboard-row-top {
+    display: grid;
+    grid-template-columns: 230px 1fr;
+    gap: 24px;
+    align-items: center;
+}
+
+.dashboard-row-bottom {
+    display: grid;
+    grid-template-columns: 1fr minmax(220px, 300px);
+    gap: 24px;
+    align-items: start;
+    border-top: 1px solid var(--spotify-gray);
+    padding-top: 28px;
+}
+
+/* Let the SVGs shrink inside grid tracks instead of forcing overflow. */
+.dashboard-chart-cell,
+.dashboard-heatmap-cell {
+    min-width: 0;
+}
+
+#dashboard {
+    width: 100%;
+}
+
+#dashboard svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 900px) {
+    .dashboard-row-top,
+    .dashboard-row-bottom {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* --- Duration Section --- */
@@ -396,48 +440,14 @@ body {
 }
 
 
-/* Floating knob, fixed in the left gutter, vertically centered. The horizontal
-   anchor sits at 1/4 of the way from the left edge to the page center, which
-   for a centered ~1000px-wide chart lands exactly midway between the page edge
-   and the chart's left edge. Clamped so it doesn't crush against the wall on
-   narrow screens. JS adds .visible when the dashboard or heatmap is on screen. */
+/* Metric knob — sits in the top-left cell of the dashboard frame. Overflow is
+   kept visible so the tick labels can fan out beyond the knob body. */
 #metric-control {
-    position: fixed;
-    top: 50%;
-    left: clamp(24px, calc((100vw - 1000px) / 4), 220px);
-    transform: translate(-50%, -50%);
-    padding: 18px 14px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
-    background: rgba(18, 18, 18, 0.85);
-    backdrop-filter: blur(10px);
-    border: 1px solid #1a1a1a;
-    border-radius: 14px;
-    z-index: 50;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.35s ease, visibility 0s linear 0.35s;
-    pointer-events: none;
-}
-#metric-control.visible {
-    opacity: 1;
-    visibility: visible;
-    pointer-events: auto;
-    transition: opacity 0.35s ease, visibility 0s linear 0s;
-}
-
-@media (max-width: 1100px) {
-    /* Not enough horizontal room to float — drop it inline above the dashboard. */
-    #metric-control {
-        position: static;
-        transform: none;
-        margin: 24px auto;
-        opacity: 1;
-        visibility: visible;
-        pointer-events: auto;
-    }
+    justify-content: center;
+    overflow: visible;
 }
 
 .knob-wrap { display:flex; flex-direction:column; align-items:center; gap:10px; padding:1.5rem 0; font-family:'Share Tech Mono',monospace; }
@@ -451,14 +461,6 @@ body {
 .metric-display { font-family:'Share Tech Mono',monospace; font-size:13px; letter-spacing:0.15em; text-transform:uppercase; color:#ff6b35; background:#0d0d10; border:1px solid #333; border-radius:4px; padding:5px 16px; min-width:120px; text-align:center; }
 /* HEATMAP VISUALIZATION  */
 
-
-/* --- Section wrapper --- */
-#heatmap-section {
-    width: 100%;
-    max-width: 920px;
-    margin: 80px auto;
-    padding: 0 20px;
-}
 
 /* --- SVG container --- */
 #heatmap {
@@ -492,16 +494,20 @@ body {
    TOOLTIP
    ================================================================ */
 .hm-caption {
-    max-width: 720px;
-    margin: 18px auto 0;
+    margin: 0;
     padding: 14px 18px;
-    background: var(--spotify-dark-gray);
+    background: var(--spotify-black);
     border-left: 3px solid var(--spotify-green);
     border-radius: 4px;
     color: var(--spotify-light-gray);
     font-size: 13px;
     line-height: 1.55;
     letter-spacing: 0.01em;
+}
+
+/* Right-hand explanation column: pin the caption to the top of the heatmap. */
+.dashboard-caption-cell {
+    align-self: stretch;
 }
 .hm-caption strong {
     color: #FFFFFF;

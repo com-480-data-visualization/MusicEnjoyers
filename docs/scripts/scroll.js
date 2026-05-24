@@ -53,7 +53,6 @@
         { el: document.getElementById('duration'),         href: '#duration'          },
         { el: document.getElementById('genres'),           href: '#genres'            },
         { el: document.getElementById('dashboard-section'),href: '#dashboard-section' },
-        { el: document.getElementById('heatmap-section'),  href: '#heatmap-section'   },
     ].filter(function(t) { return t.el; });
 
     var sectionObserver = new IntersectionObserver(function(entries) {

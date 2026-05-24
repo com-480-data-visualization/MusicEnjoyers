@@ -157,41 +157,50 @@
 </section>
 
 
-<!-- Floating knob: fixed-positioned in the left gutter. Visibility toggled
-     by JS so it only appears when the dashboard or heatmap is in view. -->
-<div id="metric-control" aria-hidden="true">
-    <div id="chart-knob-container">
-        <div class="knob-wrap">
-            <div class="knob-panel" id="knob">
-                <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
-                <div class="knob-body" id="knobBody">
-                    <div class="knob-line">
-                        <div class="knob-tip"></div>
-                    </div>
-                    <div class="knob-center"></div>
-                </div>
-            </div>
-            <div class="metric-display" id="metricDisplay">Duration</div>
-        </div>
-    </div>
-</div>
-
 <!-- SECTION 3: Dashboard -->
 <section class="section" id="dashboard-section">
     <div class="text reveal">
         <h1>Interact with the data</h1>
         <p>
-            Explore all audio features across time.
-            Work in progress...
+            Turn the knob to switch between audio features, and watch how a decade
+            of pop hits shifts across every metric.
         </p>
     </div>
-    <div id="dashboard" class="reveal"></div>
-</section>
 
-<!-- SECTION 4: Heatmap -->
-<section id="heatmap-section">
-    <div id="heatmap"></div>
-    <div id="heatmap-caption" class="hm-caption" hidden></div>
+    <div class="dashboard-frame reveal">
+        <!-- Top row: metric knob + line chart -->
+        <div class="dashboard-row dashboard-row-top">
+            <div id="metric-control">
+                <div id="chart-knob-container">
+                    <div class="knob-wrap">
+                        <div class="knob-panel" id="knob">
+                            <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
+                            <div class="knob-body" id="knobBody">
+                                <div class="knob-line">
+                                    <div class="knob-tip"></div>
+                                </div>
+                                <div class="knob-center"></div>
+                            </div>
+                        </div>
+                        <div class="metric-display" id="metricDisplay">Duration</div>
+                    </div>
+                </div>
+            </div>
+            <div class="dashboard-chart-cell">
+                <div id="dashboard"></div>
+            </div>
+        </div>
+
+        <!-- Bottom row: heatmap + its explanation on the right -->
+        <div class="dashboard-row dashboard-row-bottom">
+            <div class="dashboard-heatmap-cell">
+                <div id="heatmap"></div>
+            </div>
+            <div class="dashboard-caption-cell">
+                <div id="heatmap-caption" class="hm-caption" hidden></div>
+            </div>
+        </div>
+    </div>
 </section>
 
 
