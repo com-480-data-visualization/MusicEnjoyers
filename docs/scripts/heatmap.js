@@ -53,7 +53,7 @@
             label: "Danceability",
             unit:  "0–100%",
             description:
-                "<strong>Danceability</strong> describes how suitable a track is for dancing, combining tempo, rhythm stability, beat strength and overall regularity into a single 0–100 score. Higher means a steadier, more body-moving groove.",
+                "<strong>Danceability</strong> describes how suitable a track is for dancing, combining tempo, rhythm stability, beat strength and overall regularity into a single 0–100% score. Higher means a steadier, more body-moving groove.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
@@ -75,7 +75,7 @@
             label: "Acousticness",
             unit:  "0–100%",
             description:
-                "<strong>Acousticness</strong> is a 0–100 confidence that a track is acoustic, made with real instruments rather than electronic production. High values point to stripped-back, unplugged recordings; low values to heavily produced, electronic sound.",
+                "<strong>Acousticness</strong> is a 0–100% confidence that a track is acoustic, made with real instruments rather than electronic production. High values point to stripped-back, unplugged recordings; low values to heavily produced, electronic sound.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
@@ -86,7 +86,7 @@
             label: "Energy",
             unit:  "0–100%",
             description:
-                "<strong>Energy</strong> is a 0–100 measure of intensity and activity. Fast, loud and noisy tracks (think hard rock or EDM) score high; calm, mellow acoustic ballads sit at the low end.",
+                "<strong>Energy</strong> is a 0–100% measure of intensity and activity. Fast, loud and noisy tracks (think hard rock or EDM) score high; calm, mellow acoustic ballads sit at the low end.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
