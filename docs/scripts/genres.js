@@ -650,11 +650,15 @@
             if (activeMetric === "compactness") {
                 title_compactness.style("fill","#1DB954"); title_separation.style("fill","rgba(255,255,255,0.08)");
                 compactLine.transition().duration(250).attr("opacity",1).attr("stroke-width",2);
-                separateLine.transition().duration(250).attr("opacity",0.12).attr("stroke-width",1.5);
+                separateLine.transition().duration(250).attr("opacity",0);
+                yAxisLeft.transition().duration(250).attr("opacity",1);
+                yAxisRight.transition().duration(250).attr("opacity",0);
             } else {
                 title_compactness.style("fill","rgba(255,255,255,0.08)"); title_separation.style("fill","#1DB954");
                 separateLine.transition().duration(250).attr("opacity",1).attr("stroke-width",2);
-                compactLine.transition().duration(250).attr("opacity",0.12).attr("stroke-width",1.5);
+                compactLine.transition().duration(250).attr("opacity",0);
+                yAxisLeft.transition().duration(250).attr("opacity",0);
+                yAxisRight.transition().duration(250).attr("opacity",1);
             }
             yAxisLeft.call(d3.axisLeft(yCompact).ticks(5).tickSize(0));
             yAxisRight.call(d3.axisRight(ySeparate).ticks(5).tickSize(0));
