@@ -1,3 +1,10 @@
+# Authors
+
+| Name | SCIPER |
+| ---- | ------ |
+| Hsieh Wei-En | 341271 |
+| Li An-Jie | 424517 |
+| Rohner Kenji | 425036 |
 
 # Technical Overview
 
@@ -83,10 +90,3 @@ All deliverables (PDFs) are in:
 
 A screencast of the project is included in the repository: [datavis_cut.mp4](./datavis_cut.mp4).
 
-## Authors
-
-| Name | SCIPER |
-| ---- | ------ |
-| Hsieh Wei-En | 341271 |
-| Li An-Jie | 424517 |
-| Rohner Kenji | 425036 |
