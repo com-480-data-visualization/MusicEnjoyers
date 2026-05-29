@@ -87,5 +87,3 @@ In order to serve this data to a website, we extracted the information we want t
 ### Create the Website
 
 All files used by our website are in ./docs. It follows a simple layout, where the html and css file are in the first level and all our JS-scripts are in ./docs/scripts and the data used by those scripts are in ./docs/data.
-
-The java script in particular:
