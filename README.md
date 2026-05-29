@@ -2,7 +2,7 @@
 
 Project for the COM-480 Data Visualization course at EPFL.
 
-> **Songs are getting shorter — about 13 seconds shorter on average over the last decade. And it is not a coincidence.**
+> **Songs are getting shorter: about 13 seconds shorter on average over the last decade. And it is not a coincidence.**
 > **Genres are shifting.** Come interact with the data.
 
 <p align="center">
@@ -13,7 +13,7 @@ Project for the COM-480 Data Visualization course at EPFL.
 
 Music listeners today pursue immediate satisfaction. Song intros are shorter than they used to be, artists race to the catchy hook before listeners hit "skip", and short-video platforms reward the most viral few seconds of a track. At the same time, scholars disagree on whether digital platforms are pushing popular music toward *convergence* (everything sounds alike) or *fragmentation* (endless niche genres).
 
-This project turns those questions into an interactive, data-driven story about how pop music has evolved over the past decade. Using the Billboard Hot 100 enriched with Spotify/Deezer audio features, we visualize how the average song has shrunk by more than 10 seconds, how genres have shifted and clustered, and how musical features (energy, danceability, valence, tempo…) relate to one another — so you can explore the trends yourself.
+This project turns those questions into an interactive, data-driven story about how pop music has evolved over the past decade. Using the Billboard Hot 100 enriched with Spotify/Deezer audio features, we visualize how the average song has shrunk by more than 10 seconds, how genres have shifted and clustered, and how musical features (energy, danceability, valence, tempo…) relate to one another: so you can explore the trends yourself.
 
 ## 👨‍👩‍👧 Target audience
 
@@ -39,7 +39,7 @@ Anyone curious about music and how it has changed: casual listeners who want to 
 
 ## 💻 Running the website locally
 
-The website is fully static — everything lives in `docs/`. To run it locally:
+The website is fully static: everything lives in `docs/`. To run it locally:
 
 ```bash
 cd docs
@@ -62,8 +62,8 @@ kill <PID>
 
 We build on two main sources:
 
-- **[Billboard Hot 100](https://github.com/mhollingshead/billboard-hot-100)** — a widely-used measure of mainstream popularity, ranking songs by streaming, radio play, and sales. It identifies *which* songs were popular and *when*.
-- **Spotify / Deezer audio features** — release date, duration, genres, and audio attributes (energy, danceability, loudness, valence, tempo, …) used to characterize *how* the music sounds.
+- **[Billboard Hot 100](https://github.com/mhollingshead/billboard-hot-100)**: a widely-used measure of mainstream popularity, ranking songs by streaming, radio play, and sales. It identifies *which* songs were popular and *when*.
+- **Spotify / Deezer audio features**: release date, duration, genres, and audio attributes (energy, danceability, loudness, valence, tempo, …) used to characterize *how* the music sounds.
 
 Our processed dataset covers Billboard Hot 100 songs over the last decade (2016–2025), each with 16 attributes.
 
@@ -72,16 +72,16 @@ Our processed dataset covers Billboard Hot 100 songs over the last decade (2016�
 Our workflow:
 
 1. **Scrape the data.** `Scrapper/scrapper.py` connects the Billboard list (`source_files/Billboard_Top_100_songs_of_each_year_1950-2025.csv`) to the yearly files in `source_files/billboard_data` and enriches each song with Spotify track data. The script skips already-matched songs and only processes unmatched ones, so we could run it repeatedly while loosening the fuzzy-matching strictness.
-2. **Extract statistics to JSON.** The scripts in `scripts/` (and `scripts_billboard_related/`) pre-compute everything the page needs and write JSON files into `docs/data/`. This keeps the website fast — no heavy computation happens in the browser.
+2. **Extract statistics to JSON.** The scripts in `scripts/` (and `scripts_billboard_related/`) pre-compute everything the page needs and write JSON files into `docs/data/`. This keeps the website fast: no heavy computation happens in the browser.
 3. **Build the website.** `docs/index.html` provides the skeleton; the CSS files style it; and the visualizations in `docs/scripts/` (`dashboard.js`, `genres.js`, `heatmap.js`, `duration.js`, `dj_knob.js`, `scroll.js`) read from `docs/data/` to render the interactive charts.
 
 ## 📍 Milestones
 
 Detailed write-ups, the exploratory data analysis, and all deliverables (PDFs) are in **[Milestones_README.md](Milestones_README.md)**.
 
-- **Milestone 1** — Proposal & EDA: [Milestone 1.pdf](./Milestone%201.pdf)
-- **Milestone 2** — Functional prototype: [Milestone2_MusicEnjoyers.pdf](./Milestone2_MusicEnjoyers.pdf)
-- **Milestone 3** — Final project: [Milestone 3.pdf](./Milestone%203.pdf)
+- **Milestone 1**: Proposal & EDA: [Milestone 1.pdf](./Milestone%201.pdf)
+- **Milestone 2**: Functional prototype: [Milestone2_MusicEnjoyers.pdf](./Milestone2_MusicEnjoyers.pdf)
+- **Milestone 3**: Final project: [Milestone 3.pdf](./Milestone%203.pdf)
 
 ## 📽 Screencast
 
