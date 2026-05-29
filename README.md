@@ -72,7 +72,7 @@ The java script in particular:
 
 ## Milestones
 
-Detailed write-ups, the exploratory data analysis, and all deliverables (PDFs) are in **[Milestones_README.md](Milestones_README.md)**.
+Detailed write-ups, the exploratory data analysis (EDA), and all deliverables (PDFs) are in:
 
 - **Milestone 1**: Proposal & EDA: [Milestone 1.pdf](./Milestone%201.pdf)
 - **Milestone 2**: Functional prototype: [Milestone2_MusicEnjoyers.pdf](./Milestone2_MusicEnjoyers.pdf)
