@@ -1,43 +1,7 @@
-# 🎵 Pop Music Evolution 🎵
 
-Project for the COM-480 Data Visualization course at EPFL.
+# Technical Overview
 
-> **Songs are getting shorter: about 13 seconds shorter on average over the last decade. And it is not a coincidence.**
-> **Genres are shifting.** Come interact with the data.
-
-<p align="center">
-    <a href="https://com-480-data-visualization.github.io/MusicEnjoyers/">▶️ Go to the website</a>
-</p>
-
-## 🔴 Abstract
-
-Music listeners today pursue immediate satisfaction. Song intros are shorter than they used to be, artists race to the catchy hook before listeners hit "skip", and short-video platforms reward the most viral few seconds of a track. At the same time, scholars disagree on whether digital platforms are pushing popular music toward *convergence* (everything sounds alike) or *fragmentation* (endless niche genres).
-
-This project turns those questions into an interactive, data-driven story about how pop music has evolved over the past decade. Using the Billboard Hot 100 enriched with Spotify/Deezer audio features, we visualize how the average song has shrunk by more than 10 seconds, how genres have shifted and clustered, and how musical features (energy, danceability, valence, tempo…) relate to one another: so you can explore the trends yourself.
-
-## 👨‍👩‍👧 Target audience
-
-Anyone curious about music and how it has changed: casual listeners who want to *see* why songs feel shorter today, and data-minded readers who want to dig into genre dynamics and audio features.
-
-## 🚀 Project structure
-
-```
-├── basic_statistics.ipynb        Exploratory data analysis (Milestone 1)
-├── Scrapper/                     Data collection
-│   ├── scrapper.py               Matches Billboard songs to Spotify track data (fuzzy matching)
-│   ├── source_files/             Billboard Hot 100 source data
-│   └── results/                  Matched / unmatched track ids
-├── scripts/                      Build JSON stats served to the website
-├── scripts_billboard_related/    Billboard enrichment helpers
-├── docs/                         The website (served via GitHub Pages)
-│   ├── index.html                Page skeleton
-│   ├── *.css                     Styles
-│   ├── scripts/                  Visualization JS (such as D3)
-│   └── data/                     Pre-computed JSON consumed by the visualizations
-└── Milestones_README.md          Detailed milestone write-ups & deliverables
-```
-
-## 💻 Running the website locally
+## Hosting the Website Locally
 
 The website is fully static: everything lives in `docs/`. To run it locally:
 
@@ -58,24 +22,55 @@ lsof -i :8000
 kill <PID>
 ```
 
-## 💿 Dataset
 
-We build on two main sources:
+# Workflow
 
-- **[Billboard Hot 100](https://github.com/mhollingshead/billboard-hot-100)**: a widely-used measure of mainstream popularity, ranking songs by streaming, radio play, and sales. It identifies *which* songs were popular and *when*.
-- **Spotify / Deezer audio features**: release date, duration, genres, and audio attributes (energy, danceability, loudness, valence, tempo, …) used to characterize *how* the music sounds.
+Our Final workflow was as follows:
 
-Our processed dataset covers Billboard Hot 100 songs over the last decade (2016–2025), each with 16 attributes.
+1. Scrap data from Spotify
+2. Extract the relevant statistics to JSON
+3. Create the HTML Skeleton for the website
+4. Create the JS scripts for the visualization
 
-## ⚙️ Technical overview
 
-Our workflow:
+### Scrap the data from spotify
 
-1. **Scrape the data.** `Scrapper/scrapper.py` connects the Billboard list (`source_files/Billboard_Top_100_songs_of_each_year_1950-2025.csv`) to the yearly files in `source_files/billboard_data` and enriches each song with Spotify track data. The script skips already-matched songs and only processes unmatched ones, so we could run it repeatedly while loosening the fuzzy-matching strictness.
-2. **Extract statistics to JSON.** The scripts in `scripts/` (and `scripts_billboard_related/`) pre-compute everything the page needs and write JSON files into `docs/data/`. This keeps the website fast: no heavy computation happens in the browser.
-3. **Build the website.** `docs/index.html` provides the skeleton; the CSS files style it; and the visualizations in `docs/scripts/` (`dashboard.js`, `genres.js`, `heatmap.js`, `duration.js`, `dj_knob.js`, `scroll.js`) read from `docs/data/` to render the interactive charts.
+All relevant scripts are in the folder "Scrapper". The core script is written in python and it connects the spotify data stored in source_files/Billboard_Top_100_songs_of_each_year_1950-2025.csv and connects it to the yearly files in source_files/billboard_data.
 
-## 📍 Milestones
+While generating the data, the script will ignore already matched songs and only look at unmatched songs. We used this feature to run the script repeatedly while adjusting the strictness of the fuzzy matching.
+
+Due to API limits and getting blocked in the end repeatedly for 24 hrs, we had to resort to using Exportify on the following playlist: https://open.spotify.com/playlist/3aTYOIaiU9lsysHRCMppEU
+
+### Extract the relevant statistics to JSON
+
+In order to serve this data to a website, we extracted the information we want to display in seperate scripts in ./scripts/ and made severable json files stored in ./docs/data. This way the website does not have to do any real computation when loading the page.
+
+### Create the Website
+
+
+All files used by our website are in ./docs. It follows a simple layout, where the html and css file are in the first level and all our JS-scripts are in ./docs/scripts and the data used by those scripts are in ./docs/data.
+
+The java script in particular:
+
+## Folder Structure
+
+```
+├── basic_statistics.ipynb        Exploratory data analysis (Milestone 1)
+├── Scrapper/                     Data collection
+│   ├── scrapper.py               Matches Billboard songs to Spotify track data (fuzzy matching)
+│   ├── source_files/             Billboard Hot 100 source data
+│   └── results/                  Matched / unmatched track ids
+├── scripts/                      Build JSON stats served to the website
+├── scripts_billboard_related/    Billboard enrichment helpers
+├── docs/                         The website (served via GitHub Pages)
+│   ├── index.html                Page skeleton
+│   ├── *.css                     Styles
+│   ├── scripts/                  Visualization JS (such as D3)
+│   └── data/                     Pre-computed JSON consumed by the visualizations
+└── Milestones_README.md          Detailed milestone write-ups & deliverables
+```
+
+## Milestones
 
 Detailed write-ups, the exploratory data analysis, and all deliverables (PDFs) are in **[Milestones_README.md](Milestones_README.md)**.
 
@@ -83,16 +78,15 @@ Detailed write-ups, the exploratory data analysis, and all deliverables (PDFs) a
 - **Milestone 2**: Functional prototype: [Milestone2_MusicEnjoyers.pdf](./Milestone2_MusicEnjoyers.pdf)
 - **Milestone 3**: Final project: [Milestone 3.pdf](./Milestone%203.pdf)
 
-## 📽 Screencast
+
+## Screencast
 
 A screencast of the project is included in the repository: [datavis_cut.mp4](./datavis_cut.mp4).
 
-## 🤝 Authors
+## Authors
 
 | Name | SCIPER |
 | ---- | ------ |
 | Hsieh Wei-En | 341271 |
 | Li An-Jie | 424517 |
 | Rohner Kenji | 425036 |
-</content>
-</invoke>
