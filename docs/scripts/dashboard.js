@@ -1,39 +1,39 @@
 (function () {
     // --- Constants ---
-    var margin = { top: 40, right: 90, bottom: 50, left: 65 };
+    var margin = { top: 64, right: 90, bottom: 58, left: 78 };
     var width = 760;
     var height = 400;
     var innerW = width - margin.left - margin.right;
     var innerH = height - margin.top - margin.bottom;
  
+    // Format seconds as m:ss (e.g. 205 → "3:25"), matching the heatmap.
+    function fmtMMSS(sec) {
+        var s = Math.round(sec);
+        var m = Math.floor(s / 60);
+        var r = s % 60;
+        return m + ":" + (r < 10 ? "0" : "") + r;
+    }
+
     // --- Metric definitions ---
     var metrics = {
         duration: {
             label: "Duration",
+            unit: "mm:ss",
             field: "avg_duration",
             yPad: 5,
-            axisFormat: function (d) { return Math.round(d) + "s"; },
-            format: function (d) {
-                var m = Math.floor(d / 60);
-                var s = Math.round(d % 60);
-                return m + "m " + (s < 10 ? "0" : "") + s + "s";
-            },
+            axisFormat: function (d) { return fmtMMSS(d); },
+            format: function (d) { return fmtMMSS(d); },
             tooltipHtml: function (d) {
-                var fmtSec = function (s) {
-                    var m = Math.floor(s / 60), sec = Math.round(s % 60);
-                    return m + "m " + (sec < 10 ? "0" : "") + sec + "s";
-                };
-                var mins = Math.floor(d.avg_duration / 60);
-                var secs = Math.round(d.avg_duration % 60);
                 return "<strong>" + d.year + "</strong><br>" +
-                    "Avg: " + mins + "m " + (secs < 10 ? "0" : "") + secs + "s<br>" +
+                    "Avg: " + fmtMMSS(d.avg_duration) + "<br>" +
                     "Songs: " + d.count + "<br>" +
-                    "Longest: " + d.max_track_duration  + " (" + fmtSec(d.max_duration) + ")<br>" +
-                    "Shortest: " + d.min_track_duration +  " (" + fmtSec(d.min_duration) + ")";
+                    "Longest: " + d.max_track_duration  + " (" + fmtMMSS(d.max_duration) + ")<br>" +
+                    "Shortest: " + d.min_track_duration +  " (" + fmtMMSS(d.min_duration) + ")";
             }
         },
         bpm: {
             label: "BPM",
+            unit: "beats / min",
             field: "avg_bpm",
             yPad: 2,
             axisFormat: function (d) { return Math.round(d); },
@@ -48,6 +48,7 @@
         },
         loudness: {
             label: "Loudness",
+            unit: "dB",
             field: "avg_loudness",
             yPad: 0.5,
             axisFormat: function (d) { return d.toFixed(1) + " dB"; },
@@ -62,6 +63,7 @@
         },
         danceability: {
             label: "Danceability",
+            unit: "0–100%",
             field: "avg_danceability",
             yPad: 0.02,
             axisFormat: function (d) { return (d * 100).toFixed(0) + "%"; },
@@ -76,6 +78,7 @@
         },
         speechiness: {
             label: "Speechiness",
+            unit: "0–100%",
             field: "avg_speechiness",
             yPad: 0.005,
             axisFormat: function (d) { return (d * 100).toFixed(1) + "%"; },
@@ -90,6 +93,7 @@
         },
         acousticness: {
             label: "Acousticness",
+            unit: "0–100%",
             field: "avg_acousticness",
             yPad: 0.02,
             axisFormat: function (d) { return (d * 100).toFixed(0) + "%"; },
@@ -104,6 +108,7 @@
         },
         energy: {
             label: "Energy",
+            unit: "0–100%",
             field: "avg_energy",
             yPad: 0.02,
             axisFormat: function (d) { return (d * 100).toFixed(0) + "%"; },
@@ -151,18 +156,60 @@
             d.min_energy       = +d.min_energy;
             d.max_energy       = +d.max_energy;
         });
-        data.forEach(function(d) {
-            console.log(d.year, "energy:", d.avg_energy, typeof d.avg_energy);
-        });
         // --- Big stat (initial render) ---
         updateStat(data, activeMetric);
  
         // --- SVG ---
-        var svg = d3.select("#dashboard")
+        var svgRoot = d3.select("#dashboard")
             .append("svg")
-            .attr("viewBox", "0 0 " + width + " " + height)
-            .append("g")
+            .attr("viewBox", "0 0 " + width + " " + height);
+
+        var svg = svgRoot.append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // --- Background dot grid (created first so it sits behind the line) ---
+        var gridG = svg.append("g").attr("class", "dot-grid");
+
+        // --- Chart title + subtitle (centered over the full svg) ---
+        var chartTitle = svgRoot.append("text")
+            .attr("x", width / 2)
+            .attr("y", 28)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#FFFFFF")
+            .style("font-size", "16px")
+            .style("font-weight", "700")
+            .style("letter-spacing", "0.02em");
+
+        svgRoot.append("text")
+            .attr("x", width / 2)
+            .attr("y", 48)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "12px")
+            .style("letter-spacing", "0.04em")
+            .text("Billboard Hot 100 hits · 2016 – 2025");
+
+        // --- Y axis title (rotated, in the left margin) ---
+        var yAxisTitle = svg.append("text")
+            .attr("transform", "rotate(-90)")
+            .attr("x", -innerH / 2)
+            .attr("y", -58)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "12px")
+            .style("font-weight", "600")
+            .style("letter-spacing", "0.05em");
+
+        // --- X axis title (under the year labels) ---
+        svg.append("text")
+            .attr("x", innerW / 2)
+            .attr("y", innerH + 44)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "12px")
+            .style("font-weight", "600")
+            .style("letter-spacing", "0.05em")
+            .text("Year");
  
         // --- Scales ---
         var x = d3.scaleLinear()
@@ -266,6 +313,10 @@
         function updateChart(metricKey, animate) {
             var m = metrics[metricKey];
             var field = m.field;
+
+            // Titles
+            chartTitle.text("Average " + m.label + " per year");
+            yAxisTitle.text(m.label + (m.unit ? " (" + m.unit + ")" : ""));
  
             var yMin = d3.min(data, function (d) { return d[field]; });
             var yMax = d3.max(data, function (d) { return d[field]; });
@@ -284,6 +335,23 @@
                 .style("font-size", "12px");
  
             svg.selectAll(".tick line").style("stroke", "#444");
+
+            // Background dot grid: a dot at every (year × y-tick) intersection,
+            // aligned with the axis ticks. Rebuilt here because the y domain
+            // (and therefore the tick positions) changes with the metric.
+            var gridDots = [];
+            y.ticks(5).forEach(function (ty) {
+                data.forEach(function (d) {
+                    gridDots.push({ cx: x(d.year), cy: y(ty) });
+                });
+            });
+            gridG.selectAll("circle")
+                .data(gridDots)
+                .join("circle")
+                .attr("cx", function (p) { return p.cx; })
+                .attr("cy", function (p) { return p.cy; })
+                .attr("r", 1.4)
+                .attr("fill", "#3a3a3a");
  
  
             // Line
@@ -399,7 +467,7 @@
             });
         }, { threshold: 0.3 });
  
-        observer_db.observe(document.getElementById("duration-line"));
+        observer_db.observe(document.getElementById("dashboard"));
     });
  
     // --- Big stat helper ---

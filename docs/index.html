@@ -21,7 +21,7 @@
 <body>
 
 <!-- LANDING COVER -->
-<div class="cover" id="top">
+<div class="cover" id="top" style="z-index: 100;">
   <!-- Background stripes -->
   <div class="cover-stripes">
     <span></span><span></span><span></span><span></span><span></span>
@@ -66,26 +66,23 @@
 
 </div>
 
-<header class="top-nav">
-    <a href="#top" class="title-link">
-        <h2>Pop Music Evolution</h2>
-    </a>
-    <nav>
-        <a href="#duration" class="nav-link active">Duration</a>
-        <a href="#genres" class="nav-link">Genres</a>
-        <a href="#dashboard" class="nav-link">Dashboard</a>
-    </nav>
-</header>
+<nav class="side-nav" id="side-nav" style="z-index: 1;">
+    <a class="side-nav-item" href="#top"              data-label="Home"></a>
+    <a class="side-nav-item" href="#duration"         data-label="Duration"></a>
+    <a class="side-nav-item" href="#genres"           data-label="Genres"></a>
+    <a class="side-nav-item" href="#dashboard-section" data-label="Dashboard"></a>
+</nav>
 
 <!-- SECTION 1: Duration -->
 <section class="section" id="duration">
     <div class="text reveal">
         <h1>Songs are getting shorter. And it is not a coincidence.</h1>
         <p>
-            Since TikTok launched in September 2016, the average Billboard Hot&nbsp;100 hit
-            has shed nearly half a minute. Instagram Reels and YouTube Shorts
-            followed, rewarding brevity and punishing anything over three minutes.
-            The attention economy reshaped pop music.
+            Since TikTok launched in September 2016, the average Billboard Hot&nbsp;100
+            has lost more than 10 seconds. Instagram Reels and YouTube Shorts
+            followed, rewarding brevity and punishing anything that takes more than three seconds to land the hook.
+            <br>
+            The attention economy has reshaped pop music.
         </p>
     </div>
 
@@ -94,47 +91,67 @@
     <div class="viz-container reveal">
         <div id="duration-line"></div>
     </div>
+    <a class="scroll-arrow" href="#genres" aria-label="Next section"></a>
 </section>
 
 <!-- SECTION 2: Genres -->
 <section class="section" id="genres">
-    <div class="text reveal">
+    <div class="text reveal" style="margin-bottom: 30vh; margin-top: 15vh;">
         <h1>Genres are shifting.</h1>
         <p>
             Pop music no longer belongs to fixed categories.
             Styles overlap, blend, and evolve faster than ever.
+            What used to be distinct scenes now share the same playlists.
         </p>
     </div>
-    <div class="genre-layout">
+
+    <div class="genre-layout reveal">
+        <div class="genre-tabs">
+            <button class="genre-tab active" data-chart="share">Genre Share</button>
+            <button class="genre-tab" data-chart="radar">Fingerprint</button>
+            <button class="genre-tab" data-chart="scatter">Feature Space</button>
+            <button class="genre-tab" data-chart="cluster">Similarity</button>
+        </div>
+
+        <div class="genre-spacer"></div>
+
+        <div class="genre-sidebar">
+            <div id="scatter-feat-picker"></div>
+            <h2>Genres are shifting.</h2>
+            <p></p>
+        </div>
+
         <div class="genre-main">
-            <div class="genre-tabs">
-                <button class="genre-tab active" data-chart="share">Genre Share</button>    
-                <button class="genre-tab" data-chart="count">Track Counts</button>
-                <button class="genre-tab" data-chart="cluster">Similarity</button>
+            <div class="genre-panel active" id="share-panel">
+                <div id="genreChart"></div>
             </div>
-
-        <div class="genre-panel active" id="share-panel">
-            <p>Need some description here...</p>
-            <div id="genreChart"></div>
-        </div>
-
-        <div class="genre-panel" id="count-panel">
-            <p>Need some description here...</p>
-            <div id="genreLineChart"></div>
-        </div>
-
-        <div class="genre-panel" id="cluster-panel">
-            <p>Need some description here...</p>
-            <div id="clusterChart"></div>
-        </div>
-
+            <div class="genre-panel" id="radar-panel">
+                <div class="radar-select-row">
+                    <select id="genre-select" class="trends-genre-select"></select>
+                </div>
+                <div id="radar-chart"></div>
+            </div>
+            <div class="genre-panel" id="scatter-panel">
+                <div class="scatter-controls">
+                    <span id="scatter-year-display" class="scatter-year-badge">2016</span>
+                    <input type="range" id="year-slider" min="2016" max="2025" step="1" value="2016">
+                    <button id="play-btn" class="trends-play-btn">&#9654; Play</button>
+                </div>
+                <div class="scatter-body">
+                    <div class="scatter-left">
+                        <div id="sc-legend" class="trends-legend"></div>
+                    </div>
+                    <div id="scatter-plot"></div>
+                </div>
+            </div>
+            <div class="genre-panel" id="cluster-panel">
+                <div id="clusterChart"></div>
+            </div>
         </div>
 
     </div>
-
+    <a class="scroll-arrow" href="#dashboard-section" aria-label="Next section"></a>
 </section>
-
-
 
 
 <!-- SECTION 3: Dashboard -->
@@ -142,30 +159,45 @@
     <div class="text reveal">
         <h1>Interact with the data</h1>
         <p>
-            Explore all audio features across time.
-            Work in progress...
+            Turn the knob to switch between audio features, and watch how a decade
+            of pop hits shifts across every metric.
         </p>
-        <div id="chart-knob-container">
-            <div class="knob-wrap">
-                <div class="knob-panel" id="knob">
-                    <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
-                    <div class="knob-body" id="knobBody">
-                        <div class="knob-line">
-                            <div class="knob-tip"></div>
+    </div>
+
+    <div class="dashboard-frame reveal">
+        <!-- Top row: metric knob + line chart -->
+        <div class="dashboard-row dashboard-row-top">
+            <div id="metric-control">
+                <div id="chart-knob-container">
+                    <div class="knob-wrap">
+                        <div class="knob-panel" id="knob">
+                            <div id="tickRing" style="position:absolute;inset:0;border-radius:50%;"></div>
+                            <div class="knob-body" id="knobBody">
+                                <div class="knob-line">
+                                    <div class="knob-tip"></div>
+                                </div>
+                                <div class="knob-center"></div>
+                            </div>
                         </div>
-                        <div class="knob-center"></div>
+                        <div class="metric-display" id="metricDisplay">Duration</div>
                     </div>
                 </div>
-                <div class="metric-display" id="metricDisplay">Duration</div>
+            </div>
+            <div class="dashboard-chart-cell">
+                <div id="dashboard"></div>
+            </div>
+        </div>
+
+        <!-- Bottom row: heatmap + its explanation on the right -->
+        <div class="dashboard-row dashboard-row-bottom">
+            <div class="dashboard-heatmap-cell">
+                <div id="heatmap"></div>
+            </div>
+            <div class="dashboard-caption-cell">
+                <div id="heatmap-caption" class="hm-caption" hidden></div>
             </div>
         </div>
     </div>
-    <div id="dashboard" class="reveal"></div>
-
-</section>
-<section id="heatmap-section">
-
-    <div id="heatmap"></div>
 </section>
 
 

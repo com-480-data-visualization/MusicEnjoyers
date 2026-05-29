@@ -1,9 +1,9 @@
 (function () {
 
     // --- Constants ---
-    var margin = { top: 50, right: 170, bottom: 55, left: 110 };
+    var margin = { top: 65, right: 170, bottom: 110, left: 130 };
     var width  = 860;
-    var height = 460;
+    var height = 540;
     var innerW = width  - margin.left - margin.right;
     var innerH = height - margin.top  - margin.bottom;
 
@@ -14,6 +14,9 @@
         {
             key:   "duration",
             label: "Duration",
+            unit:  "mm:ss",
+            description:
+                "<strong>Duration</strong> is simply how long a track runs. Hits have been getting shorter as streaming and short-video platforms reward songs that reach the hook within the first few seconds, before a listener can skip.",
             // bins are in seconds
             formatBinEdge: function (s) {
                 var m = Math.floor(s / 60), sec = s % 60;
@@ -30,18 +33,27 @@
         {
             key:   "bpm",
             label: "BPM",
+            unit:  "beats / min",
+            description:
+                "<strong>BPM</strong> (beats per minute) is a track's tempo, the speed of its underlying pulse. Higher values feel faster and more urgent; lower values feel relaxed. Many recent hits cluster around danceable mid-tempos.",
             formatBinEdge: function (v) { return Math.round(v); },
             formatRange:   function (lo, hi) { return lo + " – " + hi + " bpm"; }
         },
         {
             key:   "loudness",
             label: "Loudness",
+            unit:  "dB",
+            description:
+                "<strong>Decibels (dB)</strong> measure loudness <strong>relative to the digital ceiling (0 dB)</strong>, the loudest a recording can possibly be without clipping. Real audio always sits below this ceiling, so the values are negative, and the closer to 0, the louder. A modern pop hit typically lands around <strong>-5 dB</strong>; a quiet acoustic track might be <strong>-20 dB</strong> or lower. The upward drift over the years is the so-called <em>loudness war</em>, labels mastering hits hotter to cut through phone speakers and streaming playlists.",
             formatBinEdge: function (v) { return v.toFixed(0) + " dB"; },
             formatRange:   function (lo, hi) { return lo + " to " + hi + " dB"; }
         },
         {
             key:   "danceability",
             label: "Danceability",
+            unit:  "0–100%",
+            description:
+                "<strong>Danceability</strong> describes how suitable a track is for dancing, combining tempo, rhythm stability, beat strength and overall regularity into a single 0–100% score. Higher means a steadier, more body-moving groove.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
@@ -50,6 +62,9 @@
         {
             key:   "speechiness",
             label: "Speechiness",
+            unit:  "0–100%",
+            description:
+                "<strong>Speechiness</strong> detects the presence of spoken words. Rap verses, spoken intros and talk-heavy tracks push the value up, while purely sung or instrumental music stays low. It's a good proxy for how rap-driven the charts are.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
@@ -58,6 +73,9 @@
         {
             key:   "acousticness",
             label: "Acousticness",
+            unit:  "0–100%",
+            description:
+                "<strong>Acousticness</strong> is a 0–100% confidence that a track is acoustic, made with real instruments rather than electronic production. High values point to stripped-back, unplugged recordings; low values to heavily produced, electronic sound.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
@@ -66,6 +84,9 @@
         {
             key:   "energy",
             label: "Energy",
+            unit:  "0–100%",
+            description:
+                "<strong>Energy</strong> is a 0–100% measure of intensity and activity. Fast, loud and noisy tracks (think hard rock or EDM) score high; calm, mellow acoustic ballads sit at the low end.",
             formatBinEdge: function (v) { return Math.round(v * 100) + "%"; },
             formatRange:   function (lo, hi) {
                 return Math.round(lo * 100) + "–" + Math.round(hi * 100) + "%";
@@ -94,6 +115,9 @@
     //   ...
     // }
     d3.json("data/heatmap_data.json").then(function (data) {
+
+        // --- Per-metric caption (HTML, below the chart) ---
+        var captionEl = document.getElementById("heatmap-caption");
 
         // --- SVG ---
         var svg = d3.select("#heatmap")
@@ -130,6 +154,97 @@
 
         // --- Cells group (rebuilt per metric) ---
         var cellsG = g.append("g").attr("class", "hm-cells");
+
+        // --- Trend line group (drawn on top of cells; dots stay interactive,
+        //     line + label opt out of pointer events to keep cells hoverable) ---
+        var trendG = g.append("g").attr("class", "hm-trend");
+
+        // --- Chart title (top, centered on full svg) ---
+        var chartTitle = svg.append("text")
+            .attr("class", "hm-chart-title")
+            .attr("x", width / 2)
+            .attr("y", 30)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#FFFFFF")
+            .style("font-size", "16px")
+            .style("font-weight", "700")
+            .style("letter-spacing", "0.02em");
+
+        // --- Y axis title (rotated, in left margin) ---
+        var yAxisTitle = g.append("text")
+            .attr("class", "hm-yaxis-title")
+            .attr("transform", "rotate(-90)")
+            .attr("x", -innerH / 2)
+            .attr("y", -85)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "12px")
+            .style("font-weight", "600")
+            .style("letter-spacing", "0.05em");
+
+        // --- X axis title (under year labels) ---
+        g.append("text")
+            .attr("class", "hm-xaxis-title")
+            .attr("x", innerW / 2)
+            .attr("y", innerH + 40)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "12px")
+            .style("font-weight", "600")
+            .style("letter-spacing", "0.05em")
+            .text("Year");
+
+        // --- Color legend (gradient + 0% / max% ticks) ---
+        var defs   = svg.append("defs");
+        var nStops = 11;
+        var gradient = defs.append("linearGradient")
+            .attr("id", "hm-color-grad")
+            .attr("x1", "0%").attr("x2", "100%")
+            .attr("y1", "0%").attr("y2", "0%");
+        for (var s = 0; s < nStops; s++) {
+            gradient.append("stop")
+                .attr("class", "hm-grad-stop")
+                .attr("offset", (s / (nStops - 1) * 100) + "%");
+        }
+
+        var legendW = 200, legendH = 10;
+        var legendX = (innerW - legendW) / 2;
+        var legendY = innerH + 65;
+        var legendG = g.append("g").attr("class", "hm-legend");
+
+        legendG.append("text")
+            .attr("x", legendX + legendW / 2)
+            .attr("y", legendY - 6)
+            .attr("text-anchor", "middle")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "10px")
+            .style("font-weight", "600")
+            .style("letter-spacing", "0.05em")
+            .text("Share of yearly hits");
+
+        legendG.append("rect")
+            .attr("x", legendX).attr("y", legendY)
+            .attr("width", legendW).attr("height", legendH)
+            .attr("fill", "url(#hm-color-grad)")
+            .attr("stroke", "#333")
+            .attr("stroke-width", 0.5)
+            .attr("rx", 1);
+
+        legendG.append("text")
+            .attr("x", legendX)
+            .attr("y", legendY + legendH + 12)
+            .attr("text-anchor", "start")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "10px")
+            .text("0%");
+
+        var legendMaxLabel = legendG.append("text")
+            .attr("class", "hm-legend-max")
+            .attr("x", legendX + legendW)
+            .attr("y", legendY + legendH + 12)
+            .attr("text-anchor", "end")
+            .attr("fill", "#B3B3B3")
+            .style("font-size", "10px");
 
         // --- Slider ---
         var sliderX   = innerW + 32;
@@ -219,9 +334,64 @@
             return idx * stepH;
         }
 
-        // --- Color scale (rebuilt per metric using that metric's max count) ---
+        // --- Color scale (rebuilt per metric using that metric's max % share) ---
         var colorScale = d3.scaleSequential()
             .interpolator(d3.interpolate("#0d1f12", "#1DB954"));
+
+        // --- Weighted median over a binned distribution ---
+        // row[b] = count in bin b; bins[b]/bins[b+1] = numeric bin edges.
+        // Returns { f, value } where f is the position in [0,1] from low edge to
+        // high edge across the full bin range, and value is in raw metric units.
+        // Format an absolute median value with the metric's natural unit.
+        function fmtMedianValue(m, v) {
+            if (m.key === "duration") {
+                var s  = Math.round(v);
+                var mm = Math.floor(s / 60);
+                var ss = s % 60;
+                return mm + ":" + (ss < 10 ? "0" : "") + ss;
+            }
+            if (m.key === "loudness") return v.toFixed(1) + " dB";
+            if (m.key === "bpm")      return Math.round(v) + " BPM";
+            return Math.round(v * 100) + "%";   // 0–1 features
+        }
+
+        // Format a signed delta (curr − baseline) with the metric's unit.
+        function fmtMedianDelta(m, deltaVal) {
+            if (deltaVal === 0) return "no change";
+            var sign = deltaVal > 0 ? "+" : "−";
+            var abs  = Math.abs(deltaVal);
+            if (m.key === "duration") {
+                var s  = Math.round(abs);
+                if (s < 60) return sign + s + "s";
+                var mm = Math.floor(s / 60);
+                var ss = s % 60;
+                return sign + mm + ":" + (ss < 10 ? "0" : "") + ss;
+            }
+            if (m.key === "loudness") return sign + abs.toFixed(1) + " dB";
+            if (m.key === "bpm")      return sign + abs.toFixed(1) + " BPM";
+            return sign + (abs * 100).toFixed(1) + " pp";  // percentage points
+        }
+
+        function computeWeightedMedian(row, bins, nBins) {
+            var total = 0;
+            for (var i = 0; i < nBins; i++) total += (row[i] || 0);
+            if (total === 0) return null;
+            var half = total / 2;
+            var cum  = 0;
+            for (var b = 0; b < nBins; b++) {
+                var ct   = row[b] || 0;
+                var next = cum + ct;
+                if (next >= half && ct > 0) {
+                    var fWithin = (half - cum) / ct;
+                    return {
+                        f:     (b + fWithin) / nBins,
+                        value: bins[b] + fWithin * (bins[b + 1] - bins[b])
+                    };
+                }
+                cum = next;
+            }
+            return null;
+        }
 
         // --- Render ---
         function renderMetric(idx, animate) {
@@ -231,33 +401,57 @@
 
             var bins  = mDat.bins;        // n+1 edge values
             var nBins = bins.length - 1;
-            var cellH = innerH / nBins;
 
-            // Max count across all years for this metric
-            var allCounts = [];
-            years.forEach(function (yr) {
-                var row = mDat.years[String(yr)];
-                if (row) row.forEach(function (c) { allCounts.push(c); });
-            });
-            colorScale.domain([0, d3.max(allCounts) || 1]);
-
-            // Flat cell array
-            var cells = [];
+            // Flat cell array, encoding share-of-yearly-hits (% of total)
+            var cells   = [];
+            var allPcts = [];
             years.forEach(function (yr, col) {
                 var row   = mDat.years[String(yr)] || [];
                 var total = data.totals ? (data.totals[String(yr)] || 0) : 0;
                 for (var b = 0; b < nBins; b++) {
+                    var ct  = row[b] || 0;
+                    var pct = total > 0 ? (ct / total) * 100 : 0;
                     cells.push({
                         year:  yr,
                         col:   col,
                         bin:   b,          // 0 = lowest value bucket
-                        count: row[b] || 0,
+                        count: ct,
                         total: total,
+                        pct:   pct,
                         lo:    bins[b],
                         hi:    bins[b + 1]
                     });
+                    if (ct > 0) allPcts.push(pct);
                 }
             });
+
+            // Color scale on % share, not raw count: years have unequal totals
+            var maxPct = d3.max(allPcts) || 1;
+            colorScale.domain([0, maxPct]);
+
+            // Update legend gradient stops + max-tick label
+            defs.select("#hm-color-grad").selectAll(".hm-grad-stop")
+                .attr("stop-color", function (_, i) {
+                    return colorScale(maxPct * (i / (nStops - 1)));
+                });
+            legendMaxLabel.text(maxPct.toFixed(1) + "%");
+
+            // Update titles
+            chartTitle.text("Distribution of " + m.label + " in Billboard Hot 100 hits, 2016–2025");
+            yAxisTitle.text(m.label + (m.unit ? " (" + m.unit + ")" : ""));
+
+            // Per-metric caption: only shown when a description exists
+            if (captionEl) {
+                if (m.description) {
+                    captionEl.innerHTML =
+                        "<span class='hm-caption-label'>About " + m.label + "</span>" +
+                        m.description;
+                    captionEl.hidden = false;
+                } else {
+                    captionEl.innerHTML = "";
+                    captionEl.hidden = true;
+                }
+            }
 
             // Y scale: bin 0 at BOTTOM (low values at bottom, high at top)
             var yScale = d3.scaleBand()
@@ -304,7 +498,7 @@
                 .attr("height", yScale.bandwidth())
                 .attr("rx", 2)
                 .attr("fill",   function (d) {
-                    return d.count === 0 ? "#111" : colorScale(d.count);
+                    return d.count === 0 ? "#111" : colorScale(d.pct);
                 })
                 .attr("opacity", animate ? 0 : 1)
                 .each(function (d) {
@@ -333,6 +527,125 @@
                     .duration(350)
                     .attr("opacity", 1);
             }
+
+            // --- Median trend line (weighted median over bins, per year) ---
+            trendG.selectAll("*").remove();
+
+            var medianPts = [];
+            years.forEach(function (yr, col) {
+                var row = mDat.years[String(yr)] || [];
+                var med = computeWeightedMedian(row, bins, nBins);
+                if (med != null) {
+                    medianPts.push({
+                        year:  yr,
+                        x:     col * cellW + cellW / 2,
+                        y:     innerH * (1 - med.f),
+                        value: med.value
+                    });
+                }
+            });
+
+            if (medianPts.length >= 2) {
+                var lineGen = d3.line()
+                    .x(function (d) { return d.x; })
+                    .y(function (d) { return d.y; })
+                    .curve(d3.curveMonotoneX);
+
+                var trendPath = trendG.append("path")
+                    .datum(medianPts)
+                    .attr("fill", "none")
+                    .attr("stroke", "#FFFFFF")
+                    .attr("stroke-width", 2)
+                    .attr("stroke-opacity", 0.95)
+                    .attr("stroke-linecap", "round")
+                    .attr("stroke-linejoin", "round")
+                    .style("pointer-events", "none")
+                    .attr("d", lineGen);
+
+                var trendDots = trendG.selectAll(".hm-median-dot")
+                    .data(medianPts)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "hm-median-dot")
+                    .attr("cx", function (d) { return d.x; })
+                    .attr("cy", function (d) { return d.y; })
+                    .attr("r", 3)
+                    .attr("fill", "#FFFFFF")
+                    .attr("stroke", "#121212")
+                    .attr("stroke-width", 1)
+                    .style("pointer-events", "none");
+
+                // "median" label at the right end
+                var lastPt = medianPts[medianPts.length - 1];
+                var trendLabel = trendG.append("text")
+                    .attr("x", lastPt.x + 10)
+                    .attr("y", lastPt.y)
+                    .attr("dominant-baseline", "middle")
+                    .attr("fill", "#FFFFFF")
+                    .style("font-size", "10px")
+                    .style("font-weight", "700")
+                    .style("letter-spacing", "0.05em")
+                    .style("pointer-events", "none")
+                    .text("median");
+
+                // Invisible larger hit-targets so the small dots are easy to hover.
+                var baseline = medianPts[0];
+                var trendDotNodes = trendDots.nodes();
+                trendG.selectAll(".hm-median-hit")
+                    .data(medianPts)
+                    .enter()
+                    .append("circle")
+                    .attr("class", "hm-median-hit")
+                    .attr("cx", function (d) { return d.x; })
+                    .attr("cy", function (d) { return d.y; })
+                    .attr("r", 10)
+                    .attr("fill", "transparent")
+                    .each(function (d, i) {
+                        var hitNode    = this;
+                        var visibleDot = trendDotNodes[i];
+                        var metricMeta = m;
+                        hitNode.addEventListener("mouseover", function (event) {
+                            d3.select(visibleDot).attr("r", 5);
+                            tooltip.html(buildMedianTooltip(metricMeta, d, baseline))
+                                   .classed("visible", true);
+                            positionTooltip(event);
+                        });
+                        hitNode.addEventListener("mousemove", function (event) {
+                            positionTooltip(event);
+                        });
+                        hitNode.addEventListener("mouseout", function () {
+                            d3.select(visibleDot).attr("r", 3);
+                            tooltip.classed("visible", false);
+                        });
+                    });
+
+                if (animate) {
+                    var totalLen = trendPath.node().getTotalLength();
+                    var lineDelay = years.length * 55;
+                    trendPath
+                        .attr("stroke-dasharray", totalLen + " " + totalLen)
+                        .attr("stroke-dashoffset", totalLen)
+                        .transition()
+                          .delay(lineDelay)
+                          .duration(700)
+                          .ease(d3.easeCubicOut)
+                          .attr("stroke-dashoffset", 0);
+
+                    trendDots
+                        .attr("opacity", 0)
+                        .transition()
+                          .delay(function (d, i) { return lineDelay + i * 70; })
+                          .duration(180)
+                          .attr("opacity", 1);
+
+                    trendLabel
+                        .attr("opacity", 0)
+                        .transition()
+                          .delay(lineDelay + 700)
+                          .duration(220)
+                          .attr("opacity", 1);
+                }
+            }
         }
 
         function positionTooltip(event) {
@@ -347,6 +660,23 @@
             tooltip
                 .style("left", px + "px")
                 .style("top",  py + "px");
+        }
+
+        function buildMedianTooltip(m, d, baseline) {
+            var valueStr = fmtMedianValue(m, d.value);
+            var deltaLine = "";
+            if (baseline && baseline.year !== d.year) {
+                var deltaStr = fmtMedianDelta(m, d.value - baseline.value);
+                deltaLine =
+                    "<span class='tt-count'>" +
+                        "<span class='tt-count-pct'>" + deltaStr + "</span>" +
+                        "<span class='tt-count-abs'>vs " + baseline.year + "</span>" +
+                    "</span>";
+            }
+            return "<span class='tt-year'>"   + d.year + "</span>" +
+                   "<span class='tt-metric'>Median " + m.label + "</span>" +
+                   "<span class='tt-range'>"  + valueStr + "</span>" +
+                   deltaLine;
         }
 
         function buildTooltip(m, d) {

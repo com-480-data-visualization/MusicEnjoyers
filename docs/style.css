@@ -88,6 +88,133 @@ body {
 }
 
 
+/* ── Scroll-down arrow ── */
+.scroll-arrow {
+    position: absolute;
+    bottom: 2vh;
+    right: 5vw;
+    width: 16px;
+    height: 16px;
+    border-right: 2px solid var(--spotify-green);
+    border-bottom: 2px solid var(--spotify-green);
+    transform: rotate(45deg);
+    border-radius: 1px;
+    opacity: 0.6;
+    animation: arrow-bounce 1.4s ease-in-out infinite;
+    transition: opacity 0.2s ease;
+}
+
+.scroll-arrow:hover {
+    opacity: 1;
+}
+
+@keyframes arrow-bounce {
+    0%, 100% { transform: rotate(45deg) translateY(0);   opacity: 0.6; }
+    50%       { transform: rotate(45deg) translateY(5px); opacity: 1;   }
+}
+
+/* ── Side navigation dots ── */
+.side-nav {
+    position: fixed;
+    left: 40px;
+    top: 45px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    z-index: 10;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.side-nav.visible {
+    opacity: 1;
+}
+
+.side-nav::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1px;
+    height: 56px;
+    opacity: 0.5;
+    background: repeating-linear-gradient(
+        to bottom,
+        rgba(179, 179, 179, 0.3) 0px,
+        rgba(179, 179, 179, 0.3) 3px,
+        transparent 3px,
+        transparent 7px
+    );
+}
+
+.side-nav-item {
+    position: relative;
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: rgba(179, 179, 179, 0.35);
+    opacity: 0.5;
+    transition: background 0.2s ease, transform 0.25s ease;
+    text-decoration: none;
+}
+
+.side-nav-item + .side-nav-item::before {
+    content: '';
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1px;
+    height: 40px;
+    background: repeating-linear-gradient(
+        to bottom,
+        rgba(179, 179, 179, 0.3) 0px,
+        rgba(179, 179, 179, 0.3) 3px,
+        transparent 3px,
+        transparent 7px
+    );
+}
+
+.side-nav-item::after {
+    content: attr(data-label);
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+}
+
+.side-nav-item:hover {
+    background: rgba(255, 255, 255, 0.85);
+    opacity: 1;
+}
+
+.side-nav-item:hover::after {
+    opacity: 0.65;
+}
+
+.side-nav-item.active {
+    background: var(--spotify-green);
+}
+
+.side-nav-item.active::after {
+    opacity: 1;
+    color: var(--spotify-green);
+}
+
+@media (max-width: 768px) {
+    .side-nav { display: none; }
+}
+
 /* main page */
 .top-nav {
     position: fixed;
@@ -161,6 +288,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .text {
@@ -198,14 +326,58 @@ body {
     justify-content: center;
 }
 
-#dashboard {
-    margin-top: 32px;
-    height: 600px;
-    background: var(--spotify-dark-gray);
-    border-radius: 12px;
-    border: 1px solid var(--spotify-gray);
+/* ── Section 3 dashboard frame ── */
+.dashboard-frame {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 28px;
+    background: var(--spotify-dark-gray);
+    border: 1px solid var(--spotify-gray);
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.dashboard-row-top {
+    display: grid;
+    grid-template-columns: 230px 1fr;
+    gap: 24px;
+    align-items: center;
+}
+
+.dashboard-row-bottom {
+    display: grid;
+    grid-template-columns: 1fr minmax(220px, 300px);
+    gap: 24px;
+    align-items: start;
+    border-top: 1px solid var(--spotify-gray);
+    padding-top: 28px;
+}
+
+/* Let the SVGs shrink inside grid tracks instead of forcing overflow. */
+.dashboard-chart-cell,
+.dashboard-heatmap-cell {
+    min-width: 0;
+}
+
+#dashboard {
+    width: 100%;
+}
+
+#dashboard svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 900px) {
+    .dashboard-row-top,
+    .dashboard-row-bottom {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* --- Duration Section --- */
@@ -268,6 +440,16 @@ body {
 }
 
 
+/* Metric knob — sits in the top-left cell of the dashboard frame. Overflow is
+   kept visible so the tick labels can fan out beyond the knob body. */
+#metric-control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: visible;
+}
+
 .knob-wrap { display:flex; flex-direction:column; align-items:center; gap:10px; padding:1.5rem 0; font-family:'Share Tech Mono',monospace; }
 .knob-panel { background:#1a1a1e; border-radius:50%; width:160px; height:160px; position:relative; box-shadow:0 0 0 6px #111,0 0 0 8px #333,0 0 0 10px #111; cursor:pointer; user-select:none; }
 .knob-body { position:absolute; inset:12px; border-radius:50%; background:#1e1e24; border:1.5px solid #444; transition:transform 0.3s cubic-bezier(0.34,1.56,0.64,1); }
@@ -279,14 +461,6 @@ body {
 .metric-display { font-family:'Share Tech Mono',monospace; font-size:13px; letter-spacing:0.15em; text-transform:uppercase; color:#ff6b35; background:#0d0d10; border:1px solid #333; border-radius:4px; padding:5px 16px; min-width:120px; text-align:center; }
 /* HEATMAP VISUALIZATION  */
 
-
-/* --- Section wrapper --- */
-#heatmap-section {
-    width: 100%;
-    max-width: 920px;
-    margin: 80px auto;
-    padding: 0 20px;
-}
 
 /* --- SVG container --- */
 #heatmap {
@@ -319,6 +493,36 @@ body {
 /* ================================================================
    TOOLTIP
    ================================================================ */
+.hm-caption {
+    margin: 0;
+    padding: 14px 18px;
+    background: var(--spotify-black);
+    border-left: 3px solid var(--spotify-green);
+    border-radius: 4px;
+    color: var(--spotify-light-gray);
+    font-size: 13px;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+}
+
+/* Right-hand explanation column: pin the caption to the top of the heatmap. */
+.dashboard-caption-cell {
+    align-self: stretch;
+}
+.hm-caption strong {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+.hm-caption .hm-caption-label {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--spotify-green);
+    margin-right: 8px;
+}
+
 .heatmap-tooltip {
     position: fixed;
     pointer-events: none;

@@ -1,7 +1,7 @@
 const metrics = ["Duration", "BPM", "Loudness", "Danceability", "Speechiness", "Acousticness", "Energy"];
 const COUNT = metrics.length;
 const MIN_DEG = -145, MAX_DEG = 145;
-let currentIndex = 0, isDragging = false, startY = 0, startIndex = 0;
+let currentIndex = 0, isDragging = false, startY = 0;
 
 const knob = document.getElementById('knob');
 const knobBody = document.getElementById('knobBody');
@@ -57,14 +57,31 @@ function updateKnob(idx) {
 buildTicks();
 updateKnob(0);
 
-knob.addEventListener('mousedown', e => {
-    isDragging = true; startY = e.clientY; startIndex = currentIndex; e.preventDefault();
-});
-document.addEventListener('mousemove', e => {
+// Map the pointer's angle around the knob centre to a metric index. 0° points
+// straight up and clockwise is positive — the same convention as indexToDeg()
+// and the CSS rotation — so rotating right advances through the metrics in order.
+function pointerToIndex(clientX, clientY) {
+    const rect = knob.getBoundingClientRect();
+    const cx = rect.left + rect.width / 2;
+    const cy = rect.top + rect.height / 2;
+    let deg = Math.atan2(clientX - cx, -(clientY - cy)) * 180 / Math.PI;
+    deg = Math.max(MIN_DEG, Math.min(MAX_DEG, deg));
+    const idx = Math.round((deg - MIN_DEG) / (MAX_DEG - MIN_DEG) * (COUNT - 1));
+    return Math.max(0, Math.min(COUNT - 1, idx));
+}
+
+let startX = 0, dragMoved = false;
+
+function beginDrag(x, y) { isDragging = true; dragMoved = false; startX = x; startY = y; }
+function moveDrag(x, y) {
     if (!isDragging) return;
-    const next = Math.max(0, Math.min(COUNT - 1, startIndex + Math.round((startY - e.clientY) / 28)));
+    if (Math.abs(x - startX) > 3 || Math.abs(y - startY) > 3) dragMoved = true;
+    const next = pointerToIndex(x, y);
     if (next !== currentIndex) { currentIndex = next; updateKnob(next); }
-});
+}
+
+knob.addEventListener('mousedown', e => { beginDrag(e.clientX, e.clientY); e.preventDefault(); });
+document.addEventListener('mousemove', e => moveDrag(e.clientX, e.clientY));
 document.addEventListener('mouseup', () => { isDragging = false; });
 
 knob.addEventListener('wheel', e => {
@@ -73,19 +90,38 @@ knob.addEventListener('wheel', e => {
     if (next !== currentIndex) { currentIndex = next; updateKnob(next); }
 }, { passive: false });
 
-knob.addEventListener('click', e => {
-    if (Math.abs(startY - e.clientY) < 4) {
+knob.addEventListener('click', () => {
+    // A tap (no drag) advances one step; a drag already set the value.
+    if (!dragMoved) {
         currentIndex = (currentIndex + 1) % COUNT;
         updateKnob(currentIndex);
     }
 });
 
-let touchStartY = 0, touchStartIdx = 0;
 knob.addEventListener('touchstart', e => {
-    touchStartY = e.touches[0].clientY; touchStartIdx = currentIndex; e.preventDefault();
+    beginDrag(e.touches[0].clientX, e.touches[0].clientY); e.preventDefault();
 }, { passive: false });
 knob.addEventListener('touchmove', e => {
-    const next = Math.max(0, Math.min(COUNT - 1, touchStartIdx + Math.round((touchStartY - e.touches[0].clientY) / 28)));
-    if (next !== currentIndex) { currentIndex = next; updateKnob(next); }
-    e.preventDefault();
+    moveDrag(e.touches[0].clientX, e.touches[0].clientY); e.preventDefault();
 }, { passive: false });
+knob.addEventListener('touchend', () => { isDragging = false; });
+
+// --- Visibility: knob is only shown while the dashboard or heatmap is on screen.
+// Tracks each section's intersection state and toggles .visible accordingly. ---
+const metricControl = document.getElementById('metric-control');
+const knobTargets = ['dashboard-section']
+    .map(id => document.getElementById(id))
+    .filter(Boolean);
+
+if (metricControl && knobTargets.length) {
+    const visibleSections = new Set();
+    const obs = new IntersectionObserver(entries => {
+        for (const entry of entries) {
+            if (entry.isIntersecting) visibleSections.add(entry.target);
+            else                      visibleSections.delete(entry.target);
+        }
+        metricControl.classList.toggle('visible', visibleSections.size > 0);
+        metricControl.setAttribute('aria-hidden', visibleSections.size === 0);
+    }, { threshold: 0.15 });
+    knobTargets.forEach(t => obs.observe(t));
+}

@@ -1,0 +1,177 @@
+{
+  "genres": [
+    "country",
+    "christmas",
+    "adult standards",
+    "rap",
+    "rockabilly",
+    "r&b",
+    "doo-wop",
+    "hip hop",
+    "melodic rap"
+  ],
+  "data": {
+    "country": {
+      "2016": {
+        "energy": 0.6794,
+        "danceability": 0.5709,
+        "acousticness": 0.2608,
+        "valence": 0.5518,
+        "speechiness": 0.0384,
+        "tempo_norm": 0.4544
+      },
+      "2025": {
+        "energy": 0.6051,
+        "danceability": 0.5565,
+        "acousticness": 0.2933,
+        "valence": 0.4656,
+        "speechiness": 0.0397,
+        "tempo_norm": 0.5021
+      }
+    },
+    "christmas": {
+      "2016": {
+        "energy": 0.376,
+        "danceability": 0.386,
+        "acousticness": 0.6687,
+        "valence": 0.3673,
+        "speechiness": 0.0331,
+        "tempo_norm": 0.5628
+      },
+      "2025": {
+        "energy": 0.3547,
+        "danceability": 0.4943,
+        "acousticness": 0.724,
+        "valence": 0.5859,
+        "speechiness": 0.0365,
+        "tempo_norm": 0.3904
+      }
+    },
+    "adult standards": {
+      "2016": {
+        "energy": 0.2828,
+        "danceability": 0.4855,
+        "acousticness": 0.8023,
+        "valence": 0.507,
+        "speechiness": 0.0341,
+        "tempo_norm": 0.2069
+      },
+      "2025": {
+        "energy": 0.2562,
+        "danceability": 0.5122,
+        "acousticness": 0.7265,
+        "valence": 0.4622,
+        "speechiness": 0.0323,
+        "tempo_norm": 0.2789
+      }
+    },
+    "rap": {
+      "2016": {
+        "energy": 0.6846,
+        "danceability": 0.5484,
+        "acousticness": 0.2369,
+        "valence": 0.4876,
+        "speechiness": 0.2229,
+        "tempo_norm": 0.3418
+      },
+      "2025": {
+        "energy": 0.6883,
+        "danceability": 0.5407,
+        "acousticness": 0.2707,
+        "valence": 0.4413,
+        "speechiness": 0.3029,
+        "tempo_norm": 0.4702
+      }
+    },
+    "rockabilly": {
+      "2016": {
+        "energy": 0.5277,
+        "danceability": 0.46,
+        "acousticness": 0.859,
+        "valence": 0.5763,
+        "speechiness": 0.0748,
+        "tempo_norm": 0.4759
+      },
+      "2025": {
+        "energy": 0.4853,
+        "danceability": 0.5984,
+        "acousticness": 0.7052,
+        "valence": 0.617,
+        "speechiness": 0.0437,
+        "tempo_norm": 0.3693
+      }
+    },
+    "r&b": {
+      "2016": {
+        "energy": 0.521,
+        "danceability": 0.6807,
+        "acousticness": 0.061,
+        "valence": 0.699,
+        "speechiness": 0.0577,
+        "tempo_norm": 0.4203
+      },
+      "2025": {
+        "energy": 0.512,
+        "danceability": 0.6367,
+        "acousticness": 0.3028,
+        "valence": 0.4765,
+        "speechiness": 0.0804,
+        "tempo_norm": 0.399
+      }
+    },
+    "doo-wop": {
+      "2016": {
+        "energy": 0.3017,
+        "danceability": 0.6277,
+        "acousticness": 0.581,
+        "valence": 0.577,
+        "speechiness": 0.036,
+        "tempo_norm": 0.3591
+      },
+      "2025": {
+        "energy": 0.168,
+        "danceability": 0.583,
+        "acousticness": 0.869,
+        "valence": 0.349,
+        "speechiness": 0.035,
+        "tempo_norm": 0.2567
+      }
+    },
+    "hip hop": {
+      "2016": {
+        "energy": 0.634,
+        "danceability": 0.76,
+        "acousticness": 0.0052,
+        "valence": 0.64,
+        "speechiness": 0.2295,
+        "tempo_norm": 0.2089
+      },
+      "2025": {
+        "energy": 0.445,
+        "danceability": 0.693,
+        "acousticness": 0.0063,
+        "valence": 0.199,
+        "speechiness": 0.257,
+        "tempo_norm": 0.0959
+      }
+    },
+    "melodic rap": {
+      "2016": {
+        "energy": 0.646,
+        "danceability": 0.758,
+        "acousticness": 0.128,
+        "valence": 0.589,
+        "speechiness": 0.112,
+        "tempo_norm": 0.6558
+      },
+      "2025": {
+        "energy": 0.412,
+        "danceability": 0.77,
+        "acousticness": 0.0072,
+        "valence": 0.486,
+        "speechiness": 0.189,
+        "tempo_norm": 0.1196
+      }
+    }
+  }
+}
