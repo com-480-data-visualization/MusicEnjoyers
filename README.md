@@ -1,5 +1,45 @@
+## Authors
+
+| Name | SCIPER |
+| ---- | ------ |
+| Hsieh Wei-En | 341271 |
+| Li An-Jie | 424517 |
+| Rohner Kenji | 425036 |
+
+## Milestones
+
+All deliverables (PDFs) are in:
+
+- **Milestone 1**: Proposal & EDA: [Milestone 1.pdf](./Milestone%201.pdf)
+- **Milestone 2**: Functional prototype: [Milestone2_MusicEnjoyers.pdf](./Milestone2_MusicEnjoyers.pdf)
+- **Milestone 3**: Final project: [Milestone3_Processbook.pdf](./Milestone3_Processbook.pdf)
+
+
+## Screencast
+
+A screencast of the project is included in the repository: [Screencast.mp4](./Screencast.mp4).
+
 
 # Technical Overview
+
+## Folder Structure
+
+```
+├── basic_statistics.ipynb        Exploratory data analysis (Milestone 1)
+├── Scrapper/                     Data collection
+│   ├── scrapper.py               Matches Billboard songs to Spotify track data (fuzzy matching)
+│   ├── source_files/             Billboard Hot 100 source data
+│   └── results/                  Matched / unmatched track ids
+├── scripts/                      Build JSON stats served to the website
+├── scripts_billboard_related/    Billboard enrichment helpers
+├── docs/                         The website (served via GitHub Pages)
+│   ├── index.html                Page skeleton
+│   ├── *.css                     Styles
+│   ├── scripts/                  Visualization JS (such as D3)
+│   └── data/                     Pre-computed JSON consumed by the visualizations
+└── Milestones1_README.md         Detailed milestone write-ups & deliverables
+```
+
 
 ## Hosting the Website Locally
 
@@ -21,7 +61,6 @@ Press `Ctrl + C` to stop the server. If port 8000 is stuck in use:
 lsof -i :8000
 kill <PID>
 ```
-
 
 # Workflow
 
@@ -47,46 +86,6 @@ In order to serve this data to a website, we extracted the information we want t
 
 ### Create the Website
 
-
 All files used by our website are in ./docs. It follows a simple layout, where the html and css file are in the first level and all our JS-scripts are in ./docs/scripts and the data used by those scripts are in ./docs/data.
 
 The java script in particular:
-
-## Folder Structure
-
-```
-├── basic_statistics.ipynb        Exploratory data analysis (Milestone 1)
-├── Scrapper/                     Data collection
-│   ├── scrapper.py               Matches Billboard songs to Spotify track data (fuzzy matching)
-│   ├── source_files/             Billboard Hot 100 source data
-│   └── results/                  Matched / unmatched track ids
-├── scripts/                      Build JSON stats served to the website
-├── scripts_billboard_related/    Billboard enrichment helpers
-├── docs/                         The website (served via GitHub Pages)
-│   ├── index.html                Page skeleton
-│   ├── *.css                     Styles
-│   ├── scripts/                  Visualization JS (such as D3)
-│   └── data/                     Pre-computed JSON consumed by the visualizations
-└── Milestones_README.md          Detailed milestone write-ups & deliverables
-```
-
-## Milestones
-
-All deliverables (PDFs) are in:
-
-- **Milestone 1**: Proposal & EDA: [Milestone 1.pdf](./Milestone%201.pdf)
-- **Milestone 2**: Functional prototype: [Milestone2_MusicEnjoyers.pdf](./Milestone2_MusicEnjoyers.pdf)
-- **Milestone 3**: Final project: [Milestone 3.pdf](./Milestone%203.pdf)
-
-
-## Screencast
-
-A screencast of the project is included in the repository: [datavis_cut.mp4](./datavis_cut.mp4).
-
-## Authors
-
-| Name | SCIPER |
-| ---- | ------ |
-| Hsieh Wei-En | 341271 |
-| Li An-Jie | 424517 |
-| Rohner Kenji | 425036 |
